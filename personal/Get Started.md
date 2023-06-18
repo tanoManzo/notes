@@ -1,1 +1,1 @@
-This is my first notes.
+This is my first notes. Let's go!

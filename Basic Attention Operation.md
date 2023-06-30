@@ -31,3 +31,6 @@ The weights tell you the importance of each input word with respect to the decod
 $$
 \large c_i = \sum_{j=1}^K\alpha_{ij} h_{j}
 $$
+
+#research #attention
+#nlp 

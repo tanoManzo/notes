@@ -8,3 +8,9 @@ Social, economic, and physical environment factors contribute the most to health
 ![[Pasted image 20230630132334.png]]
 
 Attempts to improve standardization at the national level have been made by the Protocol for Responding to and Assessing Patients’ Assets, Risks, and Experiences (PRAPARE) (https://www.cdc.gov/media/releases/2014/ p0501-preventable-deaths.html) and the National Academy of Medicine (https://nam.edu/social-determinants-of-health-101-for-healthcare-five-plus-five/).
+
+#research
+#nlp
+#sdoh
+#paper
+#nih

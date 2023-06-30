@@ -20,6 +20,11 @@ SDoH categories that were not evaluated in the County Health Rankings (such as r
 
 ## Supervised methods
 Furthermore, we observed 7 studies that investigated deep learning algorithms for SDoH extraction Convolutional neural network (CNN) and feedforward neural network (FNN) performed poorly compared to traditional ML algorithms, such asSVM, random forests, Classification and Regression Tree (CaRT), and AdaBoost due to scarcity of annotated data for identifying SDoH such as alcohol abuse, substance abuse, homelessness, and sexual orientation.33 In more recent work, Lybarger et al42 used Bidirectional Encoder Representations from Transformers (BERT) for embedding, Bidirectional Long Short-Term Memory (BiLSTM) for trigger and label identification, and Conditional Random Field (CRF) for SDoH span identification.
+
+![[Pasted image 20230630174751.png]]
+
+
+
 #research
 #nlp
 #sdoh

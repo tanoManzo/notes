@@ -2,5 +2,6 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "font"
-  ]
+  ],
+  "baseFontSize": 18
 }

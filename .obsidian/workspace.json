@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35f26b527798f2a7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "1e6bc7ada6e4a1af",
             "type": "leaf",
             "state": {
@@ -36,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,9 +157,10 @@
   },
   "active": "d99feac4ed857644",
   "lastOpenFiles": [
-    "papers/sdoh",
-    "Basic Attention Operation.md",
     "papers/sdoh/Extracting SDoH from EHR using NLP.md",
+    "Basic Attention Operation.md",
+    "Pasted image 20230630170602.png",
+    "papers/sdoh",
     "README.md",
     "images/Pasted image 20230630132334.png",
     "papers",

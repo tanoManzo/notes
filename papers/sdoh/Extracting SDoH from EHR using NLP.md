@@ -12,6 +12,12 @@ Attempts to improve standardization at the national level have been made by the 
 A final total of 82 publications were included in this study at the end of the full text review process. We also searched references of all82 articles, and most of these publications overlap with our search results. The included articles were published between 2005 and 2021
 
 SDoH categories that were not evaluated in the County Health Rankings (such as race, ethnicity, mental health conditions, or stress) were not included in our study.
+
+## SDoH Categories
+
+![[Pasted image 20230630170602.png]]
+
+
 #research
 #nlp
 #sdoh

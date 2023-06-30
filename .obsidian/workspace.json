@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDoH.md",
+                "file": "Extracting SDoH from EHR using NLP.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "70a4a99d404345ae",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDoH.md",
+                "file": "Extracting SDoH from EHR using NLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SDoH.md",
+                "file": "Extracting SDoH from EHR using NLP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDoH.md"
+                "file": "Extracting SDoH from EHR using NLP.md"
               }
             }
           }
@@ -182,7 +183,7 @@
   "active": "d99feac4ed857644",
   "lastOpenFiles": [
     "Untitled.md",
-    "SDoH.md",
+    "Extracting SDoH from EHR using NLP.md",
     "Basic Attention Operation.md",
     "images",
     "images/Pasted image 20230629135404.png"

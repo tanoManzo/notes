@@ -1,0 +1,2 @@
+Social determinants of health (SDoH) are circumstances in which people are born, live, learn, work, and age and are closely tied to individuals’ health behaviors, lifestyle, and interpersonal relations. The upstream distribution of wealth, power, and resources at local, national, and global levels can trickle down to impact individual health outcomes and potentially lead to health disparities (https:// www.who.int/gender-equity-rights/understanding/sdh-definition/en/ ).
+

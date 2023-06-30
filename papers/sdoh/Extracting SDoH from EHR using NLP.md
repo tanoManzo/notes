@@ -27,6 +27,15 @@ Furthermore, we observed 7 studies that investigated deep learning algorithms f
 ![[Pasted image 20230630175702.png]]
 
 ## Future work
+Several studies were performed on identifying smoking, substance abuse, housing, and alcohol status in the EHR systems using NLP techniques. In the future, the NLP research community might focus on lessstudied SDoH such as child and sexual abuse, financial issues, transportation, neighborhood, social isolation, family problems, employment, education, food insecurity, and healthcare access. Another interesting study would be to compare different aspects of NLP algorithms, such as system performance, amount of annotated data, type of NLP systems, and so forth with the difficulty of SDoH extraction. 
+
+Analyzing longitudinal aspects of the data may be helpful for developing outcome-based systems. Bejan et al. analyzed longitudinal data on homelessness and found that homelessness status changes with time. Temporal information (temporal information (current and past, amount/quantity/frequency, and type) extraction systems were developed for alcohol abuse, smoking status, and substance use/abuse. However, temporal extraction was rare in homelessness (temporal)16 and employment (status, duration, history, and type).
+
+Fewer experiments have identified the span of SDoH keywords in clinical texts. Furthermore, relation extraction/identifying relationships between medical concepts are semantic tasks that have been popular among the NLP community. Thus, developing comprehensive systems for 1) capturing longitudinal information; 2) extracting temporal information; 3) extracting [[SDoH]] concepts; and 4) extracting relations among SDoH concepts will be valuable future goals in this area of interest.
+
+Surprisingly, DL algorithms were rare for identifying SDoH. This may be attributed to insufficient amounts of annotated data whereas DL models necessitate large volumes of annotated data. More experiments implementing DL algorithms for SDoH identification and relation extraction can be performed in future. 
+
+Finally, NLP algorithms developed for SDoH extraction heavily rely on structural and linguistic information available in the data. Significant progress has been made in terms of enhancing portability of NLP systems across clinical specialties. In the future, developing a cross-site NLP algorithm will be helpful to delineate individual noting styles of providers and to generalize NLP systems for SDoH.
 
 
 #research

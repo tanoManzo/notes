@@ -23,6 +23,10 @@ Furthermore, we observed 7 studies that investigated deep learning algorithms f
 
 ![[Pasted image 20230630174751.png]]
 
+## SDoH outcome analysis
+![[Pasted image 20230630175702.png]]
+
+## Future work
 
 
 #research

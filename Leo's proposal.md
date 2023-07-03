@@ -111,14 +111,32 @@ The successful completion of this project will represent a significant step forw
 
 Deliverables
 1. A fine-tuned BLOOM model that other researchers can reuse to extract information from MIMIC clinical notes.
+2. Patient-level SDoH from the clinical notes.Comprehensive report detailing our findings, methodologies, and potential applications.
+3. Peer-reviewed publications and conference presentations to disseminate our findings to the broader scientific and healthcare community.
+4. International Datathons to fine tune further models pre-trained on MIMIC notes on unstructured data from other health datasets.
 
-2.    Patient-level SDoH from the clinical notes.
+**Aim 3: Build a framework for mapping care disparities in health data using knowledge graphs and network analysis.**
 
-3.    A comprehensive report detailing our findings, methodologies, and potential applications.
+The proxies of care disparity will serve as nodes and the “edges” between the “nodes” will indicate the homophily (relative to SDoH and traditional labels) in terms of affected patients by the disparity that the node represents.
+![[Pasted image 20230703155230.png]]
 
-4.    Peer-reviewed publications and conference presentations to disseminate our findings to the broader scientific and healthcare community.
+**Aim 3a. Build a knowledge graph of disparity proxies (nodes, e.g., SaO2-SpO2 gap) that are linked by the traditional labels and SDoH to systematically map disparities across MIMIC-IV.**
 
-5.    International Datathons to fine tune further models pre-trained on MIMIC notes on unstructured data from other health datasets.
+![[Pasted image 20230703155416.png]]
+
+Design and build a weighted multigraph of clinical disparities (Fig. 8). The **nodes** will be the previously identified disparity proxies, e.g.  degree of hidden hypoxemia or differences in the “volume” of ICU care, and new ones, detected in Aim 1. **Edges** will represent disparities that simultaneously affect the same patients (above a threshold of recurrence, to be learnt from the data). Different **Edge Types** will reflect different subgroups of patients in terms of traditional demographic labels and SDoH (e.g., for the same pair of nodes: one edge will tell how many Black patients share that disparity; another edge will tell how many Medicare patients share the disparity; etc.). **Weights** will be calibrated to represent the percentage of patients that share the disparity above different quartiles that will represent the impact of the disparity. The creation of such a tool will be incremental and we plan to add to it as new disparities are found.
+
+**Aim 3b. Conduct network analysis studies to find clusters of related disparity proxies, understand underlying drivers, and assess the impact of individual proxies in the whole network and through time.**
+
+1. Perform network analysis to identify clusters of related disparity proxies and quantify propensity to clustering.
+
+2. Analyze disparity proxy clusters for underlying sources and drivers of health data bias.
+
+3. Conduct centrality analysis.
+
+4. Assess the impact of individual proxies on the whole network over time.
+
+
 
 
 #research

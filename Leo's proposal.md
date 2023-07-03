@@ -32,6 +32,17 @@ The proposed research is innovative for the following reasons:
 2. Use of LLMs, with assistance from leaders in the field, to extract patient-level SDoH.
 3. Development of a network analysis framework for mapping disparities in clinical care with SDoH to understand the complex interplay of sources and drivers of health data bias.
 4. Engagement of community stakeholders and multidisciplinary teams through international Datathons to assist communities in applying these frameworks and tools to understand biases in their local health datasets.
+
+**Aim 1:** **Utilize causal inference to identify disparity proxies within the ICU across traditional demographic labels (e.g., sex, race/ethnicity) as well as those not explained by such labels.**
+
+Explore hidden sources and drivers of bias by identifying disparity proxies using causal inference (Fig 4).
+
+![[Pasted image 20230703152749.png]]
+
+We will look at common ICU interventions and investigate the ways care is not uniform across patient subgroups and that cannot be explained by clinical reasoning (Table 1).
+
+![[Pasted image 20230703152859.png]]
+
 #research
 #nlp
 #sdoh

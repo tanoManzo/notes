@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b4eeed3d3771ac48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leo's proposal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sprint 1.md",
+                "file": "Leo's proposal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sprint 1.md",
+                "file": "Leo's proposal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sprint 1.md"
+                "file": "Leo's proposal.md"
               }
             }
           }
@@ -169,14 +181,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c90c2c49a0b817ba",
+  "active": "b4eeed3d3771ac48",
   "lastOpenFiles": [
     "papers/sdoh/Extracting SDoH from EHR using NLP.md",
+    "knowledge/SDoH.md",
+    "Leo's proposal.md",
     "Sprint 1.md",
     "Basic Attention Operation.md",
     "images/Pasted image 20230630175702.png",
     "knowledge",
-    "knowledge/SDoH.md",
     "images/Pasted image 20230630174751.png",
     "images/Pasted image 20230630170602.png",
     "papers/sdoh",

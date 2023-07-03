@@ -11,6 +11,27 @@ The groups affected by specific health disparities often lie at the intersection
 
 Community-level SDoH measures broad socioeconomic, neighborhood, and environmental characteristics such as unemployment rate, access to public transportation, and air pollution levels. They serve as “vital community signs'' that reflect complex societal factors and health disparities that influence one’s health. On the other hand, less is known about individual-level SDoH as access has been limited due to the lack of standardized and validated SDoH screening questions and privacy concerns.
 
+In preliminary work, we have found use of these community-level SDoH significantly reduced confounding over traditional demographic labels for prediction of clinical outcomes after discharge from the ICU.
+
+
+**Large Language Models (LLM) can be used to extract patient-level features from clinical notes**
+
+Clinical notes written by healthcare providers are a rich source of detailed information about the patient’s clinical condition as well as clinical reasoning behind test and treatment choices, and context about their **living situation**. This information can provide insight into potential disparities in the care provided to individual patients and potential biases influencing these decisions.
+
+**_Knowledge graphs can define complex interactions between the drivers of health disparities_**
+
+Features associated with a given care disparity can be mapped against other disparities and SDoH to characterize sources and drivers of health inequity (Fig 3).
+
+Identifying which groups of patients are affected by which disparity proxies, and categorizing these patients according to traditional demographic labels, community-level and individual-level SDoH will provide a more complete picture of the biases that exist in health data.
+
+![[Pasted image 20230703151510.png]]
+
+The proposed research is innovative for the following reasons:
+
+1. A methodology to identify care disparities using a causal inference framework on a large EHR dataset and transform them into disparity proxies for mapping to SDoH.
+2. Use of LLMs, with assistance from leaders in the field, to extract patient-level SDoH.
+3. Development of a network analysis framework for mapping disparities in clinical care with SDoH to understand the complex interplay of sources and drivers of health data bias.
+4. Engagement of community stakeholders and multidisciplinary teams through international Datathons to assist communities in applying these frameworks and tools to understand biases in their local health datasets.
 #research
 #nlp
 #sdoh

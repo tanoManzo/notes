@@ -69,6 +69,57 @@ Clinical notes in EHRs are a rich source of patient care information including d
 
 ![[Pasted image 20230703153744.png]]
 
+The overall objective of Aim 2 is to utilize LLM to extract patient-level SDoH from clinical notes in the MIMIC database. By leveraging natural language processing (NLP) techniques, integrating diverse data sources, and debiasing LLMs, healthcare systems can improve their ability to tailor interventions, understand individual patient needs, and extract accurate and contextually appropriate recommendations and insights.
+
+**Aim 2a. Leverage an open multilingual LLM (BLOOM) to extract patient-level SDoH features from clinical notes.** 
+
+2a (ii) Train a tailored BLOOM model to extract information from clinical notes in the MIMIC database.
+
+As a first step, Named Entity Recognition (NER) models can be trained to identify and categorize SDoH factors within medical reports, discharge summaries, and nursing notes. By learning patterns and features from annotated data, NER models can accurately recognize SDoH factors within the text, enabling the analysis of large volumes of clinical data and enhancing understanding of the impact of social determinants on patient health outcomes. Advanced techniques such as word embeddings or contextualized word representations —BERT (Bidirectional Encoder Representations from Transformers) or GPT (Generative Pre-trained Transformer) — can be employed to enhance the semantic understanding of the text, resulting in improved accuracy when identifying SDoH factors.70,71 Finally, medical ontologies such as SNOMED CT, UMLS, or disease-specific ontologies can be linked to corresponding SDoH factors. These techniques enable the models to grasp the nuanced relationships and context-specific implications of SDoH factors within the clinical notes.
+
+2a (iii) Debias pretrained Large Language Models
+
+A comprehensive bias detection analysis will be performed to identify and comprehend the biases associated with traditional patient demographic features. This analysis seeks to gain insights into the underlying biases present in the LLMs' responses and outputs. To mitigate these biases, a range of techniques will be applied:
+
+1. Fine-tune the LLMs using additional training data explicitly addressing bias.
+
+2. Modify the loss functions to penalize biased behavior within the LLMs.
+
+3. Integrate SDoH features into the pre-trained LLMs. This integration allows the models to consider the broader context of SDoH during inference and guide the model's attention, ensuring that the LLMs attend to relevant contextual information related to SDoH.
+
+**Aim 2b. Investigate the task-dependent value of SDoH indicators in clinical prediction and optimization models.**
+
+1. Compare extracted features from the clinical notes using LLM with patient outcomes:
+   
+   Comparisons of patient severity and clinical severity scores and associations between patient clinical features, or phenotype, and SDoH will be made.
+
+2. Analyze patient-level SDoH data at the population level:
+
+	Analyzing patient-level SDoH factors extracted from the clinical notes against health outcomes, can identify population-level impact. One example of this is “What is the effect of being a caretaker for an ill family member on the presentation of chronic kidney disease in the ICU?” Data mining techniques, such as clustering, classification, and regression, can be applied to patient-level SDoH from the clinical notes to identify population segments based on shared SDoH characteristics. Classification predicts health outcomes based on SDoH factors, while regression models quantify the relationship between SDoH factors and health outcomes. These techniques enable targeted interventions and evidence-based decision-making in addressing health disparities associated with social and environmental factors. 
+
+3. Evaluate extracted patient-level SDoH against care variation that is not explained by clinical features:
+
+	Topic to vector or Topic2vec analysis will be conducted on extracted features alongside sentiment analysis as we have done previously with nursing notes in the neonatal intensive care unit described above. Topic2vec leverages an embedding methodology to learn topic representations in the same semantic vector space with words within the clinical notes. The resultant embedding will be explored for relationship with community-level SDoH, disparity proxies and clinical outcomes.
+
+**Evaluation Plan**
+
+Outcomes
+
+Our evaluation plan will entail a thorough evaluation of all interventions using the existing "Fair Use" audit framework. This framework provides a systematic approach to assessing the utility and fairness of AI models. Our specific goal is to determine which interventions, denoted as "y," gain from the inclusion of demographic data, denoted as "x," as model inputs. As highlighted in our paper 19, the inclusion of such data does not guarantee model performance of clinical algorithms. Therefore, understanding which risk scores are advantaged by specific variables is crucial to enhance the fairness and effectiveness of our models.
+
+The successful completion of this project will represent a significant step forward in using LLMs in healthcare and their application in improving patient outcomes through extracting SDoH from clinical notes. It will open new avenues for precision healthcare, enabling clinicians to tailor care based on individual patients' circumstances and needs. Furthermore, the availability of our models for reuse by other researchers will help promote further research in the field.
+
+Deliverables
+1. A fine-tuned BLOOM model that other researchers can reuse to extract information from MIMIC clinical notes.
+
+2.    Patient-level SDoH from the clinical notes.
+
+3.    A comprehensive report detailing our findings, methodologies, and potential applications.
+
+4.    Peer-reviewed publications and conference presentations to disseminate our findings to the broader scientific and healthcare community.
+
+5.    International Datathons to fine tune further models pre-trained on MIMIC notes on unstructured data from other health datasets.
+
 
 #research
 #nlp

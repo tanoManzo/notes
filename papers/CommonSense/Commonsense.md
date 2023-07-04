@@ -3,23 +3,27 @@
 
 
 by Wangchunshu Zhou, Ronan Le Bras, and Yejin Choi
-<!-- element style="font-size: 22px"-->
+<!-- element style="font-size: 24px"-->
 
 ---
+
+LLMs do not possess deep semantic understanding or world knowledge like humans do
+
+(Bender and Koller, 2020)
+<!-- element style="font-size: 24px"-->
 
 ---
 ##### Two distinct lines of research
-1. Incorporate external commonsense knowledge graph for commonsense reasoning[^1] 
-3. Inject commonsense knowledge into the parameters of pretrained models[^2] 
-[^1]: (Lin et al., 2019; Liu et al., 2021; Cui and Chen, 2021)
-[^2]: (Li et al., 2019; Zhou et al., 2021; Klein and Nabi, 2021)
----
-Two distinct lines of research focus on improving commonsense reasoning ability of pre-trained language models.
+<!-- element style="font-size: 20px"-->
+- Incorporate external commonsense knowledge graph for commonsense reasoning[^1] 
+-  Inject commonsense knowledge into the parameters of pretrained models[^2] 
 
-1. Incorporate external commonsense knowledge graph for commonsense reasoning (Lin et al., 2019; Liu et al., 2021; Cui and Chen, 2021). 
-2. **Inject commonsense knowledge into the parameters of pretrained models (Li et al., 2019; Zhou et al., 2021; Klein and Nabi, 2021).**
 
-%% comment %%
+(Lin et al., 2019; Liu et al., 2021; Cui and Chen, 2021)
+<!-- element style="font-size: 20px"-->
+[2]: (Li et al., 2019; Zhou et al., 2021; Klein and Nabi, 2021)
+<!-- element style="font-size: 20px"-->
+
 ---
 #### First Slide
 

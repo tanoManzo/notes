@@ -26,12 +26,9 @@ LLMs do not possess deep semantic understanding or world knowledge like humans d
 <!-- element style="font-size: 24px"-->
 
 ---
-
-
----
-#### First Slide
+#### Commonsense Knowledge Transfer Framework 
 
 ![[Pasted image 20230627162059.png]]
 ---
-Second
+##### propose two commonsense-related self-supervised objectives: *commonsense text infilling and commonsense relation prediction.* 
 ---

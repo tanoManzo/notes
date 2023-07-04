@@ -32,3 +32,12 @@ LLMs do not possess deep semantic understanding or world knowledge like humans d
 ---
 ##### propose two commonsense-related self-supervised objectives: *commonsense text infilling and commonsense relation prediction.* 
 ---
+#### **Commonsense text infilling** is a simple extension to the conventional text infilling objective used for pre-training BART and T5
+
+![[Pasted image 20230627175231.png]]
+
+---
+- randomly selecting one masking scheme  
+- train the model to predict the masked spans autoregressively. 
+
+The diverse masking enables the model to align the surface form of human language and the underlying commonsense knowledge. 

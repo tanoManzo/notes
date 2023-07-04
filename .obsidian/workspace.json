@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "73534d89020f9bae",
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
+                "file": "papers/CommonSense/Commonsense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
+                "file": "papers/CommonSense/Commonsense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md"
+                "file": "papers/CommonSense/Commonsense.md"
               }
             }
           }
@@ -175,10 +174,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e6648506f70fd824",
+  "active": "d99feac4ed857644",
   "lastOpenFiles": [
-    "papers/CommonSense/Commonsense.md",
     "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
+    "papers/CommonSense/Commonsense.md",
     "Basic Attention Operation.md",
     "Pasted image 20230704165532.png",
     "images/Pasted image 20230630175702.png",

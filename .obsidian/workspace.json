@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/CommonSense/Commonsense.md",
+                "file": "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "papers/CommonSense/Commonsense.md",
+                "file": "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "papers/CommonSense/Commonsense.md"
+                "file": "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md"
               }
             }
           }
@@ -213,10 +213,10 @@
       }
     ]
   },
-  "active": "d99feac4ed857644",
+  "active": "cf6e4ccb0370425d",
   "lastOpenFiles": [
-    "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
     "papers/CommonSense/Commonsense.md",
+    "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
     "images/Pasted image 20230627181251.png",
     "images/Pasted image 20230627180223.png",
     "images/Pasted image 20230627180026.png",

@@ -1,13 +1,11 @@
-
---- 
+---
 ### Commonsense Knowledge Transfer for Pre-trained Language Models
 
+
 by Wangchunshu Zhou, Ronan Le Bras, and Yejin Choi
+<!-- element style="font-size: 22px"-->
 
 ---
-LLMs do not possess deep semantic understanding or world knowledge like humans do
-
-(Bender and Koller, 2020)
 
 ---
 ##### Two distinct lines of research

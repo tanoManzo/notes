@@ -1,3 +1,5 @@
+
+--- 
 ### Commonsense Knowledge Transfer for Pre-trained Language Models
 
 by Wangchunshu Zhou, Ronan Le Bras, and Yejin Choi
@@ -9,9 +11,11 @@ LLMs do not possess deep semantic understanding or world knowledge like humans d
 
 ---
 ##### Two distinct lines of research
-1. Incorporate external commonsense knowledge graph for commonsense reasoning[^1] (Lin et al., 2019; Liu et al., 2021; Cui and Chen, 2021). 
-2. **Inject commonsense knowledge into the parameters of pretrained models (Li et al., 2019; Zhou et al., 2021; Klein and Nabi, 2021).**
-___
+1. Incorporate external commonsense knowledge graph for commonsense reasoning[^1] 
+3. Inject commonsense knowledge into the parameters of pretrained models[^2] 
+[^1]: (Lin et al., 2019; Liu et al., 2021; Cui and Chen, 2021)
+[^2]: (Li et al., 2019; Zhou et al., 2021; Klein and Nabi, 2021)
+---
 Two distinct lines of research focus on improving commonsense reasoning ability of pre-trained language models.
 
 1. Incorporate external commonsense knowledge graph for commonsense reasoning (Lin et al., 2019; Liu et al., 2021; Cui and Chen, 2021). 

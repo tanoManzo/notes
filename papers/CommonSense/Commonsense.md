@@ -30,9 +30,12 @@ LLMs do not possess deep semantic understanding or world knowledge like humans d
 
 ![[Pasted image 20230704165532.png]]
 
-(Sap et al., 2020, A)
+(Sap et al., 2020, ATOMIC)
+<!-- element style="font-size: 24px"-->
+
 ---
-#### commonsense knowledge Reasoning
+
+
 ---
 #### First Slide
 

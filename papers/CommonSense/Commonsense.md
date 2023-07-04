@@ -1,4 +1,4 @@
----
+
 ### Commonsense Knowledge Transfer for Pre-trained Language Models
 
 
@@ -14,8 +14,9 @@ LLMs do not possess deep semantic understanding or world knowledge like humans d
 
 ---
 ##### Two distinct lines of research
+
 <!-- element style="font-size: 24px"-->
-- Incorporate external commonsense knowledge graph for commonsense reasoning[^1] 
+- Incorporate external commonsense knowledge graph for commonsense reasoning[^1]
 -  Inject commonsense knowledge into the parameters of pretrained models[^2] 
 
 

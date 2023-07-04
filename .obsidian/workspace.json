@@ -33,12 +33,30 @@
             "id": "3c2a650ac19dae34",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "papers/CommonSense/Commonsense.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "2a7b98ff6f53c548",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02c537afc9b0d945",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "papers/CommonSense/Commonsense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "papers/CommonSense/Commonsense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "papers/CommonSense/Commonsense.md"
+              }
             }
           }
         ]
@@ -158,13 +180,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
   "active": "3c2a650ac19dae34",
   "lastOpenFiles": [
-    "papers/CommonSense/Commonsense.md",
     "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
+    "papers/CommonSense/Commonsense.md",
     "conflict-files-obsidian-git.md",
     "Basic Attention Operation.md",
     "images/Pasted image 20230703155416.png",

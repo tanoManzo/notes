@@ -37,7 +37,13 @@ LLMs do not possess deep semantic understanding or world knowledge like humans d
 ![[Pasted image 20230627175231.png]]
 
 ---
-- randomly selecting one masking scheme  
-- train the model to predict the masked spans autoregressively. 
+Approach 
+- <!-- element style="font-size: 28px"--> randomly select one masking scheme  
+- <!-- element style="font-size: 28px"--> train the model to predict the masked spans autoregressively
+<br/>
+enables the model to align the surface form of human language and the underlying commonsense knowledge
 
-The diverse masking enables the model to align the surface form of human language and the underlying commonsense knowledge. 
+---
+#### Commonsense Relation Prediction: to distinguish the correct commonsense inference corresponding to the input sentence and the commonsense relation from distractors
+
+

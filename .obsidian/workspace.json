@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf6e4ccb0370425d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "papers/CommonSense/Commonsense.md",
                 "mode": "source",
                 "source": false
@@ -44,18 +32,22 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "4f15d8065af27f0d",
         "type": "tabs",
         "children": [
           {
-            "id": "2391489d74c650d5",
+            "id": "cf6e4ccb0370425d",
             "type": "leaf",
             "state": {
-              "type": "reveal-preview-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -185,7 +177,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "cf6e4ccb0370425d",
+  "active": "d99feac4ed857644",
   "lastOpenFiles": [
     "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
     "papers/CommonSense/Commonsense.md",

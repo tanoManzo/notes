@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic Attention Operation.md",
+                "file": "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Attention Operation.md",
+                "file": "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic Attention Operation.md",
+                "file": "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Attention Operation.md"
+                "file": "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md"
               }
             }
           }
@@ -160,26 +160,44 @@
   },
   "active": "d99feac4ed857644",
   "lastOpenFiles": [
-    "Leo's proposal.md",
-    "images/Pasted image 20230630175702.png",
-    "conflict-files-obsidian-git.md",
+    "images/Pasted image 20230627181251.png",
+    "images/Pasted image 20230627180223.png",
+    "images/Pasted image 20230627180026.png",
+    "images/Pasted image 20230627175231.png",
+    "images/Pasted image 20230627162059.png",
+    "images/Pasted image 20230619143338.png",
+    "images/Pasted image 20230619143148.png",
+    "images/Pasted image 20230619143001.png",
+    "images/Pasted image 20230619142723.png",
+    "images/Pasted image 20230619114240.png",
+    "images/Pasted image 20230619114049.png",
+    "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
     "Basic Attention Operation.md",
-    "images/Pasted image 20230703155416.png",
-    "images/Pasted image 20230703155230.png",
-    "images/Pasted image 20230703153744.png",
-    "images/Pasted image 20230703152859.png",
-    "images/Pasted image 20230703152749.png",
-    "images/Pasted image 20230703151510.png",
-    "images/Pasted image 20230703150442.png",
+    "papers/CommonSense",
+    "papers/New folder",
+    "papers/SDoH/Extracting SDoH from EHR using NLP.md",
+    "papers/SDoH",
+    "papers/KGPT/presentations/KGPT_2022_10.pptx",
+    "papers/KGPT/presentations",
+    "papers/KGPT/images",
+    "papers/KGPT/KGPT.pdf",
+    "papers/KGPT/KGPT.md",
+    "papers/KGPT",
+    "papers/Text-Based Detection of the Risk of Depression.md",
+    "papers/Sentiment Measured in Hospital Discharge Notes Is Associated with Readmission and Mortality Risk.md",
+    "papers/ORHIEDS.md",
+    "papers/Leveraging Temporal Trends for Training Contextual Word Embeddings to Address Bias in Biomedical Applications.md",
+    "papers/Entity Description Generation by Exploring Knowledge Graph.md",
+    "papers/Ensemble-NQG-T5.md",
+    "papers/BurnoutEnsemble.md",
+    "papers/BLOOM.md",
+    "Leo's proposal.md",
+    "conflict-files-obsidian-git.md",
     "knowledge/SDoH.md",
     "README.md",
     "papers/sdoh/Extracting SDoH from EHR using NLP.md",
     "knowledge",
-    "images/Pasted image 20230630174751.png",
-    "images/Pasted image 20230630170602.png",
     "papers/sdoh",
-    "papers",
-    "Untitled.md",
-    "images"
+    "Untitled.md"
   ]
 }

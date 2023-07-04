@@ -33,8 +33,12 @@
             "id": "3c2a650ac19dae34",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "papers/CommonSense/Commonsense.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -104,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "papers/CommonSense/Commonsense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "papers/CommonSense/Commonsense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "papers/CommonSense/Commonsense.md"
+              }
             }
           }
         ]
@@ -163,6 +171,7 @@
   },
   "active": "3c2a650ac19dae34",
   "lastOpenFiles": [
+    "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
     "conflict-files-obsidian-git.md",
     "Basic Attention Operation.md",
     "images/Pasted image 20230703155416.png",

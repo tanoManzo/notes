@@ -15,7 +15,9 @@ LLMs do not possess deep semantic understanding or world knowledge like humans d
 ---
 ##### Two distinct lines of research
 
+
 - <!-- element style="font-size: 28px"--> Incorporate commonsense knowledge graph for commonsense reasoning[^1]
+<br />
 -  <!-- element style="font-size: 28px"--> Inject commonsense knowledge into the parameters of pretrained models[^2]
 
 <br />
@@ -24,8 +26,12 @@ LLMs do not possess deep semantic understanding or world knowledge like humans d
 <!-- element style="font-size: 16px"-->
 
 ---
-#### Commonsense Knowledge Graph
+##### Commonsense Knowledge Graph: a semi-structured way for representing commonsense concepts
 
+![[Pasted image 20230704165532.png]]
+
+(Sap et al., 2020, A)
+---
 #### commonsense knowledge Reasoning
 ---
 #### First Slide

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/sdoh/Extracting SDoH from EHR using NLP.md",
+                "file": "Basic Attention Operation.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/sdoh/Extracting SDoH from EHR using NLP.md",
+                "file": "Basic Attention Operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "papers/sdoh/Extracting SDoH from EHR using NLP.md",
+                "file": "Basic Attention Operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "papers/sdoh/Extracting SDoH from EHR using NLP.md"
+                "file": "Basic Attention Operation.md"
               }
             }
           }
@@ -156,17 +156,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6b9da5d46365744",
+  "active": "1e6bc7ada6e4a1af",
   "lastOpenFiles": [
+    "knowledge/SDoH.md",
     "Basic Attention Operation.md",
+    "README.md",
     "papers/sdoh/Extracting SDoH from EHR using NLP.md",
     "images/Pasted image 20230630175702.png",
     "knowledge",
-    "knowledge/SDoH.md",
     "images/Pasted image 20230630174751.png",
     "images/Pasted image 20230630170602.png",
     "papers/sdoh",
-    "README.md",
     "images/Pasted image 20230630132334.png",
     "papers",
     "Untitled.md",

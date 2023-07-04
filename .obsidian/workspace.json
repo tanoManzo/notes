@@ -6,7 +6,6 @@
       {
         "id": "3daf0b0e1ebd47b5",
         "type": "tabs",
-        "dimension": 46.95863746958637,
         "children": [
           {
             "id": "1e6bc7ada6e4a1af",
@@ -24,31 +23,22 @@
             "id": "d99feac4ed857644",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "papers/CommonSense/Commonsense.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20230630175702.png"
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "818c287d70cc2f36",
-        "type": "tabs",
-        "dimension": 53.04136253041363,
-        "children": [
+          },
           {
-            "id": "b2d7b8f6b750bb29",
+            "id": "3c2a650ac19dae34",
             "type": "leaf",
             "state": {
-              "type": "reveal-preview-view",
+              "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/CommonSense/Commonsense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "papers/CommonSense/Commonsense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,16 +141,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "papers/CommonSense/Commonsense.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -172,86 +158,31 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "4ad8f62b55ccc7ee",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ddde125ace1ad173",
-        "type": "window",
-        "children": [
-          {
-            "id": "356cb433ea29ec43",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cf6e4ccb0370425d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 94,
-        "y": 328,
-        "width": 539,
-        "height": 668,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "d99feac4ed857644",
+  "active": "3c2a650ac19dae34",
   "lastOpenFiles": [
-    "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
-    "papers/CommonSense/Commonsense.md",
-    "images/Pasted image 20230627181251.png",
-    "images/Pasted image 20230627180223.png",
-    "images/Pasted image 20230627180026.png",
-    "images/Pasted image 20230627175231.png",
-    "images/Pasted image 20230627162059.png",
-    "images/Pasted image 20230619143338.png",
-    "images/Pasted image 20230619143148.png",
-    "images/Pasted image 20230619143001.png",
-    "images/Pasted image 20230619142723.png",
-    "images/Pasted image 20230619114240.png",
-    "Basic Attention Operation.md",
-    "papers/CommonSense",
-    "papers/New folder",
-    "papers/SDoH/Extracting SDoH from EHR using NLP.md",
-    "papers/SDoH",
-    "papers/KGPT/presentations/KGPT_2022_10.pptx",
-    "papers/KGPT/presentations",
-    "papers/KGPT/images",
-    "papers/KGPT/KGPT.pdf",
-    "papers/KGPT/KGPT.md",
-    "papers/KGPT",
-    "papers/Text-Based Detection of the Risk of Depression.md",
-    "papers/Sentiment Measured in Hospital Discharge Notes Is Associated with Readmission and Mortality Risk.md",
-    "papers/ORHIEDS.md",
-    "papers/Leveraging Temporal Trends for Training Contextual Word Embeddings to Address Bias in Biomedical Applications.md",
-    "papers/Entity Description Generation by Exploring Knowledge Graph.md",
-    "papers/Ensemble-NQG-T5.md",
-    "papers/BurnoutEnsemble.md",
-    "papers/BLOOM.md",
-    "Leo's proposal.md",
     "conflict-files-obsidian-git.md",
+    "Basic Attention Operation.md",
+    "images/Pasted image 20230703155416.png",
+    "images/Pasted image 20230703155230.png",
+    "images/Pasted image 20230703153744.png",
+    "images/Pasted image 20230703152859.png",
+    "images/Pasted image 20230703152749.png",
+    "images/Pasted image 20230703151510.png",
+    "images/Pasted image 20230703150442.png",
+    "Leo's proposal.md",
     "knowledge/SDoH.md",
     "README.md",
     "papers/sdoh/Extracting SDoH from EHR using NLP.md",
+    "images/Pasted image 20230630175702.png",
     "knowledge",
-    "papers/sdoh"
+    "images/Pasted image 20230630174751.png",
+    "images/Pasted image 20230630170602.png",
+    "papers/sdoh",
+    "papers",
+    "Untitled.md",
+    "images"
   ]
 }

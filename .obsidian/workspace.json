@@ -35,6 +35,20 @@
         "currentTab": 1
       },
       {
+        "id": "818c287d70cc2f36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2d7b8f6b750bb29",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "4f15d8065af27f0d",
         "type": "tabs",
         "children": [

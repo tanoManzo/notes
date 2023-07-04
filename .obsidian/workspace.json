@@ -6,7 +6,7 @@
       {
         "id": "3daf0b0e1ebd47b5",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 46.95863746958637,
         "children": [
           {
             "id": "1e6bc7ada6e4a1af",
@@ -38,7 +38,7 @@
       {
         "id": "818c287d70cc2f36",
         "type": "tabs",
-        "dimension": 47.172619047619044,
+        "dimension": 53.04136253041363,
         "children": [
           {
             "id": "b2d7b8f6b750bb29",
@@ -46,25 +46,6 @@
             "state": {
               "type": "reveal-preview-view",
               "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "4f15d8065af27f0d",
-        "type": "tabs",
-        "dimension": 19.49404761904762,
-        "children": [
-          {
-            "id": "cf6e4ccb0370425d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -181,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,6 +175,43 @@
       "command-palette:Open command palette": false,
       "obsidian-advanced-slides:Show Slide Preview": false
     }
+  },
+  "floating": {
+    "id": "4ad8f62b55ccc7ee",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ddde125ace1ad173",
+        "type": "window",
+        "children": [
+          {
+            "id": "356cb433ea29ec43",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cf6e4ccb0370425d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 94,
+        "y": 328,
+        "width": 539,
+        "height": 668,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
   },
   "active": "d99feac4ed857644",
   "lastOpenFiles": [

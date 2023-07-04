@@ -19,10 +19,17 @@ LLMs do not possess deep semantic understanding or world knowledge like humans d
 -  <!-- element style="font-size: 28px"--> Inject commonsense knowledge into the parameters of pretrained models[^2]
 
 
-[^1]: (Lin et al., 2019; Liu et al., 2021; Cui and Chen, 2021)
 
-[^2]: (Li et al., 2019; Zhou et al., 2021; Klein and Nabi, 2021)
-<!-- element style="font-size: 20px"-->
+
+
+1. (Lin et al., 2019; Liu et al., 2021; Cui and Chen, 2021)  2. (Li et al., 2019; Zhou et al., 2021; Klein and Nabi, 2021)
+<!-- element style="font-size: 16px"-->
+
+---
+Here's a first footnote [^1] and here's the second number footnote [^2]. We can also insert a third number footnote [^3]. There can be multiple footnotes in a document.   
+[^1]: This is the first number footnote.  
+[^2]: This is the first number footnote.  
+[^3]: This is the first number footnote.  
 
 ---
 #### First Slide

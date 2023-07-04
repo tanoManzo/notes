@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/CommonSense/Commonsense.md",
+                "file": "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/CommonSense/Commonsense.md",
+                "file": "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "papers/CommonSense/Commonsense.md",
+                "file": "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "papers/CommonSense/Commonsense.md"
+                "file": "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md"
               }
             }
           }
@@ -186,8 +186,8 @@
   },
   "active": "3c2a650ac19dae34",
   "lastOpenFiles": [
-    "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
     "papers/CommonSense/Commonsense.md",
+    "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
     "conflict-files-obsidian-git.md",
     "Basic Attention Operation.md",
     "images/Pasted image 20230703155416.png",

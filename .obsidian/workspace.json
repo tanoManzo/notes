@@ -28,8 +28,21 @@
                 "file": "images/Pasted image 20230630175702.png"
               }
             }
+          },
+          {
+            "id": "3c2a650ac19dae34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Attention Operation.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic Attention Operation.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Attention Operation.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -156,10 +169,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e6bc7ada6e4a1af",
+  "active": "3c2a650ac19dae34",
   "lastOpenFiles": [
-    "knowledge/SDoH.md",
+    "conflict-files-obsidian-git.md",
     "Basic Attention Operation.md",
+    "images/Pasted image 20230703155416.png",
+    "images/Pasted image 20230703155230.png",
+    "images/Pasted image 20230703153744.png",
+    "images/Pasted image 20230703152859.png",
+    "images/Pasted image 20230703152749.png",
+    "images/Pasted image 20230703151510.png",
+    "images/Pasted image 20230703150442.png",
+    "Leo's proposal.md",
+    "knowledge/SDoH.md",
     "README.md",
     "papers/sdoh/Extracting SDoH from EHR using NLP.md",
     "images/Pasted image 20230630175702.png",
@@ -167,10 +189,8 @@
     "images/Pasted image 20230630174751.png",
     "images/Pasted image 20230630170602.png",
     "papers/sdoh",
-    "images/Pasted image 20230630132334.png",
     "papers",
     "Untitled.md",
-    "images",
-    "images/Pasted image 20230629135404.png"
+    "images"
   ]
 }

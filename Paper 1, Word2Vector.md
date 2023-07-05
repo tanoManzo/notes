@@ -6,3 +6,6 @@
 5. what happen if I change the context size? 
 6. What is a softmax?
 7. Why are they use the log fuction instead of a non log one? 
+8. frequent word how can be addressed? TFIDF
+9. about metrics? are there any other metrics? 
+10. Let's consider the first or last words. How they define the context words? 

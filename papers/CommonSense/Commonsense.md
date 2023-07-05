@@ -41,6 +41,7 @@ Inject commonsense knowledge into the parameters of pre-trained models
 
 ![[Pasted image 20230627175231.png]]
 
+
 ---
 Approach 
 - <!-- element style="font-size: 28px"--> randomly select one masking scheme  
@@ -51,9 +52,13 @@ enables the model to align the surface form of human language and the underlying
 ---
 #### Commonsense Relation Prediction: to distinguish the correct commonsense inference corresponding to the input sentence and the commonsense relation from distractors
 
+
 ![[Pasted image 20230627180223.png]]
+--- 
 
 --- 
-##### 
+
+##### Experiments
 
 ![[Pasted image 20230627181251.png]]
+--- 

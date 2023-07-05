@@ -49,7 +49,8 @@ Approach
 enables the model to align the surface form of human language and the underlying commonsense knowledge
 
 ---
-#### Commonsense Relation Prediction: to distinguish the correct commonsense inference corresponding to the input sentence and the commonsense relation from distractors
+#### Commonsense Relation Prediction: to distinguish the correct commonsense inference corresponding to the input sentence and the commonsense relation from distractors
 
 ![[Pasted image 20230627180223.png]]
 
+--- 

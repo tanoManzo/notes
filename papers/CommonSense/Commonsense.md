@@ -54,11 +54,11 @@ enables the model to align the surface form of human language and the underlying
 
 
 ![[Pasted image 20230627180223.png]]
+---
 --- 
 
---- 
-
-##### Experiments
+#####  Experiments
 
 ![[Pasted image 20230627181251.png]]
 --- 
+

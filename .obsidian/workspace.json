@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/CommonSense/Commonsense.md",
+                "file": "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/CommonSense/Commonsense.md",
+                "file": "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "papers/CommonSense/Commonsense.md",
+                "file": "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "papers/CommonSense/Commonsense.md"
+                "file": "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md"
               }
             }
           }
@@ -199,8 +199,9 @@
   },
   "active": "d99feac4ed857644",
   "lastOpenFiles": [
-    "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
     "papers/CommonSense/Commonsense.md",
+    "Pasted image 20230705145856.png",
+    "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
     "Paper 1, Word2Vector.md",
     "Untitled.md",
     "Basic Attention Operation.md",
@@ -219,7 +220,6 @@
     "README.md",
     "papers/sdoh/Extracting SDoH from EHR using NLP.md",
     "knowledge",
-    "images/Pasted image 20230630174751.png",
     "papers/sdoh",
     "papers",
     "images"

@@ -61,6 +61,10 @@ multi-tasking strategy while significantly outperforming its counterpart traini
 **Impact of Corpus Size** We find that commonsense knowledge transfer significantly outperforms both the T5 baseline and the competitive CALM method with only 10 percent of the full data used for distillation. Nevertheless, the performance improvement also confirms that our approach can benefit from the accessibility of large-scale natural texts. For base-size models, the performance improvements seem to saturate after 10 million sentence pairs. However, we anticipate that larger-size models may still benefit from a larger amount of data, and leave this for future work. 
 
 
+#### Different Settings
+
+![[Pasted image 20230705145856.png]]
+
 ## to lookup
 - self-supervised
 - commonsense inference

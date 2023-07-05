@@ -16,9 +16,9 @@ LLMs do not possess deep semantic understanding or world knowledge like humans d
 %% Language models like GPT-3 are trained on large amounts of text data to learn statistical patterns and associations between words. They can generate coherent responses based on these patterns and can provide factual information based on the data they were trained on. However, they lack true understanding of the meaning behind the words or the context in which they are used. %%
 
 ---
+#### Approach
 
-
-##### Inject commonsense knowledge into the parameters of pre-trained models
+Inject commonsense knowledge into the parameters of pre-trained models
 
 
 

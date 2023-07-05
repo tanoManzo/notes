@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "f075b2d745f1b1b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neural Natural ...md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e6648506f70fd824",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ababf1f3ae71a4e3",
@@ -135,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/CommonSense/Commonsense.md",
+                "file": "Neural Natural ...md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "papers/CommonSense/Commonsense.md",
+                "file": "Neural Natural ...md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "papers/CommonSense/Commonsense.md"
+                "file": "Neural Natural ...md"
               }
             }
           }
@@ -197,10 +210,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d99feac4ed857644",
+  "active": "f075b2d745f1b1b5",
   "lastOpenFiles": [
-    "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
     "papers/CommonSense/Commonsense.md",
+    "Neural Natural ...md",
+    "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
     "Pasted image 20230705145856.png",
     "Paper 1, Word2Vector.md",
     "Untitled.md",

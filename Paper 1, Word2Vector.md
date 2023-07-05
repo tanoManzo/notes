@@ -9,3 +9,5 @@
 8. frequent word how can be addressed? TFIDF
 9. about metrics? are there any other metrics? 
 10. Let's consider the first or last words. How they define the context words? 
+11. How can be address those biases. 
+12. 

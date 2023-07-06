@@ -11,3 +11,5 @@
 10. Let's consider the first or last words. How they define the context words? Done
 11. How can be address those biases. Done
 12. Hot-Encoding. DONE. 
+
+#nlp 

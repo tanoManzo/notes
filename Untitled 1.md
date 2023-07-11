@@ -1,0 +1,1 @@
+It was explained to the patient that he has a high probability of withdrawal seizure or DT's and that he needed continued ICU monitoring. The patient reported that he understood this but still wished to leave against medical advice. He was felt to have capacity to make this decision since he had no evidence of delirium and clearly understood his situation and risks involved.

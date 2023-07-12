@@ -64,18 +64,6 @@
             }
           },
           {
-            "id": "5f4e37b7d23e850c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "aa9429f3803cd8ed",
             "type": "leaf",
             "state": {
@@ -93,7 +81,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic Attention Operation.md",
+                "file": "knowledge/SDoH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79df87381162148a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "knowledge/SDoH.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Attention Operation.md",
+                "file": "knowledge/SDoH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic Attention Operation.md",
+                "file": "knowledge/SDoH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Attention Operation.md"
+                "file": "knowledge/SDoH.md"
               }
             }
           }
@@ -240,19 +240,21 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e6648506f70fd824",
+  "active": "79df87381162148a",
   "lastOpenFiles": [
-    "Attention is all you need.md",
-    "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
-    "Untitled 1.md",
+    "Health Literacy.md",
+    "knowledge/SDoH.md",
+    "Leo's proposal.md",
+    "Neural Natural ...md",
     "Untitled.md",
     "Basic Attention Operation.md",
+    "Attention is all you need.md",
+    "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
     "Journal Club/Word2Vector.md",
     "Journal Club",
     "images/Pasted image 20230705145856.png",
     "images/Pasted image 20230704165532.png",
     "papers/CommonSense/Commonsense.md",
-    "Neural Natural ...md",
     "images/Pasted image 20230630175702.png",
     "conflict-files-obsidian-git.md",
     "images/Pasted image 20230703155416.png",
@@ -262,8 +264,6 @@
     "images/Pasted image 20230703152749.png",
     "images/Pasted image 20230703151510.png",
     "images/Pasted image 20230703150442.png",
-    "Leo's proposal.md",
-    "knowledge/SDoH.md",
     "README.md",
     "papers/sdoh/Extracting SDoH from EHR using NLP.md",
     "knowledge",

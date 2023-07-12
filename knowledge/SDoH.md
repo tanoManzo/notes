@@ -2,4 +2,4 @@ Social determinants of health (SDoH) are circumstances in which people are born,
 
 The Healthy People 2030 initiative developed by the US Department of Health and Human Services, describes SDoH as "the conditions in the environments where people are born, live, learn, work, play, worship, and age that affects a wide range of health, functioning, and quality-of-life outcomes and risks." Five key domains were identified: economic stability; education access and quality; health care and quality; neighborhood and built environment; and social and community context
 
-#
+#knowledge #health

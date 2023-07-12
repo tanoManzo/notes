@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic Attention Operation.md",
+                "file": "NLP/Basic Attention Operation.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "meetings/Meetings with Leo July 05.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attention is all you need.md",
+                "file": "Journal Club/Attention is all you need.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/SDoH.md",
+                "file": "meetings/Meetings with Leo July 05.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/SDoH.md",
+                "file": "meetings/Meetings with Leo July 05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/SDoH.md",
+                "file": "meetings/Meetings with Leo July 05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/SDoH.md"
+                "file": "meetings/Meetings with Leo July 05.md"
               }
             }
           }
@@ -240,17 +240,21 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "79df87381162148a",
+  "active": "a6b9da5d46365744",
   "lastOpenFiles": [
-    "Health Literacy.md",
-    "knowledge/SDoH.md",
-    "Leo's proposal.md",
-    "Neural Natural ...md",
-    "Untitled.md",
-    "Basic Attention Operation.md",
-    "Attention is all you need.md",
-    "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
+    "meetings",
+    "papers/Leo's proposal.md",
+    "README.md",
+    "papers/BLOOM.md",
+    "NLP/Basic Attention Operation.md",
+    "NLP",
+    "Journal Club/Attention is all you need.md",
     "Journal Club/Word2Vector.md",
+    "knowledge/Health Literacy.md",
+    "knowledge/SDoH.md",
+    "Neural Natural ...md",
+    "meetings/Meetings with Leo July 05.md",
+    "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
     "Journal Club",
     "images/Pasted image 20230705145856.png",
     "images/Pasted image 20230704165532.png",
@@ -264,7 +268,6 @@
     "images/Pasted image 20230703152749.png",
     "images/Pasted image 20230703151510.png",
     "images/Pasted image 20230703150442.png",
-    "README.md",
     "papers/sdoh/Extracting SDoH from EHR using NLP.md",
     "knowledge",
     "papers/sdoh",

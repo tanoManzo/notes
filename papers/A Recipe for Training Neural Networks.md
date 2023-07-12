@@ -13,3 +13,6 @@ by Andrej Karpathy
 
 - look at your network (mis)predictions and understand where they might be coming from. And if your network is giving you some prediction that doesn’t seem consistent with what you’ve seen in the data, something is off.
 - write some simple code to search/filter/sort by whatever you can think of (e.g. type of label, size of annotations, number of annotations, etc.) and visualize their distributions and the outliers along any axis. *The outliers especially almost always uncover some bugs in data quality or preprocessing.*
+
+
+#knowledge  

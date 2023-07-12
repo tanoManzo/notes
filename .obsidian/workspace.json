@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/SDoH/knowledge/SDoH Goals.md",
+                "file": "papers/Text-Based Detection of the Risk of Depression.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 915.5
   },
   "right": {
     "id": "70a4a99d404345ae",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/SDoH/knowledge/SDoH Goals.md",
+                "file": "papers/Text-Based Detection of the Risk of Depression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/SDoH/knowledge/SDoH Goals.md",
+                "file": "papers/Text-Based Detection of the Risk of Depression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/SDoH/knowledge/SDoH Goals.md"
+                "file": "papers/Text-Based Detection of the Risk of Depression.md"
               }
             }
           }
@@ -147,15 +147,34 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "67de18b75344a461",
+  "active": "a6b9da5d46365744",
   "lastOpenFiles": [
-    "Projects/SDoH/knowledge/SDoH.md",
+    "NLP/Untitled",
+    "papers/WebNLG.md",
     "Projects/SDoH/knowledge/SDoH Goals.md",
+    "papers/Clinical notes.md",
+    "papers/burn-out.md",
+    "papers/A Recipe for Training Neural Networks.md",
+    "papers/WikiBio.md",
+    "papers/sentiment analysis.md",
+    "papers/LWIC.md",
+    "papers/language models.md",
+    "papers/Language model clinical challenges.md",
+    "papers/E2ENLG.md",
+    "Projects/SDoH/meetings/Meetings with Leo July 05.md",
+    "Projects/SDoH/knowledge/SDoH.md",
+    "Projects/SDoH/knowledge/Health Literacy.md",
+    "knowledge/How to Make Your Grant Proposal “Sellable”.md",
+    "knowledge",
+    "Projects/SDoH/knowledge/papers/Evaluating the Impact of Social Determinants on Health Prediction.md",
+    "images/Pasted image 20230515144150.png",
+    "images/Pasted image 20230515130930.png",
+    "images/Pasted image 20230515130825.png",
+    "Projects/SDoH/knowledge/papers",
     "images/Pasted image 20230519135942.png",
     "papers/CommonSense/Commonsense.md",
     "README.md",
     "Journal Club/Attention is all you need.md",
-    "Projects/SDoH/meetings/Meetings with Leo July 05.md",
     "NLP/Basic Attention Operation.md",
     "images/Pasted image 20230704165532.png",
     "images/Pasted image 20230705145856.png",
@@ -168,22 +187,14 @@
     "papers/BLOOM.md",
     "NLP",
     "Journal Club/Word2Vector.md",
-    "Projects/SDoH/knowledge/Health Literacy.md",
     "Neural Natural ...md",
     "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
     "Journal Club",
     "images/Pasted image 20230630175702.png",
-    "conflict-files-obsidian-git.md",
     "images/Pasted image 20230703155416.png",
     "images/Pasted image 20230703155230.png",
     "images/Pasted image 20230703153744.png",
-    "images/Pasted image 20230703152859.png",
-    "images/Pasted image 20230703152749.png",
-    "images/Pasted image 20230703151510.png",
-    "papers/sdoh/Extracting SDoH from EHR using NLP.md",
     "Projects/SDoH/knowledge",
-    "papers/sdoh",
-    "papers",
-    "images"
+    "papers/sdoh"
   ]
 }

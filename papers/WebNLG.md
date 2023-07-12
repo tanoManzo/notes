@@ -1,0 +1,3 @@
+The **WebNLG** corpus comprises of sets of triplets describing facts (entities and relations between them) and the corresponding facts in form of natural language text. The corpus contains sets with up to 7 triplets each along with one or more reference texts for each set. The test set is split into two parts: seen, containing inputs created for entities and relations belonging to DBpedia categories that were seen in the training data, and unseen, containing inputs extracted for entities and relations belonging to 5 unseen categories.
+
+![](https://production-media.paperswithcode.com/datasets/WebNLG-0000000520-8ff404a9_x3gGdAj.jpg)

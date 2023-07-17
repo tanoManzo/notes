@@ -1,0 +1,3 @@
+[[NLP]]
+
+Chris Manning (Stanford):  

@@ -84,7 +84,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/SDoH/knowledge/papers/What is the meaning of health literacy. A systematic review and qualitative synthesis.md",
+                "file": "NLP/Hero of NLP.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/SDoH/knowledge/papers/What is the meaning of health literacy. A systematic review and qualitative synthesis.md",
+                "file": "NLP/Hero of NLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/SDoH/knowledge/papers/What is the meaning of health literacy. A systematic review and qualitative synthesis.md",
+                "file": "NLP/Hero of NLP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/SDoH/knowledge/papers/What is the meaning of health literacy. A systematic review and qualitative synthesis.md"
+                "file": "NLP/Hero of NLP.md"
               }
             }
           }
@@ -219,10 +219,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a6b9da5d46365744",
+  "active": "1aed1534c2d0a67f",
   "lastOpenFiles": [
-    "Pasted image 20230717110136.png",
     "Projects/SDoH/knowledge/papers/What is the meaning of health literacy. A systematic review and qualitative synthesis.md",
+    "NLP/Hero of NLP.md",
+    "Pasted image 20230717110136.png",
     "NLP/knowledge/E2ENLG.md",
     "NLP/knowledge/Basic Attention Operation.md",
     "Projects/SDoH/meetings/Meetings with Leo July 05.md",
@@ -266,7 +267,6 @@
     "Projects/SDoH/meetings",
     "images/Pasted image 20230630175702.png",
     "images/Pasted image 20230703155416.png",
-    "images/Pasted image 20230703155230.png",
-    "images/Pasted image 20230703153744.png"
+    "images/Pasted image 20230703155230.png"
   ]
 }

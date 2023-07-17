@@ -205,6 +205,8 @@
   },
   "active": "8bf74525b5fa94fa",
   "lastOpenFiles": [
+    "NLP/knowledge/E2ENLG.md",
+    "NLP/knowledge/Basic Attention Operation.md",
     "Projects/SDoH/meetings/Meetings with Leo July 05.md",
     "General.md",
     "Projects/EmoMap/EmoMap.canvas",
@@ -226,9 +228,7 @@
     "Projects/CLARIN",
     "NLP/knowledge/papers/BLOOM.md",
     "NLP/knowledge/papers/Entity Description Generation by Exploring Knowledge Graph.md",
-    "NLP/knowledge/Basic Attention Operation.md",
     "NLP/knowledge/papers/Ensemble-NQG-T5.md",
-    "NLP/knowledge/E2ENLG.md",
     "NLP/knowledge/language models.md",
     "NLP/knowledge/papers",
     "NLP/knowledge",

@@ -10,5 +10,9 @@ Inadequate health literacy is associated with difficulties in comprehension of h
 
 The WHO recommends health literacy as an instrument for achieving several key targets listed in the Sustainable Development Goals.[15](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7239702/#R15) The existing evidence seems to suggest health literacy as one of the most promising and cost-effective approaches to overcome the non-communicable diseases (NCD) challenges.
 
+This study aimed to clarify ‘what health literacy represents’ through a systematic review and qualitative synthesis of existing studies across different contexts in relation to this complex concept.
+
+## Methods
+
 
 #research #good4pub #paper #sdoh #health #knowledge #nih 

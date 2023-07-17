@@ -14,5 +14,7 @@ This study aimed to clarify ‘what health literacy represents’ through a syst
 
 ## Methods
 
+For example, Freedman _et al_[22](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7239702/#R22) interpreted health literacy as ‘the skills necessary to obtain, process, evaluate, and act upon information needed to make public health decisions that benefit the community’.
+
 
 #research #good4pub #paper #sdoh #health #knowledge #nih 

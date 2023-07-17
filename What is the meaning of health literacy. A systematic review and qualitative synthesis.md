@@ -29,6 +29,11 @@ The Institute of Medicine (IoM) presented one of the most influential models of 
 
 ### hierarchy of functions
 Several studies viewed health literacy as a hierarchy of functions, which require different levels of social and cognitive skills. Nutbeam[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7239702/#R3) first proposed the three-level model: functional health literacy, interactive health literacy and critical health literacy.
+In Nutbeam’s prototypical model, functional health literacy refers to ‘basic skills in reading and writing to enable individuals to function effectively in everyday situations’; interactive health literacy covers ‘more advanced skills to extract information and derive meaning from different forms of communication, and to apply new information to change circumstances’; critical health literacy requires ‘the highest-level of skills to critically analyse and use information to exert greater control over life events and situations’. **Chinn[34](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7239702/#R34) considered critical health literacy as the function of understanding social determinants of health and engaging in collective actions.**
+
+### Other Perspective 
+Soellner _et al_[23](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7239702/#R23) proposed addition of self-perception, proactive approach to health, self-regulation and self-control into the concept of health literacy. By contrast, Jordan _et al_[26](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7239702/#R26) examined the views of patients and proposed three dimensions of health literacy: identifying a health issue (knowing when and where to find health information), engaging in information exchange (verbal communication skills, assertiveness and literacy skills) and acting on health information (capacity to process and retain information, and application skills).
+
 
 
 #research #good4pub #paper #sdoh #health #knowledge #nih 

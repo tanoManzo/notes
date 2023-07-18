@@ -24,3 +24,4 @@ All of these definitions define HL as a quality of the individual, although Nutb
 ## Measures of health literacy and related concepts
 
 ### Functional health literacy measures
+Frequently used measures of functional HL are the Rapid Estimate of Adult Literacy (REALM) [10](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b10) , the Test of Functional Health Literacy in Adults (TOFHLA), [11](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b11) , and their abbreviated versions, REALM‐R [17](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b17) and S‐TOFHLA [18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b18) .

@@ -59,6 +59,9 @@ Studies of Medicare‐managed care enrollees found that inadequate HL was associ
 Lee _et al._ [52](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b52) proposed a conceptual framework that links HL to health status and health service use that incorporates four intermediate factors as pathways to health outcomes: (i) disease and self‐care knowledge, (ii) health risk behaviour, (iii) preventive care and physician visits and (iv) compliance with medication. Also, the authors proposed that the adverse effects of limited HL on health outcomes would be moderated by the availability of social support.
 
 ![[Pasted image 20230718115604.png]]
- Possible pathways between patient health literacy, participation in the health‐care process and health.
+ <sub>Possible pathways between patient health literacy, participation in the health‐care process and health.</sub>
+
+When the patient has a health problem, adequate HL will help the patient to understand the problem, seek information from various sources, and make informed and shared decisions, which would lead to better treatment adherence and subsequent self‐management. Also, HL may be related to perceived control over one’s health and self‐efficacy to participate in the health‐care process directly, as well as indirectly, via the achieved knowledge and understanding of his/her health condition.
+
 
 #research #good4pub #paper #sdoh #health #knowledge #nih 

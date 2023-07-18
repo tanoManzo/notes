@@ -46,4 +46,13 @@ Limited functional HL is acknowledged to have negative impacts on various patien
 #### Information seeking 
 Numerous studies have reported the association between limited HL and poor knowledge and understanding of one’s health, disease, medications and treatments. [31](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b31) , [32](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b32) , [33](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b33) , [34](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b34)
 
+#### Decision making 
+Several studies have suggested that lower literacy might be related to a lower desire to participate in health‐care decision making, [38](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b38) and more dependence on family/friends or health‐care providers as the final decision makers. [39](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b39) , [40](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b40)
+
+#### Self‐management behaviours and adherence 
+A study in a preoperative clinic indicated that patients with limited HL were less likely to be adherent to preoperative medication instructions. [42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b42)
+
+#### Health‐care service use 
+Studies of Medicare‐managed care enrolees found that inadequate HL was associated with a higher hospitalization rate [44](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b44) and higher emergency room costs, had marginally significant associations with total and inpatient costs, [45](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b45) and was associated with a higher rate of emergency department visits, whereas it was not associated with the mean number of visits or the time to a first visit. [46](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b46)
+
 #research #good4pub #paper #sdoh #health #knowledge #nih 

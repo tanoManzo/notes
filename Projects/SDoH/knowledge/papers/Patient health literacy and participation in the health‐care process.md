@@ -55,4 +55,10 @@ A study in a preoperative clinic indicated that patients with limited HL were le
 #### Health‐care service use 
 Studies of Medicare‐managed care enrollees found that inadequate HL was associated with a higher hospitalization rate [44](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b44) and higher emergency room costs, had marginally significant associations with total and inpatient costs, [45](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b45) and was associated with a higher rate of emergency department visits, whereas it was not associated with the mean number of visits or the time to a first visit. [46](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b46)
 
+## Possible pathways between health literacy, patient participation and health
+Lee _et al._ [52](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b52) proposed a conceptual framework that links HL to health status and health service use that incorporates four intermediate factors as pathways to health outcomes: (i) disease and self‐care knowledge, (ii) health risk behaviour, (iii) preventive care and physician visits and (iv) compliance with medication. Also, the authors proposed that the adverse effects of limited HL on health outcomes would be moderated by the availability of social support.
+
+![[Pasted image 20230718115604.png]]
+ Possible pathways between patient health literacy, participation in the health‐care process and health.
+
 #research #good4pub #paper #sdoh #health #knowledge #nih 

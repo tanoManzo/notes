@@ -53,6 +53,6 @@ Several studies have suggested that lower literacy might be related to a lower d
 A study in a preoperative clinic indicated that patients with limited HL were less likely to be adherent to preoperative medication instructions. [42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b42)
 
 #### Health‐care service use 
-Studies of Medicare‐managed care enrolees found that inadequate HL was associated with a higher hospitalization rate [44](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b44) and higher emergency room costs, had marginally significant associations with total and inpatient costs, [45](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b45) and was associated with a higher rate of emergency department visits, whereas it was not associated with the mean number of visits or the time to a first visit. [46](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b46)
+Studies of Medicare‐managed care enrollees found that inadequate HL was associated with a higher hospitalization rate [44](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b44) and higher emergency room costs, had marginally significant associations with total and inpatient costs, [45](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b45) and was associated with a higher rate of emergency department visits, whereas it was not associated with the mean number of visits or the time to a first visit. [46](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b46)
 
 #research #good4pub #paper #sdoh #health #knowledge #nih 

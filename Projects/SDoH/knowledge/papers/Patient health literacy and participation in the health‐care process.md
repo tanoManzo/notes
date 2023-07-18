@@ -1,4 +1,6 @@
 Ishikawa H. et al. (Japan University)
+[[SDoH]] [[Health Literacy]]
+
 
 The World Health Organization has defined HL as ‘the cognitive and social skills which determine the motivation and ability of individuals to gain access to, understand, and use information in ways which promote and maintain good health.’
 
@@ -36,3 +38,12 @@ Coding system applied to recorded communication between the patient and health�
 
 ## Evidence from empirical studies
 It has been widely acknowledged that limited literacy is associated with poor health status, even after controlling for potentially confounding sociodemographic variables such as income, education and ethnicity, and other factors. [28](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b28) , [29](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b29).
+
+
+### Influence of functional health literacy on patient participation in health care
+Limited functional HL is acknowledged to have negative impacts on various patient behaviours and health outcomes, including less knowledge of disease management and health‐promoting behaviours, poorer health status, less use of preventive services and a higher rate of hospitalization and emergency services use (for systematic reviews: [12](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b12) , [30](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b30) ).
+
+#### Information seeking 
+Numerous studies have reported the association between limited HL and poor knowledge and understanding of one’s health, disease, medications and treatments. [31](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b31) , [32](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b32) , [33](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b33) , [34](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060442/#b34)
+
+#research #good4pub #paper #sdoh #health #knowledge #nih 

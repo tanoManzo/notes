@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "93cfb75b68365c19",
+        "id": "52e0b007822defe6",
         "type": "tabs",
         "children": [
           {
-            "id": "6b26faaf2d96f899",
+            "id": "8bf4e024527dd20b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "images/Pasted image 20230717110136.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "images/Pasted image 20230717110136.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "images/Pasted image 20230717110136.png"
+              }
             }
           }
         ]
@@ -139,10 +143,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b26faaf2d96f899",
+  "active": "a6b9da5d46365744",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "images/Pasted image 20230718115604.png",
+    "images/Pasted image 20230717110136.png",
     "Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "Projects/SDoH/knowledge/papers/What is the meaning of health literacy. A systematic review and qualitative synthesis.md",
+    "Projects/SDoH/knowledge/papers/Patient health literacy and participation in the health‐care process.md",
+    "NLP/Hero of NLP.md",
+    "General.md",
     "Dina's notes.md",
     "images/Pasted image 20230630175702.png",
     "README.md",
@@ -171,8 +181,6 @@
     "papers/KGPT/images/Pasted image 20221011163011.png",
     "papers/KGPT/images/Pasted image 20221011144236.png",
     "papers/KGPT/images/Pasted image 20221011162424.png",
-    "papers/KGPT/images/Pasted image 20221011144230.png",
-    "papers/KGPT/images/Pasted image 20221011144024.png",
     "papers/KGPT/presentations",
     "papers/KGPT/KGPT.pdf",
     "papers/KGPT/KGPT.md",
@@ -182,10 +190,6 @@
     "papers/ORHIEDS.md",
     "papers/Leo's proposal.md",
     "papers/Language model clinical challenges.md",
-    "papers/Clinical notes.md",
-    "papers/A Recipe for Training Neural Networks.md",
-    "papers/burn-out.md",
-    "knowledge/How to Make Your Grant Proposal “Sellable”.md",
-    "NLP/knowledge/papers/Leveraging Temporal Trends for Training Contextual Word Embeddings to Address Bias in Biomedical Applications.md"
+    "papers/Clinical notes.md"
   ]
 }

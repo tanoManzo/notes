@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dina's notes.md",
+                "file": "General.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dina's notes.md",
+                "file": "General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dina's notes.md",
+                "file": "General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dina's notes.md"
+                "file": "General.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "8bf4e024527dd20b",
   "lastOpenFiles": [
+    "Dina's notes.md",
     "General.md",
     "images/Pasted image 20230717110136.png",
     "images/Pasted image 20230718115604.png",
@@ -157,7 +158,6 @@
     "Projects/SDoH/knowledge/papers/What is the meaning of health literacy. A systematic review and qualitative synthesis.md",
     "Projects/SDoH/knowledge/papers/Patient health literacy and participation in the health‐care process.md",
     "NLP/Hero of NLP.md",
-    "Dina's notes.md",
     "images/Pasted image 20230630175702.png",
     "README.md",
     "Projects/SDoH/knowledge/papers/Extracting SDoH from EHR using NLP.md",

@@ -14,4 +14,5 @@ In this paper, we propose a robust approach that deals with depression relapse d
 ### review 
 
 - **to correct, missing point (2):** The proposed framework is composed of four stages: (1) pre-processing audio data augmentation (section 3.1), (3) audio-textual features extraction (section 3.2), and (4) one-shot learningbased depression relapse detection (section 3.3). Each of these steps are detailed in the following.
-- not introduced, nor explained notation inside: Fig. 1: Proposed multimodal-based Siamese networks for depression relapse detection.
+- introduced too late, nor explained notation inside: Fig. 1: Proposed multimodal-based Siamese networks for depression relapse detection.
+-  avoid to explain known concept. Just add reference etc. (e.g.,DFT, Hamming Window, )

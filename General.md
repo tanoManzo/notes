@@ -1,5 +1,4 @@
 ## to do/talk
-
 1. homeless (wait for Dina check)
 2. Intubation (LJ leo and Gaetano-Dina)
 3. Possible JAMIA (proposed to AIMIA, Gaetano-Dina)

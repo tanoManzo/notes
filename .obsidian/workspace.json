@@ -11,8 +11,12 @@
             "id": "8bf4e024527dd20b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dina's notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20230717110136.png",
+                "file": "Dina's notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20230717110136.png",
+                "file": "Dina's notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Pasted image 20230717110136.png"
+                "file": "Dina's notes.md"
               }
             }
           }
@@ -143,16 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6b9da5d46365744",
+  "active": "8bf4e024527dd20b",
   "lastOpenFiles": [
-    "images/Pasted image 20230718115604.png",
+    "General.md",
     "images/Pasted image 20230717110136.png",
+    "images/Pasted image 20230718115604.png",
     "Untitled.md",
     "conflict-files-obsidian-git.md",
     "Projects/SDoH/knowledge/papers/What is the meaning of health literacy. A systematic review and qualitative synthesis.md",
     "Projects/SDoH/knowledge/papers/Patient health literacy and participation in the health‐care process.md",
     "NLP/Hero of NLP.md",
-    "General.md",
     "Dina's notes.md",
     "images/Pasted image 20230630175702.png",
     "README.md",

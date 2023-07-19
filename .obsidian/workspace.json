@@ -4,18 +4,94 @@
     "type": "split",
     "children": [
       {
-        "id": "52e0b007822defe6",
+        "id": "262a3823dd430522",
         "type": "tabs",
         "children": [
           {
-            "id": "8bf4e024527dd20b",
+            "id": "67de18b75344a461",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "NLP/knowledge/WebNLG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ba03589b45c9c81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NLP/knowledge/WebNLG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c991f23f1c34461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NLP/knowledge/WikiBio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d4f445958cf5793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NLP/knowledge/WebNLG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "701d8e7b85e9e796",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Projects/EmoMap/EmoMap.canvas",
+                "viewState": {
+                  "x": 190,
+                  "y": -309,
+                  "zoom": -0.2576175219697687
+                }
+              }
+            }
+          },
+          {
+            "id": "8bf74525b5fa94fa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "1aed1534c2d0a67f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "papers/An Ambient Intelligence-based Approach For Longitudinal Monitoring of Verbal and Vocal Depression Symptoms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -65,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 915.5,
+    "collapsed": true
   },
   "right": {
     "id": "70a4a99d404345ae",
@@ -81,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20230717110136.png",
+                "file": "papers/An Ambient Intelligence-based Approach For Longitudinal Monitoring of Verbal and Vocal Depression Symptoms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20230717110136.png",
+                "file": "papers/An Ambient Intelligence-based Approach For Longitudinal Monitoring of Verbal and Vocal Depression Symptoms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Pasted image 20230717110136.png"
+                "file": "papers/An Ambient Intelligence-based Approach For Longitudinal Monitoring of Verbal and Vocal Depression Symptoms.md"
               }
             }
           }
@@ -134,62 +211,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a6b9da5d46365744",
+  "active": "1aed1534c2d0a67f",
   "lastOpenFiles": [
+    "Projects/SDoH/knowledge/papers/Patient health literacy and participation in the health‐care process.md",
+    "papers/An Ambient Intelligence-based Approach For Longitudinal Monitoring of Verbal and Vocal Depression Symptoms.md",
     "images/Pasted image 20230718115604.png",
     "images/Pasted image 20230717110136.png",
-    "Untitled.md",
-    "conflict-files-obsidian-git.md",
-    "Projects/SDoH/knowledge/papers/What is the meaning of health literacy. A systematic review and qualitative synthesis.md",
-    "Projects/SDoH/knowledge/papers/Patient health literacy and participation in the health‐care process.md",
-    "NLP/Hero of NLP.md",
-    "General.md",
     "Dina's notes.md",
-    "images/Pasted image 20230630175702.png",
-    "README.md",
-    "Projects/SDoH/knowledge/papers/Extracting SDoH from EHR using NLP.md",
-    "Projects/SDoH/knowledge/papers/Evaluating the Impact of Social Determinants on Health Prediction.md",
+    "Pasted image 20230718115604.png",
+    "Projects/SDoH/knowledge/papers/What is the meaning of health literacy. A systematic review and qualitative synthesis.md",
+    "NLP/Hero of NLP.md",
+    "Pasted image 20230717110136.png",
+    "NLP/knowledge/E2ENLG.md",
+    "NLP/knowledge/Basic Attention Operation.md",
     "Projects/SDoH/meetings/Meetings with Leo July 05.md",
-    "Projects/SDoH/knowledge/SDoH.md",
-    "Projects/SDoH/knowledge/SDoH Goals.md",
-    "Projects/SDoH/knowledge/papers",
-    "Projects/SDoH/knowledge/Health Literacy.md",
-    "Projects/SDoH/meetings",
-    "Projects/SDoH/knowledge",
-    "Projects/CLARIN/Text-Based Detection of the Risk of Depression.md",
+    "General.md",
     "Projects/EmoMap/EmoMap.canvas",
-    "Projects/CLARIN/Sentiment Measured in Hospital Discharge Notes Is Associated with Readmission and Mortality Risk.md",
+    "papers/A Recipe for Training Neural Networks.md",
+    "papers/burn-out.md",
+    "papers/Language model clinical challenges.md",
+    "papers/Leo's proposal.md",
+    "papers/ORHIEDS.md",
+    "papers/sentiment analysis.md",
+    "papers/Clinical notes.md",
     "Projects/CLARIN/BurnoutEnsemble.md",
+    "NLP/knowledge/papers/Leveraging Temporal Trends for Training Contextual Word Embeddings to Address Bias in Biomedical Applications.md",
+    "NLP/knowledge/WikiBio.md",
+    "Projects/SDoH/knowledge/papers/Extracting SDoH from EHR using NLP.md",
+    "papers/Untitled",
+    "NLP/knowledge/WebNLG.md",
+    "NLP/knowledge/LWIC.md",
+    "Projects/CLARIN/Text-Based Detection of the Risk of Depression.md",
+    "Projects/CLARIN",
+    "NLP/knowledge/papers/BLOOM.md",
+    "NLP/knowledge/papers/Entity Description Generation by Exploring Knowledge Graph.md",
+    "NLP/knowledge/papers/Ensemble-NQG-T5.md",
+    "NLP/knowledge/papers",
+    "NLP/knowledge",
+    "knowledge",
+    "images/Pasted image 20230515144150.png",
+    "images/Pasted image 20230515130930.png",
+    "images/Pasted image 20230515130825.png",
+    "Projects/SDoH/knowledge/papers",
+    "images/Pasted image 20230519135942.png",
+    "images/Pasted image 20230704165532.png",
+    "images/Pasted image 20230705145856.png",
     "Projects/SDoH",
     "Projects/EmoMap",
-    "Projects/CLARIN",
     "Projects",
-    "papers/KGPT/presentations/KGPT_2022_10.pptx",
-    "papers/KGPT/images/Untitled.png",
-    "papers/KGPT/images/Pasted image 20221012153758.png",
-    "papers/KGPT/images/Pasted image 20221011163254.png",
-    "papers/KGPT/images/Pasted image 20221011144546.png",
-    "papers/KGPT/images/Pasted image 20221011163011.png",
-    "papers/KGPT/images/Pasted image 20221011144236.png",
-    "papers/KGPT/images/Pasted image 20221011162424.png",
-    "papers/KGPT/presentations",
-    "papers/KGPT/KGPT.pdf",
-    "papers/KGPT/KGPT.md",
-    "papers/CommonSense/Commonsense.md",
-    "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
-    "papers/sentiment analysis.md",
-    "papers/ORHIEDS.md",
-    "papers/Leo's proposal.md",
-    "papers/Language model clinical challenges.md",
-    "papers/Clinical notes.md"
+    "Projects/SDoH/meetings"
   ]
 }

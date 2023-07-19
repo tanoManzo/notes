@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"type":"text","text":"Gaetano: Auto Translate","id":"26e44603e9103ffa","x":-408,"y":-148,"width":266,"height":75},
+		{"type":"text","text":"Other: Manual Analysis ","id":"3b4047e7aa062144","x":-408,"y":-390,"width":266,"height":75},
+		{"type":"text","text":"Transcription in Spanish/French","id":"e9530a32d8576f26","x":-680,"y":-256,"width":218,"height":67},
+		{"type":"text","text":"Gaetano: Auto Analysis","id":"9bcdb92b54b93e00","x":-44,"y":-148,"width":284,"height":75},
+		{"type":"file","file":"Pasted image 20230712090559.png","id":"ef3974b7e4328403","x":324,"y":-545,"width":380,"height":385,"color":"1"},
+		{"type":"text","text":"1. JOY\n2. TRUST\n3. FEAR\n4. SURPRISE\n5. SADNESS\n6. DISGUST\n7. ANGER\n8. ANTICIPATION","id":"77415f94bd2a9516","x":859,"y":-508,"width":201,"height":310}
+	],
+	"edges":[
+		{"id":"c7c7c1a04e3cca09","fromNode":"e9530a32d8576f26","fromSide":"bottom","toNode":"26e44603e9103ffa","toSide":"left"},
+		{"id":"3399534a83822184","fromNode":"26e44603e9103ffa","fromSide":"right","toNode":"9bcdb92b54b93e00","toSide":"left"},
+		{"id":"9be2125e18587046","fromNode":"e9530a32d8576f26","fromSide":"top","toNode":"3b4047e7aa062144","toSide":"left"},
+		{"id":"ee52bdeaa8b392e2","fromNode":"ef3974b7e4328403","fromSide":"right","toNode":"77415f94bd2a9516","toSide":"left","label":"focus on"},
+		{"id":"583146efe8c4c432","fromNode":"3b4047e7aa062144","fromSide":"right","toNode":"ef3974b7e4328403","toSide":"left","label":"use"},
+		{"id":"a14d884bb7082e70","fromNode":"9bcdb92b54b93e00","fromSide":"right","toNode":"ef3974b7e4328403","toSide":"left","label":"use"}
+	]
+}

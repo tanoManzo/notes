@@ -1,0 +1,6 @@
+Clinical notes recorded by practitioners in Electronic Health Records (EHRs) have a distinct vocabulary and writing style compared to other publicly available corpora like Wikipedia, textbooks, scientific articles, and social media data found on the internet. These textual reports often assume knowledge of the specialty they are written for and are replete with domain-specific abbreviations and terminology. 
+Clinical notes can contain both semi-structured and unstructured, ungrammatical text. These text reports are frequently copy-forwarded from one patient encounter
+to the next. Furthermore, new notes are added for every encounter across most clinical departments, which makes the clinical rhetoric dense with several temporal references across the longitudinal history. 
+These features make clinical language inference uniquely challenging and suggest the potential need for dedicated language models that have been specifically trained to draw appropriate inferences from clinical text.
+
+#research  #knowledge  #good4pub 

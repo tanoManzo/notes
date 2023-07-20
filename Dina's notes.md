@@ -3,9 +3,8 @@
 	2. trace the outcome (e.g., mortility rate)
 	3. AMA 
 
-3. Intubation (LJ leo and Gaetano-Dina)
+3. use intubation for BIAS detection (LJ leo and Gaetano-Dina) / NO
 	1. 
-
 
 5. Possible JAMIA (proposed to AIMIA, Gaetano-Dina)
 	1. dataset 
@@ -16,4 +15,4 @@
 6. SDoH (Financial problem and Social/Env)
 
 
-7. check if it is possible PostBac
+7. check if it is possible PostBac / 

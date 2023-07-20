@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP/knowledge/WebNLG.md",
+                "file": "Dina's notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP/Hero of NLP.md",
+                "file": "Dina's notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP/Hero of NLP.md",
+                "file": "Dina's notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NLP/Hero of NLP.md"
+                "file": "Dina's notes.md"
               }
             }
           }
@@ -218,10 +217,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1aed1534c2d0a67f",
+  "active": "67de18b75344a461",
   "lastOpenFiles": [
-    "Dina's notes.md",
     "General.md",
+    "NLP/Hero of NLP.md",
+    "NLP/knowledge/WebNLG.md",
+    "NLP/knowledge/WikiBio.md",
+    "Projects/EmoMap/EmoMap.canvas",
+    "Dina's notes.md",
     "Projects/SDoH/meetings/Meetings with Leo July 05.md",
     "papers/Clinical notes.md",
     "papers/An Ambient Intelligence-based Approach For Longitudinal Monitoring of Verbal and Vocal Depression Symptoms.md",
@@ -230,11 +233,9 @@
     "images/Pasted image 20230717110136.png",
     "Pasted image 20230718115604.png",
     "Projects/SDoH/knowledge/papers/What is the meaning of health literacy. A systematic review and qualitative synthesis.md",
-    "NLP/Hero of NLP.md",
     "Pasted image 20230717110136.png",
     "NLP/knowledge/E2ENLG.md",
     "NLP/knowledge/Basic Attention Operation.md",
-    "Projects/EmoMap/EmoMap.canvas",
     "papers/A Recipe for Training Neural Networks.md",
     "papers/burn-out.md",
     "papers/Language model clinical challenges.md",
@@ -243,16 +244,13 @@
     "papers/sentiment analysis.md",
     "Projects/CLARIN/BurnoutEnsemble.md",
     "NLP/knowledge/papers/Leveraging Temporal Trends for Training Contextual Word Embeddings to Address Bias in Biomedical Applications.md",
-    "NLP/knowledge/WikiBio.md",
     "Projects/SDoH/knowledge/papers/Extracting SDoH from EHR using NLP.md",
     "papers/Untitled",
-    "NLP/knowledge/WebNLG.md",
     "NLP/knowledge/LWIC.md",
     "Projects/CLARIN/Text-Based Detection of the Risk of Depression.md",
     "Projects/CLARIN",
     "NLP/knowledge/papers/BLOOM.md",
     "NLP/knowledge/papers/Entity Description Generation by Exploring Knowledge Graph.md",
-    "NLP/knowledge/papers/Ensemble-NQG-T5.md",
     "NLP/knowledge/papers",
     "NLP/knowledge",
     "knowledge",

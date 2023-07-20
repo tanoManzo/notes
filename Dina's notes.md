@@ -4,14 +4,16 @@
 	3. AMA 
 
 3. Intubation (LJ leo and Gaetano-Dina)
+	1. 
 
-4. Possible JAMIA (proposed to AIMIA, Gaetano-Dina)
+
+5. Possible JAMIA (proposed to AIMIA, Gaetano-Dina)
 	1. dataset 
 	2. model 
 	3. trajectory 
 	4. in the previous proof of concept, we extend this work ... in short ... 
 
-5. SDoH (Financial problem and Social/Env)
+6. SDoH (Financial problem and Social/Env)
 
 
-6. check if it is possible PostBac
+7. check if it is possible PostBac

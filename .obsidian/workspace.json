@@ -140,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "right": {
     "id": "70a4a99d404345ae",
@@ -200,11 +201,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,16 +220,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "67de18b75344a461",
+  "active": "3126c2a4cd855f60",
   "lastOpenFiles": [
+    "NLP/knowledge/WebNLG.md",
+    "Projects/SDoH/knowledge/papers/What is the meaning of health literacy. A systematic review and qualitative synthesis.md",
     "Projects/SDoH/knowledge/papers/Evaluating the Impact of Social Determinants on Health Prediction.md",
     "Projects/SDoH/knowledge/papers/Extracting SDoH from EHR using NLP.md",
     "Projects/SDoH/knowledge/papers/Patient health literacy and participation in the health‐care process.md",
-    "Projects/SDoH/knowledge/papers/What is the meaning of health literacy. A systematic review and qualitative synthesis.md",
     "Dina's notes.md",
     "General.md",
     "NLP/Hero of NLP.md",
-    "NLP/knowledge/WebNLG.md",
     "NLP/knowledge/WikiBio.md",
     "Projects/EmoMap/EmoMap.canvas",
     "Projects/SDoH/meetings/Meetings with Leo July 05.md",

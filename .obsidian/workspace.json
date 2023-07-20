@@ -84,7 +84,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dina's notes.md",
+                "file": "NLP/Hero of NLP.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dina's notes.md",
+                "file": "NLP/Hero of NLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dina's notes.md",
+                "file": "NLP/Hero of NLP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dina's notes.md"
+                "file": "NLP/Hero of NLP.md"
               }
             }
           }
@@ -220,8 +220,8 @@
   },
   "active": "1aed1534c2d0a67f",
   "lastOpenFiles": [
-    "General.md",
     "Dina's notes.md",
+    "General.md",
     "Projects/SDoH/meetings/Meetings with Leo July 05.md",
     "papers/Clinical notes.md",
     "papers/An Ambient Intelligence-based Approach For Longitudinal Monitoring of Verbal and Vocal Depression Symptoms.md",

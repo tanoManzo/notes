@@ -84,7 +84,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/An Ambient Intelligence-based Approach For Longitudinal Monitoring of Verbal and Vocal Depression Symptoms.md",
+                "file": "Dina's notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 250.5
   },
   "right": {
     "id": "70a4a99d404345ae",
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/An Ambient Intelligence-based Approach For Longitudinal Monitoring of Verbal and Vocal Depression Symptoms.md",
+                "file": "Dina's notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "papers/An Ambient Intelligence-based Approach For Longitudinal Monitoring of Verbal and Vocal Depression Symptoms.md",
+                "file": "Dina's notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "papers/An Ambient Intelligence-based Approach For Longitudinal Monitoring of Verbal and Vocal Depression Symptoms.md"
+                "file": "Dina's notes.md"
               }
             }
           }
@@ -221,8 +220,10 @@
   },
   "active": "1aed1534c2d0a67f",
   "lastOpenFiles": [
-    "Dina's notes.md",
     "General.md",
+    "Dina's notes.md",
+    "Projects/SDoH/meetings/Meetings with Leo July 05.md",
+    "papers/Clinical notes.md",
     "papers/An Ambient Intelligence-based Approach For Longitudinal Monitoring of Verbal and Vocal Depression Symptoms.md",
     "Projects/SDoH/knowledge/papers/Patient health literacy and participation in the health‐care process.md",
     "images/Pasted image 20230718115604.png",
@@ -233,7 +234,6 @@
     "Pasted image 20230717110136.png",
     "NLP/knowledge/E2ENLG.md",
     "NLP/knowledge/Basic Attention Operation.md",
-    "Projects/SDoH/meetings/Meetings with Leo July 05.md",
     "Projects/EmoMap/EmoMap.canvas",
     "papers/A Recipe for Training Neural Networks.md",
     "papers/burn-out.md",
@@ -241,7 +241,6 @@
     "papers/Leo's proposal.md",
     "papers/ORHIEDS.md",
     "papers/sentiment analysis.md",
-    "papers/Clinical notes.md",
     "Projects/CLARIN/BurnoutEnsemble.md",
     "NLP/knowledge/papers/Leveraging Temporal Trends for Training Contextual Word Embeddings to Address Bias in Biomedical Applications.md",
     "NLP/knowledge/WikiBio.md",

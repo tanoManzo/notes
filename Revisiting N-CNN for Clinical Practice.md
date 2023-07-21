@@ -11,6 +11,7 @@ Specifically, we replaced the single output neuron activated by a sigmoid functi
 ## review 
 
 - assume the audience knows N-CNN acronyms. It should be explained. 
-- not clear why they needed to change the output architecture. The output is binary and s
+- not clear why they needed to change the output architecture. The output is binary, therefore the probability is complementary (e.g., pain 0.7 as output, it means no-pain 0.3). 
+- Not clear the decision of the scoring system for NFCS. Not motivated either. 
 
 #research #paper #health #knowledge #workshop #Explainability

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge/How to Make Your Grant Proposal “Sellable”.md",
+                "file": "Revisiting N-CNN for Clinical Practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/How to Make Your Grant Proposal “Sellable”.md",
+                "file": "Revisiting N-CNN for Clinical Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/How to Make Your Grant Proposal “Sellable”.md",
+                "file": "Revisiting N-CNN for Clinical Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/How to Make Your Grant Proposal “Sellable”.md"
+                "file": "Revisiting N-CNN for Clinical Practice.md"
               }
             }
           }
@@ -150,11 +150,19 @@
   },
   "active": "f8ccc7c8d0427233",
   "lastOpenFiles": [
+    "papers/An Ambient Intelligence-based Approach For Longitudinal Monitoring of Verbal and Vocal Depression Symptoms.md",
+    "Projects/SDoH/knowledge/papers/What is the meaning of health literacy. A systematic review and qualitative synthesis.md",
+    "knowledge/How to Make Your Grant Proposal “Sellable”.md",
+    "papers/ORHIEDS.md",
+    "papers/sentiment analysis.md",
+    "papers/A Recipe for Training Neural Networks.md",
+    "Revisiting N-CNN for Clinical Practice.md",
+    "README.md",
+    "General.md",
+    "Dina's notes.md",
     "papers/Leo's proposal.md",
     "papers/Language model clinical challenges.md",
     "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
-    "Neural Natural ...md",
-    "Projects/SDoH/knowledge/papers/What is the meaning of health literacy. A systematic review and qualitative synthesis.md",
     "NLP/knowledge/WebNLG.md",
     "NLP/knowledge/WikiBio.md",
     "Projects/EmoMap/EmoMap.canvas",
@@ -162,26 +170,18 @@
     "Projects/SDoH/knowledge/papers/Evaluating the Impact of Social Determinants on Health Prediction.md",
     "Projects/SDoH/knowledge/papers/Extracting SDoH from EHR using NLP.md",
     "Projects/SDoH/knowledge/papers/Patient health literacy and participation in the health‐care process.md",
-    "Dina's notes.md",
-    "General.md",
     "Projects/SDoH/meetings/Meetings with Leo July 05.md",
     "papers/Clinical notes.md",
-    "papers/An Ambient Intelligence-based Approach For Longitudinal Monitoring of Verbal and Vocal Depression Symptoms.md",
     "images/Pasted image 20230718115604.png",
     "images/Pasted image 20230717110136.png",
     "Pasted image 20230718115604.png",
     "Pasted image 20230717110136.png",
     "NLP/knowledge/E2ENLG.md",
     "NLP/knowledge/Basic Attention Operation.md",
-    "papers/A Recipe for Training Neural Networks.md",
     "papers/burn-out.md",
-    "papers/ORHIEDS.md",
-    "papers/sentiment analysis.md",
     "Projects/CLARIN/BurnoutEnsemble.md",
     "NLP/knowledge/papers/Leveraging Temporal Trends for Training Contextual Word Embeddings to Address Bias in Biomedical Applications.md",
     "papers/Untitled",
-    "NLP/knowledge/LWIC.md",
-    "Projects/CLARIN/Text-Based Detection of the Risk of Depression.md",
     "Projects/CLARIN",
     "NLP/knowledge/papers",
     "NLP/knowledge",

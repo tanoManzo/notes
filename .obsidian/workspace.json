@@ -4,87 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "262a3823dd430522",
+        "id": "d937c64f22be0b8b",
         "type": "tabs",
         "children": [
           {
-            "id": "67de18b75344a461",
+            "id": "f8ccc7c8d0427233",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/SDoH/knowledge/papers/What is the meaning of health literacy. A systematic review and qualitative synthesis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ba03589b45c9c81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NLP/knowledge/WebNLG.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c991f23f1c34461",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NLP/knowledge/WikiBio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d4f445958cf5793",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NLP/knowledge/WebNLG.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "701d8e7b85e9e796",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Projects/EmoMap/EmoMap.canvas",
-                "viewState": {
-                  "x": 190,
-                  "y": -309,
-                  "zoom": -0.2576175219697687
-                }
-              }
-            }
-          },
-          {
-            "id": "8bf74525b5fa94fa",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "1aed1534c2d0a67f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NLP/Hero of NLP.md",
+                "file": "knowledge/How to Make Your Grant Proposal “Sellable”.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 250.5
   },
   "right": {
     "id": "70a4a99d404345ae",
@@ -157,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/SDoH/knowledge/papers/What is the meaning of health literacy. A systematic review and qualitative synthesis.md",
+                "file": "knowledge/How to Make Your Grant Proposal “Sellable”.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/SDoH/knowledge/papers/What is the meaning of health literacy. A systematic review and qualitative synthesis.md",
+                "file": "knowledge/How to Make Your Grant Proposal “Sellable”.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/SDoH/knowledge/papers/What is the meaning of health literacy. A systematic review and qualitative synthesis.md"
+                "file": "knowledge/How to Make Your Grant Proposal “Sellable”.md"
               }
             }
           }
@@ -220,18 +148,22 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3126c2a4cd855f60",
+  "active": "f8ccc7c8d0427233",
   "lastOpenFiles": [
-    "NLP/knowledge/WebNLG.md",
+    "papers/Leo's proposal.md",
+    "papers/Language model clinical challenges.md",
+    "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
+    "Neural Natural ...md",
     "Projects/SDoH/knowledge/papers/What is the meaning of health literacy. A systematic review and qualitative synthesis.md",
+    "NLP/knowledge/WebNLG.md",
+    "NLP/knowledge/WikiBio.md",
+    "Projects/EmoMap/EmoMap.canvas",
+    "NLP/Hero of NLP.md",
     "Projects/SDoH/knowledge/papers/Evaluating the Impact of Social Determinants on Health Prediction.md",
     "Projects/SDoH/knowledge/papers/Extracting SDoH from EHR using NLP.md",
     "Projects/SDoH/knowledge/papers/Patient health literacy and participation in the health‐care process.md",
     "Dina's notes.md",
     "General.md",
-    "NLP/Hero of NLP.md",
-    "NLP/knowledge/WikiBio.md",
-    "Projects/EmoMap/EmoMap.canvas",
     "Projects/SDoH/meetings/Meetings with Leo July 05.md",
     "papers/Clinical notes.md",
     "papers/An Ambient Intelligence-based Approach For Longitudinal Monitoring of Verbal and Vocal Depression Symptoms.md",
@@ -243,8 +175,6 @@
     "NLP/knowledge/Basic Attention Operation.md",
     "papers/A Recipe for Training Neural Networks.md",
     "papers/burn-out.md",
-    "papers/Language model clinical challenges.md",
-    "papers/Leo's proposal.md",
     "papers/ORHIEDS.md",
     "papers/sentiment analysis.md",
     "Projects/CLARIN/BurnoutEnsemble.md",
@@ -253,8 +183,6 @@
     "NLP/knowledge/LWIC.md",
     "Projects/CLARIN/Text-Based Detection of the Risk of Depression.md",
     "Projects/CLARIN",
-    "NLP/knowledge/papers/BLOOM.md",
-    "NLP/knowledge/papers/Entity Description Generation by Exploring Knowledge Graph.md",
     "NLP/knowledge/papers",
     "NLP/knowledge",
     "knowledge",

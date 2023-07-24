@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "800dae0d418e3c99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Revisiting N-CNN for Clinical Practice.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Revisiting N-CNN for Clinical Practice.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Revisiting N-CNN for Clinical Practice.md"
+                "file": "test.md"
               }
             }
           }
@@ -148,15 +161,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f8ccc7c8d0427233",
+  "active": "800dae0d418e3c99",
   "lastOpenFiles": [
+    "Revisiting N-CNN for Clinical Practice.md",
+    "test.md",
     "papers/An Ambient Intelligence-based Approach For Longitudinal Monitoring of Verbal and Vocal Depression Symptoms.md",
     "Projects/SDoH/knowledge/papers/What is the meaning of health literacy. A systematic review and qualitative synthesis.md",
     "knowledge/How to Make Your Grant Proposal “Sellable”.md",
     "papers/ORHIEDS.md",
     "papers/sentiment analysis.md",
     "papers/A Recipe for Training Neural Networks.md",
-    "Revisiting N-CNN for Clinical Practice.md",
     "README.md",
     "General.md",
     "Dina's notes.md",
@@ -180,7 +194,6 @@
     "NLP/knowledge/Basic Attention Operation.md",
     "papers/burn-out.md",
     "Projects/CLARIN/BurnoutEnsemble.md",
-    "NLP/knowledge/papers/Leveraging Temporal Trends for Training Contextual Word Embeddings to Address Bias in Biomedical Applications.md",
     "papers/Untitled",
     "Projects/CLARIN",
     "NLP/knowledge/papers",

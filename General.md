@@ -1,10 +1,12 @@
 ## to do/talk
-1. homeless (wait for Dina check)
-2. Intubation (LJ leo and Gaetano-Dina)
-3. Possible JAMIA (proposed to AIMIA, Gaetano-Dina)
-4. SDoH (Financial problem and Social/Env)
-5. check if it is possible PostBac
-6. Write to Vasty about FelCom (Ann Ly, ann.ly@nih.gov), wait for reply 
+1. JAMIA version
+2. SDoH (Financial problem and Social/Env) and 
+3. homeless (wait for Dina check)
+4. Intubation (LJ leo and Gaetano-Dina)
+5. Possible JAMIA (proposed to AIMIA, Gaetano-Dina)
+6. SDoH (Financial problem and Social/Env)
+7. check if it is possible PostBac (write Virginia)
+
 
 ### add to cv
 2. Reviewer for jamia, mdpi, snfs, a2hc

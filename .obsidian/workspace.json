@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General.md",
+                "file": "Projects/SDoH/knowledge/SDoH.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "w",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General.md",
+                "file": "Projects/SDoH/knowledge/SDoH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General.md",
+                "file": "Projects/SDoH/knowledge/SDoH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General.md"
+                "file": "Projects/SDoH/knowledge/SDoH.md"
               }
             }
           }
@@ -147,14 +148,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bf4e024527dd20b",
+  "active": "7e9412c6b59cf72c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Projects/SDoH/knowledge/SDoH Goals.md",
     "General.md",
+    "notes.md",
     "test.md",
-    "papers/An Ambient Intelligence-based Approach For Longitudinal Monitoring of Verbal and Vocal Depression Symptoms.md",
     "Revisiting N-CNN for Clinical Practice.md",
-    "Dina's notes.md",
+    "README.md",
+    "conflict-files-obsidian-git.md",
+    "papers/An Ambient Intelligence-based Approach For Longitudinal Monitoring of Verbal and Vocal Depression Symptoms.md",
     "images/Pasted image 20230717110136.png",
     "images/Pasted image 20230718115604.png",
     "Untitled.md",
@@ -162,12 +165,10 @@
     "Projects/SDoH/knowledge/papers/Patient health literacy and participation in the health‐care process.md",
     "NLP/Hero of NLP.md",
     "images/Pasted image 20230630175702.png",
-    "README.md",
     "Projects/SDoH/knowledge/papers/Extracting SDoH from EHR using NLP.md",
     "Projects/SDoH/knowledge/papers/Evaluating the Impact of Social Determinants on Health Prediction.md",
     "Projects/SDoH/meetings/Meetings with Leo July 05.md",
     "Projects/SDoH/knowledge/SDoH.md",
-    "Projects/SDoH/knowledge/SDoH Goals.md",
     "Projects/SDoH/knowledge/papers",
     "Projects/SDoH/knowledge/Health Literacy.md",
     "Projects/SDoH/meetings",

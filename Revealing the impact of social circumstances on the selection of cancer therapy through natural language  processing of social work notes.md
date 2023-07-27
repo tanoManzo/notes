@@ -42,3 +42,10 @@ The UCSF BERT-MS-n model was trained in two steps. First, we used multiple notes
 
 ## Feature importance analysis 
 To understand which SDOH factors are used by the model for prediction, we used feature ablation methods to measure the importance of different SDOH factors. We examined the effect on model performance of removing keywords associated with the following topics: Mental health, Family, Consultation/Appointment, Group session, Risk of death, Clinician/Hospital/Medication, Living condition/Lifestyle/Social support, Telephone encounter/Online communication, Abuse history (all forms), and Insurance/Income. These categories, and keywords associated with each category, were selected following the LDA topic modelling analysis as described by Sun et al[33] (Supplementary Table 5)
+
+
+## Results
+
+First, we explored whether SDOH information within structured data alone could stratify these patients. For the 2496 patients identified, we found information regarding demographics, marriage status and smoking history was present, but data on patient financial status, education level and other important SDOH were absent from the structured data. Machine learning-based approaches leveraging the SDOH coded within structured data failed to predict the administration of targeted therapy in patients (S. Table 3), demonstrating the limitations of structured data in predicting this task. In contrast, our prior research has demonstrated that social work notes possess a wealth of information relating to SDOH, including details on frequently discussed topics such as mental health, insurance status and family support (Figure 2C, D)[33]. This qualitative observation suggested that social work notes encompass a wealth of SDOH factors, which may be captured by pre-trained language models when predicting the administration of therapy regimens to patients.
+
+

@@ -15,4 +15,6 @@ Clinical decisions are influenced not only by clinical criteria but also by non-
 
 In this work, we demonstrated a strong association between specific features within social work (SW) clinical documentation and the choice of expensive, targeted therapy prescription for patients with breast cancer.
 
-We developed a hierarchical language model for prediction over long sequences of clinical notes and successfully increased the predictability of the outcome.
+We developed a hierarchical language model for prediction over long sequences of clinical notes and successfully increased the predictability of the outcome. To understand which SDOH factors are used by the model for prediction, we measured the importance of SDOH factors by deleting words belonging to specific SDOH topics. Several critical contributors emerged, including socio-economic factors, abuse history, and risk of death. Our findings demonstrate that SW notes can reveal the impact of a patient's social environment on medical treatment prescription without requiring expensive and time-consuming manual annotation. Our hierarchical modeling approach will inform the development of models capable of leveraging multiple clinical notes for prediction.
+
+Previous research showed that clinical management decisions can be influenced by socioeconomic status[8], race[15], gender[16], adherence to treatment[17], patient behavior[18], attitude[19], and even physician personal characteristics[20].

@@ -4,6 +4,11 @@
 3. Possible JAMIA (proposed to AIMIA, Gaetano-Dina)
 4. SDoH (Financial problem and Social/Env)
 5. check if it is possible PostBac
+6. homeless (wait for Dina check)
+	1. non-compliance 
+	2. trace the outcome (e.g., mortility rate)
+	3. AMA 
+
 
 
 ### add to cv

@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d7f40031632f9b86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tracker.md",
+                "file": "Projects/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tracker.md",
+                "file": "Projects/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tracker.md"
+                "file": "Projects/Test.md"
               }
             }
           }
@@ -172,13 +184,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36da66ca31b0914d",
+  "active": "d7f40031632f9b86",
   "lastOpenFiles": [
-    "General.md",
     "Tracker.md",
+    "Projects/Test.md",
+    "README.md",
+    "General.md",
     "Biowulf.md",
     "Dina's notes.md",
-    "README.md",
     "papers/Revisiting N-CNN for Clinical Practice.md",
     "Projects/SDoH/knowledge/papers/Revealing the impact of social circumstances on the selection of cancer therapy through natural language  processing of social work notes.md",
     "Projects/SDoH/meetings/Meetings with Leo July 05.md",
@@ -219,7 +232,6 @@
     "papers/KGPT/KGPT.md",
     "papers/CommonSense/Commonsense.md",
     "papers/CommonSense/Commonsense Knowledge Transfer for Pre-trained Language Models.md",
-    "papers/sentiment analysis.md",
-    "papers/ORHIEDS.md"
+    "papers/sentiment analysis.md"
   ]
 }

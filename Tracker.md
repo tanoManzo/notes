@@ -1,6 +1,6 @@
 ```tracker
 searchType: frontmatter
 searchTarget: work
-folder: Projects
+folder: test/
 month:
 ```

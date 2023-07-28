@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Tracker.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -149,12 +149,12 @@
   },
   "active": "8bf4e024527dd20b",
   "lastOpenFiles": [
-    "test/Test.md",
+    "README.md",
     "Tracker.md",
+    "test/Test.md",
     "General.md",
     "Biowulf.md",
     "test",
-    "README.md",
     "Dina's notes.md",
     "papers/Revisiting N-CNN for Clinical Practice.md",
     "Projects/SDoH/knowledge/papers/Revealing the impact of social circumstances on the selection of cancer therapy through natural language  processing of social work notes.md",

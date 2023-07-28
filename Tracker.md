@@ -3,8 +3,8 @@ searchType: fileMeta, frontmatter
 searchTarget: cDate, work
 xDataset: 0
 folder: test/
+datasetName: work, work
 month:
-line:
-    title: Dataview Inline Field
-    fillGap: true
 ```
+
+

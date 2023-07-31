@@ -11,11 +11,14 @@
             "id": "8bf4e024527dd20b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "General.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General.md",
+                "file": "Biowulf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General.md",
+                "file": "Biowulf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General.md"
+                "file": "Biowulf.md"
               }
             }
           }
@@ -147,12 +150,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6b9da5d46365744",
+  "active": "8bf4e024527dd20b",
   "lastOpenFiles": [
-    "Projects/SDoH/meetings/Meetings with Leo July 05.md",
-    "test/Test.md",
+    "Untitled.canvas",
     "Biowulf.md",
     "General.md",
+    "Projects/SDoH/meetings/Meetings with Leo July 05.md",
+    "test/Test.md",
     "README.md",
     "Tracker.md",
     "test",

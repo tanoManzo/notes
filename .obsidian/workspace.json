@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "General.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "General.md"
               }
             }
           }
@@ -147,18 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bf4e024527dd20b",
+  "active": "a6b9da5d46365744",
   "lastOpenFiles": [
-    "Tracker.md",
-    "README.md",
+    "Projects/SDoH/meetings/Meetings with Leo July 05.md",
     "test/Test.md",
-    "General.md",
     "Biowulf.md",
+    "General.md",
+    "README.md",
+    "Tracker.md",
     "test",
     "Dina's notes.md",
     "papers/Revisiting N-CNN for Clinical Practice.md",
     "Projects/SDoH/knowledge/papers/Revealing the impact of social circumstances on the selection of cancer therapy through natural language  processing of social work notes.md",
-    "Projects/SDoH/meetings/Meetings with Leo July 05.md",
     "conflict-files-obsidian-git.md",
     "papers/An Ambient Intelligence-based Approach For Longitudinal Monitoring of Verbal and Vocal Depression Symptoms.md",
     "images/Pasted image 20230717110136.png",

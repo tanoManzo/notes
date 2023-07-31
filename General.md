@@ -1,10 +1,11 @@
 ## to do/talk
-1. homeless (wait for Dina check)
-2. Intubation (LJ leo and Gaetano-Dina)
-3. Possible JAMIA (proposed to AIMIA, Gaetano-Dina)
-4. SDoH (Financial problem and Social/Env)
-5. check if it is possible PostBac
-6. homeless (wait for Dina check)
+1. ask for registration at AMIA
+2. homeless (wait for Dina check)
+3. Intubation (LJ leo and Gaetano-Dina)
+4. Possible JAMIA (proposed to AIMIA, Gaetano-Dina)
+5. SDoH (Financial problem and Social/Env)
+6. check if it is possible PostBac
+7. homeless (wait for Dina check)
 	1. non-compliance 
 	2. trace the outcome (e.g., mortility rate)
 	3. AMA 

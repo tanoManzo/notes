@@ -11,22 +11,15 @@
             "id": "8bf4e024527dd20b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "9be39deb1c6d6311",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-31 11.18.09.excalidraw.md"
+                "file": "General.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-31 11.18.09.excalidraw.md",
+                "file": "General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-31 11.18.09.excalidraw.md",
+                "file": "General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-07-31 11.18.09.excalidraw.md"
+                "file": "General.md"
               }
             }
           }
@@ -155,12 +148,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9be39deb1c6d6311",
+  "active": "8bf4e024527dd20b",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Excalidraw/Drawing 2023-07-31 11.18.09.excalidraw.md",
-    "Excalidraw",
     "Biowulf.md",
+    "Excalidraw/Drawing 2023-07-31 11.18.09.excalidraw.md",
+    "Untitled.canvas",
+    "Excalidraw",
     "General.md",
     "Projects/SDoH/meetings/Meetings with Leo July 05.md",
     "test/Test.md",

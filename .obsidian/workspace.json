@@ -11,15 +11,8 @@
             "id": "8bf4e024527dd20b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {

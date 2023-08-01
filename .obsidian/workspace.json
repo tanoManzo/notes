@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/CLARIN/Answer Review AMIA.md",
+                "file": "NIH Training.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/CLARIN/Answer Review AMIA.md",
+                "file": "NIH Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/CLARIN/Answer Review AMIA.md",
+                "file": "NIH Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/CLARIN/Answer Review AMIA.md"
+                "file": "NIH Training.md"
               }
             }
           },
@@ -170,9 +170,9 @@
   },
   "active": "236887dcedacc78a",
   "lastOpenFiles": [
-    "Projects/CLARIN/AMIA review.md",
-    "Projects/CLARIN/Answer Review AMIA.md",
     "Day Planners/Day Planner-20230801.md",
+    "Projects/CLARIN/Answer Review AMIA.md",
+    "Projects/CLARIN/AMIA review.md",
     "General.md",
     "NIH Training.md",
     "Projects/CLARIN/Trajectory Colab.md",

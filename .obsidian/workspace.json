@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing NIH.md",
+                "file": "Day Planners/Day Planner-20230802.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing NIH.md",
+                "file": "Day Planners/Day Planner-20230802.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing NIH.md"
+                "file": "Day Planners/Day Planner-20230802.md"
               }
             }
           },
@@ -181,10 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b227616a38ba414",
+  "active": "236887dcedacc78a",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20230802.md",
     "Writing NIH.md",
+    "Day Planners/Day Planner-20230802.md",
     "Day Planners/Day Planner-20230801.md",
     "NIH Training.md",
     "Projects/CLARIN/Answer Review AMIA.md",

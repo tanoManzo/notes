@@ -16,10 +16,8 @@
 - [ ] 12:00 BREAK
 ### Lunch 👀
 - [ ] 12:30 Reading
-- [ ] 13:00 Training [[NIH Training]]
 ### Afternoon 👻
-- [ ] 13:30 emails
-- [ ] 14:00 AMIA [[AMIA review]]
+- [ ] 13:00 Writing [[Writing NIH]]
 - [ ] 15:30 BREAK
 - [ ] 16:00 Training [[NIH Training]]
 - [ ] 16:45 Review & Setup

@@ -1,8 +1,9 @@
 # Weekly Goals ✅
 
-  - [ ] Trajectory
-  - [ ] AMIA
+  - [ ] Trajectory Clusters 
+  - [ ] AMIA Review 
   - [ ] Health Literacy [[Health Literacy Sentences]]
+  - [ ] Signature Email/Book Travel
   - [ ] 4h deep work 3 days per week (set on the calendar)
   
 
@@ -23,20 +24,21 @@ gantt
     BREAK     :12-00, 30mm
     BREAK     :15-30, 30mm
 ```
-### Main Daily sections:
-1. Trajectory
-2. AMIA
-3. Training
-4. Review
-### Morning Prep
+### Main Daily Tasks 💚 
+- [ ] Trajectory
+- [ ] AMIA
+- [ ] Training
+- [ ] Review
+
+### Morning 🔨
 - [x] 09:30 Setup for work
 - [ ] 10:45 Trajectory clustering [link](https://colab.research.google.com/drive/1HrGCJlFOMvyQG-VTBkC7A59VTmCuDUwx)
 - [ ] 12:00 BREAK
 
-### Reading
+### Lunch 👀
 - [ ] 12:30 Reading
 
-### Afternoon Review
+### Afternoon 👻
 - [ ] 13:30 emails
 - [ ] 14:00 AMIA [[AMIA review]]
 - [ ] 15:30 BREAK

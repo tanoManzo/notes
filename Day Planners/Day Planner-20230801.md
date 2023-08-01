@@ -11,7 +11,7 @@
 - [ ] Review
 ### Morning 🔨
 - [x] 09:30 Setup for work
-- [ ] 10:45 Trajectory clustering [[Trajectory Colab]]
+- [x] 10:45 Trajectory clustering [[Trajectory Colab]]
 - [ ] 12:20 BREAK
 ### Lunch 👀
 - [ ] 12:30 Reading
@@ -26,7 +26,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 12:18:11 PM
+    %% Current Time: 12:24:11 PM
     section Tasks
     Setup for work     :09-30, 75mm
     Trajectory clustering [[Trajectory Colab]]     :10-45, 95mm

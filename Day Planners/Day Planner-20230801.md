@@ -17,7 +17,7 @@
 - [x] 12:30 Reading
 ### Afternoon 👻
 - [x] 13:30 emails
-- [ ] 14:00 AMIA [[AMIA review]]
+- [x] 14:00 AMIA [[AMIA review]]
 - [ ] 15:30 BREAK
 - [ ] 16:00 Training [[NIH Training]]
 - [ ] 16:45 Review & Setup
@@ -26,7 +26,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 3:26:10 PM
+    %% Current Time: 3:32:11 PM
     section Tasks
     Setup for work     :09-30, 75mm
     Trajectory clustering [[Trajectory Colab]]     :10-45, 95mm

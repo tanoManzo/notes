@@ -15,7 +15,7 @@ interpretation of results in the tables (see below).
 - [X] The background information related to using sentiment analysis techniques from social media provides a strong rationale for the importance of this study.
 	- the related work section was expanded to include studies that apply sentiment analysis techniques in social media.
 
-- []it's unclear why the authors selected neonatal patients who lived less than 1 year.
+- [ ] it's unclear why the authors selected neonatal patients who lived less than 1 year.
 - With the low agreement by human annotators, it's possible we're asking too much of language models -
 it was interesting just to see the level of disagreement among humans in this paper.
 - I'm glad to see BLOOM was assessed - we need more findings reported for this model in academia.

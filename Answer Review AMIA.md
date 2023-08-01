@@ -16,11 +16,12 @@ interpretation of results in the tables (see below).
 	- the related work section was expanded to include studies that apply sentiment analysis techniques in social media.
 
 - [ ] it's unclear why the authors selected neonatal patients who lived less than 1 year.
-- With the low agreement by human annotators, it's possible we're asking too much of language models -
-it was interesting just to see the level of disagreement among humans in this paper.
-- I'm glad to see BLOOM was assessed - we need more findings reported for this model in academia.
-- It's good to see your transparency about the differences in labeling options for the various models.
-- I don't understand why the authors reported greater performance of all models in Table 2 (few-shot)
+	- the selection of cohort has been clarified in the related section. 
+	
+- [ ] with the low agreement by human annotators, it's possible we're asking too much of language models -
+	- according to the metric used and the related citation the agreement even if low can be considered fair. Therefore, the analysis was affordable.
+
+- [ ] I don't understand why the authors reported greater performance of all models in Table 2 (few-shot)
 compared to Table 1 (zero shot). For example, micro-F1s in Table 1 were 0.7604 for ROBERTa while the
 highest in Table 2 was 0.7128 for MiniLM and BLOOM. I'd encourage the authors to look at their results
 again and/or clarify their statement.

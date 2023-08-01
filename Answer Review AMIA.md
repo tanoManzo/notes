@@ -1,8 +1,17 @@
-- This paper explores whether some of the Hugging Face models can be used for sentiment analysis in
+This paper explores whether some of the Hugging Face models can be used for sentiment analysis in
 notes written by clinicians. There is a fair bit of novelty in this paper, and it would be nice to discuss at
-AMIA. My primary reservations are related to rationale for cohort selection and then the potential mis-
+AMIA. 
+
+- [ ] My primary reservations are related to rationale for cohort selection and then the potential mis-
 interpretation of results in the tables (see below).
-- There were several missing words related to the "Section" at the end of the Introduction.
+
+
+
+
+- [x] There were several missing words related to the "Section" at the end of the Introduction.
+	- We edited the introduction to fix the reported issue. 
+
+
 - The background information related to using sentiment analysis techniques from social media provides
 a strong rationale for the importance of this study.
 - it's unclear why the authors selected neonatal patients who lived less than 1 year.

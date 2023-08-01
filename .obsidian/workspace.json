@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20230801.md",
+                "file": "Day Planners/Day Planner 2023-08-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20230801.md",
+                "file": "Day Planners/Day Planner 2023-08-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20230801.md",
+                "file": "Day Planners/Day Planner 2023-08-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20230801.md"
+                "file": "Day Planners/Day Planner 2023-08-01.md"
               }
             }
           },
@@ -158,8 +158,11 @@
   },
   "active": "f691dc5e3f025a52",
   "lastOpenFiles": [
-    "2023-08-01.md",
     "Day Planners/Day Planner-20230801.md",
+    "Projects/CLARIN/AMIA review.md",
+    "review_AMIA.cfm.pdf",
+    "Day Planners/Day Planner 2023-08-01.md",
+    "2023-08-01.md",
     "General.md",
     "Day Planners",
     "Biowulf.md",
@@ -193,18 +196,15 @@
     "Projects/CLARIN/Text-Based Detection of the Risk of Depression.md",
     "Projects/EmoMap/EmoMap.canvas",
     "Projects/CLARIN/Sentiment Measured in Hospital Discharge Notes Is Associated with Readmission and Mortality Risk.md",
-    "Projects/CLARIN/BurnoutEnsemble.md",
     "Projects/SDoH",
     "Projects/EmoMap",
     "Projects/CLARIN",
-    "Projects",
     "papers/KGPT/images/Untitled.png",
     "papers/KGPT/images/Pasted image 20221012153758.png",
     "papers/KGPT/images/Pasted image 20221011163254.png",
     "papers/KGPT/images/Pasted image 20221011144546.png",
     "papers/KGPT/images/Pasted image 20221011163011.png",
     "papers/KGPT/images/Pasted image 20221011144236.png",
-    "papers/KGPT/images/Pasted image 20221011162424.png",
-    "papers/KGPT/KGPT.md"
+    "papers/KGPT/images/Pasted image 20221011162424.png"
   ]
 }

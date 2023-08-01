@@ -1,3 +1,11 @@
+# Weekly Goals ✅
+
+  - [ ] Trajectory
+  - [ ] AMIA
+  - [ ] Health Literacy [[Health Literacy Sentences]]
+  - [ ] 4h deep work 3 days per week (set on the calendar)
+  
+
 ```mermaid
 gantt
     dateFormat  HH-mm

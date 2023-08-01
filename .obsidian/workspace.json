@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3dc5b8bcb96bd4b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bf4e024527dd20b",
+  "active": "f3dc5b8bcb96bd4b",
   "lastOpenFiles": [
     "Biowulf.md",
     "Excalidraw/Drawing 2023-07-31 11.18.09.excalidraw.md",

@@ -2,7 +2,12 @@
   "customFolder": "Day Planners",
   "mode": 0,
   "mermaid": true,
-  "notesToDates": [],
+  "notesToDates": [
+    {
+      "notePath": "Day Planners/2023/August w1/Day Planner-20230801.md",
+      "date": "Tue Aug 01 2023"
+    }
+  ],
   "completePastItems": true,
   "circularProgress": false,
   "nowAndNextInStatusBar": true,

@@ -3,60 +3,41 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 10:26:24 AM
+    %% Current Time: 10:31:24 AM
     section Tasks
-    Setup for work     :09-30, 15mm
-    Review notes from yesterday     :09-45, 45mm
-    Create new notes for #35;article review     :10-30, 60mm
-    Reading     :12-00, 25mm
-    Reading     :12-30, 90mm
-    Review notes and update daily note [[20201103]]     :15-00, 45mm
-    Walk     :15-45, 45mm
+    Setup for work     :09-30, 75mm
+    Trajectory clustering     :10-45, 75mm
+    Reading     :12-30, 60mm
+    emails     :13-30, 30mm
+    Walk     :14-00, 150mm
     Reading     :16-30, 50mm
     Prep for tomorrow's meetings     :17-20, 40mm
     END     :18-00, 0mm
     section Breaks
-    BREAK     :11-30, 30mm
-    BREAK     :12-25, 5mm
-    BREAK     :14-00, 60mm
+    BREAK     :12-00, 30mm
 ```
 
-This is my plan for the day broken into 3 main sections:
-1. 
-2. Reading
-3. Afternoon Review
-
+This is my plan for the day broken into 4 main sections:
+1. Trajectory
+2. AMIA
+3. Training
+4. Review
 ### Morning Prep
 
-This is where I get ready for work and do my usual prep.
-
-- [x] 09:30 Setup for work
-- [ ] 09:45 Review notes from yesterday
-- [ ] 10:30 Create new notes for #article review
-- [ ] 11:30 BREAK
+- [ ] 09:30 Setup for work
+- [ ] 10:45 Trajectory clustering
+- [ ] 12:00 BREAK
 
 ### Reading
 
-A section of the day dedicated to reading:
-
-1. Articles.
-2. Book chapters assigned for the day.
-3. Re-reading past notes.
-   
-- [ ] 12:00 Reading
-  - [ ] Article 1
-  - [ ] Article 2
-  - [ ] Article notes review
-- [ ] 12:25 BREAK
 - [ ] 12:30 Reading
-- [ ] 14:00 BREAK
 
 ### Afternoon Review
 
 I use this time to review what I have done earlier in the day and complete any tasks to prepare for the next day.
 
-- [ ] 15:00 Review notes and update daily note [[20201103]]
-- [ ] 15:45 Walk
+- [ ] 13:30 emails
+- [ ] 14:00 Walk
 - [ ] 16:30 Reading
 - [ ] 17:20 Prep for tomorrow's meetings
 - [ ] 18:00 END

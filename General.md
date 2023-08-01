@@ -2,7 +2,6 @@
 1. ask for registration at AMIA
 2. homeless (wait for Dina check)
 3. Intubation (LJ leo and Gaetano-Dina)
-4. Possible JAMIA (proposed to AIMIA, Gaetano-Dina)
 5. SDoH (Financial problem and Social/Env)
 6. check if it is possible PostBac
 7. homeless (wait for Dina check)
@@ -18,6 +17,6 @@
 4. Workshop with ashwag and Ghada
 5. submission paper workshop with Yvan
 6. Poster Judge 
-7. FelCom -NLM Representor
+7. FelCom -NLM Representor 
 8. Paper accepted at AMIA
 9. Presenter at Stanford  

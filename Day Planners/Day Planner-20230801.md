@@ -11,7 +11,7 @@
 - [ ] Review
 ### Morning 🔨
 - [x] 09:30 Setup for work
-- [ ] 10:45 Trajectory clustering []
+- [ ] 10:45 Trajectory clustering [[Trajectory Colab]]
 - [ ] 12:20 BREAK
 ### Lunch 👀
 - [ ] 12:30 Reading
@@ -19,21 +19,21 @@
 - [ ] 13:30 emails
 - [ ] 14:00 AMIA [[AMIA review]]
 - [ ] 15:30 BREAK
-- [ ] 16:00 Training
+- [ ] 16:00 Training [[NIH Training]]
 - [ ] 16:45 Review & Setup
 - [ ] END
 ```mermaid
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 11:01:24 AM
+    %% Current Time: 11:06:26 AM
     section Tasks
     Setup for work     :09-30, 75mm
-    Trajectory clustering []     :10-45, 95mm
+    Trajectory clustering [[Trajectory Colab]]     :10-45, 95mm
     Reading     :12-30, 60mm
     emails     :13-30, 30mm
     AMIA [[AMIA review]]     :14-00, 90mm
-    Training     :16-00, 45mm
+    Training [[NIH Training]]     :16-00, 45mm
     Review & Setup     :16-45, 0mm
     section Breaks
     BREAK     :12-20, 10mm

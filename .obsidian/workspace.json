@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52e0b007822defe6",
+        "id": "11da741957bb5ac4",
         "type": "tabs",
         "children": [
           {
-            "id": "8bf4e024527dd20b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2561e770c9311bd",
+            "id": "f691dc5e3f025a52",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,11 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2561e770c9311bd",
+  "active": "f691dc5e3f025a52",
   "lastOpenFiles": [
-    "General.md",
     "2023-08-01.md",
     "Day Planners/Day Planner-20230801.md",
+    "General.md",
     "Day Planners",
     "Biowulf.md",
     "Excalidraw/Drawing 2023-07-31 11.18.09.excalidraw.md",

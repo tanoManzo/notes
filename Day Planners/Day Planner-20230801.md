@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 10:21:28 AM
+    %% Current Time: 10:26:24 AM
     section Tasks
     Setup for work     :09-30, 15mm
     Review notes from yesterday     :09-45, 45mm
@@ -22,7 +22,7 @@ gantt
 ```
 
 This is my plan for the day broken into 3 main sections:
-1. Morning Prep
+1. 
 2. Reading
 3. Afternoon Review
 

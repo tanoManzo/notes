@@ -21,5 +21,3 @@
 
 ---
 Albert Einstein: **if you can't explain it simply, you don't understand it well enough**
-
-k awards: you and your mentor get scored. 

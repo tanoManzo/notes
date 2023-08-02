@@ -11,7 +11,7 @@
 3. Training
 ### Morning 🔨
 - [x] 08:40 Setup for work
-- [ ] 09:00 Writing Workshop [[Writing NIH]]
+- [x] 09:00 Writing Workshop [[Writing NIH]]
 - [ ] 11:00 BREAK
 - [ ] 11:30 AMIA [[AMIA review]]
 
@@ -28,7 +28,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 10:57:19 AM
+    %% Current Time: 11:02:19 AM
     section Tasks
     Setup for work     :08-40, 20mm
     Writing Workshop [[Writing NIH]]     :09-00, 120mm

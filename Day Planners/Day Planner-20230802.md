@@ -22,14 +22,14 @@
 - [x] 16:00 BREAK
 - [x] 16:30 AMIA [[AMIA review]]
 - [x] 16:45 Training [[NIH Training]]
-- [ ] 17:00 Coursera
-- [ ] 17:30 Review & Setup
+- [x] 17:00 Coursera
+- [x] 17:30 Review & Setup
 - [ ] END
 ```mermaid
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 5:25:31 PM
+    %% Current Time: 5:30:31 PM
     section Tasks
     Setup for work     :08-40, 20mm
     Writing Workshop [[Writing NIH]]     :09-00, 120mm

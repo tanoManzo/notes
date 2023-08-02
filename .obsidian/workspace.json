@@ -23,9 +23,11 @@
             "id": "d8e59c1802f53cd2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md"
+                "file": "Day Planners/Day Planner-20230802.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -52,9 +54,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5673ca199038b2c2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted Image 20230802102440_079.png"
+              }
+            }
+          },
+          {
+            "id": "deb9208849a20f5d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-07-31 11.18.09.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -104,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "70a4a99d404345ae",
@@ -121,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-07-31 11.18.09.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-07-31 11.18.09.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-07-31 11.18.09.excalidraw.md"
               }
             }
           },
@@ -192,23 +213,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8e59c1802f53cd2",
+  "active": "a6b9da5d46365744",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-08-02 10.47.19.excalidraw.md",
+    "Pasted Image 20230802102440_079.png",
+    "Pasted Image 20230802101846_991.png",
+    "NIH Training.md",
+    "General.md",
+    "Biowulf.md",
+    "README.md",
     "Pasted Image 20230802103037_820.png",
+    "Writing NIH.md",
+    "Excalidraw/Drawing 2023-08-02 10.47.03.excalidraw.md",
+    "Projects/CLARIN/AMIA review.md",
+    "Day Planners/Day Planner-20230802.md",
+    "Day Planners/Day Planner-20230801.md",
+    "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
     "Pasted Image 20230802102841_324.png",
     "Pasted Image 20230802102737_035.png",
     "Pasted Image 20230802102706_023.png",
-    "Pasted Image 20230802102440_079.png",
-    "Pasted Image 20230802101846_991.png",
-    "Writing NIH.md",
-    "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
-    "Day Planners/Day Planner-20230802.md",
     "Day Planners/2023/August w1/Day Planner-20230801.md",
-    "Day Planners/Day Planner-20230801.md",
-    "NIH Training.md",
     "Projects/CLARIN/Answer Review AMIA.md",
-    "Projects/CLARIN/AMIA review.md",
-    "General.md",
     "Projects/CLARIN/Trajectory Colab.md",
     "Day Planners/2023/August w1/Day Planner-20230801 1.md",
     "Day Planners/2023/August w1",
@@ -218,20 +243,16 @@
     "images/review_AMIA.cfm.pdf",
     "2023-08-01.md",
     "Day Planners",
-    "Biowulf.md",
     "Excalidraw/Drawing 2023-07-31 11.18.09.excalidraw.md",
     "Untitled.canvas",
     "Excalidraw",
     "Projects/SDoH/meetings/Meetings with Leo July 05.md",
     "test/Test.md",
-    "README.md",
     "Tracker.md",
     "test",
     "Dina's notes.md",
     "papers/Revisiting N-CNN for Clinical Practice.md",
     "Projects/SDoH/knowledge/papers/Revealing the impact of social circumstances on the selection of cancer therapy through natural language  processing of social work notes.md",
-    "conflict-files-obsidian-git.md",
-    "papers/An Ambient Intelligence-based Approach For Longitudinal Monitoring of Verbal and Vocal Depression Symptoms.md",
     "images/Pasted image 20230717110136.png",
     "images/Pasted image 20230718115604.png",
     "images/Pasted image 20230630175702.png",
@@ -240,7 +261,6 @@
     "Projects/SDoH/knowledge",
     "Projects/EmoMap/EmoMap.canvas",
     "Projects/SDoH",
-    "papers/KGPT/images/Untitled.png",
-    "papers/KGPT/images/Pasted image 20221012153758.png"
+    "papers/KGPT/images/Untitled.png"
   ]
 }

@@ -35,9 +35,11 @@
             "id": "deb9208849a20f5d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md"
+                "file": "NIH Training.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "70a4a99d404345ae",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
+                "file": "NIH Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
+                "file": "NIH Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md"
+                "file": "NIH Training.md"
               }
             }
           },
@@ -182,11 +183,11 @@
   },
   "active": "deb9208849a20f5d",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230802.md",
+    "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
     "Pasted Image 20230802150824_332.png",
     "Pasted Image 20230802150724_328.png",
     "Pasted Image 20230802150524_309.png",
-    "Day Planners/Day Planner-20230802.md",
-    "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
     "Pasted Image 20230802144437_678.png",
     "Pasted Image 20230802144419_661.png",
     "Pasted Image 20230802144225_012.png",
@@ -195,7 +196,6 @@
     "Pasted Image 20230802143734_290.png",
     "Pasted Image 20230802143519_590.png",
     "Pasted Image 20230802143104_561.png",
-    "Pasted Image 20230802143019_549.png",
     "Excalidraw/Drawing 2023-08-02 10.47.19.excalidraw.md",
     "Excalidraw/Drawing 2023-08-02 10.47.03.excalidraw.md",
     "Excalidraw/Drawing 2023-07-31 11.18.09.excalidraw.md",

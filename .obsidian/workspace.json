@@ -69,28 +69,14 @@
             "id": "deb9208849a20f5d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.png"
               }
             }
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "f2fde1007bc820f2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3b6bf04692c2bafa",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -140,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "70a4a99d404345ae",
@@ -157,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.png"
               }
             }
           },
@@ -230,6 +215,7 @@
   },
   "active": "deb9208849a20f5d",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
     "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.png",
     "Pasted Image 20230802141157_272.png",
     "Pasted Image 20230802140849_235.png",
@@ -239,7 +225,6 @@
     "Pasted Image 20230802133052_470.png",
     "Pasted Image 20230802132809_731.png",
     "Day Planners/Day Planner-20230802.md",
-    "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
     "Writing NIH.md",
     "Excalidraw/Drawing 2023-08-02 10.47.19.excalidraw.md",
     "Excalidraw/Drawing 2023-08-02 10.47.03.excalidraw.md",
@@ -250,7 +235,6 @@
     "General.md",
     "Biowulf.md",
     "README.md",
-    "Pasted Image 20230802103037_820.png",
     "Projects/CLARIN/AMIA review.md",
     "Day Planners/Day Planner-20230801.md",
     "Day Planners/2023/August w1/Day Planner-20230801.md",

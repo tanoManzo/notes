@@ -32,40 +32,6 @@
             }
           },
           {
-            "id": "5b227616a38ba414",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing NIH.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83902c9774e26b0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/CLARIN/AMIA review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5673ca199038b2c2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted Image 20230802102440_079.png"
-              }
-            }
-          },
-          {
             "id": "deb9208849a20f5d",
             "type": "leaf",
             "state": {
@@ -76,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "70a4a99d404345ae",
@@ -142,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
+                "file": "Day Planners/Day Planner-20230802.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
+                "file": "Day Planners/Day Planner-20230802.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md"
+                "file": "Day Planners/Day Planner-20230802.md"
               }
             }
           },
@@ -213,13 +180,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "deb9208849a20f5d",
+  "active": "d8e59c1802f53cd2",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
     "Pasted Image 20230802144437_678.png",
     "Pasted Image 20230802144419_661.png",
     "Pasted Image 20230802144225_012.png",
     "Writing NIH.md",
-    "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
     "Pasted Image 20230802143837_620.png",
     "Pasted Image 20230802143734_290.png",
     "Pasted Image 20230802143519_590.png",
@@ -227,7 +194,6 @@
     "Pasted Image 20230802143019_549.png",
     "Pasted Image 20230802142901_530.png",
     "Pasted Image 20230802142831_517.png",
-    "Pasted Image 20230802142735_777.png",
     "Day Planners/Day Planner-20230802.md",
     "Excalidraw/Drawing 2023-08-02 10.47.19.excalidraw.md",
     "Excalidraw/Drawing 2023-08-02 10.47.03.excalidraw.md",

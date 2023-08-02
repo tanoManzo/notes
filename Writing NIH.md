@@ -16,3 +16,10 @@
 - The Reviewer Perspective: Discussion of Sample Grant
 
 **Question & AnswerSession: 3:30 – 4 p.m.**
+
+
+
+---
+Albert Einstein: **if you can't explain it simply, you don't understand it well enough**
+
+k awards: you and your mentor get scored. 

@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "d8e59c1802f53cd2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "5b227616a38ba414",
             "type": "leaf",
             "state": {
@@ -43,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "70a4a99d404345ae",
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing NIH.md",
+                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing NIH.md",
+                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing NIH.md"
+                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md"
               }
             }
           },
@@ -180,12 +192,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "236887dcedacc78a",
+  "active": "d8e59c1802f53cd2",
   "lastOpenFiles": [
+    "Writing NIH.md",
+    "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
     "Day Planners/Day Planner-20230802.md",
     "Day Planners/2023/August w1/Day Planner-20230801.md",
     "Day Planners/Day Planner-20230801.md",
-    "Writing NIH.md",
     "NIH Training.md",
     "Projects/CLARIN/Answer Review AMIA.md",
     "Projects/CLARIN/AMIA review.md",

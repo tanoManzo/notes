@@ -69,11 +69,9 @@
             "id": "deb9208849a20f5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Writing NIH.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md"
               }
             }
           }
@@ -144,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing NIH.md",
+                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing NIH.md",
+                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing NIH.md"
+                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md"
               }
             }
           },
@@ -217,6 +215,7 @@
   },
   "active": "deb9208849a20f5d",
   "lastOpenFiles": [
+    "Writing NIH.md",
     "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
     "Excalidraw/Drawing 2023-08-02 10.47.19.excalidraw.md",
     "Excalidraw/Drawing 2023-08-02 10.47.03.excalidraw.md",
@@ -228,7 +227,6 @@
     "Biowulf.md",
     "README.md",
     "Pasted Image 20230802103037_820.png",
-    "Writing NIH.md",
     "Projects/CLARIN/AMIA review.md",
     "Day Planners/Day Planner-20230802.md",
     "Day Planners/Day Planner-20230801.md",

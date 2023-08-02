@@ -10,8 +10,8 @@
 2. AMIA
 3. Training
 ### Morning 🔨
-- [ ] 08:40 Setup for work
-- [ ] 9:00 Writing Workshop [[Writing NIH]]
+- [x] 08:40 Setup for work
+- [ ] 09:00 Writing Workshop [[Writing NIH]]
 - [ ] 11:30 AMIA [[AMIA review]]
 - [ ] 12:00 BREAK
 ### Lunch 👀
@@ -27,17 +27,18 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 4:33:48 PM
+    %% Current Time: 9:17:19 AM
     section Tasks
-    Setup for work     :09-30, 75mm
-    Trajectory clustering [[Trajectory Colab]]     :10-45, 95mm
-    Reading     :12-30, 60mm
-    emails     :13-30, 30mm
-    AMIA [[AMIA review]]     :14-00, 90mm
-    Training [[NIH Training]]     :16-00, 45mm
-    Review & Setup     :16-45, 0mm
+    Setup for work     :08-40, 20mm
+    Writing Workshop [[Writing NIH]]     :09-00, 150mm
+    AMIA [[AMIA review]]     :11-30, 30mm
+    Reading     :12-30, 30mm
+    Writing Workshop [[Writing NIH]]     :13-00, 180mm
+    Training [[NIH Training]]     :16-30, 15mm
+    Coursera     :16-45, 45mm
+    Review & Setup     :17-30, 0mm
     section Breaks
-    BREAK     :12-20, 10mm
-    BREAK     :15-30, 30mm
+    BREAK     :12-00, 30mm
+    BREAK     :16-00, 30mm
 ```
 

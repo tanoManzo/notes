@@ -18,7 +18,7 @@
 ### Lunch 👀
 - [x] 12:30 Reading
 ### Afternoon 👻
-- [ ] 13:00 Writing Workshop [[Writing NIH]]
+- [x] 13:00 Writing Workshop [[Writing NIH]]
 - [ ] 16:00 BREAK
 - [ ] 16:30 AMIA [[AMIA review]]
 - [ ] 16:45 Training [[NIH Training]]
@@ -29,7 +29,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 3:55:31 PM
+    %% Current Time: 4:00:31 PM
     section Tasks
     Setup for work     :08-40, 20mm
     Writing Workshop [[Writing NIH]]     :09-00, 120mm

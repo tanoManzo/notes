@@ -1,0 +1,3 @@
+detect + cofounding 
+
+check differences

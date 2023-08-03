@@ -5,6 +5,8 @@
   - [ ] Signature Email/Book Travel
   - [ ] Writing Workshop & Training 
   - [ ] 4h deep work 3 days per week (set on the calendar)
+  - [ ] Coursera
+  - [ ] Dina-Gaetano IDP
 ### Main Daily Tasks 💚 
 1. Trajectory
 2. AMIA
@@ -12,35 +14,31 @@
 ### Morning 🔨
 - [ ] 08:40 Training [[NIH Training]]
 - [ ] 09:00 Writing Workshop [[Writing NIH]]
-- [ ] 11:00 BREAK
-
-
+- [ ] 11:00 Poster
+- [ ] 12:00 BREAK
 ### Lunch 👀
 - [ ] 12:30 Reading
 ### Afternoon 👻
-- [ ] 13:00 Writing Workshop [[Writing NIH]]
-- [ ] 16:00 BREAK
-- [ ] 16:30 AMIA [[AMIA review]]
-- [ ] 16:45 Training [[NIH Training]]
-- [ ] 17:00 Coursera
+- [ ] 15:00 Dina Meeting
+- [ ] 16:00 FelCom Meeting
+- [ ] 16:45 AMIA [[AMIA review]]
 - [ ] 17:30 Review & Setup
 - [ ] END
 ```mermaid
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 8:46:34 AM
+    %% Current Time: 8:51:36 AM
     section Tasks
     Training [[NIH Training]]     :08-40, 20mm
     Writing Workshop [[Writing NIH]]     :09-00, 120mm
-    Reading     :12-30, 30mm
-    Writing Workshop [[Writing NIH]]     :13-00, 180mm
-    AMIA [[AMIA review]]     :16-30, 15mm
-    Training [[NIH Training]]     :16-45, 15mm
-    Coursera     :17-00, 30mm
+    Poster     :11-00, 60mm
+    Reading     :12-30, 150mm
+    Dina Meeting     :15-00, 60mm
+    FelCom Meeting     :16-00, 45mm
+    AMIA [[AMIA review]]     :16-45, 45mm
     Review & Setup     :17-30, 0mm
     section Breaks
-    BREAK     :11-00, 90mm
-    BREAK     :16-00, 30mm
+    BREAK     :12-00, 30mm
 ```
 

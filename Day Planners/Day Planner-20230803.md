@@ -17,7 +17,7 @@
 - [x] 10:30 Poster
 - [x] 12:00 BREAK
 ### Lunch 👀
-- [ ] 12:30 Health Literacy [[Health Literacy Sentences]]
+- [x] 12:30 Health Literacy [[Health Literacy Sentences]]
 ### Afternoon 👻
 - [ ] 13:00 Writing Workshop [[Writing NIH]]
 - [ ] 15:00 Dina Meeting
@@ -29,7 +29,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 12:58:35 PM
+    %% Current Time: 1:06:26 PM
     section Tasks
     Training [[NIH Training]]     :08-40, 80mm
     Health Literacy     :10-00, 30mm

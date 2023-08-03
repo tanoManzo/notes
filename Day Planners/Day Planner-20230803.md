@@ -13,7 +13,7 @@
 3. Training
 ### Morning 🔨
 - [x] 08:40 Training [[NIH Training]]
-- [ ] 10:00 Health Literacy
+- [x] 10:00 Health Literacy
 - [ ] 10:30 Poster
 - [ ] 12:00 BREAK
 ### Lunch 👀
@@ -29,7 +29,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 10:26:35 AM
+    %% Current Time: 10:32:35 AM
     section Tasks
     Training [[NIH Training]]     :08-40, 80mm
     Health Literacy     :10-00, 30mm

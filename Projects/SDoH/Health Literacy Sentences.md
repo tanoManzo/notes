@@ -1,5 +1,5 @@
-detect + cofounding 
+- detect + cofounding 
 
-check differences
+- check differences
 
-ask for the co
+- ask for the correct form 

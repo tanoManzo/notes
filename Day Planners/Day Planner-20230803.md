@@ -12,7 +12,7 @@
 2. AMIA
 3. Training
 ### Morning 🔨
-- [ ] 08:40 Training [[NIH Training]]
+- [x] 08:40 Training [[NIH Training]]
 - [ ] 10:00 Health Literacy
 - [ ] 10:30 Poster
 - [ ] 12:00 BREAK
@@ -29,7 +29,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 9:58:35 AM
+    %% Current Time: 10:04:35 AM
     section Tasks
     Training [[NIH Training]]     :08-40, 80mm
     Health Literacy     :10-00, 30mm

@@ -7,6 +7,7 @@
   - [ ] 4h deep work 3 days per week (set on the calendar)
   - [ ] Coursera
   - [ ] Dina-Gaetano IDP
+  - [ ] LJ email
 ### Main Daily Tasks 💚 
 1. Trajectory
 2. AMIA
@@ -20,7 +21,7 @@
 - [x] 12:30 Health Literacy [[Health Literacy Sentences]]
 ### Afternoon 👻
 - [x] 13:00 Writing Workshop [[Writing NIH]]
-- [ ] 15:00 Dina Meeting
+- [x] 15:00 Dina Meeting
 - [ ] 16:00 FelCom Meeting
 - [ ] 16:45 AMIA [[AMIA review]]
 - [ ] 17:30 Review & Setup
@@ -29,7 +30,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 3:58:14 PM
+    %% Current Time: 4:03:14 PM
     section Tasks
     Training [[NIH Training]]     :08-40, 80mm
     Health Literacy     :10-00, 30mm

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing NIH.md",
+                "file": "Day Planners/Day Planner-20230803.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "70a4a99d404345ae",
@@ -109,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/SDoH/Health Literacy Sentences.md",
+                "file": "Day Planners/Day Planner-20230803.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/SDoH/Health Literacy Sentences.md",
+                "file": "Day Planners/Day Planner-20230803.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/SDoH/Health Literacy Sentences.md"
+                "file": "Day Planners/Day Planner-20230803.md"
               }
             }
           },
@@ -180,12 +178,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8e59c1802f53cd2",
+  "active": "236887dcedacc78a",
   "lastOpenFiles": [
-    "Day Planners/2023/August w1/Day Planner-20230802.md",
+    "Writing NIH.md",
     "Projects/SDoH/Health Literacy Sentences.md",
-    "Day Planners/Day Planner-20230803.md",
     "Excalidraw/Drawing 2023-08-03 13.07.02.excalidraw.md",
+    "Day Planners/2023/August w1/Day Planner-20230802.md",
+    "Day Planners/Day Planner-20230803.md",
     "Pasted Image 20230803135212_116.png",
     "Pasted Image 20230803134947_942.png",
     "Pasted Image 20230803134646_920.png",
@@ -198,7 +197,6 @@
     "NIH Training.md",
     "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
     "Pasted Image 20230802150824_332.png",
-    "Writing NIH.md",
     "Excalidraw/Drawing 2023-08-02 10.47.19.excalidraw.md",
     "Excalidraw/Drawing 2023-08-02 10.47.03.excalidraw.md",
     "Excalidraw/Drawing 2023-07-31 11.18.09.excalidraw.md",

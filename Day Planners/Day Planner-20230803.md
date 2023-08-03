@@ -13,12 +13,13 @@
 3. Training
 ### Morning 🔨
 - [ ] 08:40 Training [[NIH Training]]
-- [ ] 09:00 Writing Workshop [[Writing NIH]]
+- [ ] 10:
 - [ ] 11:00 Poster
 - [ ] 12:00 BREAK
 ### Lunch 👀
-- [ ] 12:30 Reading
+- [ ] 12:30 Health Literacy [[Health Literacy Sentences]]
 ### Afternoon 👻
+- [ ] 13:00 Writing Workshop [[Writing NIH]]
 - [ ] 15:00 Dina Meeting
 - [ ] 16:00 FelCom Meeting
 - [ ] 16:45 AMIA [[AMIA review]]
@@ -28,12 +29,12 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 8:51:36 AM
+    %% Current Time: 8:56:36 AM
     section Tasks
-    Training [[NIH Training]]     :08-40, 20mm
-    Writing Workshop [[Writing NIH]]     :09-00, 120mm
+    Training [[NIH Training]]     :08-40, 140mm
     Poster     :11-00, 60mm
-    Reading     :12-30, 150mm
+    Health Literacy [[Health Literacy Sentences]]     :12-30, 30mm
+    Writing Workshop [[Writing NIH]]     :13-00, 120mm
     Dina Meeting     :15-00, 60mm
     FelCom Meeting     :16-00, 45mm
     AMIA [[AMIA review]]     :16-45, 45mm

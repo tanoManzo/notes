@@ -22,7 +22,7 @@
 ### Afternoon 👻
 - [x] 13:00 Writing Workshop [[Writing NIH]]
 - [x] 15:00 Dina Meeting
-- [ ] 16:00 FelCom Meeting
+- [x] 16:00 FelCom Meeting
 - [ ] 16:45 AMIA [[AMIA review]]
 - [ ] 17:30 Review & Setup
 - [ ] END
@@ -30,7 +30,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 4:39:14 PM
+    %% Current Time: 4:45:15 PM
     section Tasks
     Training [[NIH Training]]     :08-40, 80mm
     Health Literacy     :10-00, 30mm

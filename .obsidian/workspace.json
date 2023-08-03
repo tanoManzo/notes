@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5696ae35c631a0af",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-08-03 13.07.02.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "70a4a99d404345ae",
@@ -110,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20230803.md",
+                "file": "Excalidraw/Drawing 2023-08-03 13.07.02.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20230803.md",
+                "file": "Excalidraw/Drawing 2023-08-03 13.07.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20230803.md"
+                "file": "Excalidraw/Drawing 2023-08-03 13.07.02.excalidraw.md"
               }
             }
           },
@@ -181,10 +192,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "deb9208849a20f5d",
+  "active": "5696ae35c631a0af",
   "lastOpenFiles": [
-    "Day Planners/2023/August w1/Day Planner-20230802.md",
+    "Pasted Image 20230803130856_502.png",
     "Day Planners/Day Planner-20230803.md",
+    "Excalidraw/Drawing 2023-08-03 13.07.02.excalidraw.md",
+    "Day Planners/2023/August w1/Day Planner-20230802.md",
     "NIH Training.md",
     "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
     "Pasted Image 20230802150824_332.png",
@@ -224,8 +237,6 @@
     "Tracker.md",
     "test",
     "Dina's notes.md",
-    "papers/Revisiting N-CNN for Clinical Practice.md",
-    "Projects/SDoH/knowledge/papers/Revealing the impact of social circumstances on the selection of cancer therapy through natural language  processing of social work notes.md",
     "Projects/SDoH/knowledge/papers",
     "Projects/SDoH/meetings",
     "Projects/SDoH/knowledge",

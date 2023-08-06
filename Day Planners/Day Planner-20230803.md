@@ -26,6 +26,10 @@
 - [ ] 16:45 AMIA [[AMIA review]]
 - [ ] 17:30 Review & Setup
 - [ ] END
+
+
+4XE7K323UE Manzo
+71LR6MN5AH campmas
 ```mermaid
 gantt
     dateFormat  HH-mm

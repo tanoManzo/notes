@@ -30,7 +30,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 4:55:14 PM
+    %% Current Time: 4:58:14 PM
     section Tasks
     Training [[NIH Training]]     :08-40, 80mm
     Health Literacy     :10-00, 30mm

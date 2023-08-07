@@ -8,7 +8,7 @@
 	- the related work section was expanded to include studies that apply sentiment analysis techniques in social media.
 
 - [x] it's unclear why the authors selected neonatal patients who lived less than 1 year.
-	- the selection of cohort has been clarified in the related section. 
+	- We clarified the selection of cohort in the appropriated section. 
 	
 - [x] with the low agreement by human annotators, it's possible we're asking too much of language models -
 	- according to the metric used and the related citation the agreement even if low can be considered fair. Therefore, the analysis was affordable.
@@ -24,6 +24,7 @@ again and/or clarify their statement.
 - [x] The abstract mentions the major topic areas where the submission has had an impact, but it does not provide specific details or results about the impact. Including some key findings or outcomes related to usability, efficiency, clinical decision support, interoperability, etc., would strengthen the impact aspect of the abstract. Overall, the abstract provides a clear overview of the study on detecting caregivers' attitudes from clinical notes.
 	- We edited the abstract to include outcomes related to usability, efficiency, clinical decision support, interoperability. 
 
-
-
+## Reviewer 3
+- [x] Important work which evaluates caregiver attitudes from clinical text data and differentiates it from routinely used sentiment analysis. Addresses important issues such as burnout amongst caregivers. Technically, well done using Transformers and appropriate libraries. 
+	- Thank you
 

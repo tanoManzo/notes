@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 1:57:48 PM
+    %% Current Time: 5:17:16 PM
     section Tasks
     Lj Email     :08-30, 15mm
     AMIA [[AMIA review]] [[Answer Review AMIA]]     :08-45, 45mm
@@ -41,9 +41,9 @@ gantt
 ### Lunch 👀
 - [x] 12:30 Read
 ### Afternoon 👻
-- [ ] 13:00 Trajectory clustering [[Trajectory Colab]]
-- [ ] 15:00 BREAK
-- [ ] 16:00 Dina-Gaetano IDP
+- [x] 13:00 Trajectory clustering [[Trajectory Colab]]
+- [x] 15:00 BREAK
+- [x] 16:00 Dina-Gaetano IDP
 - [ ] 16:30 Coursera
 - [ ] 17:30 Review & Setup
 - [ ] END

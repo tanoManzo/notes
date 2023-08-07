@@ -1,3 +1,4 @@
+## Day Planner
 # Weekly Goals ✅
   - [ ] Trajectory Clusters 
   - [ ] AMIA Review 
@@ -13,19 +14,21 @@
 2. AMIA
 3. Training
 ### Morning 🔨
-- [x] 08:40 Training [[NIH Training]]
-- [x] 10:00 Health Literacy
-- [x] 10:30 Poster
-- [x] 12:00 BREAK
+- [ ] 08:30 Lj Email
+- [ ] 08:45 AMIA [[AMIA review]] [[Answer Review AMIA]]
+- [ ] 09:30 
+- [ ] 09:40 BREAK
+- [ ] 10:00 EmoMap
+- [ ] 12:00 BREAK
 ### Lunch 👀
-- [x] 12:30 Health Literacy [[Health Literacy Sentences]]
+- [ ] 12:30 Read
 ### Afternoon 👻
-- [x] 13:00 Writing Workshop [[Writing NIH]]
-- [x] 15:00 Dina Meeting
-- [x] 16:00 FelCom Meeting
-- [x] 16:45 AMIA [[AMIA review]]
-- [x] 17:30 Review & Setup
-- [x] END
+- [ ] 13:00 Writing Workshop [[Writing NIH]]
+- [ ] 15:00 Dina Meeting
+- [ ] 16:00 FelCom Meeting
+- [ ] 16:45 AMIA [[AMIA review]]
+- [ ] 17:30 Review & Setup
+- [ ] END
 
 confirmation number L56MNW
 4XE7K323UE Manzo
@@ -34,7 +37,7 @@ confirmation number L56MNW
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 4:58:14 PM
+    %% Current Time: 11:15:16 PM
     section Tasks
     Training [[NIH Training]]     :08-40, 80mm
     Health Literacy     :10-00, 30mm

@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 10:09:13 AM
+    %% Current Time: 10:14:12 AM
     section Tasks
     Lj Email     :08-30, 15mm
     AMIA [[AMIA review]] [[Answer Review AMIA]]     :08-45, 45mm

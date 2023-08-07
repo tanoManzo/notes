@@ -1,10 +1,10 @@
 ## Reviewer 1
 
-- [x] There were several missing words related to the "Section" at the end of the Introduction.
+- [ ] There were several missing words related to the "Section" at the end of the Introduction.
 	- We edited the introduction to fix the reported issue. 
 
 
-- [X] The background information related to using sentiment analysis techniques from social media provides a strong rationale for the importance of this study.
+- [ ] The background information related to using sentiment analysis techniques from social media provides a strong rationale for the importance of this study.
 	- the related work section was expanded to include studies that apply sentiment analysis techniques in social media.
 
 - [x] it's unclear why the authors selected neonatal patients who lived less than 1 year.

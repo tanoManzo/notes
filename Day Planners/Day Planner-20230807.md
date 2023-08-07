@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 5:28:47 PM
+    %% Current Time: 6:42:42 PM
     section Tasks
     Lj Email     :08-30, 15mm
     AMIA [[AMIA review]] [[Answer Review AMIA]]     :08-45, 45mm
@@ -28,6 +28,7 @@ gantt
   - [ ] 4h deep work 3 days per week (set on the calendar)
   - [ ] Coursera
   - [ ] Dina-Gaetano IDP
+  - [ ] Format ref AMIA
   - [x] LJ email
 ### Meeting Daily Tasks 💚 
 1. Gozda ?
@@ -44,7 +45,7 @@ gantt
 - [x] 13:00 Trajectory clustering [[Trajectory Colab]]
 - [x] 15:00 BREAK
 - [x] 16:00 Dina-Gaetano IDP
-- [ ] 16:30 Coursera
-- [ ] 17:30 Review & Setup
+- [x] 16:30 Coursera
+- [x] 17:30 Review & Setup
 - [ ] END
 

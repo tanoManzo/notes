@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/review_AMIA.cfm.pdf",
+                "file": "Day Planners/Day Planner-20230807.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/review_AMIA.cfm.pdf",
+                "file": "Day Planners/Day Planner-20230807.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/review_AMIA.cfm.pdf"
+                "file": "Day Planners/Day Planner-20230807.md"
               }
             }
           },
@@ -164,8 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d035e42477aeca23",
+  "active": "fdf1fa7ce524e703",
   "lastOpenFiles": [
+    "images/review_AMIA.cfm.pdf",
     "Projects/CLARIN/AMIA review.md",
     "Projects/CLARIN/Answer Review AMIA.md",
     "Day Planners/Day Planner-20230807.md",

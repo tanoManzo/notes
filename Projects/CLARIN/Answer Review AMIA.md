@@ -21,10 +21,9 @@ again and/or clarify their statement.
 
 ## Reviewer 2
 
-- [ ] The abstract mentions the major topic areas where the submission has had an impact, but it does not
-provide specific details or results about the impact. Including some key findings or outcomes related to
-usability, efficiency, clinical decision support, interoperability, etc., would strengthen the impact aspect of
-the abstract. Overall, the abstract provides a clear overview of the study on detecting caregivers' attitudes
-from clinical notes.
+- [x] The abstract mentions the major topic areas where the submission has had an impact, but it does not provide specific details or results about the impact. Including some key findings or outcomes related to usability, efficiency, clinical decision support, interoperability, etc., would strengthen the impact aspect of the abstract. Overall, the abstract provides a clear overview of the study on detecting caregivers' attitudes from clinical notes.
+	- We edited the abstract to include outcomes related to usability, efficiency, clinical decision support, interoperability. 
+
+
 
 

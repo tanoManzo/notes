@@ -43,8 +43,7 @@ agreement. (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3900052/). Not sure wha
 agreement between the annotators was not perfect, it was still reasonable and acceptable for the task."
  - We edited the respective section to clarified the agreement between the annotators. 
 
-- [ ] Model selection. The paper stated that "state-of-the-art language models from the Hugging Face
-platform", however, they failed to justify how the SOTA models was selected. There are models trained on
-clinical notes, such as ClinicalBERT, which may be proper for this study. Although the author mentioned
-that "In this work, we used the most popular sentiment analysis models, both pre-trained and fine-tuned,
+- [ ] Model selection. The paper stated that "state-of-the-art language models from the Hugging Face platform", however, they failed to justify how the SOTA models was selected. There are models trained on
+clinical notes, such as ClinicalBERT, which may be proper for this study. Although the author mentioned that "In this work, we used the most popular sentiment analysis models, both pre-trained and fine-tuned,
 available on Hugging Face", they failed to prove that these selected models were SOTA.
+ -  In the respective section, we motivated the choice to exclude model such as ClinicalBERT and we added a description and citations that support the selected. 

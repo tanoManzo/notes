@@ -26,5 +26,10 @@ again and/or clarify their statement.
 
 ## Reviewer 3
 - [x] Important work which evaluates caregiver attitudes from clinical text data and differentiates it from routinely used sentiment analysis. Addresses important issues such as burnout amongst caregivers. Technically, well done using Transformers and appropriate libraries. 
-	- Thank you
+	- We thank the reviewer. 
 
+## Reviewer 4
+- [x] Discussion will need to be engaging and at multiple audience levels since the writing is deeply computational. interesting study into clinician attitudes with penetrating, sharp, and smart research. Understanding and detecting the tolls of clinician burden /burnout early, is integral to ensuring the best possible patient care. Looking forward to watching the evolution of this project.
+	- We thank the reviewer. 
+## Reviewer 5
+- [ ] Utilizing Natural Language Processing (NLP) approaches to identify caregiver attitudes is relevant and important for the patient's care journey. This paper employed MIMIC clinical notes upon annotation. The Hugging Face platform has been used for sentiment analysis with the following models: DistilBERT, RoBERTa, MiniLM, and BLOOM. The results include zero-shot, few-shot and full-trained approaches with RoBERTa providing the best result. Although, paper is well written and organized, cohort and model selection and inter-rater agreement interpretation should be explained better. 

@@ -41,6 +41,7 @@ again and/or clarify their statement.
 However, for Cohen’s kappa, values = 0 as indicating no agreement and 0.01–0.20 as none to slight, 0.21–0.40 as fair, 0.41– 0.60 as moderate, 0.61–0.80 as substantial, and 0.81–1.00 as almost perfect
 agreement. (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3900052/). Not sure what the "moderate level of agreement" definition is used here, and this does not logically prove that "This suggests that while the
 agreement between the annotators was not perfect, it was still reasonable and acceptable for the task."
+ - We edited the respective section to clarified the agreement between the annotators. 
 
 - [ ] Model selection. The paper stated that "state-of-the-art language models from the Hugging Face
 platform", however, they failed to justify how the SOTA models was selected. There are models trained on

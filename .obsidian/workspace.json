@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/CLARIN/AMIA review.md",
+                "file": "Projects/CLARIN/Answer Review AMIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/CLARIN/AMIA review.md",
+                "file": "Projects/CLARIN/Answer Review AMIA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/CLARIN/AMIA review.md"
+                "file": "Projects/CLARIN/Answer Review AMIA.md"
               }
             }
           },
@@ -176,10 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "daccec7c429e8854",
+  "active": "fdf1fa7ce524e703",
   "lastOpenFiles": [
-    "Projects/CLARIN/Answer Review AMIA.md",
     "Projects/CLARIN/AMIA review.md",
+    "Projects/CLARIN/Answer Review AMIA.md",
     "Day Planners/Day Planner-20230803.md",
     "Day Planners/Day Planner-20230806.md",
     "notes.md",

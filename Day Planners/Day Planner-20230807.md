@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 12:27:48 PM
+    %% Current Time: 12:32:48 PM
     section Tasks
     Lj Email     :08-30, 15mm
     AMIA [[AMIA review]] [[Answer Review AMIA]]     :08-45, 45mm
@@ -37,7 +37,7 @@ gantt
 - [x] 09:30 Signature Email/Book Travel
 - [x] 09:40 BREAK
 - [x] 10:00 EmoMap
-- [ ] 12:00 BREAK
+- [x] 12:00 BREAK
 ### Lunch 👀
 - [ ] 12:30 Read
 ### Afternoon 👻

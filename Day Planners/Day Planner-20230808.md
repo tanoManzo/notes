@@ -11,20 +11,21 @@
 ## Day Planner
 ### Meeting Daily Tasks 💚 
 1. Gozda ?
+2. emoMap
 ### Morning 🔨
-- [ ] 08:00 EmoMap
-- [ ] 09:15 AMIA [[AMIA review]] [[Answer Review AMIA]]
-- [ ] 10:00 BREAK
-- [ ] 10:30 Trajectory clustering [[Trajectory Colab]]
-- [ ] 12:00 BREAK
+- [x] 08:00 EmoMap
+- [x] 09:15 AMIA [[AMIA review]] [[Answer Review AMIA]]
+- [x] 10:00 BREAK
+- [x] 10:30 Trajectory clustering [[Trajectory Colab]]
+- [x] 12:00 BREAK
 ### Lunch 👀
-- [ ] 12:30 Read
+- [x] 12:30 Read
 ### Afternoon 👻
-- [ ] 13:30 Trajectory clustering [[Trajectory Colab]]
-- [ ] 15:00 BREAK
-- [ ] 16:00 Dina-Gaetano IDP
-- [ ] 16:30 Coursera
-- [ ] 17:30 Review & Setup
+- [x] 13:30 Trajectory clustering [[Trajectory Colab]]
+- [x] 15:00 BREAK
+- [x] 16:00 Dina-Gaetano IDP
+- [x] 16:30 Coursera
+- [x] 17:30 Review & Setup
 - [ ] END
 
 
@@ -32,7 +33,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 8:49:20 AM
+    %% Current Time: 7:50:37 PM
     section Tasks
     EmoMap     :08-00, 75mm
     AMIA [[AMIA review]] [[Answer Review AMIA]]     :09-15, 45mm

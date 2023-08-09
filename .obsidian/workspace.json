@@ -21,12 +21,8 @@
             "id": "f9190addefedaaf1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -104,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "General.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,10 +169,11 @@
   },
   "active": "f9190addefedaaf1",
   "lastOpenFiles": [
+    "General.md",
+    "Day Planners/Day Planner-20230809.md",
     "notes.md",
     "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
     "README.md",
-    "General.md",
     "Projects/CLARIN/Text-Based Detection of the Risk of Depression.md",
     "Projects/CLARIN/Trajectory Colab.md",
     "Projects/CLARIN/Sentiment Measured in Hospital Discharge Notes Is Associated with Readmission and Mortality Risk.md",
@@ -207,7 +200,6 @@
     "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.png",
     "conflict-files-obsidian-git.md",
     "NIH/Manzo's research roadmap.md",
-    "2022-10-13.md",
     "NIH/Manzo's research roadmap.pdf",
     "NIH/papers/KGPT/images/Pasted image 20221012153758.png"
   ]

@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20230808.md",
+                "file": "General.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20230808.md",
+                "file": "General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20230808.md",
+                "file": "General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20230808.md"
+                "file": "General.md"
               }
             }
           },
@@ -177,22 +177,27 @@
   },
   "active": "f9190addefedaaf1",
   "lastOpenFiles": [
-    "Day Planners/2023/August w2/Day Planner-20230807.md",
-    "Day Planners/2023/August w2/Day Planner-20230807.md",
+    "notes.md",
+    "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
+    "README.md",
+    "General.md",
+    "Projects/CLARIN/Text-Based Detection of the Risk of Depression.md",
+    "Projects/CLARIN/Trajectory Colab.md",
+    "Projects/CLARIN/Sentiment Measured in Hospital Discharge Notes Is Associated with Readmission and Mortality Risk.md",
+    "Projects/CLARIN/BurnoutEnsemble.md",
+    "Projects/CLARIN/Answer Review AMIA.md",
+    "Projects/CLARIN/AMIA review.md",
+    "Day Planners/2023/August w1/Day Planner-20230803.md",
+    "Day Planners/2023/August w1/Day Planner-20230802.md",
+    "Day Planners/2023/August w1/Day Planner-20230801.md",
     "Day Planners/Day Planner-20230808.md",
+    "Day Planners/2023/August w2/Day Planner-20230807.md",
+    "Day Planners/2023/August w2/Day Planner-20230807.md",
     "Excalidraw/Drawing 2023-08-07 23.47.24.excalidraw.md",
     "Excalidraw/Drawing 2023-08-07 23.16.50.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
     "images/review_AMIA.cfm.pdf",
-    "Projects/CLARIN/AMIA review.md",
-    "Projects/CLARIN/Answer Review AMIA.md",
     "Day Planners/Day Planner-20230806.md",
-    "Day Planners/2023/August w1/Day Planner-20230803.md",
     "Day Planners/2023/August w2",
-    "General.md",
-    "Day Planners/2023/August w1/Day Planner-20230801.md",
-    "notes.md",
-    "README.md",
     "nih/Writing NIH.md",
     "nih/NIH Training.md",
     "nih/Biowulf.md",
@@ -204,11 +209,6 @@
     "NIH/Manzo's research roadmap.md",
     "2022-10-13.md",
     "NIH/Manzo's research roadmap.pdf",
-    "NIH/papers/KGPT/images/Pasted image 20221012153758.png",
-    "sentiment analysis], [[sequential models.md",
-    "NIH/LJ_Gaetano_meeting_01.md",
-    "NIH/General Notes.md",
-    "NIH/notes.md",
-    "NIH/knowledge/LWIC.md"
+    "NIH/papers/KGPT/images/Pasted image 20221012153758.png"
   ]
 }

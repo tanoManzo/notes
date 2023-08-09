@@ -11,11 +11,3 @@
 	2. model 
 	3. trajectory 
 	4. in the previous proof of concept, we extend this work ... in short ... 
-
-6. SDoH (Financial problem and Social/Env)
-
-
-7. check if it is possible PostBac / 
-
-
-8. email to Julian: 

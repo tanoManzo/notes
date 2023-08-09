@@ -33,7 +33,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 7:50:37 PM
+    %% Current Time: 11:45:43 PM
     section Tasks
     EmoMap     :08-00, 75mm
     AMIA [[AMIA review]] [[Answer Review AMIA]]     :09-15, 45mm

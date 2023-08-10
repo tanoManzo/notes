@@ -10,11 +10,7 @@ Dr. Manzo published a conference paper at the American Medical Informatics Assoc
 3. Research and training objectives for the next year:
 Dr. Manzo will persist in his efforts on the CLARIN project, delving into caregivers' trajectories, examining diverse ICUs such as TSICU and MICU, and broadening the scope of model selection.
 Simultaneously, he will conduct parallel research by investigating Health Literacy within clinical notes. He plans to deploy language models to identify patients with inadequate health literacy and ascertain whether any distinctive patterns emerge within this subgroup.
-Concluding his endeavors, Dr. Manzo aims to submit a K99 grant proposal centered around the aforementioned research. This strategic move is anticipated to influence and shape his career.
+
 
 4. Career plans and mentoring activities for fellow:
-Once Dr. Bird is far enough along with the RNA comparison that he can start working on the paper, then we
-need to send him off to a conference or two to publicize his results. He should also be able to participate in
-some of the Research Fellows events here at NIH. There should be a number of other papers coming out of
-our assembly comparison studies that Dr. Bird should be able to contribute to and thereby be included as a
-co-author.
+From the aforementioned research, Dr. Manzo is expected to publicize his results in at least two publications. He should also be able to participate in some of the Research Fellows events here at NIH. There should be a number of other papers coming out of our assembly comparison studies that Dr. Manzo should be able to contribute to and thereby be included as a co-author. Concluding his endeavors, Dr. Manzo aims to submit a K99 grant proposal, which is anticipated to influence and shape his career.

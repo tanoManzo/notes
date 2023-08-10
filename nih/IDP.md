@@ -10,9 +10,10 @@ Dr. Manzo has acquired substantial background knowledge required for the CLARIN 
 Dr. Manzo published a conference paper at the American Medical Informatics Association (AMIA) 2023, titled: "Caregivers Attitude Detection From Clinical Notes."
 
 3. Research and training objectives for the next year:
-	1. Continuation of CLARIN
-	2. Health Literacy 
-	3. Submission of a K99 project
+	Dr. Manzo will continue working on the CLARIN project exploring the caregivers trajectories, investigating different ICUs (e.g., TSICU and MICU), and expanding the set of the model selection. 
+	He will investigate a parallel research by exploring the Health Literacy in clinical notes. He will select patients with poor health literacy and  He will implement language models to detect patients with poor health literacy and check if any specific pattern emerges from this sub population.
+	1. Health Literacy 
+	2. Submission of a K99 project
 Complete the RNA comparison algorithm. Incorporate it into our production programs. Once the RNA
 comparison algorithm is working a survey of the RNA structures can be done and results analyzed and
 studied. Since the method is novel it should be written up and published. While this is in progress Dr. Bird

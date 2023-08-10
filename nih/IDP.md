@@ -1,25 +1,16 @@
 [[NIH Training]]
 
 1. Progress toward meeting training plan and accomplishments:
-
 Dr. Manzo has acquired substantial background knowledge required for the CLARIN project, focusing on automatically detecting caregivers' attitudes from clinical notes. His contributions have led to a deeper understanding of the MIMIC-III clinical notes, wherein he has identified patterns and inconsistencies within the data. He successfully developed and implemented an annotation tool for creating the annotated dataset crucial for the project's success. Additionally, Dr. Manzo has been actively engaged in the implementation and testing of various large language models aimed at detecting specific attitude patterns. Lastly, he has participated in numerous meetings and training sessions to guide and shape the trajectory of his ongoing research endeavors.
 
 
 2. Publications:
-
 Dr. Manzo published a conference paper at the American Medical Informatics Association (AMIA) 2023, titled: "Caregivers Attitude Detection From Clinical Notes."
 
 3. Research and training objectives for the next year:
-	Dr. Manzo will continue working on the CLARIN project exploring the caregivers trajectories, investigating different ICUs (e.g., TSICU and MICU), and expanding the set of the model selection. 
-	He will investigate a parallel research by exploring the Health Literacy in clinical notes. He will select patients with poor health literacy and  He will implement language models to detect patients with poor health literacy and check if any specific pattern emerges from this sub population.
-	1. Health Literacy 
-	2. Submission of a K99 project
-Complete the RNA comparison algorithm. Incorporate it into our production programs. Once the RNA
-comparison algorithm is working a survey of the RNA structures can be done and results analyzed and
-studied. Since the method is novel it should be written up and published. While this is in progress Dr. Bird
-should also help us with other aspects of the assembly comparison project, e.g. general analysis of nucleotide
-and chemical interactions, analysis of particular classes of molecular structures such as ribosomes, and so
-forth.
+Dr. Manzo will persist in his efforts on the CLARIN project, delving into caregivers' trajectories, examining diverse ICUs such as TSICU and MICU, and broadening the scope of model selection.
+Simultaneously, he will conduct parallel research by investigating Health Literacy within clinical notes. He plans to deploy language models to identify patients with inadequate health literacy and ascertain whether any distinctive patterns emerge within this subgroup.
+Concluding his endeavors, Dr. Manzo aims to submit a K99 grant proposal centered around the aforementioned research. This strategic move is anticipated to influence and shape his career.
 
 4. Career plans and mentoring activities for fellow:
 Once Dr. Bird is far enough along with the RNA comparison that he can start working on the paper, then we

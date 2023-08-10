@@ -60,9 +60,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4f6d7e4d5d0629cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "info.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sep 20th.md",
+                "file": "info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sep 20th.md",
+                "file": "info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sep 20th.md"
+                "file": "info.md"
               }
             }
           },
@@ -199,10 +211,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b417b627de2d774",
+  "active": "4f6d7e4d5d0629cb",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20230810.md",
     "Sep 20th.md",
+    "info.md",
+    "Day Planners/Day Planner-20230810.md",
     "Projects/SDoH/Health Literacy Sentences.md",
     "README.md",
     "Writing NIH.md",
@@ -242,7 +255,6 @@
     "Day Planners",
     "Untitled.canvas",
     "Excalidraw",
-    "Projects/SDoH/meetings/Meetings with Leo July 05.md",
     "test",
     "Projects/SDoH/knowledge/papers",
     "Projects/SDoH/meetings",

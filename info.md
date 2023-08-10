@@ -1,4 +1,4 @@
 
 1. Check patient with indicator 
 2. Check which ICU 
-3. 
+3. Detect notes with similar notes for the health literacy part 

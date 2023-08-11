@@ -1,4 +1,13 @@
 ## to do/talk
+<<<<<<< HEAD
+1. JAMIA version
+2. SDoH (Financial problem and Social/Env) and 
+3. homeless (wait for Dina check)
+4. Intubation (LJ leo and Gaetano-Dina)
+5. Possible JAMIA (proposed to AIMIA, Gaetano-Dina)
+6. SDoH (Financial problem and Social/Env)
+7. check if it is possible PostBac (write Virginia)
+=======
 1. ask for registration at AMIA
 2. homeless (wait for Dina check)
 3. Intubation (LJ leo and Gaetano-Dina)
@@ -9,6 +18,7 @@
 	2. trace the outcome (e.g., mortility rate)
 	3. AMA 
 
+>>>>>>> af60e400dcd29db189e0d80f1c0bef339595865a
 
 
 ### add to cv
@@ -20,3 +30,8 @@
 7. FelCom -NLM Representor 
 8. Paper accepted at AMIA
 9. Presenter at Stanford  
+
+
+confirmation number L56MNW
+4XE7K323UE Manzo
+71LR6MN5AH Campmas

@@ -23,9 +23,9 @@
 - [x] 13:00 Writing Workshop [[Writing NIH]]
 - [x] 15:00 Dina Meeting
 - [x] 16:00 FelCom Meeting
-- [ ] 16:45 AMIA [[AMIA review]]
-- [ ] 17:30 Review & Setup
-- [ ] END
+- [x] 16:45 AMIA [[AMIA review]]
+- [x] 17:30 Review & Setup
+- [x] END
 
 confirmation number L56MNW
 4XE7K323UE Manzo

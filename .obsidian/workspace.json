@@ -67,14 +67,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "info.md",
+                "file": "Day Planners/Day Planner-20230808.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f59b3f5809c0937",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "info.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "info.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "info.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -211,11 +223,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f6d7e4d5d0629cb",
+  "active": "9f59b3f5809c0937",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230808.md",
+    "conflict-files-obsidian-git.md",
+    "info.md",
+    "notes.md",
+    "nih/NIH Training.md",
+    "nih/Writing NIH.md",
+    "nih/IDP.md",
+    "nih/Biowulf.md",
+    "nih",
+    "images/Pasted Image 20230803135212_116.png",
+    "images/Pasted Image 20230803134947_942.png",
+    "images/Pasted Image 20230803134646_920.png",
+    "images/Pasted Image 20230803133706_412.png",
+    "images/Pasted Image 20230803132917_054.png",
+    "images/Pasted Image 20230803132259_933.png",
+    "images/Pasted Image 20230803131313_397.png",
+    "images/Pasted Image 20230803131228_392.png",
+    "images/Pasted Image 20230803130856_502.png",
+    "images/Pasted Image 20230802150824_332.png",
+    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw/Drawing 2023-08-09 10.15.10.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-07 23.47.24.excalidraw.md",
+    "Day Planners/2023/August w2/Day Planner-20230807.md",
+    "Day Planners/2023/August w2",
+    "Day Planners/2023/August w1/Day Planner-20230803.md",
     "Day Planners/Day Planner-20230811.md",
     "Sep 20th.md",
-    "info.md",
     "Day Planners/Day Planner-20230810.md",
     "Projects/SDoH/Health Literacy Sentences.md",
     "README.md",
@@ -225,41 +263,15 @@
     "Day Planners/Day Planner-20230806.md",
     "Excalidraw/Drawing 2023-08-03 13.07.02.excalidraw.md",
     "Day Planners/2023/August w1/Day Planner-20230802.md",
-    "Pasted Image 20230803135212_116.png",
-    "Pasted Image 20230803134947_942.png",
-    "Pasted Image 20230803134646_920.png",
-    "Pasted Image 20230803133706_412.png",
-    "Pasted Image 20230803132917_054.png",
-    "Pasted Image 20230803132259_933.png",
-    "Pasted Image 20230803131313_397.png",
-    "Pasted Image 20230803131228_392.png",
-    "Pasted Image 20230803130856_502.png",
     "NIH Training.md",
     "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
-    "Pasted Image 20230802150824_332.png",
-    "Excalidraw/Drawing 2023-08-02 10.47.19.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-02 10.47.03.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-31 11.18.09.excalidraw.md",
-    "General.md",
-    "Biowulf.md",
-    "Projects/CLARIN/AMIA review.md",
-    "Day Planners/Day Planner-20230801.md",
-    "Day Planners/2023/August w1/Day Planner-20230801.md",
-    "Projects/CLARIN/Answer Review AMIA.md",
-    "Projects/CLARIN/Trajectory Colab.md",
-    "Day Planners/2023/August w1/Day Planner-20230801 1.md",
     "Day Planners/2023/August w1",
     "Day Planners/2023",
-    "Projects/SDoH/knowledge/Health Literacy.md",
     "images/review_AMIA.cfm.pdf",
     "Day Planners",
     "Untitled.canvas",
     "Excalidraw",
     "test",
-    "Projects/SDoH/knowledge/papers",
-    "Projects/SDoH/meetings",
-    "Projects/SDoH/knowledge",
-    "Projects/EmoMap/EmoMap.canvas",
-    "Projects/SDoH"
+    "Projects/EmoMap/EmoMap.canvas"
   ]
 }

@@ -13,7 +13,7 @@
 ### Meeting Daily Tasks 💚 
 
 ### Morning 🔨
-- [ ] 08:00 Setup
+- [x] 08:00 Setup
 - [ ] 09:45 Health Literacy [[Health Literacy Sentences]]
 - [ ] 10:45 BREAK
 - [ ] 11:00 Health Literacy [[Health Literacy Sentences]]
@@ -32,7 +32,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 9:44:53 AM
+    %% Current Time: 9:50:12 AM
     section Tasks
     Setup     :08-00, 105mm
     Health Literacy [[Health Literacy Sentences]]     :09-45, 60mm

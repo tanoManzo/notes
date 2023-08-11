@@ -21,7 +21,7 @@
 ### Lunch 👀
 - [x] 12:30 Read
 ### Afternoon 👻
-- [ ] 13:30 Trajectory clustering [[Trajectory Colab]]
+- [x] 13:30 Trajectory clustering [[Trajectory Colab]]
 - [ ] 15:00 BREAK
 - [ ] 16:00 Coursera
 - [ ] 16:45 Review & Setup (email for grant, insurance plan tomorrow, call bank for card)
@@ -32,7 +32,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 2:56:12 PM
+    %% Current Time: 3:02:12 PM
     section Tasks
     Setup     :08-00, 105mm
     Health Literacy [[Health Literacy Sentences]]     :09-45, 60mm

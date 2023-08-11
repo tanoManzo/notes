@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "info.md",
+                "file": "Day Planners/Day Planner-20230811.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "info.md",
+                "file": "Day Planners/Day Planner-20230811.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "info.md",
+                "file": "Day Planners/Day Planner-20230811.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "info.md"
+                "file": "Day Planners/Day Planner-20230811.md"
               }
             }
           },
@@ -221,6 +221,7 @@
   },
   "active": "82364b9d5a7e308d",
   "lastOpenFiles": [
+    "info.md",
     "notes.md",
     "README.md",
     "Sep 20th.md",
@@ -229,7 +230,6 @@
     "Day Planners/Day Planner-20230810.md",
     "Day Planners/Day Planner-20230809.md",
     "conflict-files-obsidian-git.md",
-    "info.md",
     "nih/NIH Training.md",
     "nih/Writing NIH.md",
     "nih/IDP.md",

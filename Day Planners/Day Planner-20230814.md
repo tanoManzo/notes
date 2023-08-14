@@ -9,7 +9,7 @@
 ## Day Planner
 
 ### Meeting Daily Tasks 💚 
-- [ ] 14:00 Esha
+- [x] 14:00 Esha
 
 ### Morning 🔨
 - [x] 08:00 Setup
@@ -30,7 +30,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 1:55:38 PM
+    %% Current Time: 2:01:38 PM
     section Tasks
     Esha     :14-00, -360mm
     Setup     :08-00, 90mm

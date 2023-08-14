@@ -15,7 +15,7 @@
 - [x] 08:00 Setup
 - [x] 09:30 Health Literacy [[Health Literacy Sentences]]
 - [x] 10:45 BREAK
-- [ ] 11:00 Health Literacy [[Health Literacy Sentences]]
+- [x] 11:00 Health Literacy [[Health Literacy Sentences]]
 - [ ] 12:00 BREAK
 ### Lunch 👀
 - [ ] 12:30 Read
@@ -30,7 +30,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 11:58:38 AM
+    %% Current Time: 12:04:38 PM
     section Tasks
     Esha     :14-00, -360mm
     Setup     :08-00, 90mm

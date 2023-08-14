@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sample health literacy.md",
+                "file": "Projects/SDoH/Sample health literacy.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sample health literacy.md",
+                "file": "Projects/SDoH/Sample health literacy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sample health literacy.md",
+                "file": "Projects/SDoH/Sample health literacy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sample health literacy.md"
+                "file": "Projects/SDoH/Sample health literacy.md"
               }
             }
           },
@@ -219,11 +219,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82364b9d5a7e308d",
+  "active": "a6b9da5d46365744",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20230814.md",
     "Day Planners/2023/August w2/Day Planner-20230811.md",
-    "Sample health literacy.md",
+    "Projects/SDoH/Sample health literacy.md",
     "info.md",
     "notes.md",
     "README.md",

@@ -30,7 +30,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 11:19:37 AM
+    %% Current Time: 11:24:37 AM
     section Tasks
     Esha     :14-00, -360mm
     Setup     :08-00, 90mm

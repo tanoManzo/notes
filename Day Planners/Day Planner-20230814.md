@@ -1,7 +1,7 @@
 # Weekly Goals ✅
   - [ ] Trajectory Clusters 
   - [ ] EmoMap
-  - [ ] Excel and Registration Link
+  - [ ] Excel and Registration Lin
   - [ ] Health Literacy [[Health Literacy Sentences]]
   - [ ] 4h deep work 3 days per week (set on the calendar)
   - [ ] Coursera
@@ -30,7 +30,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 9:55:38 AM
+    %% Current Time: 10:00:37 AM
     section Tasks
     Esha     :14-00, -360mm
     Setup     :08-00, 90mm

@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/SDoH/Sample health literacy.md",
+                "file": "Day Planners/Day Planner-20230814.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/SDoH/Sample health literacy.md",
+                "file": "Day Planners/Day Planner-20230814.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/SDoH/Sample health literacy.md",
+                "file": "Day Planners/Day Planner-20230814.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/SDoH/Sample health literacy.md"
+                "file": "Day Planners/Day Planner-20230814.md"
               }
             }
           },
@@ -219,11 +219,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6b9da5d46365744",
+  "active": "82364b9d5a7e308d",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230815.md",
+    "Projects/SDoH/Sample health literacy.md",
     "Day Planners/Day Planner-20230814.md",
     "Day Planners/2023/August w2/Day Planner-20230811.md",
-    "Projects/SDoH/Sample health literacy.md",
     "info.md",
     "notes.md",
     "README.md",
@@ -260,7 +261,6 @@
     "Day Planners/Day Planner-20230803.md",
     "Day Planners/Day Planner-20230806.md",
     "Excalidraw/Drawing 2023-08-03 13.07.02.excalidraw.md",
-    "Day Planners/2023/August w1/Day Planner-20230802.md",
     "Day Planners/2023/August w1",
     "Day Planners/2023",
     "images/review_AMIA.cfm.pdf",

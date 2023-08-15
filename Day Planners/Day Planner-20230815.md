@@ -16,7 +16,7 @@
 ### Morning 🔨
 - [x] 08:00 Setup
 - [x] 09:30 Trajectory clustering [[Trajectory Colab]]
-- [ ] 10:45 BREAK
+- [x] 10:45 BREAK
 - [ ] 11:00 Health Literacy [[Health Literacy Sentences]]
 - [ ] 12:00 BREAK
 ### Lunch 👀
@@ -32,7 +32,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 10:56:38 AM
+    %% Current Time: 11:02:38 AM
     section Tasks
     Setup     :08-00, 90mm
     Trajectory clustering [[Trajectory Colab]]     :09-30, 75mm

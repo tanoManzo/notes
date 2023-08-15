@@ -20,7 +20,7 @@
 - [x] 11:00 Health Literacy [[Health Literacy Sentences]]
 - [x] 12:00 BREAK
 ### Lunch 👀
-- [ ] 12:30 Read
+- [x] 12:30 Read
 ### Afternoon 👻
 - [ ] 13:30 EmoMap
 - [ ] 15:00 BREAK
@@ -32,7 +32,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 1:28:38 PM
+    %% Current Time: 1:34:38 PM
     section Tasks
     Setup     :08-00, 90mm
     Trajectory clustering [[Trajectory Colab]]     :09-30, 75mm

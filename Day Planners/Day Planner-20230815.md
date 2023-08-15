@@ -23,7 +23,7 @@
 - [x] 12:30 Read
 ### Afternoon 👻
 - [x] 13:30 EmoMap
-- [ ] 15:00 BREAK
+- [x] 15:00 BREAK
 - [ ] 16:00 Coursera
 - [ ] 16:45 Review & Setup (email for grant, insurance plan tomorrow, call bank for card)
 - [ ] END
@@ -32,7 +32,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 3:54:38 PM
+    %% Current Time: 4:00:38 PM
     section Tasks
     Setup     :08-00, 90mm
     Trajectory clustering [[Trajectory Colab]]     :09-30, 75mm

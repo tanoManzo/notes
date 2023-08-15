@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "881550bf71dc4fea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/SDoH/Health Literacy Sentences.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/SDoH/Health Literacy Sentences.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/SDoH/Health Literacy Sentences.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -177,13 +189,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d035e42477aeca23",
+  "active": "881550bf71dc4fea",
   "lastOpenFiles": [
+    "Projects/SDoH/Health Literacy Sentences.md",
+    "Untitled.md",
     "Day Planners/Day Planner-20230815.md",
     "Day Planners/Day Planner-20230814.md",
     "Day Planners/Day Planner-20230811.md",
     "Day Planners/Day Planner-20230810.md",
-    "Projects/SDoH/Health Literacy Sentences.md",
     "nih/IDP.md",
     "Day Planners/Day Planner-20230808.md",
     "Excalidraw/Drawing 2023-08-09 10.15.10.excalidraw.md",
@@ -206,7 +219,6 @@
     "Day Planners/2023/August w1/Day Planner-20230803.md",
     "Day Planners/2023/August w1/Day Planner-20230802.md",
     "Day Planners/2023/August w1/Day Planner-20230801.md",
-    "Day Planners/2023/August w2/Day Planner-20230807.md",
     "Day Planners/2023/August w2/Day Planner-20230807.md",
     "images/review_AMIA.cfm.pdf",
     "Day Planners/2023/August w2",

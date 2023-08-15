@@ -24,15 +24,15 @@
 ### Afternoon 👻
 - [x] 13:30 EmoMap
 - [x] 15:00 BREAK
-- [ ] 16:00 Coursera
-- [ ] 16:45 Review & Setup (email for grant, insurance plan tomorrow, call bank for card)
+- [x] 16:00 Coursera
+- [x] 16:45 Review & Setup (email for grant, insurance plan tomorrow, call bank for card)
 - [ ] END
 
 ```mermaid
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 4:44:38 PM
+    %% Current Time: 4:50:38 PM
     section Tasks
     Setup     :08-00, 90mm
     Trajectory clustering [[Trajectory Colab]]     :09-30, 75mm

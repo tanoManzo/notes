@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nih/IDP.md",
+                "file": "Projects/SDoH/Health Literacy Sentences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nih/IDP.md",
+                "file": "Projects/SDoH/Health Literacy Sentences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nih/IDP.md"
+                "file": "Projects/SDoH/Health Literacy Sentences.md"
               }
             }
           },
@@ -177,8 +177,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7bf7a902daf0ad7e",
+  "active": "d035e42477aeca23",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230815.md",
+    "Day Planners/Day Planner-20230814.md",
     "Day Planners/Day Planner-20230811.md",
     "Day Planners/Day Planner-20230810.md",
     "Projects/SDoH/Health Literacy Sentences.md",
@@ -206,8 +208,6 @@
     "Day Planners/2023/August w1/Day Planner-20230801.md",
     "Day Planners/2023/August w2/Day Planner-20230807.md",
     "Day Planners/2023/August w2/Day Planner-20230807.md",
-    "Excalidraw/Drawing 2023-08-07 23.47.24.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-07 23.16.50.excalidraw.md",
     "images/review_AMIA.cfm.pdf",
     "Day Planners/2023/August w2",
     "nih",

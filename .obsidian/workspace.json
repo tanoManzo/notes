@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20230814.md",
+                "file": "Day Planners/Day Planner-20230815.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 213.5
   },
   "right": {
     "id": "70a4a99d404345ae",
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20230814.md",
+                "file": "Day Planners/Day Planner-20230815.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20230814.md",
+                "file": "Day Planners/Day Planner-20230815.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20230814.md"
+                "file": "Day Planners/Day Planner-20230815.md"
               }
             }
           },
@@ -221,9 +221,10 @@
   },
   "active": "82364b9d5a7e308d",
   "lastOpenFiles": [
+    "Day Planners/2023/August w3/Day Planner-20230814.md",
     "Day Planners/Day Planner-20230815.md",
+    "Day Planners/2023/August w3",
     "Projects/SDoH/Sample health literacy.md",
-    "Day Planners/Day Planner-20230814.md",
     "Day Planners/2023/August w2/Day Planner-20230811.md",
     "info.md",
     "notes.md",
@@ -260,14 +261,12 @@
     "Writing NIH.md",
     "Day Planners/Day Planner-20230803.md",
     "Day Planners/Day Planner-20230806.md",
-    "Excalidraw/Drawing 2023-08-03 13.07.02.excalidraw.md",
     "Day Planners/2023/August w1",
     "Day Planners/2023",
     "images/review_AMIA.cfm.pdf",
     "Day Planners",
     "Untitled.canvas",
     "Excalidraw",
-    "test",
     "Projects/EmoMap/EmoMap.canvas"
   ]
 }

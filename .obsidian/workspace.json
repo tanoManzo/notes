@@ -49,7 +49,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-08-15 16.39.20.excalidraw.md"
               }
             }
           },
@@ -65,20 +65,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "f73f50f3b4863e22",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9dbf1ea342222f15",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "78aa3775dfc9e91b",
@@ -152,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-08-15 16.39.20.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-08-15 16.39.20.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-08-15 16.39.20.excalidraw.md"
               }
             }
           },
@@ -225,6 +212,7 @@
   },
   "active": "0b77bcb1f763bc5c",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
     "Day Planners/Day Planner-20230816.md",
     "Excalidraw/Drawing 2023-08-15 16.39.20.excalidraw.md",
     "Pasted Image 20230815171144_573.png",
@@ -249,7 +237,6 @@
     "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
     "General.md",
     "notes.md",
     "README.md",

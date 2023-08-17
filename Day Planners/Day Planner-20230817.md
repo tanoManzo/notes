@@ -12,8 +12,8 @@
   - [ ] 4h deep work 3 days per week (set on the calendar)
   - [ ] Coursera
 ### Meeting Daily Tasks 💚 
-- [ ] 15:00 Dina
-- [ ] 17:00 Juliana
+- [x] 15:00 Dina
+- [x] 17:00 Juliana
 
 ### Morning 🔨
 - [x] 08:00 Setup
@@ -34,7 +34,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 4:55:37 PM
+    %% Current Time: 5:00:37 PM
     section Tasks
     Dina     :15-00, 120mm
     Juliana     :17-00, -540mm

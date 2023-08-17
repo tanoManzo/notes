@@ -2,4 +2,9 @@
 - contact Dina for days of holidays
 - contact Leo update of health literacy
 - len of stay
+- gender
+- enth
+- insurance type
+- DIAGNOSIS
+- does it corr with how eng. the family is....
 - 

@@ -10,3 +10,8 @@
 - crying baby? etc. fussy
 - caregivers expl. analysis 
 - DISCHARGE_LOCATION
+
+health literacy
+
+- discharge instruction section. 
+- 

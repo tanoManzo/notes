@@ -26,15 +26,15 @@
 ### Afternoon 👻
 - [x] 13:30 EmoMap
 - [x] 15:00 BREAK
-- [ ] 16:00 Coursera
-- [ ] 16:45 Review & Setup (email for grant, insurance plan tomorrow, call bank for card)
+- [x] 16:00 Coursera
+- [x] 16:45 Review & Setup (email for grant, insurance plan tomorrow, call bank for card)
 - [ ] END
 
 ```mermaid
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 4:44:37 PM
+    %% Current Time: 4:49:37 PM
     section Tasks
     Dina     :15-00, 120mm
     Juliana     :17-00, -540mm

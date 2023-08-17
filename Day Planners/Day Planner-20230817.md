@@ -22,7 +22,7 @@
 - [x] 11:00 Health Literacy [[Health Literacy Sentences]]
 - [x] 12:00 BREAK
 ### Lunch 👀
-- [ ] 12:30 Read
+- [x] 12:30 Read
 ### Afternoon 👻
 - [ ] 13:30 EmoMap
 - [ ] 15:00 BREAK
@@ -34,7 +34,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 1:24:37 PM
+    %% Current Time: 1:30:37 PM
     section Tasks
     Dina     :15-00, 120mm
     Juliana     :17-00, -540mm

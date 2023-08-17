@@ -34,7 +34,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 12:40:38 PM
+    %% Current Time: 12:46:37 PM
     section Tasks
     Dina     :15-00, 120mm
     Juliana     :17-00, -540mm

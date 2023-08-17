@@ -24,7 +24,7 @@
 ### Lunch 👀
 - [x] 12:30 Read
 ### Afternoon 👻
-- [ ] 13:30 EmoMap
+- [x] 13:30 EmoMap
 - [ ] 15:00 BREAK
 - [ ] 16:00 Coursera
 - [ ] 16:45 Review & Setup (email for grant, insurance plan tomorrow, call bank for card)
@@ -34,7 +34,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 2:54:37 PM
+    %% Current Time: 3:00:37 PM
     section Tasks
     Dina     :15-00, 120mm
     Juliana     :17-00, -540mm

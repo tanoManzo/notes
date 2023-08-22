@@ -1,7 +1,7 @@
 
 - contact Dina for days of holidays
 
-- len of stay []
+- len of stay 
 - gender
 - enth
 - insurance type

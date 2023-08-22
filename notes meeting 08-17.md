@@ -1,7 +1,7 @@
-- contact Virginia for holidays
+
 - contact Dina for days of holidays
-- contact Leo update of health literacy
-- len of stay
+
+- len of stay []
 - gender
 - enth
 - insurance type

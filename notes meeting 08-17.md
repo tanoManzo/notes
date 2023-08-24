@@ -6,12 +6,13 @@
 - enth
 - insurance type
 - DIAGNOSIS
-- does it corr with how eng. the family is....
-- crying baby? etc. fussy
-- caregivers expl. analysis 
 - DISCHARGE_LOCATION
 
-health literacy
+- does it corr with how engaged the family is....
+- crying baby? etc. fussy
+- caregivers expl. analysis 
+
+
 
 - discharge instruction section. 
 - 

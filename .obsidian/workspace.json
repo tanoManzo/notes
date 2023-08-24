@@ -75,12 +75,11 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-03 13.07.02.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-08-09 10.15.10.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-03 13.07.02.excalidraw.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-03 13.07.02.excalidraw.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-03 13.07.02.excalidraw.md"
+                "file": "README.md"
               }
             }
           },
@@ -217,14 +216,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82364b9d5a7e308d",
+  "active": "236887dcedacc78a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-08-07 23.47.24.excalidraw.md",
+    "Projects/SDoH/Health Literacy Sentences.md",
+    "Excalidraw/Drawing 2023-08-03 13.07.02.excalidraw.md",
     "Excalidraw/Drawing 2023-08-09 10.15.10.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-07 23.47.24.excalidraw.md",
     "papers/sentiment analysis.md",
     "info.md",
     "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.png",
-    "Excalidraw/Drawing 2023-08-03 13.07.02.excalidraw.md",
     "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
     "notes meeting 08-17.md",
     "Day Planners/Day Planner-20230824.md",
@@ -246,7 +246,6 @@
     "Day Planners/Day Planner-20230810.md",
     "Day Planners/Day Planner-20230809.md",
     "conflict-files-obsidian-git.md",
-    "nih/NIH Training.md",
     "nih",
     "images/Pasted Image 20230803135212_116.png",
     "images/Pasted Image 20230803134947_942.png",

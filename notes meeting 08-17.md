@@ -15,4 +15,6 @@
 
 
 - discharge instruction section. 
-- 
+
+- llama zero-shot health literacy
+- monday presentation

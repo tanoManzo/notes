@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes meeting 08-17.md",
+                "file": "nih/Biowulf.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bio",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +125,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes meeting 08-17.md",
+                "file": "nih/Biowulf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes meeting 08-17.md",
+                "file": "nih/Biowulf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes meeting 08-17.md"
+                "file": "nih/Biowulf.md"
               }
             }
           },
@@ -218,6 +219,8 @@
   },
   "active": "236887dcedacc78a",
   "lastOpenFiles": [
+    "notes meeting 08-17.md",
+    "Day Planners/Day Planner-20230825.md",
     "README.md",
     "Sep 20th.md",
     "Projects/SDoH/Health Literacy Sentences.md",
@@ -228,7 +231,6 @@
     "info.md",
     "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.png",
     "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
-    "notes meeting 08-17.md",
     "Day Planners/Day Planner-20230824.md",
     "Day Planners/Day Planner-20230823.md",
     "Day Planners/Day Planner-20230822.md",
@@ -245,7 +247,6 @@
     "Day Planners/2023/August w2/Day Planner-20230808.md",
     "Day Planners/Day Planner-20230810.md",
     "Day Planners/Day Planner-20230809.md",
-    "conflict-files-obsidian-git.md",
     "nih",
     "images/Pasted Image 20230803135212_116.png",
     "images/Pasted Image 20230803134947_942.png",

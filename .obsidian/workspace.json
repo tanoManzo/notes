@@ -6,6 +6,7 @@
       {
         "id": "f306350f9ed8eb28",
         "type": "tabs",
+        "dimension": 84.35054773082942,
         "children": [
           {
             "id": "236887dcedacc78a",
@@ -20,12 +21,24 @@
             }
           },
           {
-            "id": "6eb7c7aaf2005ec6",
+            "id": "cc4556b417f02188",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2023-08-28 05.32.54.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "6eb7c7aaf2005ec6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/SDoH/knowledge/Health Literacy.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -101,6 +114,21 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "8f58d5306160f470",
+        "type": "tabs",
+        "dimension": 15.64945226917058,
+        "children": [
+          {
+            "id": "1b59d4080483806b",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bio",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
-    "collapsed": true
+    "width": 213.5
   },
   "right": {
     "id": "70a4a99d404345ae",
@@ -238,14 +265,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6eb7c7aaf2005ec6",
+  "active": "1b59d4080483806b",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-08-28 14.43.04.excalidraw.md",
+    "nih/Biowulf.md",
+    "Excalidraw/Drawing 2023-08-09 10.15.10.excalidraw.md",
+    "Projects/SDoH/knowledge/Health Literacy.md",
+    "Excalidraw/Drawing 2023-08-28 05.32.54.excalidraw.md",
     "Pasted Image 20230828142816_234.png",
     "Pasted Image 20230828141720_247.png",
     "Pasted Image 20230828141615_406.png",
     "Pasted Image 20230828063907_884.png",
-    "Excalidraw/Drawing 2023-08-28 05.32.54.excalidraw.md",
-    "nih/Biowulf.md",
     "Day Planners/Day Planner-20230828.md",
     "notes meeting 08-17.md",
     "Day Planners/Day Planner-20230825.md",
@@ -253,7 +283,6 @@
     "Sep 20th.md",
     "Projects/SDoH/Health Literacy Sentences.md",
     "Excalidraw/Drawing 2023-08-03 13.07.02.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-09 10.15.10.excalidraw.md",
     "Excalidraw/Drawing 2023-08-07 23.47.24.excalidraw.md",
     "papers/sentiment analysis.md",
     "info.md",
@@ -270,14 +299,12 @@
     "Day Planners/2023/August w3/Day Planner-20230814.md",
     "Day Planners/2023/August w3",
     "Projects/SDoH/Sample health literacy.md",
-    "Day Planners/2023/August w2/Day Planner-20230811.md",
     "nih",
     "images/Pasted Image 20230803135212_116.png",
     "images/Pasted Image 20230803134947_942.png",
     "images/Pasted Image 20230803134646_920.png",
     "images/Pasted Image 20230803133706_412.png",
     "images/Pasted Image 20230803132917_054.png",
-    "images/Pasted Image 20230803132259_933.png",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Day Planners/2023/August w2",

@@ -191,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "70a4a99d404345ae",
@@ -278,8 +279,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56f2d69111fcc6da",
+  "active": "a6b9da5d46365744",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230830.md",
     "Excalidraw/Drawing 2023-08-28 05.32.54.excalidraw.md",
     "- AMA patients notes. To check..md",
     "Excalidraw/Drawing 2023-08-28 14.43.04.excalidraw.md",
@@ -310,7 +312,6 @@
     "Day Planners/Day Planner-20230817.md",
     "Day Planners/2023/August w3/Day Planner-20230816.md",
     "Day Planners/2023/August w3/Day Planner-20230815.md",
-    "Day Planners/2023/August w3/Day Planner-20230814.md",
     "Day Planners/2023/August w3",
     "nih",
     "images/Pasted Image 20230803135212_116.png",

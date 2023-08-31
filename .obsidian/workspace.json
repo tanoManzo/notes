@@ -6,7 +6,7 @@
       {
         "id": "f306350f9ed8eb28",
         "type": "tabs",
-        "dimension": 84.35054773082942,
+        "dimension": 42.17527386541471,
         "children": [
           {
             "id": "236887dcedacc78a",
@@ -116,18 +116,25 @@
         "currentTab": 1
       },
       {
-        "id": "8f58d5306160f470",
+        "id": "548b2784c8e80ba5",
         "type": "tabs",
-        "dimension": 15.64945226917058,
+        "dimension": 42.17527386541471,
         "children": [
           {
-            "id": "1b59d4080483806b",
+            "id": "46dedf2fe18423f2",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "8f58d5306160f470",
+        "type": "tabs",
+        "dimension": 15.64945226917058,
+        "children": [
           {
             "id": "56f2d69111fcc6da",
             "type": "leaf",
@@ -140,8 +147,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "- AMA patients notes. To check..md",
+                "file": "Excalidraw/Drawing 2023-08-28 05.32.54.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "- AMA patients notes. To check..md",
+                "file": "Excalidraw/Drawing 2023-08-28 05.32.54.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "- AMA patients notes. To check..md"
+                "file": "Excalidraw/Drawing 2023-08-28 05.32.54.excalidraw.md"
               }
             }
           },
@@ -279,13 +285,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6b9da5d46365744",
+  "active": "cc4556b417f02188",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230831.md",
+    "nih/Biowulf.md",
     "Day Planners/Day Planner-20230830.md",
     "Excalidraw/Drawing 2023-08-28 05.32.54.excalidraw.md",
     "- AMA patients notes. To check..md",
     "Excalidraw/Drawing 2023-08-28 14.43.04.excalidraw.md",
-    "nih/Biowulf.md",
     "Excalidraw/Drawing 2023-08-09 10.15.10.excalidraw.md",
     "Projects/SDoH/knowledge/Health Literacy.md",
     "Pasted Image 20230828142816_234.png",
@@ -311,7 +318,6 @@
     "Day Planners/Day Planner-20230820.md",
     "Day Planners/Day Planner-20230817.md",
     "Day Planners/2023/August w3/Day Planner-20230816.md",
-    "Day Planners/2023/August w3/Day Planner-20230815.md",
     "Day Planners/2023/August w3",
     "nih",
     "images/Pasted Image 20230803135212_116.png",

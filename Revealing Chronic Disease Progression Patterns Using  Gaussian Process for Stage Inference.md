@@ -12,3 +12,5 @@ GPSI identified genotypes of based on image features, where these subgroups corr
 Second, GPSI differentiated BP into two distinct developmental patterns and defined the contribution of specific brain region atrophy from early to advanced disease stages, demonstrating the ability of the GPSI to identify diagnostic subgroups. 
 
 Third, HCC progression patterns were well reproduced in the two independent UTHealth and TCGA datasets.
+
+These two examples demonstrated that the GPSI can identify subgroups with different temporal progression patterns. Furthermore, from the HCC data set, the GPSI provided more refined staging information for each patient, enabling early detection of HCC. Finally, compared with the current Liver Imaging Reporting and Data System (LI-RADS) [8], our comprehensive grading system achieved a more accurate diagnosis classification

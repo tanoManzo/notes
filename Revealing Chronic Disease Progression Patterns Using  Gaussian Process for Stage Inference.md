@@ -18,4 +18,4 @@ These two examples demonstrated that the GPSI can identify subgroups with differ
 Our proposed model utilizes the GP to establish the stochastic mapping from a latent stage space to an observed EHR space. This expected mapping is usually defined by the mean function of the GP, while the covariance function describes the covariance between two arbitrary points in the latent space. In practice, using a mean function of 0 is common for simplicity, especially with insufficient prior knowledge about the function to be studied. Meanwhile, the covariance function controls the second-order statistics and is chosen based on different second-order features, such as smoothness and periodicity.
 
 
-Authors implemented Gaussian Process for Stage Inference aalgorithm to uncover chronic disease progression patterns over time
+Authors implemented Gaussian Process for Stage Inference algorithm to reveal chronic disease patterns over time. Authors applied their algorithm to several datasets and compare it to state-of-the-art approaches  

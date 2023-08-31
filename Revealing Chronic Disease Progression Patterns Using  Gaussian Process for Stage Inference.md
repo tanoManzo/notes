@@ -16,3 +16,6 @@ Third, HCC progression patterns were well reproduced in the two independent UTHe
 These two examples demonstrated that the GPSI can identify subgroups with different temporal progression patterns. Furthermore, from the HCC data set, the GPSI provided more refined staging information for each patient, enabling early detection of HCC. Finally, compared with the current Liver Imaging Reporting and Data System (LI-RADS) [8], our comprehensive grading system achieved a more accurate diagnosis classification.
 
 Our proposed model utilizes the GP to establish the stochastic mapping from a latent stage space to an observed EHR space. This expected mapping is usually defined by the mean function of the GP, while the covariance function describes the covariance between two arbitrary points in the latent space. In practice, using a mean function of 0 is common for simplicity, especially with insufficient prior knowledge about the function to be studied. Meanwhile, the covariance function controls the second-order statistics and is chosen based on different second-order features, such as smoothness and periodicity.
+
+
+Authors implemented Gaussian Process for Stage Inference aalgorithm to uncover chronic disease progression patterns over time

@@ -27,7 +27,7 @@ Authors should clarify the choice of k-means in the general procedure of Figure 
 
 Figure 2c illustrates the comparison of GPSI, SuStaIn, and ground truth with different SNRs. However, it is unclear the reason why SuStaIn seems to outperform GPSI at early stages.  
 
-Another concern is the absence of comparison with ML/DL models, which can capture the non-linearity correlation even in low-frequency 
+Another concern is the absence of comparison with ML/DL models, which can capture the non-linearity correlation even slow progression and heterogeneous manifestations diseases. 
 
 Finally, a limitation section/sub-section is needed. 
 

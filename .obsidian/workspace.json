@@ -42,16 +42,6 @@
             }
           },
           {
-            "id": "871662a57f47136f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
-          },
-          {
             "id": "6eb7c7aaf2005ec6",
             "type": "leaf",
             "state": {
@@ -134,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -271,12 +261,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "871662a57f47136f",
+  "active": "0ef4f805b485aec6",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20230904.md",
-    "Day Planners/Day Planner-20230901.md",
     "Excalidraw/Drawing 2023-08-28 05.32.54.excalidraw.md",
     "Revealing Chronic Disease Progression Patterns Using  Gaussian Process for Stage Inference.md",
+    "Day Planners/Day Planner-20230904.md",
+    "Day Planners/Day Planner-20230901.md",
     "Day Planners/Day Planner-20230831.md",
     "nih/Biowulf.md",
     "Day Planners/Day Planner-20230830.md",

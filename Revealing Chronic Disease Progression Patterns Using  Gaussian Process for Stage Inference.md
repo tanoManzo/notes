@@ -25,6 +25,10 @@ The approach is solid and sound. However, a few descriptions/motivation can be a
 
 Authors should clarify the choice of k-means in the general procedure of Figure 1b to estimate subgroups and stage inference with GP. Moreover, a silhouette plot can be added as support of the subgroup quality.
 
-Figure 2c illustrates the comparison of GPSI, SuStaIn, and ground truth with different SNRs. However, it is unclear the reason why SuStaIn seems to outperform GPSI at early stages. 
+Figure 2c illustrates the comparison of GPSI, SuStaIn, and ground truth with different SNRs. However, it is unclear the reason why SuStaIn seems to outperform GPSI at early stages.  
+
+Another concern is the absence of comparison with ML/DL models, which can capture the non-linearity correlation even in low-frequency 
+
+Finally, a limitation section/sub-section is needed. 
 
 ----

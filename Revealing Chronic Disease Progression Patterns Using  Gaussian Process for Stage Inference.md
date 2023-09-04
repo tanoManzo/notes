@@ -21,8 +21,9 @@ Our proposed model utilizes the GP to establish the stochastic mapping from a la
 
 Authors implemented Gaussian Process for Stage Inference (GPSI) algorithm to reveal chronic disease patterns over time. Authors applied GPSI to several datasets and compare it to state-of-the-art approaches to identify distinct longitudinal progression patterns (e.g., SuStaIn). GPSI identifies genotypes of based on image features in the Osteoarthritis dataset,  development patters in the bipolar disorder dataset, and  progression patterns for hepatocellular carcinoma datasets. 
 
-The approach is solid and sound. However, a few details could enhance the quality of the research. 
+The approach is solid and sound. However, a few descriptions/motivation can be added to enhance the quality of the research. 
 
+Authors should clarify the choice of k-means in the general procedure of Figure 1b to estimate subgroups and stage inference with GP.
 - Other algorithm instead of K-means. And other approaches for the number of clusters. 
 - Describe why SuStaIn seems to outperform GPSI at early stages. 
 

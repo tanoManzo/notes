@@ -23,8 +23,8 @@ Authors implemented Gaussian Process for Stage Inference (GPSI) algorithm to rev
 
 The approach is solid and sound. However, a few descriptions/motivation can be added to enhance the quality of the research. 
 
-Authors should clarify the choice of k-means in the general procedure of Figure 1b to estimate subgroups and stage inference with GP.
-- Other algorithm instead of K-means. And other approaches for the number of clusters. 
-- Describe why SuStaIn seems to outperform GPSI at early stages. 
+Authors should clarify the choice of k-means in the general procedure of Figure 1b to estimate subgroups and stage inference with GP. Moreover, a silhouette plot can be added as support of the subgroup quality.
+
+Figure 2c illustrates the comparison of GPSI, SuStaIn, and ground truth with different SNRs. However, it is unclear the reason why SuStaIn seems to outperform GPSI at early stages. 
 
 ----

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nih/Biowulf.md",
+                "file": "notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nih/Biowulf.md",
+                "file": "notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nih/Biowulf.md",
+                "file": "notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nih/Biowulf.md"
+                "file": "notes.md"
               }
             }
           },
@@ -262,13 +262,13 @@
   },
   "active": "236887dcedacc78a",
   "lastOpenFiles": [
+    "nih/Biowulf.md",
     "Revealing Chronic Disease Progression Patterns Using  Gaussian Process for Stage Inference.md",
     "Day Planners/Day Planner-20230913.md",
     "Excalidraw/Drawing 2023-08-28 05.32.54.excalidraw.md",
     "Day Planners/Day Planner-20230904.md",
     "Day Planners/Day Planner-20230901.md",
     "Day Planners/Day Planner-20230831.md",
-    "nih/Biowulf.md",
     "Day Planners/Day Planner-20230830.md",
     "- AMA patients notes. To check..md",
     "Excalidraw/Drawing 2023-08-28 14.43.04.excalidraw.md",

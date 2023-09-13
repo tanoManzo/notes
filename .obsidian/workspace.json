@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes.md",
+                "file": "General.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revealing Chronic Disease Progression Patterns Using  Gaussian Process for Stage Inference.md",
+                "file": "papers/Revealing Chronic Disease Progression Patterns Using  Gaussian Process for Stage Inference.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted Image 20230828063907_884.png"
+                "file": "images/Pasted Image 20230828063907_884.png"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes.md",
+                "file": "General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes.md",
+                "file": "General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes.md"
+                "file": "General.md"
               }
             }
           },
@@ -262,37 +262,37 @@
   },
   "active": "236887dcedacc78a",
   "lastOpenFiles": [
-    "nih/Biowulf.md",
-    "Revealing Chronic Disease Progression Patterns Using  Gaussian Process for Stage Inference.md",
-    "Day Planners/Day Planner-20230913.md",
+    "info.md",
+    "papers/Language model clinical challenges.md",
+    "papers/Leo's proposal.md",
     "Excalidraw/Drawing 2023-08-28 05.32.54.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-09 10.15.10.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-07 23.47.24.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-03 13.07.02.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-28 14.43.04.excalidraw.md",
+    "Sep 20th.md",
+    "README.md",
+    "notes meeting 08-17.md",
+    "notes.md",
+    "General.md",
+    "- AMA patients notes. To check..md",
+    "papers/Revealing Chronic Disease Progression Patterns Using  Gaussian Process for Stage Inference.md",
+    "images/Pasted Image 20230828142816_234.png",
+    "Day Planners/Day Planner-20230817.md",
+    "Day Planners/Day Planner-20230913.md",
+    "Day Planners/Day Planner-20230820.md",
+    "nih/Biowulf.md",
     "Day Planners/Day Planner-20230904.md",
     "Day Planners/Day Planner-20230901.md",
     "Day Planners/Day Planner-20230831.md",
     "Day Planners/Day Planner-20230830.md",
-    "- AMA patients notes. To check..md",
-    "Excalidraw/Drawing 2023-08-28 14.43.04.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-09 10.15.10.excalidraw.md",
     "Projects/SDoH/knowledge/Health Literacy.md",
-    "Pasted Image 20230828142816_234.png",
-    "Pasted Image 20230828141720_247.png",
-    "Pasted Image 20230828141615_406.png",
-    "Pasted Image 20230828063907_884.png",
+    "images/Pasted Image 20230828141720_247.png",
+    "images/Pasted Image 20230828141615_406.png",
+    "images/Pasted Image 20230828063907_884.png",
     "Day Planners/Day Planner-20230828.md",
-    "notes meeting 08-17.md",
-    "Day Planners/Day Planner-20230825.md",
-    "README.md",
-    "Sep 20th.md",
-    "Projects/SDoH/Health Literacy Sentences.md",
-    "Excalidraw/Drawing 2023-08-03 13.07.02.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-07 23.47.24.excalidraw.md",
-    "papers/sentiment analysis.md",
-    "info.md",
     "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.png",
-    "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
-    "Day Planners/Day Planner-20230824.md",
-    "Day Planners/Day Planner-20230823.md",
-    "Day Planners/Day Planner-20230822.md",
     "Day Planners/2023/August w3",
     "nih",
     "images/Pasted Image 20230803135212_116.png",

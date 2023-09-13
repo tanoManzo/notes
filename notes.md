@@ -1,7 +1,7 @@
 1. homeless (wait for Dina check)
 	1. non-compliance 
 	2. trace the outcome (e.g., mortility rate)
-	3. AMA 
+	3. AMA - health literacy 
 
 
 2. Possible JAMIA (proposed to AIMIA, Gaetano-Dina)

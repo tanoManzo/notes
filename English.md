@@ -20,7 +20,9 @@ save money
 ----
 
 allowance money
+treadmill
 
+----------
 Do you think of yourself as a big spender or thrifty or somewhere in the middle. Describe your spending habits.
 
 

@@ -34,7 +34,7 @@ When have you regretted a purchase and experienced buyer’s remorse? Give an ex
 Good and bad money management
 I live within my means
 I keep track of my expenses
- I save regularly
+I save regularly
 I always pay my credit card bills in full
 I live beyond my means
 I don’t know where the money goes

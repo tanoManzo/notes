@@ -40,3 +40,6 @@ I live beyond my means
 I don’t know where the money goes
 I live paycheck to paycheck
 I’m drowning in debt (sinking)
+
+---
+

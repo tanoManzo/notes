@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "English.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,9 +47,11 @@
             "id": "11eeefa770174246",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-13 17.00.55.excalidraw.md"
+                "file": "English.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -224,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-13 17.00.55.excalidraw.md",
+                "file": "English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-13 17.00.55.excalidraw.md",
+                "file": "English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-13 17.00.55.excalidraw.md"
+                "file": "English.md"
               }
             }
           },
@@ -297,8 +299,8 @@
   },
   "active": "11eeefa770174246",
   "lastOpenFiles": [
-    "Untitled.md",
     "Excalidraw/Drawing 2023-09-13 17.00.55.excalidraw.md",
+    "English.md",
     "AMIA.md",
     "General.md",
     "info.md",

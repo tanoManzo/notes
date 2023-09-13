@@ -32,6 +32,28 @@
             }
           },
           {
+            "id": "1785b1950ab25f8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11eeefa770174246",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-13 17.00.55.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "cc4556b417f02188",
             "type": "leaf",
             "state": {
@@ -136,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AMIA.md",
+                "file": "Excalidraw/Drawing 2023-09-13 17.00.55.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AMIA.md",
+                "file": "Excalidraw/Drawing 2023-09-13 17.00.55.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AMIA.md"
+                "file": "Excalidraw/Drawing 2023-09-13 17.00.55.excalidraw.md"
               }
             }
           },
@@ -273,10 +295,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fddfd5d631ad6ad0",
+  "active": "11eeefa770174246",
   "lastOpenFiles": [
-    "General.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2023-09-13 17.00.55.excalidraw.md",
     "AMIA.md",
+    "General.md",
     "info.md",
     "papers/Language model clinical challenges.md",
     "papers/Leo's proposal.md",
@@ -300,8 +324,6 @@
     "Day Planners/Day Planner-20230904.md",
     "Day Planners/Day Planner-20230901.md",
     "Day Planners/Day Planner-20230831.md",
-    "Day Planners/Day Planner-20230830.md",
-    "Projects/SDoH/knowledge/Health Literacy.md",
     "images/Pasted Image 20230828141720_247.png",
     "images/Pasted Image 20230828141615_406.png",
     "images/Pasted Image 20230828063907_884.png",

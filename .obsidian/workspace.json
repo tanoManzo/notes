@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "fddfd5d631ad6ad0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AMIA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cc4556b417f02188",
             "type": "leaf",
             "state": {
@@ -123,7 +135,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General.md",
+                "file": "AMIA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General.md",
+                "file": "AMIA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General.md"
+                "file": "AMIA.md"
               }
             }
           },
@@ -260,8 +273,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "236887dcedacc78a",
+  "active": "fddfd5d631ad6ad0",
   "lastOpenFiles": [
+    "General.md",
+    "AMIA.md",
     "info.md",
     "papers/Language model clinical challenges.md",
     "papers/Leo's proposal.md",
@@ -275,7 +290,6 @@
     "README.md",
     "notes meeting 08-17.md",
     "notes.md",
-    "General.md",
     "- AMA patients notes. To check..md",
     "papers/Revealing Chronic Disease Progression Patterns Using  Gaussian Process for Stage Inference.md",
     "images/Pasted Image 20230828142816_234.png",
@@ -291,7 +305,6 @@
     "images/Pasted Image 20230828141720_247.png",
     "images/Pasted Image 20230828141615_406.png",
     "images/Pasted Image 20230828063907_884.png",
-    "Day Planners/Day Planner-20230828.md",
     "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.png",
     "Day Planners/2023/August w3",
     "nih",

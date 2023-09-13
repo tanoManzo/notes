@@ -22,7 +22,7 @@ save money
 allowance money
 treadmill
 hanger
-equipment or devvices
+equipment or devices
 
 ----------
 Do you think of yourself as a big spender or thrifty or somewhere in the middle. Describe your spending habits.

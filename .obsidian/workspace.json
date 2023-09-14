@@ -4,173 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f306350f9ed8eb28",
+        "id": "97d9fbca06c4c034",
         "type": "tabs",
         "children": [
           {
-            "id": "236887dcedacc78a",
+            "id": "0d579cfe0dc7d1ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General.md",
+                "file": "notes.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "fddfd5d631ad6ad0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AMIA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1785b1950ab25f8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11eeefa770174246",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f78546851a496fc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
-          },
-          {
-            "id": "cc4556b417f02188",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-08-28 05.32.54.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "0ef4f805b485aec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "papers/Revealing Chronic Disease Progression Patterns Using  Gaussian Process for Stage Inference.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6eb7c7aaf2005ec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/SDoH/knowledge/Health Literacy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea011409bb31813c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted Image 20230828063907_884.png"
-              }
-            }
-          },
-          {
-            "id": "d8e59c1802f53cd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/SDoH/Health Literacy Sentences.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5696ae35c631a0af",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-08-03 13.07.02.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "1f6ba653015ceda0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4b417b627de2d774",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sep 20th.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f6d7e4d5d0629cb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "82364b9d5a7e308d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-08-09 10.15.10.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English.md",
+                "file": "notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English.md",
+                "file": "notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English.md"
+                "file": "notes.md"
               }
             }
           },
@@ -317,38 +166,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f78546851a496fc",
+  "active": "0d579cfe0dc7d1ec",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20230914.md",
-    "Excalidraw/Drawing 2023-09-13 17.00.55.excalidraw.md",
-    "English.md",
+    "nih/IDP.md",
+    "knowledge/English unit 3.md",
+    "notes.md",
+    "README.md",
+    "knowledge/How to Make Your Grant Proposal “Sellable”.md",
     "AMIA.md",
     "General.md",
     "info.md",
+    "notes meeting 08-17.md",
+    "Sep 20th.md",
+    "Excalidraw/Drawing 2023-08-09 10.15.10.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-03 13.07.02.excalidraw.md",
+    "Projects/SDoH/Health Literacy Sentences.md",
+    "images/Pasted Image 20230828063907_884.png",
+    "Projects/SDoH/knowledge/Health Literacy.md",
+    "papers/Revealing Chronic Disease Progression Patterns Using  Gaussian Process for Stage Inference.md",
+    "Excalidraw/Drawing 2023-08-28 05.32.54.excalidraw.md",
+    "Day Planners/Day Planner-20230914.md",
+    "Excalidraw/Drawing 2023-09-13 17.00.55.excalidraw.md",
     "papers/Language model clinical challenges.md",
     "papers/Leo's proposal.md",
-    "Excalidraw/Drawing 2023-08-28 05.32.54.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-09 10.15.10.excalidraw.md",
     "Excalidraw/Drawing 2023-08-07 23.47.24.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-03 13.07.02.excalidraw.md",
     "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
     "Excalidraw/Drawing 2023-08-28 14.43.04.excalidraw.md",
-    "Sep 20th.md",
-    "README.md",
-    "notes meeting 08-17.md",
-    "notes.md",
     "- AMA patients notes. To check..md",
-    "papers/Revealing Chronic Disease Progression Patterns Using  Gaussian Process for Stage Inference.md",
     "images/Pasted Image 20230828142816_234.png",
     "Day Planners/Day Planner-20230817.md",
     "Day Planners/Day Planner-20230913.md",
-    "Day Planners/Day Planner-20230820.md",
-    "nih/Biowulf.md",
-    "Day Planners/Day Planner-20230904.md",
-    "Day Planners/Day Planner-20230901.md",
     "images/Pasted Image 20230828141720_247.png",
     "images/Pasted Image 20230828141615_406.png",
-    "images/Pasted Image 20230828063907_884.png",
     "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.png",
     "Day Planners/2023/August w3",
     "nih",

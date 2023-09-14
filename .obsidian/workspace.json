@@ -56,6 +56,16 @@
             }
           },
           {
+            "id": "4f78546851a496fc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
+          },
+          {
             "id": "cc4556b417f02188",
             "type": "leaf",
             "state": {
@@ -160,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -277,6 +287,16 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "506e22f2ee7707e2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -297,7 +317,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11eeefa770174246",
+  "active": "4f78546851a496fc",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20230914.md",
     "Excalidraw/Drawing 2023-09-13 17.00.55.excalidraw.md",

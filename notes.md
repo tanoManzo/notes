@@ -11,3 +11,5 @@
 
 
 split positive and negative attitude 
+
+all of cgs

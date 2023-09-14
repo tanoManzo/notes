@@ -8,3 +8,6 @@
 	2. model (approach)
 	3. ICUs (data)
 	4. in the previous proof of concept, we extend this work ... in short ... 
+
+
+split positive and negative attitude 

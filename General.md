@@ -1,8 +1,6 @@
 
 ### add to cv
-2. Reviewer for jamia, mdpi, snfs, a2hc
-3. Yvan, Lj, and Yasmeen mentor
-4. Workshop with ashwag and Ghada
+
 5. submission paper workshop with Yvan
 6. Poster Judge 
 7. FelCom -NLM Representor 

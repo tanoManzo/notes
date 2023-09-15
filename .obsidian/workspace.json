@@ -11,9 +11,11 @@
             "id": "a7d11234649c79b9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-15 16.39.20.excalidraw.md"
+                "file": "General.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-15 16.39.20.excalidraw.md",
+                "file": "General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-15 16.39.20.excalidraw.md",
+                "file": "General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-15 16.39.20.excalidraw.md"
+                "file": "General.md"
               }
             }
           },
@@ -164,6 +166,7 @@
   },
   "active": "a7d11234649c79b9",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-08-15 16.39.20.excalidraw.md",
     "Excalidraw/Drawing 2023-08-28 05.32.54.excalidraw.md",
     "Excalidraw/Drawing 2023-09-13 17.00.55.excalidraw.md",
     "conflict-files-obsidian-git.md",
@@ -187,7 +190,6 @@
     "notes meeting 08-17.md",
     "Sep 20th.md",
     "Untitled.md",
-    "Excalidraw/Drawing 2023-08-15 16.39.20.excalidraw.md",
     "Day Planners/Day Planner-20230915.md",
     "README.md",
     "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",

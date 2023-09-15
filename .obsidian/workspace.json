@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3f997f779943287a",
+        "id": "46ef605173bb6db1",
         "type": "tabs",
         "children": [
           {
-            "id": "365f494447356250",
+            "id": "a7d11234649c79b9",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "7bd848e28421c4f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,19 +156,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7bd848e28421c4f0",
+  "active": "a7d11234649c79b9",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-08-15 16.39.20.excalidraw.md",
-    "conflict-files-obsidian-git.md",
-    "Day Planners/Day Planner-20230915.md",
+    "Pasted Image 20230815171144_573.png",
+    "Pasted Image 20230815170248_103.png",
+    "Pasted Image 20230815165709_566.png",
+    "Pasted Image 20230815165521_542.png",
+    "Pasted Image 20230815165100_580.png",
+    "Pasted Image 20230815164810_557.png",
     "Pasted Image 20230815164623_567.png",
-    "README.md",
+    "notes.md",
+    "info.md",
+    "notes meeting 08-17.md",
     "Sep 20th.md",
     "Untitled.md",
+    "images/Pasted Image 20230815171144_573.png",
+    "conflict-files-obsidian-git.md",
+    "Excalidraw/Drawing 2023-08-15 16.39.20.excalidraw.md",
+    "Day Planners/Day Planner-20230915.md",
+    "images/Pasted Image 20230815164623_567.png",
+    "README.md",
     "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.png",
     "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
-    "notes meeting 08-17.md",
-    "info.md",
     "Projects/SDoH/Sample health literacy.md",
     "Day Planners/2023/August w3/Day Planner-20230816.md",
     "Day Planners/2023/August w3/Day Planner-20230815.md",
@@ -196,26 +188,17 @@
     "Day Planners/Day Planner-20230818.md",
     "Day Planners/Day Planner-20230817.md",
     "Day Planners/Day Planner-20230816.md",
-    "Pasted Image 20230815171144_573.png",
-    "Pasted Image 20230815165100_580.png",
-    "Pasted Image 20230815170248_103.png",
-    "Pasted Image 20230815165709_566.png",
-    "Pasted Image 20230815165521_542.png",
-    "Pasted Image 20230815164810_557.png",
     "Projects/SDoH/Health Literacy Sentences.md",
     "Day Planners/Day Planner-20230815.md",
     "Day Planners/Day Planner-20230814.md",
     "Day Planners/Day Planner-20230811.md",
     "Day Planners/Day Planner-20230810.md",
     "nih/IDP.md",
-    "Day Planners/Day Planner-20230808.md",
-    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "images/review_AMIA.cfm.pdf",
     "Day Planners/2023/August w2",
     "nih",
-    "images/Pasted Image 20230802101846_991.png",
     "NIH/Manzo's research roadmap.pdf"
   ]
 }

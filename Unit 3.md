@@ -1,15 +1,15 @@
-Write a brief biography. 
-
-Answer these questions: 
+Write a brief biography about Soros. considering those points: 
 
 Where / when was this person born?  August 12, 1930 Budapest, Hungary 
 
-What were significant events in this person’s life? Family survivors of Nazi. Accused to influence politics given his wealth. 
+What were significant events in this person’s life? Family survivors of Nazi.
 
 How did this person make his / her money? Founder of Soros's Found (Open Society Foundations). 
 
-Describe some of the philanthropic activities this person has supported. Campion of democracy and human rights
 
-What are the reasons for this person’s philanthropy? 
 
-Is there anything controversial about this person? Explain. Do you agree with the ways in which this person spends his / her money? Explain. 
+What are the reasons for this person’s philanthropy? Campion of democracy and human rights
+
+Is there anything controversial about this person?  Accused to influence politics given his wealth. 
+
+Do you agree with the ways in which this person spends his / her money? Yes. 

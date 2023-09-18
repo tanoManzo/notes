@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "NLP/knowledge/papers/Entity Description Generation by Exploring Knowledge Graph.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,6 +33,20 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "87deee14da62018b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a12632b96a754715",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "NLP/knowledge/papers/Entity Description Generation by Exploring Knowledge Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "NLP/knowledge/papers/Entity Description Generation by Exploring Knowledge Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "NLP/knowledge/papers/Entity Description Generation by Exploring Knowledge Graph.md"
               }
             }
           },
@@ -181,44 +195,45 @@
   },
   "active": "21becfc43f0c3783",
   "lastOpenFiles": [
-    "notes.md",
+    "NLP/knowledge/papers/BLOOM.md",
+    "NLP/knowledge/E2ENLG.md",
+    "General.md",
+    "Excalidraw/Drawing 2023-08-28 05.32.54.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-18 15.39.27.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-13 17.00.55.excalidraw.md",
+    "Projects/EmoMap/EmoMap.canvas",
+    "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-03 13.07.02.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-07 23.47.24.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-09 10.15.10.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.png",
     "Untitled.md",
+    "Pasted Image 20230918154107_870.png",
+    "Unit 3.md",
+    "notes.md",
     "Day Planners/Day Planner-20230918.md",
     "nih/IDP.md",
     "knowledge/English unit 3.md",
     "README.md",
     "knowledge/How to Make Your Grant Proposal “Sellable”.md",
     "AMIA.md",
-    "General.md",
     "info.md",
     "notes meeting 08-17.md",
     "Sep 20th.md",
-    "Excalidraw/Drawing 2023-08-09 10.15.10.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-03 13.07.02.excalidraw.md",
     "Projects/SDoH/Health Literacy Sentences.md",
     "images/Pasted Image 20230828063907_884.png",
     "Projects/SDoH/knowledge/Health Literacy.md",
     "papers/Revealing Chronic Disease Progression Patterns Using  Gaussian Process for Stage Inference.md",
-    "Excalidraw/Drawing 2023-08-28 05.32.54.excalidraw.md",
     "Day Planners/Day Planner-20230914.md",
-    "Excalidraw/Drawing 2023-09-13 17.00.55.excalidraw.md",
-    "papers/Language model clinical challenges.md",
-    "papers/Leo's proposal.md",
-    "Excalidraw/Drawing 2023-08-07 23.47.24.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-28 14.43.04.excalidraw.md",
-    "- AMA patients notes. To check..md",
     "images/Pasted Image 20230828142816_234.png",
     "images/Pasted Image 20230828141720_247.png",
     "images/Pasted Image 20230828141615_406.png",
-    "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.png",
     "Day Planners/2023/August w3",
     "nih",
     "images/Pasted Image 20230803135212_116.png",
     "images/Pasted Image 20230803134947_942.png",
     "images/Pasted Image 20230803134646_920.png",
     "images/Pasted Image 20230803133706_412.png",
-    "images/Pasted Image 20230803132917_054.png",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Day Planners/2023/August w2",
@@ -227,7 +242,6 @@
     "images/review_AMIA.cfm.pdf",
     "Day Planners",
     "Untitled.canvas",
-    "Excalidraw",
-    "Projects/EmoMap/EmoMap.canvas"
+    "Excalidraw"
   ]
 }

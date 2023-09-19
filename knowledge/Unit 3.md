@@ -13,3 +13,5 @@ What are the reasons for this person’s philanthropy? Campion of democracy and 
 Is there anything controversial about this person?  Accused to influence politics given his wealth. 
 
 Do you agree with the ways in which this person spends his / her money? Yes. 
+
+#english

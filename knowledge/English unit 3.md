@@ -1,3 +1,4 @@
+#english
 Big Spender
 You have a good head on your shoulders
 **thrifty**/you don’t waste money

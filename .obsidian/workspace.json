@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b99a23580cbac1d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flow State.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Flow State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Flow State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Flow State.md"
               }
             }
           },
@@ -166,12 +179,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3b6abb3d8aaad3e",
+  "active": "b99a23580cbac1d0",
   "lastOpenFiles": [
+    "README.md",
+    "Flow State.md",
     "notes.md",
     "General.md",
     "images/Pasted Image 20230918154107_870.png",
-    "README.md",
     "knowledge/English unit 3.md",
     "knowledge/Unit 3.md",
     "Day Planners/Day Planner-20230919.md",
@@ -189,7 +203,6 @@
     "Excalidraw/Drawing 2023-08-07 23.47.24.excalidraw.md",
     "Excalidraw/Drawing 2023-08-09 10.15.10.excalidraw.md",
     "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.png",
-    "Untitled.md",
     "Day Planners/Day Planner-20230918.md",
     "nih/IDP.md",
     "knowledge/How to Make Your Grant Proposal “Sellable”.md",

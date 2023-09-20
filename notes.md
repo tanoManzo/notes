@@ -12,7 +12,7 @@
 
 1) all the cgs 
 2) run linear reg on all those 
-3) extracted the sign variable 
+3) extracted the significant variables and put all togethers as bar plot to check how many caregivers' attitude is 
 split positive and negative attitude 
 
 all of cgs

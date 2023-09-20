@@ -1,3 +1,4 @@
 Slacks 
 gown
 tuxedo
+Plaid

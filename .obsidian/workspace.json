@@ -21,9 +21,11 @@
             "id": "5b0d902c3b8c8894",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-15 16.39.20.excalidraw.md"
+                "file": "notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -102,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-15 16.39.20.excalidraw.md",
+                "file": "notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-15 16.39.20.excalidraw.md",
+                "file": "notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-15 16.39.20.excalidraw.md"
+                "file": "notes.md"
               }
             }
           },
@@ -185,10 +187,13 @@
   },
   "active": "5b0d902c3b8c8894",
   "lastOpenFiles": [
+    "General.md",
+    "notes.md",
+    "README.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2023-08-15 16.39.20.excalidraw.md",
     "Excalidraw/Drawing 2023-08-28 05.32.54.excalidraw.md",
     "Excalidraw/Drawing 2023-09-13 17.00.55.excalidraw.md",
-    "General.md",
-    "Excalidraw/Drawing 2023-08-15 16.39.20.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "papers/Revealing Chronic Disease Progression Patterns Using  Gaussian Process for Stage Inference.md",
     "knowledge/English unit 3.md",
@@ -205,13 +210,10 @@
     "Pasted Image 20230815165521_542.png",
     "Pasted Image 20230815165100_580.png",
     "Pasted Image 20230815164810_557.png",
-    "notes.md",
     "info.md",
     "notes meeting 08-17.md",
     "Sep 20th.md",
-    "Untitled.md",
     "Day Planners/Day Planner-20230915.md",
-    "README.md",
     "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.md",
     "Projects/SDoH/Sample health literacy.md",
     "Day Planners/2023/August w3/Day Planner-20230816.md",

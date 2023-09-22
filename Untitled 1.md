@@ -1,1 +1,4 @@
 - subdued
+- would be caught dead
+- frumpy
+- immodest

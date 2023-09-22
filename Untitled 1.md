@@ -6,3 +6,7 @@
 - blouse
 - exfoliate
 - tapeworms
+- self-confidence
+- self-confident
+- self-conscious
+- wallowing

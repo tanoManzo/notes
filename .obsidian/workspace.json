@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bcf15f61f1cff21a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,7 +189,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75ac8dd6aaa73989",
+  "active": "bcf15f61f1cff21a",
   "lastOpenFiles": [
     "notes.md",
     "Untitled.md",

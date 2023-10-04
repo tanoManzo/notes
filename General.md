@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ### add to cv
 7. FelCom -NLM Representor 
@@ -5,3 +6,5 @@
 9. Presenter at Stanford  
 
 
+=======
+>>>>>>> origin/main

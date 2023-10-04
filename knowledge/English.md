@@ -45,3 +45,47 @@ I’m drowning in debt (sinking)
 ---
 
 gimmick
+
+-----
+Write a brief biography about Soros. considering those points: 
+
+Where / when was this person born?  August 12, 1930 Budapest, Hungary 
+
+What were significant events in this person’s life? Family survivors of Nazi.
+
+How did this person make his / her money? Founder of Soros's Found (Open Society Foundations). 
+
+
+
+What are the reasons for this person’s philanthropy? Campion of democracy and human rights
+
+Is there anything controversial about this person?  Accused to influence politics given his wealth. 
+
+Do you agree with the ways in which this person spends his / her money? Yes. 
+
+- subdued
+- would be caught dead
+- frumpy
+- immodest
+- gown
+- blouse
+- exfoliate
+- tapeworms
+- self-confidence
+- self-confident
+- self-conscious
+- wallowing
+----
+suburb  
+amenities
+dairy
+lively and bustling with activity
+crowded
+nosy neighbors
+
+
+Which community to you prefer and why?
+What amenities do you want in your community?
+Which community would you never live in?
+
+----

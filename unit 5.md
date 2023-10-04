@@ -1,2 +1,0 @@
-bustling
-inconsiderate

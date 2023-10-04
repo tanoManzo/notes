@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes.md",
+                "file": "General.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "General.md"
               }
             }
           },
@@ -164,11 +166,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6b9da5d46365744",
+  "active": "b99a23580cbac1d0",
   "lastOpenFiles": [
     "notes.md",
-    "conflict-files-obsidian-git.md",
+    "README.md",
+    "knowledge/English.md",
     "unit 5.md",
+    "conflict-files-obsidian-git.md",
     "Journal Club/Word2Vector.md",
     "Journal Club/Attention is all you need.md",
     "Journal Club",
@@ -194,8 +198,6 @@
     "Day Planners/2023/August w2/Day Planner-20230811.md",
     "Day Planners/2023/August w2/Day Planner-20230808.md",
     "Day Planners/2023/August w2/Day Planner-20230807.md",
-    "Day Planners/2023/August w1/Day Planner-20230803.md",
-    "Day Planners/2023/August w1/Day Planner-20230802.md",
     "Day Planners/2023/August w3",
     "Day Planners/2023/August w2",
     "Day Planners/2023/August w1",

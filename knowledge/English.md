@@ -89,3 +89,5 @@ What amenities do you want in your community?
 Which community would you never live in?
 
 ----
+bustling
+inconsiderate

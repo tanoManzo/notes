@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1de12abbc35ee8ba",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.png",
+                "file": "notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.png",
+                "file": "notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.png"
+                "file": "notes.md"
               }
             }
           },
@@ -177,15 +166,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6b9da5d46365744",
+  "active": "b99a23580cbac1d0",
   "lastOpenFiles": [
+    "Journal Club/Word2Vector.md",
+    "Journal Club/Attention is all you need.md",
+    "Journal Club",
     "Excalidraw/k99.md",
+    "Excalidraw/MIMIC health literacy.md",
+    "Excalidraw/EmoMap.md",
     "Excalidraw/Drawing 2023-08-02 09.31.35.excalidraw.png",
     "Excalidraw/CV.md",
+    "Projects/EmoMap/EmoMap.canvas",
+    "knowledge/k99-1.md",
+    "Excalidraw/K99-2.png",
+    "Projects/SDoH/MIMIC health literacy.md",
+    "knowledge/CV.md",
     "Excalidraw/Drawing 2023-08-07 23.47.24.excalidraw.md",
     "Excalidraw/Drawing 2023-08-09 10.15.10.excalidraw.md",
-    "Excalidraw/EmoMap.md",
-    "Excalidraw/MIMIC health literacy.md",
+    "Projects/EmoMap/EmoMap.md",
     "Excalidraw/Drawing 2023-09-13 17.00.55.excalidraw.md",
     "Excalidraw/Drawing 2023-09-18 15.39.27.excalidraw.md",
     "Excalidraw/Drawing 2023-09-19 10.35.39.excalidraw.md",
@@ -204,12 +202,6 @@
     "Day Planners/Day Planner-20230919.md",
     "Day Planners/2023",
     "Day Planners",
-    "Flow State.md",
-    "General.md",
-    "notes.md",
-    "README.md",
-    "Notes Sep 28.md",
-    "knowledge/English.md",
     "images/Pasted Image 20230815171144_573.png",
     "images/Pasted Image 20230815170248_103.png",
     "images/Pasted Image 20230815165709_566.png",
@@ -218,13 +210,10 @@
     "images/Pasted Image 20230815164810_557.png",
     "images/Pasted Image 20230815164623_567.png",
     "images/Pasted Image 20230918154107_870.png",
-    "Projects/EmoMap/EmoMap.canvas",
-    "images/Pasted Image 20230828063907_884.png",
     "nih",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "images/review_AMIA.cfm.pdf",
-    "Untitled.canvas",
-    "Excalidraw"
+    "Untitled.canvas"
   ]
 }

@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -166,8 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b99a23580cbac1d0",
+  "active": "a6b9da5d46365744",
   "lastOpenFiles": [
+    "notes.md",
+    "conflict-files-obsidian-git.md",
+    "unit 5.md",
     "Journal Club/Word2Vector.md",
     "Journal Club/Attention is all you need.md",
     "Journal Club",
@@ -195,11 +196,9 @@
     "Day Planners/2023/August w2/Day Planner-20230807.md",
     "Day Planners/2023/August w1/Day Planner-20230803.md",
     "Day Planners/2023/August w1/Day Planner-20230802.md",
-    "Day Planners/2023/August w1/Day Planner-20230801.md",
     "Day Planners/2023/August w3",
     "Day Planners/2023/August w2",
     "Day Planners/2023/August w1",
-    "Day Planners/Day Planner-20230919.md",
     "Day Planners/2023",
     "Day Planners",
     "images/Pasted Image 20230815171144_573.png",

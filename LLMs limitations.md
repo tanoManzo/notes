@@ -9,3 +9,5 @@ High Inference Latency: (1) low parallelizability since the inference procedure 
 
 
 Tasks Not Solvable By Scale: Given the current progress, one may question whether there are limits we deem impossible to overcome with in the current paradigm of scaling data/model sizes of autoregressive Transformer-based LLMs.
+
+Updating isolated model behavioral factual knowledge can be expensive and untargeted, which might cause unintended side-effects.

@@ -91,3 +91,6 @@ Which community would you never live in?
 ----
 bustling
 inconsiderate
+
+----
+Can you roll with the punches, 

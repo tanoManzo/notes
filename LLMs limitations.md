@@ -1,5 +1,5 @@
 
-High Pre-Training Costs
+High Pre-Training Costs: Performance increases through larger compute budgets but at a decreasing rate if the model or dataset size is fixed, reflecting a power law with diminishing returns.
 
 
 Fine-Tuning Overhead: Fine-tuning entire LLMs requires the same amount of memory as pre-training, rendering it infeasible for many practitioners. When adapting an LLM via full-model fine tuning, an individual copy of the model must be stored (consuming data storage) and loaded(expending memory allocation, etc.) for each task.

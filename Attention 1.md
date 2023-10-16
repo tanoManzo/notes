@@ -4,4 +4,7 @@ Recall that in scale dot-products attention, you have queries, keys and values. 
 Play video starting at ::42 and follow transcript0:42
 The SoftMax ensures that the weights add up to 1 and the division by the square roots of the dimension of the key factors is used to improve performance.
 
-![[Pasted image 20231016173311.png]]
+
+![[Pasted image 20231016173547.png]]
+
+![[Pasted image 20231016174021.png]]

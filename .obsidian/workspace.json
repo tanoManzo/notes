@@ -4,55 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "46ef605173bb6db1",
+        "id": "87c59d289ffdf2d0",
         "type": "tabs",
         "children": [
           {
-            "id": "a7d11234649c79b9",
+            "id": "5f4ff4f049a673dd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-08-15 16.39.20.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "ab21dd5e51dfd422",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56fe800c4fa2f0d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unit 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f99fe08b50cac546",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unit 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unit 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "unit 5.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,10 +166,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f99fe08b50cac546",
+  "active": "5f4ff4f049a673dd",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "unit 5.md",
+    "Untitled 1.md",
     "notes.md",
     "General.md",
     "README.md",

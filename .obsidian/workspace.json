@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flow State.md",
+                "file": "LLMs limitations.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flow State.md",
+                "file": "LLMs limitations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flow State.md",
+                "file": "LLMs limitations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flow State.md"
+                "file": "LLMs limitations.md"
               }
             }
           },
@@ -193,14 +193,15 @@
   },
   "active": "384525e2230428a6",
   "lastOpenFiles": [
-    "General.md",
-    "LLMs limitations.md",
     "notes.md",
     "notes llm papers.md",
+    "README.md",
+    "Flow State.md",
+    "General.md",
+    "LLMs limitations.md",
     "knowledge/English.md",
     "unit 5.md",
     "nih/Biowulf.md",
-    "README.md",
     "conflict-files-obsidian-git.md",
     "Journal Club/Word2Vector.md",
     "Journal Club/Attention is all you need.md",
@@ -222,7 +223,6 @@
     "Excalidraw/Drawing 2023-09-18 15.39.27.excalidraw.md",
     "Excalidraw/Drawing 2023-09-19 10.35.39.excalidraw.md",
     "Day Planners/2023/August w3/Day Planner-20230816.md",
-    "Day Planners/2023/August w3/Day Planner-20230815.md",
     "Day Planners/2023/August w3",
     "Day Planners/2023/August w2",
     "Day Planners/2023/August w1",

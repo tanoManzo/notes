@@ -94,3 +94,8 @@ inconsiderate
 
 ----
 Can you roll with the punches, 
+
+---
+hustling
+bustling
+inconsiderate

@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b2b912125bf7368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chromatin modifiers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/Revealing Chronic Disease Progression Patterns Using  Gaussian Process for Stage Inference.md",
+                "file": "chromatin modifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "papers/Revealing Chronic Disease Progression Patterns Using  Gaussian Process for Stage Inference.md",
+                "file": "chromatin modifiers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "papers/Revealing Chronic Disease Progression Patterns Using  Gaussian Process for Stage Inference.md"
+                "file": "chromatin modifiers.md"
               }
             }
           },
@@ -191,8 +203,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "384525e2230428a6",
+  "active": "8b2b912125bf7368",
   "lastOpenFiles": [
+    "papers/Revealing Chronic Disease Progression Patterns Using  Gaussian Process for Stage Inference.md",
+    "chromatin modifiers.md",
     "LLMs limitations.md",
     "notes.md",
     "notes llm papers.md",
@@ -221,8 +235,6 @@
     "Projects/EmoMap/EmoMap.md",
     "Excalidraw/Drawing 2023-09-13 17.00.55.excalidraw.md",
     "Excalidraw/Drawing 2023-09-18 15.39.27.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-19 10.35.39.excalidraw.md",
-    "Day Planners/2023/August w3/Day Planner-20230816.md",
     "Day Planners/2023/August w3",
     "Day Planners/2023/August w2",
     "Day Planners/2023/August w1",

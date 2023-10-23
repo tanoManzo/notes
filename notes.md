@@ -10,6 +10,4 @@
 	4. in the previous proof of concept, we extend this work ... in short ... 
 
 
-split positive and negative attitude 
 
-all of cgs

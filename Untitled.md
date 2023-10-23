@@ -1,1 +1,0 @@
-- box plot for cg number of visits + number of attitude before and after the median 

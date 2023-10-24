@@ -4,69 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6d9e8a6b2a708887",
+        "id": "e78379ba3264f9be",
         "type": "tabs",
         "children": [
           {
-            "id": "b99a23580cbac1d0",
+            "id": "3a9dcc7d24ae347f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes.md",
+                "file": "Flow State.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "c120cf6cbf48e33f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "knowledge/English.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "384525e2230428a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "papers/Revealing Chronic Disease Progression Patterns Using  Gaussian Process for Stage Inference.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b2b912125bf7368",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chromatin modifiers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a890f3253b83c766",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chromatin modifiers.md",
+                "file": "Flow State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chromatin modifiers.md",
+                "file": "Flow State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chromatin modifiers.md"
+                "file": "Flow State.md"
               }
             }
           },
@@ -213,19 +166,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a890f3253b83c766",
+  "active": "3a9dcc7d24ae347f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "unit 5.md",
+    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
+    "notes.md",
+    "knowledge/English.md",
     "papers/Revealing Chronic Disease Progression Patterns Using  Gaussian Process for Stage Inference.md",
     "chromatin modifiers.md",
+    "conflict-files-obsidian-git.md",
+    "unit 5.md",
     "LLMs limitations.md",
-    "notes.md",
     "notes llm papers.md",
     "README.md",
     "Flow State.md",
     "General.md",
-    "knowledge/English.md",
     "nih/Biowulf.md",
     "Journal Club/Word2Vector.md",
     "Journal Club/Attention is all you need.md",
@@ -244,7 +198,6 @@
     "Excalidraw/Drawing 2023-08-09 10.15.10.excalidraw.md",
     "Projects/EmoMap/EmoMap.md",
     "Excalidraw/Drawing 2023-09-13 17.00.55.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-18 15.39.27.excalidraw.md",
     "Day Planners/2023/August w3",
     "Day Planners/2023/August w2",
     "Day Planners/2023/August w1",

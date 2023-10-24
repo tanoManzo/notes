@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a890f3253b83c766",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -203,7 +213,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b2b912125bf7368",
+  "active": "a890f3253b83c766",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "unit 5.md",

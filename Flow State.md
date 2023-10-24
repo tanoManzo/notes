@@ -20,7 +20,6 @@ Use 'cognitive optimization hacks' to get a mental boost and reach a deeper, mor
 
 - Listen to [binaural beats](https://click.convertkit-mail2.com/r8u76mgzg0h9ulwmolh2hxkp3n66/vqh3hrhpde4x89fg/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj1VMGVMbXlKa1FCYw==)​
 - Consume caffeine (coffee, dark chocolate, green tea)
-- Take evidence-based brain supplements (Lion's Mane, Ashwagandha, L-Theanine)
 - Drink enough water (to prevent brain fog)
 - Meditate for 10 minutes before work
 
@@ -51,3 +50,5 @@ To truly recharge your mental energy (and get in an optimal state for a second f
 - Practice a short meditation or breathwork exercise
 
 (After this break, you can do another flow session. I recommend a maximum of **3x 90-minute flow sessions per day**.)
+
+#knowledge #personal

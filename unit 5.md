@@ -1,2 +1,0 @@
-stling
-inconsiderate

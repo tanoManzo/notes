@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "68aa95c14c4611ed",
+        "id": "788424fe51c93307",
         "type": "tabs",
         "children": [
           {
-            "id": "865b0b2cbffe3777",
+            "id": "bece39d63f972815",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -91,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,12 +166,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "865b0b2cbffe3777",
+  "active": "bece39d63f972815",
   "lastOpenFiles": [
+    "images/Pasted image 20231101132656.png",
+    "Attention.md",
+    "images/Pasted image 20231101131807.png",
+    "images/Pasted image 20231030174358.png",
+    "images/Pasted image 20231030174041.png",
+    "images/Pasted image 20231030173459.png",
+    "images/Pasted image 20231030173404.png",
+    "images/Pasted image 20231030162023.png",
+    "images/Pasted image 20231030164014.png",
+    "images/Pasted image 20231030163935.png",
+    "images/Pasted image 20231030163929.png",
+    "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md",
+    "Tasks.md",
+    "notes.md",
+    "Day Planners/2023/August w2/Day Planner-20230807.md",
+    "Day Planners/Day Planner-20230919.md",
     "NIH/Manzo's research roadmap.md",
     "2022-10-13.md",
     "NIH/Manzo's research roadmap.pdf",
-    "NIH/papers/KGPT/images/Pasted image 20221012153758.png",
     "sentiment analysis], [[sequential models.md",
     "NIH/LJ_Gaetano_meeting_01.md",
     "NIH/General Notes.md",

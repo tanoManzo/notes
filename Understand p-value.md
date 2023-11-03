@@ -17,11 +17,16 @@ Central to every �Z-test is something called the �Z-statistic, which eme
 
 The name of the game in hypothesis testing is finding evidence for remarkable claims — in particular, that Fat Blaster leads to weight loss when used as directed.
 
-Our default assumption, called the **null hypothesis** or H0,H0​, is the belief that the drug has no impact on weight.
+Our default assumption, called the **null hypothesis** or H0, is the belief that the drug has no impact on weight.
 
 The **alternative hypothesis**, HA,HA​, is the belief that weight loss is likely when the drug is used.
 
+The alternative hypothesis is the effect that we're testing. We aren’t interested in both weight loss and weight gain, which is μ≠0. Instead, we're specifically interested in finding that the amount of weight loss is greater than zero, which is μ>0.
 
-The alternative hypothesis is the effect that we're testing. We aren’t interested in both weight loss and weight gain, which is μ≠0.
+Now that we specified our hypotheses, we're ready to take some sample data and try to identify whether or not it supports the null hypothesis.
 
-μ​=0 Instead, we're specifically interested in finding that the amount of weight loss is greater than zero, which is �>0.μ>0.
+**The way this typically proceeds is by comparing the sample data to the data we would expect assuming the null hypothesis is **true**.**
+
+If our sample is highly improbable or “extreme” — given what we'd expect when the null hypothesis describes reality — then the sample is **not** strong evidence in favor of H0​.
+
+The purpose of the �Z-test — and many other statistical tests — is to facilitate this comparison.

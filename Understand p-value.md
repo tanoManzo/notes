@@ -30,3 +30,9 @@ Now that we specified our hypotheses, we're ready to take some sample data and t
 If our sample is highly improbable or “extreme” — given what we'd expect when the null hypothesis describes reality — then the sample is **not** strong evidence in favor of H0​.
 
 The purpose of the �Z-test — and many other statistical tests — is to facilitate this comparison.
+
+![[Pasted image 20231103133306.png]]
+
+![[Pasted image 20231103133704.png]]$
+
+![[Pasted image 20231103133734.png]]

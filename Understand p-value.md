@@ -21,3 +21,7 @@ Our default assumption, called the **null hypothesis** or H0,H0​, is the b
 
 The **alternative hypothesis**, HA,HA​, is the belief that weight loss is likely when the drug is used.
 
+
+The alternative hypothesis is the effect that we're testing. We aren’t interested in both weight loss and weight gain, which is μ≠0.
+
+μ​=0 Instead, we're specifically interested in finding that the amount of weight loss is greater than zero, which is �>0.μ>0.

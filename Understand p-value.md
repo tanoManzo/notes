@@ -36,3 +36,5 @@ The purpose of the �Z-test — and many other statistical tests — is to
 ![[Pasted image 20231103133704.png]]$
 
 ![[Pasted image 20231103133734.png]]
+![[Pasted image 20231103133821.png]]
+![[Pasted image 20231103133944.png]]

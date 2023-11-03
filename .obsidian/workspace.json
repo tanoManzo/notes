@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "788424fe51c93307",
+        "id": "ae02052926787263",
         "type": "tabs",
         "children": [
           {
-            "id": "bece39d63f972815",
+            "id": "636e7ab7cccab066",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md"
+              }
             }
           }
         ]
@@ -62,7 +64,7 @@
             }
           },
           {
-            "id": "059a1de015baf253",
+            "id": "cad5fac4fdd6b225",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "78aa3775dfc9e91b",
@@ -89,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,11 +130,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md"
+              }
             }
           },
           {
-            "id": "e37e5fb59636a69b",
+            "id": "4ac1fe7e3415fcea",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -138,7 +144,7 @@
             }
           },
           {
-            "id": "1a88138c79401dfe",
+            "id": "0267f62a69d8f35e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -157,42 +163,59 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bece39d63f972815",
+  "active": "636e7ab7cccab066",
   "lastOpenFiles": [
     "ask virginia for nlm meeting.md",
+    "notes llm papers.md",
     "images/Pasted image 20231101132656.png",
-    "Attention.md",
     "images/Pasted image 20231101131807.png",
     "images/Pasted image 20231030174358.png",
     "images/Pasted image 20231030174041.png",
     "images/Pasted image 20231030173459.png",
     "images/Pasted image 20231030173404.png",
-    "images/Pasted image 20231030162023.png",
     "images/Pasted image 20231030164014.png",
     "images/Pasted image 20231030163935.png",
     "images/Pasted image 20231030163929.png",
-    "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md",
+    "images/Pasted image 20231030163840.png",
+    "Attention 1.md",
     "Tasks.md",
+    "LLMs limitations.md",
+    "Attention.md",
+    "Flow State.md",
+    "General.md",
     "notes.md",
-    "Day Planners/2023/August w2/Day Planner-20230807.md",
+    "chromatin modifiers.md",
+    "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md",
+    "unit 5.md",
+    "conflict-files-obsidian-git.md",
+    "README.md",
+    "NLP/knowledge/Basic Attention Operation.md",
+    "papers/Revealing Chronic Disease Progression Patterns Using  Gaussian Process for Stage Inference.md",
+    "nih/Journal Club/Word2Vector.md",
+    "nih/Journal Club/Attention is all you need.md",
+    "nih/Journal Club",
+    "knowledge/k99-1.md",
+    "knowledge/English.md",
+    "knowledge/CV.md",
+    "Projects/SDoH/MIMIC health literacy.md",
+    "Projects/EmoMap/EmoMap.md",
     "Day Planners/Day Planner-20230919.md",
-    "NIH/Manzo's research roadmap.md",
-    "2022-10-13.md",
-    "NIH/Manzo's research roadmap.pdf",
-    "sentiment analysis], [[sequential models.md",
-    "NIH/LJ_Gaetano_meeting_01.md",
-    "NIH/General Notes.md",
-    "NIH/notes.md",
-    "NIH/knowledge/LWIC.md",
-    "NIH/papers/KGPT/KGPT.md"
+    "Untitled 1.md",
+    "Day Planners/2023/August w3",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "images/review_AMIA.cfm.pdf",
+    "Day Planners/2023/August w2",
+    "nih",
+    "NIH/Manzo's research roadmap.pdf"
   ]
 }

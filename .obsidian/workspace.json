@@ -11,8 +11,12 @@
             "id": "bece39d63f972815",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Flow State.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Flow State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Flow State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Flow State.md"
+              }
             }
           },
           {
@@ -168,9 +176,10 @@
   },
   "active": "bece39d63f972815",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md",
+    "Attention.md",
     "ask virginia for nlm meeting.md",
     "images/Pasted image 20231101132656.png",
-    "Attention.md",
     "images/Pasted image 20231101131807.png",
     "images/Pasted image 20231030174358.png",
     "images/Pasted image 20231030174041.png",
@@ -180,7 +189,6 @@
     "images/Pasted image 20231030164014.png",
     "images/Pasted image 20231030163935.png",
     "images/Pasted image 20231030163929.png",
-    "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md",
     "Tasks.md",
     "notes.md",
     "Day Planners/2023/August w2/Day Planner-20230807.md",

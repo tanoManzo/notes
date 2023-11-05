@@ -48,3 +48,7 @@ A test to determine if a sample could have plausibly arisen from a given normal 
 
 ![[Pasted image 20231105120532.png]]
 ![[Pasted image 20231105120807.png]]
+![[Pasted image 20231105120941.png]]
+The value of 5%5% is called the **significance** of the test, which generally is the probability of rejecting the null hypothesis when it's true.
+
+What's so special about 5%?5%? Well, nothing really! It just happens to be the default choice in statistics.

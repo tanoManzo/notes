@@ -42,3 +42,5 @@ The purpose of the �Z-test — and many other statistical tests — is to
 A test to determine if a sample could have plausibly arisen from a given normal distribution is called a Z-test.
 
 ![[Pasted image 20231105115913.png]]
+![[Pasted image 20231105120249.png]]
+![[Pasted image 20231105120318.png]]

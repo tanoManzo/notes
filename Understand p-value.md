@@ -44,3 +44,7 @@ A test to determine if a sample could have plausibly arisen from a given normal 
 ![[Pasted image 20231105115913.png]]
 ![[Pasted image 20231105120249.png]]
 ![[Pasted image 20231105120318.png]]
+![[Pasted image 20231105120426.png]]
+
+![[Pasted image 20231105120532.png]]
+![[Pasted image 20231105120807.png]]

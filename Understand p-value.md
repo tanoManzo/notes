@@ -54,3 +54,11 @@ The value of 5%5% is called the **significance** of the test, which generall
 What's so special about 5%?5%? Well, nothing really! It just happens to be the default choice in statistics.
 
 ![[Pasted image 20231105121447.png]]
+
+## P-value
+
+probability value measures how likely a result occurs through chance alone. 
+
+Remember that the Z-statistic has a very important characteristic — if H0  being true means our observed Z-value is highly unlikely, we have pretty good evidence to reject that hypothesis.
+In other words, the more extreme the Z-value, the less plausible the null hypothesis becomes. 
+The p-value is another measure of extremeness, but one given by a probability.

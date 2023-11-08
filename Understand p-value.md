@@ -77,3 +77,5 @@ Roughly, α is the level of extremeness of a sample that we're willing to live
 ![[Pasted image 20231108090750.png]]
 
 ![[Pasted image 20231108090905.png]]
+
+![[Pasted image 20231108092958.png]]

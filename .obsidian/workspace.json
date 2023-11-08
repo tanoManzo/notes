@@ -11,11 +11,9 @@
             "id": "bece39d63f972815",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Understand p-value.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20231108090905.png"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Understand p-value.md",
+                "file": "images/Pasted image 20231108090905.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Understand p-value.md",
+                "file": "images/Pasted image 20231108090905.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Understand p-value.md"
+                "file": "images/Pasted image 20231108090905.png"
               }
             }
           },
@@ -174,11 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bece39d63f972815",
+  "active": "d035e42477aeca23",
   "lastOpenFiles": [
-    "Pasted image 20231108090750.png",
-    "images/Pasted image 20231107105310.png",
     "Understand p-value.md",
+    "images/Pasted image 20231108090905.png",
+    "images/Pasted image 20231108090750.png",
+    "images/Pasted image 20231107105310.png",
     "conflict-files-obsidian-git.md",
     "images/Pasted image 20231105121447.png",
     "images/Pasted image 20231105120941.png",
@@ -187,9 +186,7 @@
     "images/Pasted image 20231105120426.png",
     "images/Pasted image 20231105120318.png",
     "images/Pasted image 20231105120249.png",
-    "images/Pasted image 20231105115913.png",
     "Flow State.md",
-    "images/Pasted image 20231103133944.png",
     "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md",
     "Attention.md",
     "ask virginia for nlm meeting.md",

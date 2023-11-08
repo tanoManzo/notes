@@ -75,3 +75,5 @@ To start, let's quickly review the **significance** of a hypothesis test. To e
 Roughly, α is the level of extremeness of a sample that we're willing to live with. If we use a Z-test, α determines the critical region, i.e. the place where we reject H0H0​ if our statistic ends up there. If we use a p-value to test our hypothesis, H0H0​ is rejected if p≤α.
 
 ![[Pasted image 20231108090750.png]]
+
+![[Pasted image 20231108090905.png]]

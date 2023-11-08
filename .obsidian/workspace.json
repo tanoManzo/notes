@@ -11,9 +11,11 @@
             "id": "bece39d63f972815",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20231107105310.png"
+                "file": "Understand p-value.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20231107105310.png",
+                "file": "Understand p-value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20231107105310.png",
+                "file": "Understand p-value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Pasted image 20231107105310.png"
+                "file": "Understand p-value.md"
               }
             }
           },
@@ -172,10 +174,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d035e42477aeca23",
+  "active": "bece39d63f972815",
   "lastOpenFiles": [
-    "Understand p-value.md",
+    "Pasted image 20231108090750.png",
     "images/Pasted image 20231107105310.png",
+    "Understand p-value.md",
     "conflict-files-obsidian-git.md",
     "images/Pasted image 20231105121447.png",
     "images/Pasted image 20231105120941.png",

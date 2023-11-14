@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Understand p-value.md",
+                "file": "General.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Understand p-value.md",
+                "file": "General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Understand p-value.md",
+                "file": "General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Understand p-value.md"
+                "file": "General.md"
               }
             }
           },
@@ -176,9 +176,9 @@
   },
   "active": "bece39d63f972815",
   "lastOpenFiles": [
+    "Understand p-value.md",
     "Pasted image 20231108092958.png",
     "images/Pasted image 20231108090905.png",
-    "Understand p-value.md",
     "images/Pasted image 20231108090750.png",
     "images/Pasted image 20231107105310.png",
     "conflict-files-obsidian-git.md",
@@ -188,7 +188,6 @@
     "images/Pasted image 20231105120532.png",
     "images/Pasted image 20231105120426.png",
     "images/Pasted image 20231105120318.png",
-    "images/Pasted image 20231105120249.png",
     "Flow State.md",
     "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md",
     "Attention.md",

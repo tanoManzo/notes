@@ -18,3 +18,7 @@ We share learned predictive sequence features across all chromatin profile predi
 Next we evaluated how well DeepSEA can predict chromatin features from holdout genomic sequences (Fig. 2a and Supplementary Table 2). We found that DeepSEA predicted chromatin features with high accuracy, including TF binding sites, for which the median area under the curve (AUC) was 0.958. Our method also enabled high-performance sequence-based prediction of both DHSs (median AUC = 0.923) and histone modifications (median AUC = 0.856).
 
 ![[Pasted image 20231119140423.png]]
+
+Sequence elements informative of chromatin feature prediction for any sequence can be identified through the ‘in silico saturated mutagenesis’ approach. Through computational mutation scanning along all potential single-nucleotide substitutions, the approach analyzes the effects of each base substitution on chromatin feature predictions, thereby identifying which sequence features are most informative for a specific chromatin effect prediction (Supplementary Fig. 3).
+
+![[Pasted image 20231119141231.png]]

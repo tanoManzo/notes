@@ -54,3 +54,28 @@ The value of 5%5% is called the **significance** of the test, which generall
 What's so special about 5%?5%? Well, nothing really! It just happens to be the default choice in statistics.
 
 ![[Pasted image 20231105121447.png]]
+
+## P-value
+
+probability value measures how likely a result occurs through chance alone. 
+
+Remember that the Z-statistic has a very important characteristic — if H0  being true means our observed Z-value is highly unlikely, we have pretty good evidence to reject that hypothesis.
+In other words, the more extreme the Z-value, the less plausible the null hypothesis becomes. The p-value is another measure of extremeness, but one given by a probability.
+
+![[Pasted image 20231107105310.png]]
+
+## Power
+
+Even when statistical experiments are set up perfectly, they can still yield misleading results due to random chance. For example, if 2020 separate groups participate in trials of 2020 different experimental weight loss drugs, then there's a high probability that at least one of these groups will lose weight just by random chance.
+
+The **power** of a hypothesis test quantifies the likelihood of avoiding such an error. Because of this, it sets the standard for a test's usefulness in detecting significant effects.
+
+To start, let's quickly review the **significance** of a hypothesis test. To ease the notation, we'll label the significance as α.
+
+Roughly, α is the level of extremeness of a sample that we're willing to live with. If we use a Z-test, α determines the critical region, i.e. the place where we reject H0H0​ if our statistic ends up there. If we use a p-value to test our hypothesis, H0H0​ is rejected if p≤α.
+
+![[Pasted image 20231108090750.png]]
+
+![[Pasted image 20231108090905.png]]
+
+![[Pasted image 20231108092958.png]]

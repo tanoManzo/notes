@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eukaryotic cells.md",
+                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eukaryotic cells.md",
+                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eukaryotic cells.md"
+                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md"
               }
             }
           },
@@ -255,13 +255,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cf4ae676f144ae32",
+  "active": "e73f04e3d6b41d36",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "transcription factor (TF) binding.md",
+    "Predicting effects of noncoding variants with deep learning–based sequence model.md",
     "eukaryotic cells.md",
+    "conflict-files-obsidian-git.md",
     "chromatin.md",
     "chromatin annotations.md",
-    "Predicting effects of noncoding variants with deep learning–based sequence model.md",
     "single-nucleotide polymorphisms.md",
     "Tasks.md",
     "AMIA 2023.md",
@@ -292,7 +293,6 @@
     "unit 5.md",
     "README.md",
     "NLP/knowledge/Basic Attention Operation.md",
-    "papers/Revealing Chronic Disease Progression Patterns Using  Gaussian Process for Stage Inference.md",
     "nih/Journal Club",
     "Day Planners/2023/August w3",
     "Excalidraw/Scripts/Downloaded",

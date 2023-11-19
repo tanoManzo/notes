@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md",
+                "file": "histone marks of sequences.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md",
+                "file": "histone marks of sequences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md",
+                "file": "histone marks of sequences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md"
+                "file": "histone marks of sequences.md"
               }
             }
           },
@@ -257,8 +257,10 @@
   },
   "active": "e73f04e3d6b41d36",
   "lastOpenFiles": [
-    "transcription factor (TF) binding.md",
     "Predicting effects of noncoding variants with deep learning–based sequence model.md",
+    "histone marks of sequences.md",
+    "DNA accessibility.md",
+    "transcription factor (TF) binding.md",
     "eukaryotic cells.md",
     "conflict-files-obsidian-git.md",
     "chromatin.md",
@@ -291,8 +293,6 @@
     "notes.md",
     "chromatin modifiers.md",
     "unit 5.md",
-    "README.md",
-    "NLP/knowledge/Basic Attention Operation.md",
     "nih/Journal Club",
     "Day Planners/2023/August w3",
     "Excalidraw/Scripts/Downloaded",

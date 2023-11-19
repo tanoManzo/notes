@@ -52,6 +52,18 @@
             }
           },
           {
+            "id": "7b1c52d7bb15dc0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c93dbbf35ce6bb73",
             "type": "leaf",
             "state": {
@@ -100,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -255,11 +267,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e73f04e3d6b41d36",
+  "active": "7b1c52d7bb15dc0e",
   "lastOpenFiles": [
+    "allele.md",
+    "Predicting effects of noncoding variants with deep learning–based sequence model.md",
     "Pasted image 20231119134708.png",
     "histone marks of sequences.md",
-    "Predicting effects of noncoding variants with deep learning–based sequence model.md",
     "DNA accessibility.md",
     "transcription factor (TF) binding.md",
     "eukaryotic cells.md",
@@ -281,7 +294,6 @@
     "images/Pasted image 20231105120807.png",
     "images/Pasted image 20231105120532.png",
     "images/Pasted image 20231105120426.png",
-    "images/Pasted image 20231105120318.png",
     "List of applications.md",
     "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md",
     "Attention.md",

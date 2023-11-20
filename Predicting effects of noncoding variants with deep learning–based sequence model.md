@@ -46,4 +46,8 @@ DeepSEA uses three convolution layers with 320, 480 and 960 kernels, respectivel
 
 ### Training of the DeepSEA model
 
-To train the model, we minimized the objective function, which is defined as the sum of negative log likelihood (NLL) and regularization terms for controlling overfitting.
+To train the model, we minimized the objective function, which is defined as the sum of negative log likelihood (NLL) and regularization terms for controlling overfitting. L2 regularization term is defined to be the sum of squares of all the weight matrix entries. ‖H<sup>−1</sup>‖<sub>1</sub> is defined to be the L1 norm of all the output values of the last layer (fully connected layer) before the output layer. Additionally, the optimization is subjected to regularization constraints that for any layer m and neuron n, or the L2 norm of weights for any neuron must not be larger than a specified value.
+
+### Data for training DeepSEA
+
+Training labels were computed from uniformly processed ENCODE and Roadmap Epigenomics data releases.

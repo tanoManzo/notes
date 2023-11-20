@@ -34,3 +34,7 @@ DeepSEA models were accurate even when only chromatin effect predictions were us
 Our method’s capability of making de novo predictions based on the exact sequence-change information also allowed us to predict the effects of insertions or deletions (indels). Evaluated on HGMD indels, the model trained with HGMD SNPs could prioritize HGMD indels against nearby control 1000 Genomes indels with high accuracy, without any training on indels (Supplementary Fig. 8).
 
 ## Method
+
+### Model design and training
+
+A deep convolutional network is a type of multilayer neural network. As is typical in a deep neural network, the model is organized by a sequential layer-by-layer structure executing a sequence of functional transformations. Each layer consists of a number of computational units called neurons. Each neuron receives input from a set of previous-layer neurons or input data and outputs a single value. All neurons in a layer together constitute an internal feature representation or output of that layer.

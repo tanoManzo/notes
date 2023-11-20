@@ -74,4 +74,45 @@ To detect allelically imbalanced variants, we ran Fisher’s exact test to compu
 
 ### Functional SNP prioritization
 
-For positive standards we used single-nucleotide substitution variants annotated as regulatory mutations in the HGMD professional version 2014.4 (ref. 17), eQTL data from the GRASP 2.0.0.0 database with a P-value cutoff of 1 × 10−10 (ref. 1) and GWAS SNPs downloaded from the NHGRI GWAS Catalog on 17 July 2014 (ref. 18). Coding variants were filtered on the basis of the UCSC build hg19 knownGene track22 .
+For positive standards we used single-nucleotide substitution variants annotated as regulatory mutations in the HGMD professional version 2014.4 (ref. 17), eQTL data from the GRASP 2.0.0.0 database with a P-value cutoff of 1 × 10−10 (ref. 1) and GWAS SNPs downloaded from the NHGRI GWAS Catalog on 17 July 2014 (ref. 18). Coding variants were filtered on the basis of the UCSC build hg19 knownGene track22 . 
+
+To compute predicted chromatin effects of variants using the DeepSEA model, for each SNP, we obtained the 1,000-bp sequence centered on that variant based on the reference genome (specifically, the sequence is chosen so that the variant was located at the 500th nucleotide). Then we constructed a pair of sequences carrying either the reference or alternative allele at the variant position. To compute features for each positive and negative standard SNP, based on the chromatin feature predictions for every pair of sequences carrying a reference and an alternative allele, respectively, we computed 2 × 919 predicted chromatin effect features, which are the absolute differences between probability values and the relative log fold changes of odds.
+
+The predicted chromatin effect features were computed for both forward and complementary sequences and then averaged.
+
+### DeepSEA functional significance score
+
+The functional significance score is computed on the basis of DeepSEA chromatin effect predictions and evolutionary information–derived scores. Specifically, the DeepSEA functional significance score for a variant is defined as the product of the geometric mean E value for predicted chromatin effects and the geometric mean E value for evolutionary conservation features. E values measure significance for each individual chromatin feature and evolutionary information–derived score. Specifically, for each predicted chromatin feature of a variant, we computed the E value as the proportion of 1000 Genomes SNPs19 with higher predicted chromatin effect magnitude on the same chromatin feature. The magnitude of the predicted chromatin effect on a chromatin feature for a variant is computed as the product of the absolute difference between probability values and the relative log fold change of odds. For each evolutionary conservation score, the E-value is the proportion of 1000 Genomes SNPs with higher score.
+
+1,000,000 randomly selected 1000 Genomes SNPs were used for computing the empirical background distributions for the 919 predicted chromatin effect features and the four evolutionary information–derived scores. Functional significance scores were evaluated with the same evaluation standards as used in the functional variant prioritization models.
+
+References
+1. Leslie R, O’Donnell CJ, Johnson AD. Bioinformatics. 2014; 30:i185–i194. [PubMed: 24931982]
+2. Ritchie GR, Dunham I, Zeggini E, Flicek P. Nat Methods. 2014; 11:294–296. [PubMed: 24487584]
+3. Kircher M, et al. Nat Genet. 2014; 46:310–315. [PubMed: 24487276]
+4. Fu Y, et al. Genome Biol. 2014; 15:480. [PubMed: 25273974]
+5. Lee D, et al. Nat Genet. 2015; 47:955–961. [PubMed: 26075791]
+6. Slattery M, et al. Trends Biochem Sci. 2014; 39:381–399. [PubMed: 25129887]
+7. Benveniste D, Sonntag HJ, Sanguinetti G, Sproul D. Proc Natl Acad Sci USA. 2014; 111:13367–
+13372. [PubMed: 25187560]
+8. Whitaker JW, Chen Z, Wang W. Nat Methods. 2015; 12:265–272. [PubMed: 25240437]
+9. ENCODE Project Consortium. Nature. 2012; 489:57–74. [PubMed: 22955616]
+10. Kundaje A, et al. Nature. 2015; 518:317–330. [PubMed: 25693563]
+11. Arvey A, Agius P, Noble WS, Leslie C. Genome Res. 2012; 22:1723–1734. [PubMed: 22955984]
+12. Ghandi M, Lee D, Mohammad-Noori M, Beer MA. PLoS Comput Biol. 2014; 10:e1003711.
+[PubMed: 25033408]
+13. Neph S, et al. Nature. 2012; 489:83–90. [PubMed: 22955618]
+14. Cowper-Sal·lari R, et al. Nat Genet. 2012; 44:1191–1198. [PubMed: 23001124]
+15. De Gobbi M, et al. Science. 2006; 312:1215–1217. [PubMed: 16728641]
+16. Weedon MN, et al. Nat Genet. 2014; 46:61–64. [PubMed: 24212882]
+17. Stenson PD, et al. Hum Genet. 2014; 133:1–9. [PubMed: 24077912]
+18. Welter D, et al. Nucleic Acids Res. 2014; 42:D1001–D1006. [PubMed: 24316577]
+19. Abecasis GR, et al. Nature. 2012; 491:56–65. [PubMed: 23128226]
+20. Koboldt DC, et al. Genome Res. 2012; 22:568–576. [PubMed: 22300766]
+21. McVicker G, et al. Science. 2013; 342:747–749. [PubMed: 24136359]
+22. Karolchik D, et al. Nucleic Acids Res. 2014; 42:D764–D770. [PubMed: 24270787]
+23. Siepel A, et al. Genome Res. 2005; 15:1034–1050. [PubMed: 16024819]
+24. Pollard KS, Hubisz MJ, Rosenbloom KR, Siepel A. Genome Res. 2010; 20:110–121. [PubMed:
+19858363]
+25. Cooper GM, et al. Genome Res. 2005; 15:901–913. [PubMed: 15965027]
+26. Davydov EV, et al. PLoS Comput Biol. 2010; 6:e1001025. [PubMed: 21152010]

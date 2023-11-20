@@ -53,3 +53,13 @@ To train the model, we minimized the objective function, which is defined as the
 Training labels were computed from uniformly processed ENCODE and Roadmap Epigenomics data releases.
 
 To prepare the input for the deep convolutional network model, we split the genome into 200-bp bins. For each bin we computed the label for all 919 chromatin features; a chromatin feature was labeled 1 if more than half of the 200-bp bin is in the peak region and 0 otherwise.
+
+We focused on the set of 200-bp bins with at least one TF binding event, resulting in 521,636,200 bp of sequences (17% of whole genome), which was used for training and evaluating chromatin feature prediction performance. Each training sample consists of a 1,000-bp sequence from the human GRCh37 reference genome centered on each 200-bp bin and is paired with a label vector for 919 chromatin features. The 1,000-bp DNA sequence is represented by a 1,000 × 4 binary matrix, with columns corresponding to A, G, C and T. The 400-bp flanking regions at the two sides provide extra contextual information to the model.
+
+Training and testing sets were split by chromosomes and strictly nonoverlapping. Chromosome 8 and 9 were excluded from training to test chromatin feature prediction performances, and the rest of the autosomes were used for training and validation. 4,000 samples on chromosome 7 spanning the genomic coordinates 30,508,751–35,296,850 were used as the validation set. All hyperparameters were selected on the basis of log likelihood of the validation set data. The validation set data was not used for training or testing.
+
+The GRCh37/hg19 genome assembly was used for all analyses in this study.
+
+### In silico saturated mutagenesis for analyzing predictive sequence features
+
+To discover informative sequence features within any sequence, we performed computational mutation scanning to assess the effect of mutating every base of the input sequence (3,000 substitutions on a 1,000 bp sequence) on chromatin feature predictions. The effect of a base substitution on a specific chromatin feature prediction was measured by log2 fold change of odds or where P0 represents the probability predicted for the original sequence and P1 represents the probability predicted for the mutated sequence.

@@ -57,9 +57,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md",
+                "file": "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "5aec8d1e3b0702d9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md"
               }
             }
           },
@@ -112,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -170,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 349.5
   },
   "right": {
     "id": "78aa3775dfc9e91b",
@@ -186,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md",
+                "file": "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md",
+                "file": "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md"
+                "file": "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md"
               }
             }
           },
@@ -267,12 +277,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b1c52d7bb15dc0e",
+  "active": "5aec8d1e3b0702d9",
   "lastOpenFiles": [
+    "test.md",
+    "Understand p-value.md",
+    "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
+    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
+    "Predicting effects of noncoding variants with deep learning–based sequence model.md",
     "Pasted image 20231119141231.png",
     "Pasted image 20231119140423.png",
     "allele.md",
-    "Predicting effects of noncoding variants with deep learning–based sequence model.md",
     "Pasted image 20231119134708.png",
     "histone marks of sequences.md",
     "DNA accessibility.md",
@@ -284,7 +299,6 @@
     "single-nucleotide polymorphisms.md",
     "Tasks.md",
     "AMIA 2023.md",
-    "Understand p-value.md",
     "knowledge/LLMs limitations.md",
     "knowledge/Attention.md",
     "images/Pasted image 20231108092958.png",
@@ -293,8 +307,6 @@
     "images/Pasted image 20231107105310.png",
     "images/Pasted image 20231105121447.png",
     "images/Pasted image 20231105120941.png",
-    "images/Pasted image 20231105120807.png",
-    "images/Pasted image 20231105120532.png",
     "List of applications.md",
     "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md",
     "Attention.md",
@@ -303,8 +315,6 @@
     "Attention 1.md",
     "LLMs limitations.md",
     "Flow State.md",
-    "General.md",
-    "notes.md",
     "nih/Journal Club",
     "Day Planners/2023/August w3",
     "Excalidraw/Scripts/Downloaded",

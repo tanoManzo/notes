@@ -51,3 +51,5 @@ To train the model, we minimized the objective function, which is defined as the
 ### Data for training DeepSEA
 
 Training labels were computed from uniformly processed ENCODE and Roadmap Epigenomics data releases.
+
+To prepare the input for the deep convolutional network model, we split the genome into 200-bp bins. For each bin we computed the label for all 919 chromatin features; a chromatin feature was labeled 1 if more than half of the 200-bp bin is in the peak region and 0 otherwise.

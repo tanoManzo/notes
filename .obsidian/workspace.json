@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "single-nucleotide polymorphisms.md",
+                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "single-nucleotide polymorphisms.md",
+                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "single-nucleotide polymorphisms.md"
+                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md"
               }
             }
           },
@@ -277,8 +277,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab347b9c4a827053",
+  "active": "e73f04e3d6b41d36",
   "lastOpenFiles": [
+    "single-nucleotide polymorphisms.md",
     "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md",
     "test.md",
     "Understand p-value.md",
@@ -296,7 +297,6 @@
     "conflict-files-obsidian-git.md",
     "chromatin.md",
     "chromatin annotations.md",
-    "single-nucleotide polymorphisms.md",
     "Tasks.md",
     "AMIA 2023.md",
     "knowledge/LLMs limitations.md",

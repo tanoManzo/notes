@@ -122,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md",
+                "file": "single-nucleotide polymorphisms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md",
+                "file": "single-nucleotide polymorphisms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md"
+                "file": "single-nucleotide polymorphisms.md"
               }
             }
           },
@@ -277,11 +277,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5aec8d1e3b0702d9",
+  "active": "ab347b9c4a827053",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md",
     "test.md",
     "Understand p-value.md",
-    "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
     "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
     "Predicting effects of noncoding variants with deep learning–based sequence model.md",

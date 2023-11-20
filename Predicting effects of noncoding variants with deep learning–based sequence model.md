@@ -63,3 +63,15 @@ The GRCh37/hg19 genome assembly was used for all analyses in this study.
 ### In silico saturated mutagenesis for analyzing predictive sequence features
 
 To discover informative sequence features within any sequence, we performed computational mutation scanning to assess the effect of mutating every base of the input sequence (3,000 substitutions on a 1,000 bp sequence) on chromatin feature predictions. The effect of a base substitution on a specific chromatin feature prediction was measured by log2 fold change of odds or where P0 represents the probability predicted for the original sequence and P1 represents the probability predicted for the mutated sequence.
+
+### Evaluation of the single-nucleotide sensitivity of chromatin feature prediction
+
+Alignment files of ENCODE digital genomic footprinting (DGF) data were downloaded from http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeUwDgf/.
+
+Variants were called with VarScan 2 (ref. 20) using default settings on DGF samples with at least 200 million total mapped reads. We then filtered the called variants to retain only variants with at least 20 reads supporting existence of each of the alleles and at least 100 reads in total.
+
+To detect allelically imbalanced variants, we ran Fisher’s exact test to compute the P value under the null hypothesis of two alleles being equal. Variants with P <0.01 and reference allele frequency larger than 0.7 or less than 0.4 were retained for downstream analysis. This pipeline found roughly the same amount of reference allele–biased and alternative allele– biased variants. The DeepSEA predictions for the reference and alternative alleles were made by the DHS predictor for the same cell type as the DGF samples.
+
+### Functional SNP prioritization
+
+For positive standards we used single-nucleotide substitution variants annotated as regulatory mutations in the HGMD professional version 2014.4 (ref. 17), eQTL data from the GRASP 2.0.0.0 database with a P-value cutoff of 1 × 10−10 (ref. 1) and GWAS SNPs downloaded from the NHGRI GWAS Catalog on 17 July 2014 (ref. 18). Coding variants were filtered on the basis of the UCSC build hg19 knownGene track22 .

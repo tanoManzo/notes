@@ -1,6 +1,6 @@
 Liu et al. , 2020
 
-[[SDoH]] [[Health Literacy]]
+[[SDoH]] [[Projects/SDoH/knowledge/Health Literacy]]
 
 ## Intro
 Def: **Health literacy is defined as the ability of an individual to obtain and translate knowledge and information in order to maintain and improve health in a way that is appropriate to the individual and system contexts.  Proposed in the 1970s**

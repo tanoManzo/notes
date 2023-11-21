@@ -4,5 +4,5 @@ reasons for admission for homeless
 standard of practice
 
 
-[[Health Literacy]]
+[[Projects/SDoH/knowledge/Health Literacy]]
 health literacy mimic iv

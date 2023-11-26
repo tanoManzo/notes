@@ -80,6 +80,19 @@ Among attention heads, the orange one clearly discovered hidden semantic relati
 
 We finally applied DNABERT-viz to understand important factors in distinguishing binding sites of TAp73-alpha from beta isoforms. To conclude, DNABERT can attain comparable interpretability as CNN-based models in a more straightforward way while greatly surpassing them in prediction performance.
 
+### DNABERT-Splice accurately recognizes canonical and non-canonical splice sites
+
+Predicting splice sites is essential for revealing gene structure and understanding alternative splicing mechanisms. Nevertheless, the presence of both GT-AG-containing non-splice site sequences, and non-canonical splice sites without the dinucleotides, creates difficulty for accurate identification (Wang et al., 2019). Recently, SpliceFinder(Wang et al., 2019) successfully addressed this issue by reconstructing a dataset via recursive inclusion of previously misclassified false positive sequences. To compare with SpliceFinder performance on identical benchmark data, we iteratively rebuilt the same dataset with donor, acceptor and non-splice site classes. We also performed comparative analysis with multiple baseline models.
+
+![[Pasted image 20231126123039.png]]
+
+DNABERT-Splice showed globally consistent high attention upon intronic regions (downstream of donors and upstream of acceptors), highlighting the presence and functional importance of various intronic splicing enhancers (ISEs) and silencers (ISSs) acting as CREs for splicing (Wang and Burge, 2008). 
+
+### Identifying functional genetic variants with DNABERT
+We applied DNABERT to identify functional variants using around 700 million short variants in dbSNP(Sherry, 2001). Specifically, we selected only those variants that are located inside DNABERT predicted high-attention regions and repeated the predictions, using sequences with altered alleles. Candidate variants resulting in significant changes in prediction probability were queried in ClinVar(Landrum et al., 2014), GRASP (Leslie et al., 2014) and NHGRI-EBI GWAS Catalog (Buniello et al., 2019).
+
+
+### Pre-training substantially enhances performance and generalizes to other organisms
 
 
 

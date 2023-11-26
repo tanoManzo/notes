@@ -43,7 +43,15 @@ For sequences longer than 512, we split them into pieces and concatenate their r
 
 ### DNABERT-Prom effectively predicts proximal and core promoter regions
 
-Predicting [[gene promoters]] is one of the most challenging bioinformatics' problems. We began by evaluating our pre-trained model on identifying proximal promoter regions. To fairly compare with existing tools with different sequence length settings, we fine-tuned two models, named DNABERT-Prom-300 and DNABERT-Prom-scan, using human TATA and non-TATA promoters of 10 000 bp length, from Eukaryotic Promoter Database (EPDnew) (Dreos et al., 2013).
+Predicting [[gene promoters]] is one of the most challenging bioinformatics' problems. We began by evaluating our pre-trained model on identifying proximal promoter regions. To fairly compare with existing tools with different sequence length settings, we fine-tuned two models, named DNABERT-Prom-300 and DNABERT-Prom-scan, using human [[TATA]] and non-TATA promoters of 10 000 bp length, from Eukaryotic Promoter Database (EPDnew) (Dreos et al., 2013).
+
+![[Pasted image 20231126120407.png]]
+
+We used 70 bp, centered around TSS, of the Prom300 data and compared with CNN, CNNþLSTM and CNNþGRU. DNABERT-Prom-core clearly outperformed all the three baselines across different datasets (Fig. 2c–g), clearly demonstrating that DNABERT can be reliably fine-tuned to accurately predict both the long proximal promoters and shorter core promoters, relying only on nearby sequence patterns around the TSS region. To further demonstrates the effectiveness of DNABERT-XL, we also conducted experiments on 301 bp-long sequences and 2001 bp-long sequences. Experiments shows that the model achieves a better performance in predicting 2001 bp-long sequences.
+
+
+### DNABERT-TF accurately identifies transcription factor binding sites
+
 
 
 #attention #nlp #nih #research #paper #good4pub #knowledge 

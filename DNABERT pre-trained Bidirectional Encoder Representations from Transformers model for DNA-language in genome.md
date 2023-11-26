@@ -1,3 +1,4 @@
+Yanrong Ji et al.
 accepted on February 1, 2021, Bioinformatics
 
 **Motivation:**
@@ -45,4 +46,4 @@ For sequences longer than 512, we split them into pieces and concatenate their r
 Predicting [[gene promoters]] is one of the most challenging bioinformatics' problems. We began by evaluating our pre-trained model on identifying proximal promoter regions. To fairly compare with existing tools with different sequence length settings, we fine-tuned two models, named DNABERT-Prom-300 and DNABERT-Prom-scan, using human TATA and non-TATA promoters of 10 000 bp length, from Eukaryotic Promoter Database (EPDnew) (Dreos et al., 2013).
 
 
-#attention #nlp #nih #research #paper #good4pub 
+#attention #nlp #nih #research #paper #good4pub #knowledge 

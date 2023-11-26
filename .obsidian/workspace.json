@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "phonetics.md",
+                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "phonetics.md",
+                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "phonetics.md",
+                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "phonetics.md"
+                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   "active": "efc03b74458075fa",
   "lastOpenFiles": [
     "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
+    "polysemy.md",
     "phonetics.md",
     "lexicons.md",
     "vanishing gradient.md",
@@ -211,7 +212,6 @@
     "General.md",
     "Flow State.md",
     "knowledge/LLMs limitations.md",
-    "knowledge/Attention.md",
     "NIH/Manzo's research roadmap.pdf"
   ]
 }

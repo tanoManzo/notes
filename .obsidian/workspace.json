@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "8acd9fd504ded471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TFBS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2a9b6fe227dc0307",
             "type": "leaf",
             "state": {
@@ -201,8 +213,8 @@
   "active": "efc03b74458075fa",
   "lastOpenFiles": [
     "TFBS.md",
-    "transcription factor (TF) binding.md",
     "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
+    "transcription factor (TF) binding.md",
     "eukaryotic cells.md",
     "TATA.md",
     "Pasted image 20231126120407.png",

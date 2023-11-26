@@ -38,3 +38,8 @@ We used the same model architecture as the BERT base, which consists of 12 Tran
 Fine-tuning For each downstream application, we started from the pre-trained parameters and fine-tuned DNABERT with task-specific data. We utilized the same training tricks across all the applications, where the learning rate was first linear warmed-up to the peak value and then linear decayed to near 0. We utilized AdamW with fixed weight decay as optimizer and employed dropout to the output layer. We split training data into training set and developing set for hyperparameter tuning. For DNABERT with different k, we slightly adjusted the peak learning rate.
 
 For sequences longer than 512, we split them into pieces and concatenate their representations as the final representation. This allows DNABERT to process extralong sequences (DNABERT-XL). DNABERT with k ¼ 3, 4, 5, 6 achieved very similar performances with slight fluctuations. In all experiments, we report results of kmer ¼ 6 since it achieves the best performance.
+
+
+### DNABERT-Prom effectively predicts proximal and core promoter regions
+
+Predicting [[gene promoters]] is one of the most challenging bioinformatics problems. We began by evaluating our pre-trained model on identifying proximal promoter regions. To fairly compare with existing tools with different sequence length settings, we fine-tuned two models, named DNABERT-Prom-300 and DNABERT-Prom-scan, using human TATA and non-TATA promoters of 10 000 bp length, from Eukaryotic Promoter Database (EPDnew) (Dreos et al., 2013).

@@ -65,5 +65,12 @@ DNABERT-TF achieved near perfect performances (0.99) on binary classification 
 
 ### DNABERT-viz allows visualization of important regions, contexts and sequence motifs
 
+To overcome the common ‘black-box’ problem, deep learning models need to maintain interpretability, while exceling in performance in comparison to traditional methods. Therefore, to summarize and understand important sequence features on which fine-tuned DNABERT models base classification decisions on, we developed DNABERT-viz module for direct visualization of important regions contributing to the model decision.
+
+![[Pasted image 20231126122200.png]]
+Figure 4a shows the learned attention maps of three TAp73-beta response elements, where DNABERT-viz accurately determines both positions and scores of TFBS predicted by P53Scan in an unsupervised manner. We then aggregated all heatmaps to produce attention landscapes on test sets of Prom-300 and ENCODE 690 TF. 
+
+![[Pasted image 20231126122331.png]]
+
 
 #attention #nlp #nih #research #paper #good4pub #knowledge 

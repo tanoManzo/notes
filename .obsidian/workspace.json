@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "2a9b6fe227dc0307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TFBS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6e9c8228d7ca47c2",
             "type": "leaf",
             "state": {
@@ -89,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "78aa3775dfc9e91b",
@@ -188,8 +200,10 @@
   },
   "active": "efc03b74458075fa",
   "lastOpenFiles": [
-    "eukaryotic cells.md",
+    "TFBS.md",
+    "transcription factor (TF) binding.md",
     "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
+    "eukaryotic cells.md",
     "TATA.md",
     "Pasted image 20231126120407.png",
     "Predicting effects of noncoding variants with deep learning–based sequence model.md",
@@ -211,7 +225,6 @@
     "Pasted image 20231121111829.png",
     "Pasted image 20231121111736.png",
     "Pasted image 20231121110643.png",
-    "transcription factor (TF) binding.md",
     "test.md",
     "single-nucleotide polymorphisms.md",
     "histone marks of sequences.md",
@@ -223,7 +236,6 @@
     "Tasks.md",
     "README.md",
     "General.md",
-    "Flow State.md",
     "NIH/Manzo's research roadmap.pdf"
   ]
 }

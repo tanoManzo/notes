@@ -53,5 +53,8 @@ We used 70 bp, centered around TSS, of the Prom300 data and compared with CNN, 
 ### DNABERT-TF accurately identifies transcription factor binding sites
 
 
+NextGen sequencing (NGS) technologies have facilitated genomewide identification of gene regulatory regions in an unprecedented way and unveiled the complexity of gene regulation. An important step in the analyses of in vivo genome-wide binding interaction data is prediction of [[TFBS]] in the target cis-regulatory regions and curation of the resulting TF binding profiles.
+
+We thus fine-tuned DNABERT-TF model to predict TFBSs in the ChIP-seq enriched regions, using 690 TF ChIP-seq uniform peak profiles from ENCODE database (Dunham et al., 2012) and compared with wellknown and previous published TFBS prediction tools, including DeepBind(Alipanahi et al., 2015), DeepSEA(Zhou and Troyanskaya, 2015), Basset (Kelley et al., 2016), DeepSite(Zhang et al., 2020), DanQ(Quang and Xie, 2016) and DESSO (Khamis et al., 2018).
 
 #attention #nlp #nih #research #paper #good4pub #knowledge 

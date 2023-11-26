@@ -1,0 +1,2 @@
+  
+TFBS stands for Transcription Factor Binding Site. It refers to a specific DNA sequence motif where transcription factors (TFs) bind to regulate gene expression. Transcription factors are proteins that play a crucial role in controlling the [[transcription factor (TF) binding]] of genes by binding to these specific DNA sequences in the promoter or enhancer regions.

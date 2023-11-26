@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f8dc96e5e6c2ecf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "137a45d6fc2503e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AMIA 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdbaeecf8f10f861",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "List of applications.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "387c9169629cf37f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Health Literacy 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "efc03b74458075fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
+                "file": "phonetics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
+                "file": "phonetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
+                "file": "phonetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md"
+                "file": "phonetics.md"
               }
             }
           },
@@ -225,9 +176,16 @@
   },
   "active": "efc03b74458075fa",
   "lastOpenFiles": [
-    "Pasted image 20231125120954.png",
-    "Health Literacy 2.md",
     "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
+    "phonetics.md",
+    "lexicons.md",
+    "vanishing gradient.md",
+    "notes.md",
+    "AMIA 2023.md",
+    "List of applications.md",
+    "Health Literacy 2.md",
+    "gene promoters.md",
+    "Pasted image 20231125120954.png",
     "Pasted image 20231121114835.png",
     "Pasted image 20231121113458.png",
     "Pasted image 20231121112311.png",
@@ -237,8 +195,6 @@
     "Pasted image 20231121111736.png",
     "Pasted image 20231121110643.png",
     "Pasted image 20231121110623.png",
-    "Pasted image 20231121110550.png",
-    "List of applications.md",
     "transcription factor (TF) binding.md",
     "test.md",
     "single-nucleotide polymorphisms.md",
@@ -250,17 +206,12 @@
     "Predicting effects of noncoding variants with deep learning–based sequence model.md",
     "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md",
     "DNA accessibility.md",
-    "AMIA 2023.md",
     "Tasks.md",
     "README.md",
-    "notes.md",
     "General.md",
     "Flow State.md",
     "knowledge/LLMs limitations.md",
     "knowledge/Attention.md",
-    "Understand p-value.md",
-    "notes llm papers.md",
-    "ask virginia for nlm meeting.md",
     "NIH/Manzo's research roadmap.pdf"
   ]
 }

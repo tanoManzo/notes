@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "process of transcription.md",
+                "file": "Cis-regulatory elements (CREs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "process of transcription.md",
+                "file": "Cis-regulatory elements (CREs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "process of transcription.md"
+                "file": "Cis-regulatory elements (CREs).md"
               }
             }
           },
@@ -207,10 +207,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c86c8035bbf2885",
+  "active": "f48bc66ecfb4fec7",
   "lastOpenFiles": [
-    "Cis-regulatory elements (CREs).md",
     "process of transcription.md",
+    "Cis-regulatory elements (CREs).md",
     "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
     "polysemy.md",
     "TATA.md",

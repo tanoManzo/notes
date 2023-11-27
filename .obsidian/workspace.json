@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gene regulatory code.md",
+                "file": "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gene regulatory code.md",
+                "file": "Cis-regulatory elements (CREs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gene regulatory code.md",
+                "file": "Cis-regulatory elements (CREs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gene regulatory code.md"
+                "file": "Cis-regulatory elements (CREs).md"
               }
             }
           },
@@ -206,15 +207,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efc03b74458075fa",
+  "active": "f48bc66ecfb4fec7",
   "lastOpenFiles": [
     "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
     "Cis-regulatory elements (CREs).md",
+    "gene regulatory code.md",
     "process of transcription.md",
     "polysemy.md",
     "TATA.md",
     "TFBS.md",
-    "gene regulatory code.md",
     "Pasted image 20231126123404.png",
     "Pasted image 20231126123137.png",
     "Pasted image 20231126123039.png",

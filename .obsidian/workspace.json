@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
+                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "78aa3775dfc9e91b",
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
+                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
+                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md"
+                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md"
               }
             }
           },
@@ -245,8 +244,8 @@
   },
   "active": "efc03b74458075fa",
   "lastOpenFiles": [
-    "TFBS.md",
     "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
+    "TFBS.md",
     "non-coding regions.md",
     "splice sites.md",
     "Cis-regulatory elements (CREs).md",

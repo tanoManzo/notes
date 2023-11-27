@@ -24,7 +24,7 @@ CNN is usually unable to capture semantic dependency within long-range contexts
 
 To address the above limitations, we adapted the idea of Bidirectional Encoder Representations from Transformers (BERT) model (Devlin et al., 2018) to genomic DNA setting and developed a deep learning method called DNABERT. We demonstrate that DNABERT resolves the above challenges by (i) developing general and transferable understandings of DNA from the purely unlabeled human genome, and utilizing them to generically solve various sequencerelated tasks in a ‘one-model-does-it-all’ fashion; (ii) globally capturing contextual information from the entire input sequence with attention mechanism; (iii) achieving great performance in data-scarce scenarios; (iv) uncovering important subregions and potential relationships between different cis-elements of a DNA sequence, without any human guidance; (v) successfully working in a crossorganism manner. Since the pre-training of DNABERT model is resource-intensive (about 25 days on 8 NVIDIA 2080Ti GPUs), as a major contribution of this study, we provide the source code and pretrained model on GitHub for future academic research.
 
-
+### BERT 
 BERT is a transformer-based contextualized language representation model that has achieved superhuman performance in many natural language processing (NLP) tasks. It introduces a paradigm of pre-training and fine-tuning, which first develops general-purpose understandings from massive amount of unlabeled data and then solves various applications with task-specific data with minimal architectural modification. DNABERT follows the same training process as BERT.
 
 ![[Pasted image 20231125120954.png]]

@@ -16,7 +16,7 @@ Deciphering the language of DNA for hidden instructions has been one of the majo
 
 **Previous linguistics studies confirmed that the DNA, especially the non-coding region, indeed exhibits great similarity to human language, ranging from alphabets and [[lexicons]] to grammar and [[phonetics]] (Brendel and Busse, 1984; Head, 1987; Ji, 1999; Mantegna et al., 1994; Searls, 1992; 2002).  However, how the semantics (i.e. functions) of CREs vary across different contexts (up and downstream nucleotide sequences) remains largely unknown.** 
 
-Many computational tools have been developed by successfully applying deep learning techniques on genomic sequence data to study the individual aspects of cis-regulatory landscapes, including DNA-protein interactions, chromatin accessibility, non-coding variants. 
+Many computational tools have been developed by successfully applying deep learning techniques on genomic sequence data to study the individual aspects of cis-regulatory landscapes, including DNA-protein interactions, chromatin accessibility, non-coding variants. 
 
 To better model DNA as a language, an ideal computational method should (i) globally take all the contextual information into account to distinguish polysemous CREs; (ii) develop generic understanding transferable to various tasks; (iii) generalize well when labeled data is limited. However, both CNN and RNN architectures fail to satisfy these requirements (Fig. 1a) (Bengio et al., 2013; LeCun et al., 2015).
 

@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "e400b5f12537861c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "polysemy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8acd9fd504ded471",
             "type": "leaf",
             "state": {
@@ -212,19 +224,19 @@
   },
   "active": "efc03b74458075fa",
   "lastOpenFiles": [
+    "polysemy.md",
+    "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
     "Pasted image 20231126123404.png",
     "Pasted image 20231126123137.png",
     "Pasted image 20231126123039.png",
     "Pasted image 20231126122331.png",
     "Pasted image 20231126122200.png",
     "TFBS.md",
-    "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
     "transcription factor (TF) binding.md",
     "eukaryotic cells.md",
     "TATA.md",
     "Pasted image 20231126120407.png",
     "Predicting effects of noncoding variants with deep learning–based sequence model.md",
-    "polysemy.md",
     "phonetics.md",
     "lexicons.md",
     "vanishing gradient.md",
@@ -237,7 +249,6 @@
     "Pasted image 20231121114835.png",
     "Pasted image 20231121113458.png",
     "Pasted image 20231121112311.png",
-    "Pasted image 20231121111936.png",
     "test.md",
     "single-nucleotide polymorphisms.md",
     "histone marks of sequences.md",

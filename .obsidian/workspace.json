@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "e4221ecfd41adbef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TFBS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ab23ff925b5861a6",
             "type": "leaf",
             "state": {
@@ -233,15 +245,15 @@
   },
   "active": "efc03b74458075fa",
   "lastOpenFiles": [
+    "TFBS.md",
+    "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
     "non-coding regions.md",
     "splice sites.md",
-    "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
     "Cis-regulatory elements (CREs).md",
     "gene regulatory code.md",
     "process of transcription.md",
     "polysemy.md",
     "TATA.md",
-    "TFBS.md",
     "Pasted image 20231126123404.png",
     "Pasted image 20231126123137.png",
     "Pasted image 20231126123039.png",

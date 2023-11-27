@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "ab23ff925b5861a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "splice sites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fef8f6fc6cb923a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "non-coding regions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c4f0b9d2ca330536",
             "type": "leaf",
             "state": {
@@ -51,7 +75,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
+                "file": "non-coding regions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
+                "file": "non-coding regions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md"
+                "file": "non-coding regions.md"
               }
             }
           },
@@ -206,10 +231,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efc03b74458075fa",
+  "active": "1fef8f6fc6cb923a",
   "lastOpenFiles": [
-    "Cis-regulatory elements (CREs).md",
+    "splice sites.md",
+    "non-coding regions.md",
     "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
+    "Cis-regulatory elements (CREs).md",
     "gene regulatory code.md",
     "process of transcription.md",
     "polysemy.md",
@@ -242,8 +269,6 @@
     "chromatin.md",
     "chromatin annotations.md",
     "allele.md",
-    "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md",
-    "DNA accessibility.md",
     "NIH/Manzo's research roadmap.pdf"
   ]
 }

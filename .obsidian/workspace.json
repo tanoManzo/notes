@@ -21,6 +21,18 @@
             }
           },
           {
+            "id": "567c40aab2bca7b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wei.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "96aabe28b868b1fe",
             "type": "leaf",
             "state": {
@@ -112,7 +124,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e1da0667c59bf88f",
@@ -181,8 +194,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
+                "file": "Wei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
+                "file": "Wei.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md"
+                "file": "Wei.md"
               }
             }
           },
@@ -283,10 +295,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efc03b74458075fa",
+  "active": "567c40aab2bca7b8",
   "lastOpenFiles": [
-    "nih/Biowulf.md",
+    "Wei.md",
     "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
+    "nih/Biowulf.md",
     "Predicting effects of noncoding variants with deep learning–based sequence model.md",
     "transcription factor (TF) binding.md",
     "allele.md",
@@ -320,7 +333,6 @@
     "test.md",
     "single-nucleotide polymorphisms.md",
     "histone marks of sequences.md",
-    "chromatin.md",
     "NIH/Manzo's research roadmap.pdf"
   ]
 }

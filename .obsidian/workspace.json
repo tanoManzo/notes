@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md",
+                "file": "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
                 "mode": "source",
                 "source": false
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md",
+                "file": "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md",
+                "file": "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Predicting effects of noncoding variants with deep learning–based sequence model.md"
+                "file": "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md"
               }
             }
           },
@@ -268,8 +268,8 @@
   },
   "active": "efc03b74458075fa",
   "lastOpenFiles": [
-    "transcription factor (TF) binding.md",
     "Predicting effects of noncoding variants with deep learning–based sequence model.md",
+    "transcription factor (TF) binding.md",
     "allele.md",
     "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
     "TFBS.md",

@@ -6,6 +6,7 @@
       {
         "id": "b47495f031e79465",
         "type": "tabs",
+        "dimension": 84.52012383900929,
         "children": [
           {
             "id": "efc03b74458075fa",
@@ -112,6 +113,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "e1da0667c59bf88f",
+        "type": "tabs",
+        "dimension": 15.479876160990713,
+        "children": [
+          {
+            "id": "352f1f2c47cfd30f",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +156,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +181,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -268,10 +285,11 @@
   },
   "active": "efc03b74458075fa",
   "lastOpenFiles": [
+    "nih/Biowulf.md",
+    "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
     "Predicting effects of noncoding variants with deep learning–based sequence model.md",
     "transcription factor (TF) binding.md",
     "allele.md",
-    "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
     "TFBS.md",
     "non-coding regions.md",
     "splice sites.md",
@@ -303,7 +321,6 @@
     "single-nucleotide polymorphisms.md",
     "histone marks of sequences.md",
     "chromatin.md",
-    "chromatin annotations.md",
     "NIH/Manzo's research roadmap.pdf"
   ]
 }

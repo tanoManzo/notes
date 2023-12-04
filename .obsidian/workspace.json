@@ -4,96 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b47495f031e79465",
+        "id": "c0573f13e6eb8a7c",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "efc03b74458075fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "567c40aab2bca7b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wei.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96aabe28b868b1fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "transcription factor (TF) binding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f83eb44581b445a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "allele.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4221ecfd41adbef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TFBS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab23ff925b5861a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "splice sites.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fef8f6fc6cb923a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "non-coding regions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4f0b9d2ca330536",
+            "id": "fe289b6a54edc2a5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -101,46 +16,113 @@
             }
           },
           {
-            "id": "f48bc66ecfb4fec7",
+            "id": "6256f249f08d3d88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cis-regulatory elements (CREs).md",
+                "file": "Understand p-value.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1c86c8035bbf2885",
+            "id": "06ed679e65997906",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "process of transcription.md",
+                "file": "AMIA 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e73f04e3d6b41d36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b1c52d7bb15dc0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5aec8d1e3b0702d9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "c93dbbf35ce6bb73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chromatin annotations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45f0af946438dd6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chromatin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf4ae676f144ae32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "eukaryotic cells.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab347b9c4a827053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "single-nucleotide polymorphisms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "dfc2b9826eaa09da",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "65b16bdaf3df82e5",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bio",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,18 +169,20 @@
             }
           },
           {
-            "id": "059a1de015baf253",
+            "id": "cad5fac4fdd6b225",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 349.5,
+    "collapsed": true
   },
   "right": {
     "id": "78aa3775dfc9e91b",
@@ -214,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wei.md",
+                "file": "General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wei.md",
+                "file": "General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,12 +238,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wei.md"
+                "file": "General.md"
               }
             }
           },
           {
-            "id": "e37e5fb59636a69b",
+            "id": "4ac1fe7e3415fcea",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -267,7 +251,7 @@
             }
           },
           {
-            "id": "1a88138c79401dfe",
+            "id": "0267f62a69d8f35e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -286,53 +270,60 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "567c40aab2bca7b8",
+  "active": "e73f04e3d6b41d36",
   "lastOpenFiles": [
-    "Wei.md",
-    "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
-    "nih/Biowulf.md",
     "Predicting effects of noncoding variants with deep learning–based sequence model.md",
-    "transcription factor (TF) binding.md",
-    "allele.md",
-    "TFBS.md",
-    "non-coding regions.md",
+    "vanishing gradient.md",
     "splice sites.md",
-    "Cis-regulatory elements (CREs).md",
-    "gene regulatory code.md",
     "process of transcription.md",
     "polysemy.md",
+    "phonetics.md",
+    "notes llm papers.md",
+    "non-coding regions.md",
+    "lexicons.md",
+    "gene regulatory code.md",
+    "gene promoters.md",
+    "chromatin modifiers.md",
+    "ask virginia for nlm meeting.md",
+    "Wei.md",
+    "TFBS.md",
     "TATA.md",
     "Pasted image 20231126123404.png",
     "Pasted image 20231126123137.png",
     "Pasted image 20231126123039.png",
     "Pasted image 20231126122331.png",
     "Pasted image 20231126122200.png",
-    "eukaryotic cells.md",
     "Pasted image 20231126120407.png",
-    "phonetics.md",
-    "lexicons.md",
-    "vanishing gradient.md",
-    "notes.md",
-    "AMIA 2023.md",
-    "List of applications.md",
-    "Health Literacy 2.md",
-    "gene promoters.md",
     "Pasted image 20231125120954.png",
     "Pasted image 20231121114835.png",
     "Pasted image 20231121113458.png",
     "Pasted image 20231121112311.png",
-    "test.md",
+    "Health Literacy 2.md",
+    "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
+    "Cis-regulatory elements (CREs).md",
     "single-nucleotide polymorphisms.md",
+    "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md",
+    "test.md",
+    "Understand p-value.md",
+    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
+    "allele.md",
     "histone marks of sequences.md",
+    "nih/Journal Club",
+    "Day Planners/2023/August w3",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "images/review_AMIA.cfm.pdf",
+    "Day Planners/2023/August w2",
+    "nih",
     "NIH/Manzo's research roadmap.pdf"
   ]
 }

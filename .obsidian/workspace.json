@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General.md",
+                "file": "allele.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,13 +176,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 349.5
   },
   "right": {
     "id": "78aa3775dfc9e91b",
@@ -198,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General.md",
+                "file": "allele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General.md",
+                "file": "allele.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General.md"
+                "file": "allele.md"
               }
             }
           },
@@ -281,6 +279,11 @@
   },
   "active": "e73f04e3d6b41d36",
   "lastOpenFiles": [
+    "AMIA 2023.md",
+    "allele.md",
+    "Flow State.md",
+    "General.md",
+    "notes.md",
     "Predicting effects of noncoding variants with deep learning–based sequence model.md",
     "vanishing gradient.md",
     "splice sites.md",
@@ -312,11 +315,6 @@
     "Cis-regulatory elements (CREs).md",
     "single-nucleotide polymorphisms.md",
     "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md",
-    "test.md",
-    "Understand p-value.md",
-    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
-    "allele.md",
-    "histone marks of sequences.md",
     "nih/Journal Club",
     "Day Planners/2023/August w3",
     "Excalidraw/Scripts/Downloaded",

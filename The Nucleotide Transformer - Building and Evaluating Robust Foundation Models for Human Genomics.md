@@ -28,4 +28,9 @@ We built four distinct foundation language models of different sizes, ranging fr
 
 ## Results
 
+After pre-training, model representations were used to solve domain-specific tasks with simple models based on a small number of parameters, such as logistic regression, across 18 different genomic prediction tasks (Fig. 1a) and for which baseline performance metrics were available [21, 22, 23, 24, 25] (Fig. 1 b)
+
 ![[Pasted image 20231208152431.png]]
+Motivated by the lack of such benchmark in genomics, we first compiled a collection of 18 datasets, based on five peer-reviewed research studies, into a common format to facilitate experimentation and increase reproducibility.
+
+The Nucleotide Transformer models were evaluated after self-supervised training through two different techniques: probing and fine-tuning. [[Probing]] refers to the use of learned LM embeddings of DNA sequences as features to simpler models for predicting genomic tasks. Specifically, we probed ten arbitrarily chosen layers of the LMs using either a logistic regression model or a small multi-layer perceptron (MLP) model composed of up to two hidden layers (Fig. 2).

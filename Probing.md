@@ -1,0 +1,7 @@
+In the context of natural language processing and machine learning, probing refers to the process of investigating the internal representations or hidden states of a pre-trained neural network to understand what kind of information or linguistic features the network has learned. The goal is to analyze the capabilities and knowledge encoded in the neural network's hidden layers without specific task-related supervision.
+
+Probing involves training a simple task-specific model on top of the pre-trained neural network's representations, typically focusing on a particular linguistic aspect, such as syntax, semantics, or sentiment. By observing the performance of the probing model on this task, researchers can gain insights into the nature of the information encoded in the original network.
+
+For example, in the context of language models like GPT (Generative Pre-trained Transformer), researchers might probe the hidden layers to understand if the model has captured syntactic structures, semantic relationships, or other linguistic properties. Probing helps researchers interpret the representations learned during pre-training and can provide valuable information about the model's strengths and limitations.
+
+Probing studies have been conducted on various pre-trained models, including those for natural language understanding and generation, to better understand the knowledge encoded within these models and to improve our understanding of how they process language.

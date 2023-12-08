@@ -24,3 +24,8 @@ Large foundation models trained on sequences of nucleotides appear to be the nat
 We built four distinct foundation language models of different sizes, ranging from 500M up to 2.5B parameters, and pre-trained them on three different datasets encompassing the Human reference genome, a collection of 3,200 diverse human genomes, and 850 genomes from several species (Table 6).
 
 ![[Pasted image 20231208144544.png]]
+
+
+## Results
+
+![[Pasted image 20231208152431.png]]

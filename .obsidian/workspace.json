@@ -44,6 +44,30 @@
             }
           },
           {
+            "id": "d5bed7ff6bcd22bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9920bf5f7d5955f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "haplotypic context.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b6917627eccf5b34",
             "type": "leaf",
             "state": {
@@ -148,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -222,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
+                "file": "haplotypic context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
+                "file": "haplotypic context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md"
+                "file": "haplotypic context.md"
               }
             }
           },
@@ -303,18 +327,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f139b521e81d0f9",
+  "active": "f9920bf5f7d5955f",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "haplotypic context.md",
+    "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
     "Pasted image 20231208165044.png",
     "Pasted image 20231208164848.png",
     "Pasted image 20231208164444.png",
     "Pasted image 20231208153812.png",
     "Probing.md",
-    "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
     "Pasted image 20231208152431.png",
     "Pasted image 20231208144544.png",
     "Wei.md",
-    "conflict-files-obsidian-git.md",
     "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
     "nih/Biowulf.md",
     "Predicting effects of noncoding variants with deep learning–based sequence model.md",
@@ -332,7 +357,6 @@
     "Pasted image 20231126123137.png",
     "Pasted image 20231126123039.png",
     "Pasted image 20231126122331.png",
-    "Pasted image 20231126122200.png",
     "eukaryotic cells.md",
     "phonetics.md",
     "lexicons.md",

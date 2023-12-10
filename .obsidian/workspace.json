@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "haplotypic context.md",
+                "file": "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "haplotypic context.md",
+                "file": "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "haplotypic context.md"
+                "file": "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md"
               }
             }
           },
@@ -327,10 +327,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9920bf5f7d5955f",
+  "active": "d5bed7ff6bcd22bc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "haplotypic context.md",
+    "conflict-files-obsidian-git.md",
     "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
     "Pasted image 20231208165044.png",
     "Pasted image 20231208164848.png",

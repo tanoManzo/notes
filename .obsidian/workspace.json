@@ -56,84 +56,12 @@
             }
           },
           {
-            "id": "f9920bf5f7d5955f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "haplotypic context.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6917627eccf5b34",
+            "id": "49a0d0e8ddf4ace3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Probing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96aabe28b868b1fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "transcription factor (TF) binding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f83eb44581b445a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "allele.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4221ecfd41adbef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TFBS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab23ff925b5861a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "splice sites.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fef8f6fc6cb923a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "non-coding regions.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -246,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
+                "file": "Probing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
+                "file": "Probing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md"
+                "file": "Probing.md"
               }
             }
           },
@@ -327,16 +255,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5bed7ff6bcd22bc",
+  "active": "49a0d0e8ddf4ace3",
   "lastOpenFiles": [
+    "TFBS.md",
+    "Probing.md",
     "haplotypic context.md",
-    "conflict-files-obsidian-git.md",
     "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
+    "conflict-files-obsidian-git.md",
     "Pasted image 20231208165044.png",
     "Pasted image 20231208164848.png",
     "Pasted image 20231208164444.png",
     "Pasted image 20231208153812.png",
-    "Probing.md",
     "Pasted image 20231208152431.png",
     "Pasted image 20231208144544.png",
     "Wei.md",
@@ -345,7 +274,6 @@
     "Predicting effects of noncoding variants with deep learning–based sequence model.md",
     "transcription factor (TF) binding.md",
     "allele.md",
-    "TFBS.md",
     "non-coding regions.md",
     "splice sites.md",
     "Cis-regulatory elements (CREs).md",

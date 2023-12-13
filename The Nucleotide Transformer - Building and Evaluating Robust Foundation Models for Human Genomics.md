@@ -68,7 +68,7 @@ Finally, to understand whether the model encodes for genomic features, we comput
 
 ### The Nucleotide Transformer embeddings predict the impact of mutations
 
-Finally, we assessed the ability of our transformer models to differentiate between different types of genetic variants, and to prioritise those of functional importance. In order to do so, we tested divergence between alternative allele and reference embeddings for mutations of interest using four metrics (see Methods; dubbed ”divergence score”)
+Finally, **we assessed the ability of our transformer models to differentiate between different types of genetic variants, and to prioritise those of functional importance**. In order to do so, we tested divergence between alternative allele and reference embeddings for mutations of interest using four metrics (see Methods; dubbed ”divergence score”)
 
 ![[Pasted image 20231208165044.png]]
 

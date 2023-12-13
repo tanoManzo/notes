@@ -68,39 +68,29 @@
             }
           },
           {
-            "id": "c4f0b9d2ca330536",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f48bc66ecfb4fec7",
+            "id": "4781ebf5ffbc8d98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cis-regulatory elements (CREs).md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1c86c8035bbf2885",
+            "id": "ca5087e54258a5ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "process of transcription.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20231119134708.png"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -174,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probing.md",
+                "file": "Pasted image 20231119134708.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probing.md",
+                "file": "Pasted image 20231119134708.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probing.md"
+                "file": "Pasted image 20231119134708.png"
               }
             }
           },
@@ -255,14 +245,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49a0d0e8ddf4ace3",
+  "active": "ca5087e54258a5ce",
   "lastOpenFiles": [
-    "TFBS.md",
+    "Pasted image 20231208165044.png",
+    "Biowulf.md",
+    "Untitled.md",
     "Probing.md",
+    "TFBS.md",
     "haplotypic context.md",
     "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
     "conflict-files-obsidian-git.md",
-    "Pasted image 20231208165044.png",
     "Pasted image 20231208164848.png",
     "Pasted image 20231208164444.png",
     "Pasted image 20231208153812.png",
@@ -290,9 +282,6 @@
     "lexicons.md",
     "vanishing gradient.md",
     "notes.md",
-    "AMIA 2023.md",
-    "List of applications.md",
-    "Health Literacy 2.md",
     "NIH/Manzo's research roadmap.pdf"
   ]
 }

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
+                "file": "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
+                "file": "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
+                "file": "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md"
+                "file": "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md"
               }
             }
           },
@@ -201,8 +201,9 @@
   },
   "active": "d5bed7ff6bcd22bc",
   "lastOpenFiles": [
-    "eukaryotic cells.md",
+    "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
     "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
+    "eukaryotic cells.md",
     "DNA accessibility.md",
     "Cis-regulatory elements (CREs).md",
     "chromatin annotations.md",
@@ -226,7 +227,6 @@
     "phonetics.md",
     "notes llm papers.md",
     "polysemy.md",
-    "Predicting effects of noncoding variants with deep learning–based sequence model.md",
     "images/Pasted image 20231119134708.png",
     "images/Pasted image 20231208165044.png",
     "images/Pasted image 20231208164848.png",

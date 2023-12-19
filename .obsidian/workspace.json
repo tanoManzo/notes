@@ -52,6 +52,18 @@
             }
           },
           {
+            "id": "4efe306529c34db0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transfer Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7b1c52d7bb15dc0e",
             "type": "leaf",
             "state": {
@@ -122,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -196,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "allele.md",
+                "file": "Transfer Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "allele.md",
+                "file": "Transfer Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "allele.md"
+                "file": "Transfer Learning.md"
               }
             }
           },
@@ -277,10 +289,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e73f04e3d6b41d36",
+  "active": "4efe306529c34db0",
   "lastOpenFiles": [
-    "AMIA 2023.md",
+    "Pasted image 20231219105303.png",
+    "Pasted image 20231219105212.png",
     "allele.md",
+    "Transfer Learning.md",
+    "AMIA 2023.md",
     "Flow State.md",
     "General.md",
     "notes.md",
@@ -309,12 +324,9 @@
     "Pasted image 20231125120954.png",
     "Pasted image 20231121114835.png",
     "Pasted image 20231121113458.png",
-    "Pasted image 20231121112311.png",
     "Health Literacy 2.md",
     "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
     "Cis-regulatory elements (CREs).md",
-    "single-nucleotide polymorphisms.md",
-    "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md",
     "nih/Journal Club",
     "Day Planners/2023/August w3",
     "Excalidraw/Scripts/Downloaded",

@@ -1,4 +1,4 @@
-```mermaid
+`mermaid
 graph TD
   A[Backpropagation] -->|Supervised learning with optimization algorithm (e.g., gradient descent)| B[Gradient Descent]
   B -->|Chain rule applied during backpropagation. Gradients calculated layer by layer| C[Vanishing Gradient]

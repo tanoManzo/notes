@@ -8,50 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe289b6a54edc2a5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6256f249f08d3d88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Understand p-value.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06ed679e65997906",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AMIA 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e73f04e3d6b41d36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "allele.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4efe306529c34db0",
             "type": "leaf",
             "state": {
@@ -64,77 +20,18 @@
             }
           },
           {
-            "id": "7b1c52d7bb15dc0e",
+            "id": "460cfd656d277441",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5aec8d1e3b0702d9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "c93dbbf35ce6bb73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chromatin annotations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45f0af946438dd6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chromatin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf4ae676f144ae32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "eukaryotic cells.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab347b9c4a827053",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "single-nucleotide polymorphisms.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 349.5,
+    "collapsed": true
   },
   "right": {
     "id": "78aa3775dfc9e91b",
@@ -291,16 +189,29 @@
   },
   "active": "4efe306529c34db0",
   "lastOpenFiles": [
-    "Pasted image 20231219110128.png",
-    "Pasted image 20231219110013.png",
-    "Pasted image 20231219105712.png",
-    "Pasted image 20231219105626.png",
-    "Pasted image 20231219105503.png",
-    "Pasted image 20231219105303.png",
-    "Pasted image 20231219105212.png",
-    "allele.md",
+    "Pasted image 20231226154215.png",
+    "conflict-files-obsidian-git.md",
     "Transfer Learning.md",
+    "Pasted image 20231226154050.png",
+    "Pasted image 20231226154009.png",
+    "Pasted image 20231226153805.png",
+    "Pasted image 20231226153540.png",
+    "allele.md",
     "AMIA 2023.md",
+    "Understand p-value.md",
+    "chromatin annotations.md",
+    "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
+    "images/Pasted image 20231208165044.png",
+    "images/Pasted image 20231208164848.png",
+    "images/Pasted image 20231208164444.png",
+    "images/Pasted image 20231208153812.png",
+    "images/Pasted image 20231208152431.png",
+    "images/Pasted image 20231208144544.png",
+    "haplotypic context.md",
+    "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
+    "Probing.md",
+    "Biowulf.md",
     "Flow State.md",
     "General.md",
     "notes.md",
@@ -314,19 +225,6 @@
     "non-coding regions.md",
     "lexicons.md",
     "gene regulatory code.md",
-    "gene promoters.md",
-    "chromatin modifiers.md",
-    "ask virginia for nlm meeting.md",
-    "Wei.md",
-    "TFBS.md",
-    "TATA.md",
-    "Pasted image 20231126123404.png",
-    "Pasted image 20231126123137.png",
-    "Pasted image 20231126123039.png",
-    "Pasted image 20231126122331.png",
-    "Health Literacy 2.md",
-    "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
-    "Cis-regulatory elements (CREs).md",
     "nih/Journal Club",
     "Day Planners/2023/August w3",
     "Excalidraw/Scripts/Downloaded",

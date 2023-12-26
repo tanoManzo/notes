@@ -7,5 +7,5 @@
 ![[Pasted image 20231219110128.png]]
 ![[Pasted image 20231226153540.png]]
 ![[Pasted image 20231226153805.png]]![[Pasted image 20231226154009.png]]
-![[Pasted image 20231226154050.png]]
-![[Pasted image 20231226154215.png]]
+![[Pasted image 20231226154050.png]]]]
+![[Pasted image 20231226154957.png]]

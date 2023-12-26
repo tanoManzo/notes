@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ea996bd6a53c788a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BERT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 349.5
   },
   "right": {
     "id": "78aa3775dfc9e91b",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transfer Learning.md",
+                "file": "BERT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transfer Learning.md",
+                "file": "BERT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transfer Learning.md"
+                "file": "BERT.md"
               }
             }
           },
@@ -175,13 +187,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4efe306529c34db0",
+  "active": "ea996bd6a53c788a",
   "lastOpenFiles": [
+    "Pasted image 20231226155551.png",
+    "Transfer Learning.md",
+    "BERT.md",
+    "Pasted image 20231226155222.png",
     "Pasted image 20231226154957.png",
     "Pasted image 20231226154949.png",
     "Pasted image 20231226154215.png",
     "conflict-files-obsidian-git.md",
-    "Transfer Learning.md",
     "Pasted image 20231226154050.png",
     "Pasted image 20231226154009.png",
     "Pasted image 20231226153805.png",
@@ -194,8 +209,6 @@
     "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
     "images/Pasted image 20231208165044.png",
     "images/Pasted image 20231208164848.png",
-    "images/Pasted image 20231208164444.png",
-    "images/Pasted image 20231208153812.png",
     "haplotypic context.md",
     "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
     "Probing.md",
@@ -212,7 +225,6 @@
     "notes llm papers.md",
     "non-coding regions.md",
     "lexicons.md",
-    "gene regulatory code.md",
     "nih/Journal Club",
     "Day Planners/2023/August w3",
     "Excalidraw/Scripts/Downloaded",

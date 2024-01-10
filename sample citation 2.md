@@ -1,0 +1,2 @@
+
+L'effet pour l'avenir : qui dit poisson dit eau, eau, dit diminution de la ressource. De partout, on entend que c'est une ressource appelée à diminuer. Ça veut dire que la gestion devra être faite entre tous les intéressés. Ça va de la gestion de l'eau potable à la production hydroélectrique, au maintien des habitats pour toute la faune concernée par l'eau, dont les poissons. Ça veut dire gestion intelligente, compromis, pesée d'intérêts.

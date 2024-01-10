@@ -40,9 +40,19 @@
                 "currentVersion": "1.5.3"
               }
             }
+          },
+          {
+            "id": "745176daece2680f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BERT.md",
+                "file": "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BERT.md",
+                "file": "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BERT.md"
+                "file": "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.md"
               }
             }
           },
@@ -199,8 +209,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a19a3792b90b524",
+  "active": "745176daece2680f",
   "lastOpenFiles": [
+    "Pasted Image 20240110053926_454.png",
+    "Pasted Image 20240110053855_470.png",
+    "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.md",
     "Pasted image 20231226160658.png",
     "Pasted image 20231226155551.png",
     "Transfer Learning.md",
@@ -213,14 +226,12 @@
     "Pasted image 20231226154050.png",
     "Pasted image 20231226154009.png",
     "Pasted image 20231226153805.png",
-    "Pasted image 20231226153540.png",
     "allele.md",
     "AMIA 2023.md",
     "Understand p-value.md",
     "chromatin annotations.md",
     "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
-    "images/Pasted image 20231208165044.png",
     "haplotypic context.md",
     "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
     "Probing.md",
@@ -236,7 +247,6 @@
     "phonetics.md",
     "notes llm papers.md",
     "non-coding regions.md",
-    "lexicons.md",
     "nih/Journal Club",
     "Day Planners/2023/August w3",
     "Excalidraw/Scripts/Downloaded",

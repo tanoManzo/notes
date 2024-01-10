@@ -32,16 +32,6 @@
             }
           },
           {
-            "id": "0a19a3792b90b524",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
-          },
-          {
             "id": "745176daece2680f",
             "type": "leaf",
             "state": {
@@ -50,9 +40,21 @@
                 "file": "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "a141600fd01c7cdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sample of citation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,13 +213,15 @@
   },
   "active": "745176daece2680f",
   "lastOpenFiles": [
+    "single-nucleotide polymorphisms.md",
+    "sample of citation.md",
+    "BERT.md",
+    "Transfer Learning.md",
+    "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.md",
     "Pasted Image 20240110053926_454.png",
     "Pasted Image 20240110053855_470.png",
-    "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.md",
     "Pasted image 20231226160658.png",
     "Pasted image 20231226155551.png",
-    "Transfer Learning.md",
-    "BERT.md",
     "Pasted image 20231226155222.png",
     "Pasted image 20231226154957.png",
     "Pasted image 20231226154949.png",
@@ -225,7 +229,6 @@
     "conflict-files-obsidian-git.md",
     "Pasted image 20231226154050.png",
     "Pasted image 20231226154009.png",
-    "Pasted image 20231226153805.png",
     "allele.md",
     "AMIA 2023.md",
     "Understand p-value.md",
@@ -246,7 +249,6 @@
     "polysemy.md",
     "phonetics.md",
     "notes llm papers.md",
-    "non-coding regions.md",
     "nih/Journal Club",
     "Day Planners/2023/August w3",
     "Excalidraw/Scripts/Downloaded",

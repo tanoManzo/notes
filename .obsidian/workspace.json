@@ -35,9 +35,21 @@
             "id": "745176daece2680f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.md"
+                "file": "images/Pasted image 20231219105212.png"
+              }
+            }
+          },
+          {
+            "id": "247517be13182461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DNABERT2.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -141,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.md",
+                "file": "DNABERT2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.md",
+                "file": "DNABERT2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.md"
+                "file": "DNABERT2.md"
               }
             }
           },
@@ -224,27 +236,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "745176daece2680f",
+  "active": "247517be13182461",
   "lastOpenFiles": [
-    "sample citation 2.md",
+    "images/Pasted image 20231219105212.png",
+    "DNABERT2.md",
     "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.md",
-    "Pasted Image 20240110091144_439.png",
+    "sample citation 2.md",
+    "images/Pasted Image 20240110091144_439.png",
     "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md",
     "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md",
     "single-nucleotide polymorphisms.md",
     "sample of citation.md",
     "BERT.md",
     "Transfer Learning.md",
-    "Pasted Image 20240110053926_454.png",
-    "Pasted Image 20240110053855_470.png",
-    "Pasted image 20231226160658.png",
-    "Pasted image 20231226155551.png",
-    "Pasted image 20231226155222.png",
-    "Pasted image 20231226154957.png",
-    "Pasted image 20231226154949.png",
-    "Pasted image 20231226154215.png",
+    "images/Pasted Image 20240110053926_454.png",
+    "images/Pasted Image 20240110053855_470.png",
+    "images/Pasted image 20231226160658.png",
+    "images/Pasted image 20231226155551.png",
+    "images/Pasted image 20231226155222.png",
+    "images/Pasted image 20231226154957.png",
+    "images/Pasted image 20231226154949.png",
+    "images/Pasted image 20231226154215.png",
     "conflict-files-obsidian-git.md",
-    "Pasted image 20231226154050.png",
+    "images/Pasted image 20231226154050.png",
     "allele.md",
     "AMIA 2023.md",
     "Understand p-value.md",
@@ -260,8 +274,6 @@
     "Predicting effects of noncoding variants with deep learning–based sequence model.md",
     "vanishing gradient.md",
     "splice sites.md",
-    "process of transcription.md",
-    "polysemy.md",
     "nih/Journal Club",
     "Day Planners/2023/August w3",
     "Excalidraw/Scripts/Downloaded",

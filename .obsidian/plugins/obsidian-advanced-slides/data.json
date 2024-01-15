@@ -2,24 +2,20 @@
   "port": "3000",
   "autoReload": true,
   "exportDirectory": "/export",
-  "enableChalkboard": true,
+  "enableChalkboard": false,
   "enableOverview": false,
   "enableMenu": false,
-  "enablePointer": true,
+  "enablePointer": false,
   "enableTimeBar": false,
   "theme": "black",
   "highlightTheme": "zenburn",
-  "transition": "convex",
+  "transition": "slide",
   "transitionSpeed": "default",
   "controls": true,
   "progress": true,
-  "slideNumber": true,
+  "slideNumber": false,
   "showGrid": false,
   "autoComplete": "inPreview",
   "paneMode": "split",
-<<<<<<< HEAD
-  "motm": "2023-12-08T16:45:50.039Z"
-=======
-  "motm": "2023-12-04T14:41:08.991Z"
->>>>>>> origin/main
+  "motm": "2024-01-15T14:40:52.470Z"
 }

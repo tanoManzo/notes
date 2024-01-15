@@ -17,3 +17,10 @@ We propose the Genome Understanding Evaluation (GUE), a comprehensive multi-spec
 
 ### Results 
 Compared to DNABERT, while being 3× more efficient, DNABERT-2 outperforms it on 23 out of 28 datasets, with an average improvement of 6 absolute scores on GUE. The code, data, and pre-trained model are publicly available at https://github.com/Zhihan1996/DNABERT_2.
+
+
+## Introduction
+
+Transformer-based foundation models can capture complex relationships and dependencies in DNA sequences, opening new avenues for understanding transcriptional regulation [Li et al., 2023], non-coding genetic variants associated with human diseases and traits [Rozowsky et al., 2023], and the functional effects of regulatory elements [Smith et al., 2023].
+
+Downstream applications, including promoter prediction [Le et al., 2022; Zhang et al., 2022], gene expression prediction [Avsec et al., 2021], DNA methylation prediction

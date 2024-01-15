@@ -21,6 +21,11 @@ Compared to DNABERT, while being 3× more efficient, DNABERT-2 outperforms it on
 
 ## Introduction
 
+### State of the art 
+#### Upstream 
 Transformer-based foundation models can capture complex relationships and dependencies in DNA sequences, opening new avenues for understanding **transcriptional regulation [Li et al., 2023], non-coding genetic variants associated with human diseases and traits [Rozowsky et al., 2023], and the functional effects of regulatory elements [Smith et al., 2023].**
 
+#### Downstream 
 **Downstream applications, including promoter prediction [Le et al., 2022; Zhang et al., 2022], gene expression prediction [Avsec et al., 2021], DNA methylation prediction [Jin et al.,2022], chromatin state analysis [Lee et al., 2022], promoter-enhancer interaction prediction [Chen et al., 2022; Ni et al., 2022], TF-DNA binding prediction [Wang et al., 2022], variant effect prediction [Rozowsky et al., 2023], gene network prediction [Theodoris et al., 2023] and more.** 
+
+### DNABERT [Ji et al., 2021] limitations 

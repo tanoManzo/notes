@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNABERT2.md",
+                "file": "DNABERT-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DNABERT2.md",
+                "file": "DNABERT-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DNABERT2.md",
+                "file": "DNABERT-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DNABERT2.md"
+                "file": "DNABERT-2.md"
               }
             }
           },
@@ -239,7 +239,7 @@
   "active": "247517be13182461",
   "lastOpenFiles": [
     "images/Pasted image 20231219105212.png",
-    "DNABERT2.md",
+    "DNABERT-2.md",
     "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.md",
     "sample citation 2.md",
     "images/Pasted Image 20240110091144_439.png",

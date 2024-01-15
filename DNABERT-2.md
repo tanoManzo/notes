@@ -34,8 +34,18 @@ First, although proven to be generalizable to other organisms, the pretraining w
 ### Nucleotide Transformers limitations
 Recently, Lopez et al. [2023] introduced Nucleotide Transformers (NT), a series of genome foundation models scaling from 500M to 2500M parameters. NT alleviated the first two limitations of DNABERT by pre-training on a large collection of genomes from 850 species and replacing overlapping k-mer tokenization with a non-overlapping version, substantially reducing tokenized sequence length. Despite this, a hard input length limitation still exist, while, as we will discuss in Sec. 2, non-overlapping k-mer tokenization also suffered from poor sample efficiency as it complicates the model’s task of aligning significantly distinct representations of near-identical inputs.
 
-### DNABERT 2 better than DNABERT
+### DNABERT-2 better than DNABERT
+
 - Replaces k-mer tokenization with Byte Pair Encoding (BPE) [Sennrich et al., 2016].
-- Replacing learned positional embeddings with Attention with Linear Biases (ALiBi) [Press et al., 2021] incorporating Flash Attention [Dao et al., 2022]
-- 
+- Replacing learned positional embeddings with Attention with Linear Biases (ALiBi) [Press et al., 2021] incorporating Flash Attention [Dao et al., 2022].
+- 56× less computational cost and 21× fewer parameters.
+
 We introduce DNABERT-2, a multi-species genome foundation model that replaces k-mer tokenization with Byte Pair Encoding (BPE) [Sennrich et al., 2016], a data compression algorithm that has been widely used by large language models. We show that BPE effectively addresses the known issues of k-mer tokenization while maintaining the computational efficiency of non-overlapping tokenization. Moreover, DNABERT-2 overcomes the limitation of DNABERT by replacing learned positional embeddings with Attention with Linear Biases (ALiBi) [Press et al., 2021] to get rid of the input length limitation, incorporating Flash Attention [Dao et al., 2022] to increase computational efficiency, and adjusting model architecture to increase model capability. As a result of the efficient tokenizer and advanced model architecture, DNABERT-2 achieves comparable performance to the state-of-the-art model with approximately 56× less computational cost and 21× fewer parameters, identifying its computation- and sample- efficiency and enabling efficient fine-tuning on most consumer GPUs.
+
+### Benchmarks
+Existing works [Lopez et al., 2023] are either too trivial or too challenging, leading to similar scores for most models and failing to accurately reflect different models’ capabilities. The scarcity of high-quality benchmark datasets hampers evaluating and comparing different models and further hinders the development of novel techniques. To this end, we introduce Genome Understanding Evaluation (GUE), a standardized and comprehensive multi-species benchmark containing 28 datasets across 7 important genome analysis tasks on genomes of 4 species with input lengths ranging from 70 to 1000. All the datasets are elaborately calibrated with a series of strategies to ensure they are suitable for reflecting the capability level of existing genome foundation models.
+
+### In brief 
+1) We identify key obstacles in genome tokenization and provide deep insights, presenting a simple yet effective solution that balances the efficiency and effectiveness of genome foundation models; 
+2) We introduce DNABERT-2, an efficient pre-trained foundation model for multi-species genome that delivers performance on par with the state-of-the-art model while being 21× smaller and utilizes approximately 56× less GPU time; 
+3) We introduce Genome Understanding Evaluation (GUE), a standardized, comprehensive, and well-calibrated multi-species genome classification benchmark including 7 tasks and 28 datasets to facilitate research in genome foundation model

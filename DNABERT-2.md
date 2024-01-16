@@ -83,11 +83,18 @@ BPE is a compression algorithm that has been widely used in the area of natural 
 ![[Pasted image 20240116112343.png]]
 The iteration continues till we achieve the desired number of words in the vocabulary. Thus, the target vocabulary size plays a crucial role.
 
-### Vocabulary Size
+#### Vocabulary Size
 Due to the significant difference between natural language and DNA sequence, vocabulary sizes that are commonly used in the NLP area [Kenton and Toutanova, 2019; OpenAI, 2023; Raffel et al., 2020; Vaswani et al., 2017] may not be appropriate for genome sequences. To determine the most suitable vocabulary size, we constructed 8 vocabularies with target sizes ranging from 2 8 to 2 15 on the multi-species genomes (see Sec. 4.1) to empirically evaluate the impact of varying vocabulary sizes. As indicated in Figure 3a, larger vocabularies tend to encompass more lengthy tokens, which enables the tokenizer to represent the same input sequence with fewer tokens.
 
 ![[Pasted image 20240116112615.png]]
 Shorter tokenized sequences consequently reduce the computational cost (See Figure 3b), as the computational complexity of Transformers is quadratic in relation to the input sequence length. Therefore, from the computation efficiency perspective, a larger vocabulary size is favorable. However, a larger vocabulary leads to more sparse updates to the embedding layer, given that each token would be used less frequently, which might compromise the model’s performance. 
 
-### Performance vs Computational Efficiency
+#### Performance vs Computational Efficiency
 Figure 3c displays the performance of each variant, where the model performance is measured by the dataset- and task-average scores. As depicted in the figure, unlike computational efficiency, the model’s performance does not consistently improve as the vocabulary size increases. Therefore, we selected a vocabulary size of 2<sup>12</sup> = 4096 for training the final DNABERT-2 model, as it best balances model performance with computational efficiency among the candidates.
+
+### Model  
+
+DNABERT-2 adapts the Transformer Encoder architecture similar to BERT [Kenton and Toutanova, 2019]. We incorporate a series of recent advances in deep learning to increase the model’s efficiency and capability, including:
+- Replacing learned positional embeddings with the Attention with Linear Biases (ALiBi) [Press et al., 2021] to overcome the input length limitation;
+- Utilizing FlashAttention [Dao et al., 2022] and Low Precision Layer Normalization to increase computation and memory efficiency;
+- Employing the Low-Rank Adaptation (LoRA) [Hu et al., 2021] in the fine-tuning stage (if necessary) for parameter-efficient training.

@@ -49,3 +49,9 @@ Existing works [Lopez et al., 2023] are either too trivial or too challenging, l
 1) We identify key obstacles in genome tokenization and provide deep insights, presenting a simple yet effective solution that balances the efficiency and effectiveness of genome foundation models; 
 2) We introduce DNABERT-2, an efficient pre-trained foundation model for multi-species genome that delivers performance on par with the state-of-the-art model while being 21× smaller and utilizes approximately 56× less GPU time; 
 3) We introduce Genome Understanding Evaluation (GUE), a standardized, comprehensive, and well-calibrated multi-species genome classification benchmark including 7 tasks and 28 datasets to facilitate research in genome foundation model
+
+## Background
+
+DNA sequences consist of 4 unique nucleotide bases: A, T, C, and G. A majority of genome language models [Ji et al., 2021; Lopez et al., 2023] utilize the k-mer tokenization technique, in which each contiguous k-length genome segment is considered as a token. During tokenization, a sliding window with window size k and stride t is employed to convert the original genome sequence into a series of k-mers.
+
+![[Pasted image 20240116101815.png]]

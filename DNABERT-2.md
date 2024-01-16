@@ -55,3 +55,7 @@ Existing works [Lopez et al., 2023] are either too trivial or too challenging, l
 DNA sequences consist of 4 unique nucleotide bases: A, T, C, and G. A majority of genome language models [Ji et al., 2021; Lopez et al., 2023] utilize the k-mer tokenization technique, in which each contiguous k-length genome segment is considered as a token. During tokenization, a sliding window with window size k and stride t is employed to convert the original genome sequence into a series of k-mers.
 
 ![[Pasted image 20240116101815.png]]
+
+To prevent the entire leakage of a masked token, at least k − 1 tokens on its left and right sides in total must be masked, which explains why Ji et al. [2021] opt to mask a continuous span of k tokens. Furthermore, to guarantee no leakage of a masked token, at least k tokens on both sides must be masked. 
+
+If the search space is undesirably reduced due to information leakage, the model only needs to differentiate between a limited number of options. This results in poor sample efficiency, as the model may not be sufficiently challenged to learn the underlying patterns in the data.

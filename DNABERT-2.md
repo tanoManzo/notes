@@ -52,10 +52,15 @@ Existing works [Lopez et al., 2023] are either too trivial or too challenging, l
 
 ## Background
 
+### Information Leaked issue
 DNA sequences consist of 4 unique nucleotide bases: A, T, C, and G. A majority of genome language models [Ji et al., 2021; Lopez et al., 2023] utilize the k-mer tokenization technique, in which each contiguous k-length genome segment is considered as a token. During tokenization, a sliding window with window size k and stride t is employed to convert the original genome sequence into a series of k-mers.
 
 ![[Pasted image 20240116101815.png]]
 
 To prevent the entire leakage of a masked token, at least k − 1 tokens on its left and right sides in total must be masked, which explains why Ji et al. [2021] opt to mask a continuous span of k tokens. Furthermore, to guarantee no leakage of a masked token, at least k tokens on both sides must be masked. 
 
-If the search space is undesirably reduced due to information leakage, the model only needs to differentiate between a limited number of options. This results in poor sample efficiency, as the model may not be sufficiently challenged to learn the underlying patterns in the data.
+### Overlapped Issue
+If the search space is undesirably reduced due to information leakage, the model only needs to differentiate between a limited number of options. This results in poor sample efficiency, as the model may not be sufficiently challenged to learn the underlying patterns in the data. Also, the tokenized sequence for an input of length L consists of L − k + 1 tokens, each with a length of k. This results in a tokenized sequence with considerable redundancy and a length nearly equivalent to the original sequence, leading to low computation efficiency considering the quadratic computation complexity of Transformer-based [Vaswani et al., 2017] models. This becomes particularly problematic when attempting to scale up the model. Therefore, Lopez et al. [2023] proposed the non-overlapping k-mer tokenization.
+
+### Non-overlapped Issue
+Despite the two sequences originating from the same genomic segment, their tokenized representations bear little resemblance. This inconsistent behavior introduces unnecessary hurdles for the model during training, as it poses unnecessary difficulty for the model to align distinct representations of identical or near-identical inputs.

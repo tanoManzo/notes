@@ -111,5 +111,11 @@ Fine-tuning all the parameters of a model becomes increasingly expensive as the 
 
 Besides, we replace the Relu activation function with GEGLU [Shazeer, 2020], a variant of GLU [Dauphin et al., 2017] that has been shown to improve the performance of Transformer models. The GEGLU function is calculated as GEGLU(x, W, V, b, c) = GELU(xW + b) ⊗ (xV + c), where x is the function input, W and V are learnable weights, and b and c are learnable biases. The GELU function is defined as GELU(x) = xΦ(x), where Φ(x) is the cumulative distribution function (CDF) of the standard normal distribution.
 
-### Implementation 
-We pre-train DNABERT-2 with the Masked Language Modeling (MLM) loss with a mask ratio of 15%. Notably, we independently mask every token instead of masking spans of continuous tokens like Ji et al. [2021].
+### Pre-train Implementation 
+We pre-train DNABERT-2 with the Masked Language Modeling (MLM) loss with a mask ratio of 15%. Notably, we independently mask every token instead of masking spans of continuous tokens like [Ji et al. 2021]. We use a batch size of 4096 and a max sequence length of 128. We train the model for 500000 steps using the AdamW [Loshchilov and Hutter, 2019] optimizer with β1 = 0.9, β2 = 0.98, ϵ = 1e-6 and weight decay of 1e-5. The learning rate linearly increases from 0 to 5e-4 during the first 30000 steps while linearly decreasing to 0 in the last 470000 steps.
+
+#### GPUs and Time to train
+**The pre-training stage takes approximately 14 days using eight Nvidia RTX 2080Ti GPUs. To train the model, we used the Transformers library by HuggingFace [Wolf et al., 2020] and the Composer library by MosaicML [Team, 2021].**
+
+## Data
+

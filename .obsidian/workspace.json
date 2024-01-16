@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNABERT-2.md",
+                "file": "NCBI/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 349.5
   },
   "right": {
     "id": "78aa3775dfc9e91b",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DNABERT-2.md",
+                "file": "NCBI/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DNABERT-2.md",
+                "file": "NCBI/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DNABERT-2.md"
+                "file": "NCBI/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md"
               }
             }
           },
@@ -179,6 +178,8 @@
   },
   "active": "39ccf520260abf58",
   "lastOpenFiles": [
+    "BERT.md",
+    "DNABERT-2.md",
     "NCBI/The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
     "NCBI/TFBS.md",
     "NCBI/TATA.md",
@@ -205,9 +206,7 @@
     "NCBI/Cis-regulatory elements (CREs).md",
     "NCBI/DNA accessibility.md",
     "NCBI/chromatin annotations.md",
-    "NCBI/Attention with Linear Biases.md",
     "NCBI",
-    "NCBI/allele.md",
     "images/Pasted image 20240116112615.png",
     "images/Pasted image 20240116112343.png",
     "images/Pasted image 20231219105212.png",

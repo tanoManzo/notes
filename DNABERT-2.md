@@ -72,4 +72,9 @@ We propose to adapt SentencePiece [Kudo and Richardson, 2018], a subword tokeniz
 BPE iteratively merge frequent pairs of nucleotides and genome segments, forming a vocabulary of variable-length tokens that effectively represent the entire genome dataset. 
 - First, it not only prevents information leakage but also significantly reduces the sequence length by approximately 5 times, substantially improving computational efficiency.
 - Its robust tokenization result is beneficial for sample efficiency since it allows the model to focus on understanding the genome language semantics without being distracted by the distinct representations of the same input.
-- Unlike k-mer tokenization, BPE doesn’t always produce tokens of length k
+- Unlike k-mer tokenization, BPE doesn’t always produce tokens of length k. The model is challenged to predict both the number of nucleotides and the particular nucleotides themselves. This naturally transforms the masked language modeling objective into a T5-style [Raffel et al., 2020] "replace spans of text" objective, which has been demonstrated to be more effective than standard masked language modeling in various scenarios.
+
+## Method
+
+### Tokenizer 
+

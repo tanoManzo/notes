@@ -77,4 +77,4 @@ BPE iteratively merge frequent pairs of nucleotides and genome segments, forming
 ## Method
 
 ### Tokenizer 
-
+DNABERT-2 adapts SentencePiece [Kudo and Richardson, 2018] with Byte Pair Encoding (BPE) [Sennrich et al., 2016] to perform tokenization for DNA sequences. SentencePiece is a language-agnostic tokenizer that considers each input as a raw stream without assuming any pre-tokenization, which matches greatly with genome sequences where the definitions of word and sentence do not exist.

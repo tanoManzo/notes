@@ -78,3 +78,12 @@ BPE iteratively merge frequent pairs of nucleotides and genome segments, forming
 
 ### Tokenizer 
 DNABERT-2 adapts SentencePiece [Kudo and Richardson, 2018] with Byte Pair Encoding (BPE) [Sennrich et al., 2016] to perform tokenization for DNA sequences. SentencePiece is a language-agnostic tokenizer that considers each input as a raw stream without assuming any pre-tokenization, which matches greatly with genome sequences where the definitions of word and sentence do not exist.
+
+BPE is a compression algorithm that has been widely used in the area of natural language processing as a word segmentation strategy. 
+![[Pasted image 20240116112343.png]]
+The iteration continues till we achieve the desired number of words in the vocabulary. Thus, the target vocabulary size plays a crucial role.
+
+### Vocabulary Size
+Due to the significant difference between natural language and DNA sequence, vocabulary sizes that are commonly used in the NLP area [Kenton and Toutanova, 2019; OpenAI, 2023; Raffel et al., 2020; Vaswani et al., 2017] may not be appropriate for genome sequences. To determine the most suitable vocabulary size, we constructed 8 vocabularies with target sizes ranging from 2 8 to 2 15 on the multi-species genomes (see Sec. 4.1) to empirically evaluate the impact of varying vocabulary sizes. As indicated in Figure 3a, larger vocabularies tend to encompass more lengthy tokens, which enables the tokenizer to represent the same input sequence with fewer tokens.
+
+![[Pasted image 20240116112615.png]]

@@ -110,3 +110,6 @@ Fine-tuning all the parameters of a model becomes increasingly expensive as the 
 
 
 Besides, we replace the Relu activation function with GEGLU [Shazeer, 2020], a variant of GLU [Dauphin et al., 2017] that has been shown to improve the performance of Transformer models. The GEGLU function is calculated as GEGLU(x, W, V, b, c) = GELU(xW + b) ⊗ (xV + c), where x is the function input, W and V are learnable weights, and b and c are learnable biases. The GELU function is defined as GELU(x) = xΦ(x), where Φ(x) is the cumulative distribution function (CDF) of the standard normal distribution.
+
+### Implementation 
+We pre-train DNABERT-2 with the Masked Language Modeling (MLM) loss with a mask ratio of 15%. Notably, we independently mask every token instead of masking spans of continuous tokens like Ji et al. [2021].

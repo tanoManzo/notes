@@ -85,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.md",
+                "file": "DNABERT-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.md",
+                "file": "DNABERT-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.md"
+                "file": "DNABERT-2.md"
               }
             }
           },
@@ -243,13 +244,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4efe306529c34db0",
+  "active": "247517be13182461",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.md",
     "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.png",
     "Pasted Image 20240115220730_586.png",
     "Pasted Image 20240115220658_612.png",
     "images/Pasted Image 20240110091144_439.png",
-    "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.md",
     "Excalidraw/Drawing 2024-01-15 21.54.31.excalidraw.md",
     "Transfer Learning.md",
     "BERT.md",
@@ -265,7 +266,6 @@
     "images/Pasted image 20231226160658.png",
     "images/Pasted image 20231226155551.png",
     "images/Pasted image 20231226155222.png",
-    "images/Pasted image 20231226154957.png",
     "conflict-files-obsidian-git.md",
     "allele.md",
     "AMIA 2023.md",

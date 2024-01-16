@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BERT.md",
+                "file": "DNABERT-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNABERT-2.md",
+                "file": "Attention with Linear Biases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "515e7c05363f0329",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attention with Linear Biases.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,13 +246,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "745176daece2680f",
+  "active": "ea996bd6a53c788a",
   "lastOpenFiles": [
+    "BERT.md",
+    "Attention with Linear Biases.md",
+    "DNABERT-2.md",
     "Pasted image 20240116112615.png",
     "Pasted image 20240116112343.png",
     "images/Pasted image 20231219105212.png",
     "().md",
-    "DNABERT-2.md",
     "Pasted image 20240116101815.png",
     "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.md",
     "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.png",
@@ -249,7 +263,6 @@
     "images/Pasted Image 20240110091144_439.png",
     "Excalidraw/Drawing 2024-01-15 21.54.31.excalidraw.md",
     "Transfer Learning.md",
-    "BERT.md",
     "sample citation 2.md",
     "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md",
     "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md",
@@ -257,7 +270,6 @@
     "sample of citation.md",
     "images/Pasted Image 20240110053926_454.png",
     "images/Pasted Image 20240110053855_470.png",
-    "images/Pasted image 20231226160658.png",
     "conflict-files-obsidian-git.md",
     "allele.md",
     "AMIA 2023.md",

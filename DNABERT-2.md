@@ -99,5 +99,8 @@ DNABERT-2 adapts the Transformer Encoder architecture similar to BERT [Kenton an
 - Utilizing FlashAttention [Dao et al., 2022] and Low Precision Layer Normalization to increase computation and memory efficiency;
 - Employing the Low-Rank Adaptation (LoRA) [Hu et al., 2021] in the fine-tuning stage (if necessary) for parameter-efficient training.
 
-#### Attention with Linear Biases
-Due to the permutation-invariant nature of the attention mechanism, explicit positional information is required in attention-based models. Existing solutions such as Sinusoidal [Vaswani et al., 2017], learned [Kenton and Toutanova, 2019], and Rotary [Su et al., 2021] positional embedding methods either suffer from input
+#### [[Attention with Linear Biases]]
+Due to the permutation-invariant nature of the attention mechanism, explicit positional information is required in attention-based models. Existing solutions such as Sinusoidal [Vaswani et al., 2017], learned [Kenton and Toutanova, 2019], and Rotary [Su et al., 2021] positional embedding methods either suffer from input length restriction or poor extrapolation capability when applied to sequences longer than training data. Attention with Linear Biases (ALiBi) provides an efficient yet effective solution. Instead of adding position embeddings to the input, ALiBi adds a fixed set of static, non-learned biases to each attention calculation to incorporate positional information into attention scores. 
+
+#### Flash Attention
+

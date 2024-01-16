@@ -105,22 +105,8 @@ Due to the permutation-invariant nature of the attention mechanism, explicit pos
 #### Flash Attention
 Flash attention is an IO-aware algorithm that implements the exact standard attention calculation in a more time- and memory-efficient way. It identifies a main bottleneck of standard attention implementation as the lack of taking the number of reads and writes to fast GPU on-chip SRAM and relatively slow GPU high bandwidth memory (HBM) into account. To avoid reading and writing to the slow HBM, **it splits Key/Query/Value matrices into blocks and incrementally performs softmax over the entire input.** It also proposes to recompute large intermediate results like attention scores in backward pass to trade extra computation for fewer IO with HBM, which empirically leads to less computational time. It accelerates DNABERT-2 without sacrificing model performance.
 
-#### Low-Rank Adaptation (LoRA)
+#### [[Low-Rank Adaptation (LoRA)]]
 Fine-tuning all the parameters of a model becomes increasingly expensive as the pre-trained model becomes much larger. Thus, we adopt LoRA, a parameter-efficient fine-tuning method that significantly reduces the computation and memory costs with ignorable performance sacrifice.
 
-Let W0, W1 ∈ R
-m×n
-define the same weight matrix before and after task-specific fine-tuning, and we have W1 = W0 + ∆W, where
-∆W ∈ R
-m×n
-represents the change of each weight element during the fine-tuning. In ordinary fine-tuning, we
-independently update each weight based on its corresponding gradient, while in LoRA, we represent ∆W with a
-low-rank decomposition ∆W = BA, where B ∈ R
-m×r
-, A ∈ R
-r×n
-, and r ≪ m, r ≪ n. Modeling ∆W with
-low-rank decomposition reduces the number of trainable parameters from m × n to r × (m + n), leading to significant
-improvement in training time and memory usage.
-Besides, we replace the Relu activation function with
-Let W0, W1 ∈ R m×n define the same weight matrix before and after task-specific fine-tuning, and we have W1 = W0 + ∆W, where ∆W ∈ R m×n represents the change of each weight element during the fine-tuning. In ordinary fine-tuning, we independently update each weight based on its corresponding gradient, while in LoRA, we represent ∆W with a low-rank decomposition ∆W = BA, where B ∈ R m×r , A ∈ R r×n , and r ≪ m, r ≪ n. Modeling ∆W with low-rank decomposition reduces the number of trainable parameters from m × n to r × (m + n), leading to significant improvement in training time and memory usage. Besides, we replace the Relu activation function with
+
+Besides, we replace the Relu activation function with GEGLU [Shazeer, 2020], a variant of GLU [Dauphin et al., 2017] that has been shown to improve the performance of Transformer models. The GEGLU function is calculated as GEGLU(x, W, V, b, c) = GELU(xW + b) ⊗ (xV + c), where x is the function input, W and V are learnable weights, and b and c are learnable biases. The GELU function is defined as GELU(x) = xΦ(x), where Φ(x) is the cumulative distribution function (CDF) of the standard normal distribution.

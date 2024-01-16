@@ -63,4 +63,13 @@ To prevent the entire leakage of a masked token, at least k − 1 tokens on its 
 If the search space is undesirably reduced due to information leakage, the model only needs to differentiate between a limited number of options. This results in poor sample efficiency, as the model may not be sufficiently challenged to learn the underlying patterns in the data. Also, the tokenized sequence for an input of length L consists of L − k + 1 tokens, each with a length of k. This results in a tokenized sequence with considerable redundancy and a length nearly equivalent to the original sequence, leading to low computation efficiency considering the quadratic computation complexity of Transformer-based [Vaswani et al., 2017] models. This becomes particularly problematic when attempting to scale up the model. Therefore, Lopez et al. [2023] proposed the non-overlapping k-mer tokenization.
 
 ### Non-overlapped Issue
-Despite the two sequences originating from the same genomic segment, their tokenized representations bear little resemblance. This inconsistent behavior introduces unnecessary hurdles for the model during training, as it poses unnecessary difficulty for the model to align distinct representations of identical or near-identical inputs.
+Despite the two sequences originating from the same genomic segment, their tokenized representations bear little resemblance. This inconsistent behavior introduces unnecessary hurdles for the model during training, as it poses unnecessary difficulty for the model to align distinct representations of identical or near-identical inputs. Consequently, the inefficiency in learning from the data could impede the overall model performance.
+
+### Byte-Pair Encoding (BPE) [Sennrich et al., 2016]
+
+We propose to adapt SentencePiece [Kudo and Richardson, 2018], a subword tokenization framework widely used in natural language processing, to replace k-mer tokenization for genome sequences.
+
+BPE iteratively merge frequent pairs of nucleotides and genome segments, forming a vocabulary of variable-length tokens that effectively represent the entire genome dataset. 
+- First, it not only prevents information leakage but also significantly reduces the sequence length by approximately 5 times, substantially improving computational efficiency.
+- Its robust tokenization result is beneficial for sample efficiency since it allows the model to focus on understanding the genome language semantics without being distracted by the distinct representations of the same input.
+- Unlike k-mer tokenization, BPE doesn’t always produce tokens of length k

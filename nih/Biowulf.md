@@ -3,7 +3,7 @@
 3) change ssh config vscode cnXXXX & connect
 4) connect to enviroment: 
 
-source /data/USER/conda/etc/profile.d/conda.sh && source /data/USER/conda/etc/profile.d/mamba.sh
+source /data/manzog2/conda/etc/profile.d/conda.sh && source /data/manzog2/conda/etc/profile.d/mamba.sh
 
 mamba activate mimic_race_eth
 

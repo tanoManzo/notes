@@ -20,5 +20,11 @@ tmux kill-session -t <name of the session>
 ## new window 
 tmux new -t <name of the session>
 
-## split pane
+## split pane vertically
 ctrl+b and %
+
+## split pane horizontally
+ctrl+b and ""
+
+## move between panes
+ctrl+b and q

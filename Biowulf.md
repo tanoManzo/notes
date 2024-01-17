@@ -81,3 +81,5 @@ Cat jupyter.err until you get the link, like:
 Paste the link into a browser on your local machine. Jupyter should come up.
 
 **
+
+#nih 

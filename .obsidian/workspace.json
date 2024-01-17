@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tmux.md",
+                "file": "nih/Biowulf.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tmux.md",
+                "file": "nih/Biowulf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tmux.md",
+                "file": "nih/Biowulf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tmux.md"
+                "file": "nih/Biowulf.md"
               }
             }
           }
@@ -170,8 +170,8 @@
   },
   "active": "6787888841a71518",
   "lastOpenFiles": [
+    "tmux.md",
     "nih/Biowulf.md",
-    "Biowulf.md",
-    "tmux.md"
+    "Biowulf.md"
   ]
 }

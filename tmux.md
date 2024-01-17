@@ -28,3 +28,13 @@ ctrl+b and ""
 
 ## move between panes
 ctrl+b and q
+
+## change pane size
+ctrl+b and ctrl
+
+## change layout
+ctrl+b and alt+1 or 2 or ..5
+
+## Best to move
+ctlr+b and w
+

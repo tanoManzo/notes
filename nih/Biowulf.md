@@ -5,6 +5,9 @@
 
 source /data/manzog2/conda/etc/profile.d/conda.sh && source /data/manzog2/conda/etc/profile.d/mamba.sh
 
+
+conda create -n envname --clone oldenv
+
 mamba activate mimic_race_eth
 
 

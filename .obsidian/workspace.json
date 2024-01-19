@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4952d483e2d90585",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge/Attention.md",
+                "file": "nih/Biowulf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge/Attention.md",
+                "file": "nih/Biowulf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge/Attention.md"
+                "file": "nih/Biowulf.md"
               }
             }
           }
@@ -182,8 +182,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4363575575965a75",
+  "active": "6787888841a71518",
   "lastOpenFiles": [
+    "knowledge/Attention.md",
     "Pasted image 20240119100833.png",
     "Pasted image 20240119100604.png",
     "Pasted image 20240119100303.png",

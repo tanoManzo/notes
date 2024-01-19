@@ -12,7 +12,7 @@ The SoftMax ensures that the weights add up to 1 and the division by the square 
 
 
 ![[Pasted image 20231016174021.png]]
-
+![[Pasted image 20240119095016.png]]
 ![[Pasted image 20231016174102.png]]
 
 

@@ -1,3 +1,5 @@
+![[Pasted image 20240119094305.png]]
+![[Pasted image 20240119094620.png]]
 ## General 
 ![[Pasted image 20231016173102.png]]
 
@@ -8,9 +10,11 @@ The SoftMax ensures that the weights add up to 1 and the division by the square 
 
 ![[Pasted image 20231016173547.png]]
 
+
 ![[Pasted image 20231016174021.png]]
 
 ![[Pasted image 20231016174102.png]]
+
 
 ## Type of Attention
 

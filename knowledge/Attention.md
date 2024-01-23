@@ -1,5 +1,5 @@
-![[Pasted image 20240119094305.png]]
-![[Pasted image 20240119094620.png]]
+![[Pasted image 20240119094305 1.png]]
+![[Pasted image 20240119094620 1.png]]
 ## General 
 ![[Pasted image 20231016173102.png]]
 
@@ -12,11 +12,11 @@ The SoftMax ensures that the weights add up to 1 and the division by the square 
 
 
 ![[Pasted image 20231016174021.png]]
-![[Pasted image 20240119095016.png]]
-![[Pasted image 20240119100043.png]]
-![[Pasted image 20240119100303.png]]
-![[Pasted image 20240119100604.png]]
-![[Pasted image 20240119100833.png]]
+![[Pasted image 20240119095016 1.png]]
+![[Pasted image 20240119100043 1.png]]
+![[Pasted image 20240119100303 1.png]]
+![[Pasted image 20240119100604 1.png]]
+![[Pasted image 20240119100833 1.png]]
 ![[Pasted image 20231016174102.png]]
 
 

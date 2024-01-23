@@ -1,29 +1,33 @@
 {
   "main": {
-    "id": "1346e63dbd69bf96",
+    "id": "49d62d6a79aadeaa",
     "type": "split",
     "children": [
       {
-        "id": "823075c15c9c0c5f",
+        "id": "e973b526547d5e3c",
         "type": "tabs",
         "children": [
           {
-            "id": "39ccf520260abf58",
+            "id": "6787888841a71518",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240119100833 1.png"
+                "file": "nih/Biowulf.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "f8ed72476ce8d2a5",
+            "id": "4363575575965a75",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240116185239 1.png"
+                "file": "knowledge/Attention.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -33,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a4f9deb573890d8d",
+    "id": "80a6f8458c85cde3",
     "type": "split",
     "children": [
       {
-        "id": "564cae08ba7cf51d",
+        "id": "3594afffbbe3f285",
         "type": "tabs",
         "children": [
           {
-            "id": "d035e42477aeca23",
+            "id": "dded40e851e66755",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,12 +55,12 @@
             }
           },
           {
-            "id": "6feeb644020c2d0c",
+            "id": "fa52e1fc7dde477d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "atte",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,42 +70,44 @@
             }
           },
           {
-            "id": "dc5903b2d5abe01f",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "cad5fac4fdd6b225",
+            "id": "7888b004af8e6039",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "78aa3775dfc9e91b",
+    "id": "4952d483e2d90585",
     "type": "split",
     "children": [
       {
-        "id": "039e0048523b1054",
+        "id": "5062f393b1038a2d",
         "type": "tabs",
         "children": [
           {
-            "id": "110cdbe62f7b23d3",
+            "id": "2a444dfa17606895",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0a655178c24a8ff",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240119100833 1.png",
+                "file": "nih/Biowulf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,19 +119,19 @@
             }
           },
           {
-            "id": "4c1c55ae24c2dd95",
+            "id": "57ba9ba613d75662",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240119100833 1.png",
+                "file": "nih/Biowulf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1e7b69a0e926b368",
+            "id": "fd4728d94ea33fca",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,25 +142,7 @@
             }
           },
           {
-            "id": "df15a7352f9e2e6a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Pasted image 20240119100833 1.png"
-              }
-            }
-          },
-          {
-            "id": "4ac1fe7e3415fcea",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "0267f62a69d8f35e",
+            "id": "9c585b2e7f68d58b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -164,35 +152,37 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "a31c3baf02d64dfe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "nih/Biowulf.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "d035e42477aeca23",
+  "active": "6787888841a71518",
   "lastOpenFiles": [
-    "NCBI/papers/Predicting effects of noncoding variants with deep learning–based sequence model.md",
-    "T5.md",
-    "NCBI/papers",
-    "tmux.md",
-    "notes llm papers.md",
-    "ask virginia for nlm meeting.md",
-    "Wei.md",
     "Pasted image 20240119100833 1.png",
     "Pasted image 20240119100604 1.png",
     "Pasted image 20240119100303 1.png",
@@ -201,36 +191,18 @@
     "Pasted image 20240119095016 1.png",
     "Pasted image 20240119094620 1.png",
     "Pasted image 20240119094305 1.png",
-    "NCBI/chromatin modifiers.md",
-    "List of applications.md",
-    "Godze.md",
-    "General.md",
-    "BERT.md",
     "Pasted image 20240116185239 1.png",
-    "images/Pasted image 20240116185218.png",
-    "NCBI/papers/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
-    "NCBI/papers/DNABERT-2.md",
+    "NCBI/papers/Predicting effects of noncoding variants with deep learning–based sequence model.md",
     "NCBI/papers/The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
-    "NCBI/TFBS.md",
-    "NCBI/TATA.md",
-    "test.md",
-    "Tasks.md",
-    "NCBI/single-nucleotide polymorphisms.md",
-    "phonetics.md",
-    "notes.md",
-    "Projects/EmoMap/sample of citation.md",
-    "Projects/EmoMap/sample citation 2.md",
-    "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-15 21.54.31.excalidraw.md",
-    "NCBI/process of transcription.md",
-    "NCBI",
-    "nih/Journal Club",
-    "Day Planners/2023/August w3",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "images/review_AMIA.cfm.pdf",
-    "Day Planners/2023/August w2",
-    "nih",
-    "NIH/Manzo's research roadmap.pdf"
+    "NCBI/papers/DNABERT-2.md",
+    "NCBI/papers/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
+    "NCBI/papers",
+    "knowledge/Attention.md",
+    "Pasted image 20240119100833.png",
+    "Pasted image 20240119100604.png",
+    "nih/Biowulf.md",
+    "Godze.md",
+    "tmux.md",
+    "Biowulf.md"
   ]
 }

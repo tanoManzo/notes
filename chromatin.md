@@ -1,0 +1,1 @@
+Chromatin is the complex of DNA, RNA, and proteins found in the nucleus of [[eukaryotic cells]]. It serves as the structural and functional organization of the genetic material, allowing it to be properly packaged and regulated within the cell. Chromatin undergoes dynamic changes in structure to control processes such as gene expression, DNA replication, and repair.

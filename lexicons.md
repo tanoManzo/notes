@@ -1,0 +1,2 @@
+  
+A lexicon refers to the vocabulary or set of words used in a particular language, field of study, or subject. It is essentially a dictionary or a compilation of words along with their meanings, pronunciations, and sometimes additional information such as part of speech, usage, or etymology.

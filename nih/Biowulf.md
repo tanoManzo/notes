@@ -19,7 +19,7 @@ ListerHill$202309
 sinteractive --gres=lscratch:20 gpu:v100:1 --mem=32g --cpus-per-task=4
 
 
-
+truncate from both 
 
 #######################
 **

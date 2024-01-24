@@ -20,7 +20,9 @@ sinteractive --gres=lscratch:20 gpu:v100:1 --mem=32g --cpus-per-task=4
 
 
 1. truncate from both 
-2. lower == N or == lower
+2. all capital, lower == N, or == lower
+3. NT with the same data
+4. next wed 31
 #######################
 **
 

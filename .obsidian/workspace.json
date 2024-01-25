@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tmux.md",
+                "file": "nih/Biowulf.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tmux",
+                "query": "bio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tmux.md",
+                "file": "nih/Biowulf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tmux.md",
+                "file": "nih/Biowulf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tmux.md"
+                "file": "nih/Biowulf.md"
               }
             }
           }
@@ -182,6 +182,8 @@
   },
   "active": "6787888841a71518",
   "lastOpenFiles": [
+    "tmux.md",
+    "knowledge/Attention.md",
     "Biowulf.md",
     "nih/Biowulf.md",
     "chromatin modifiers.md",
@@ -215,8 +217,6 @@
     "conflict-files-obsidian-git.md",
     "lexicons.md",
     "NCBI/The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
-    "Probing.md",
-    "TFBS.md",
     "Pasted image 20240119100833 1.png",
     "NCBI/papers"
   ]

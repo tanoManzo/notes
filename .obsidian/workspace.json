@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nih/Biowulf.md",
+                "file": "tmux.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "atte",
+                "query": "tmux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4952d483e2d90585",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nih/Biowulf.md",
+                "file": "tmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nih/Biowulf.md",
+                "file": "tmux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nih/Biowulf.md"
+                "file": "tmux.md"
               }
             }
           }
@@ -183,6 +182,8 @@
   },
   "active": "6787888841a71518",
   "lastOpenFiles": [
+    "Biowulf.md",
+    "nih/Biowulf.md",
     "chromatin modifiers.md",
     "histone marks of sequences.md",
     "gene promoters.md",
@@ -216,8 +217,6 @@
     "NCBI/The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
     "Probing.md",
     "TFBS.md",
-    "TATA.md",
-    "polysemy.md",
     "Pasted image 20240119100833 1.png",
     "NCBI/papers"
   ]

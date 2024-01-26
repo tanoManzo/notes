@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bio",
+                "query": "dicd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,7 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6787888841a71518",
+  "active": "fa52e1fc7dde477d",
   "lastOpenFiles": [
     "tmux.md",
     "knowledge/Attention.md",

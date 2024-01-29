@@ -13,6 +13,7 @@ mamba activate mimic_race_eth
 
 ListerHill$202309
 
+hepg2.ref.mean-hepg2.alt.mean
 
 
 

@@ -8,10 +8,7 @@ To expedite the preparation of your appointment package for approval, please fur
 	 - attached  (PhD_certificate_MANZO.pdf and PhD_transcript_MANZO.pdf)
 
 5. If your education occurred outside the United States, an evaluation from an accredited organization ensuring comparability to U.S. education standards. For evaluation services, refer to [www.naces.org/members.htm](https://gcc02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.naces.org%2Fmembers.htm&data=05%7C02%7Cgaetano.manzo%40nih.gov%7C9289e46b52d043497b5908dc1de95776%7C14b77578977342d58507251ca2dc2b06%7C0%7C0%7C638418135225564459%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=TePHDsI6en%2FarR9iHBMr38FeuGGT8euK5ZM3%2F4txfyI%3D&reserved=0).  Please select either the "General Evaluation" or "Document by Document" evaluation for your highest degree. NLM cannot reimburse you for the evaluation costs, so I highly recommend initiating the evaluation process at your earliest convenience.
-		- |   |
-|---|
-|Payment  <br>& Submit<br><br>Review  <br>& Scans<br><br>Services  <br>& Fees<br><br>Mailing  <br>Instructions<br><br>Purpose<br><br>Educational  <br>History<br><br>Applicant  <br>Information|
-|Thank you for submitting your online application to IERF!<br><br>Your File Number is **IERF #R24-00652**.<br><br>Please write down and save this number. Be sure to reference this file number in any correspondence or communication with IERF.|   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+		- <br>Your File Number is **IERF #R24-00652**.
 
 7. "Declaration of Federal Employment" form (OF 306), completed and signed at number 17A ([http://www.opm.gov/Forms/pdf_fill/of0306.pdf](https://gcc02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.opm.gov%2FForms%2Fpdf_fill%2Fof0306.pdf&data=05%7C02%7Cgaetano.manzo%40nih.gov%7C9289e46b52d043497b5908dc1de95776%7C14b77578977342d58507251ca2dc2b06%7C0%7C0%7C638418135225573571%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=0eimRgB%2FbtE24%2FkPGoJP5UQ1sSX1ZVHgTAnLc6cVOyc%3D&reserved=0)).
 

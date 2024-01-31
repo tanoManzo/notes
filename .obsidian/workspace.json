@@ -194,9 +194,12 @@
   },
   "active": "52b4cb07f70d8810",
   "lastOpenFiles": [
+    "nih/IDP.md",
+    "nih/NIH Training.md",
+    "nih/Writing NIH.md",
+    "nih/Biowulf.md",
     "conflict-files-obsidian-git.md",
     "NIH Staff.md",
-    "nih/Biowulf.md",
     "tmux.md",
     "knowledge/Attention.md",
     "Biowulf.md",
@@ -226,9 +229,6 @@
     "chromatin.md",
     "chromatin annotations.md",
     "allele.md",
-    "DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
-    "gene regulatory code.md",
-    "lexicons.md",
     "Pasted image 20240119100833 1.png",
     "NCBI/papers"
   ]

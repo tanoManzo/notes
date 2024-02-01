@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nih/Biowulf.md",
+                "file": "Godze.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nih/Biowulf.md",
+                "file": "Godze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nih/Biowulf.md",
+                "file": "Godze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nih/Biowulf.md"
+                "file": "Godze.md"
               }
             }
           }
@@ -178,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +195,10 @@
   },
   "active": "52b4cb07f70d8810",
   "lastOpenFiles": [
+    "nih/Biowulf.md",
     "nih/IDP.md",
     "nih/NIH Training.md",
     "nih/Writing NIH.md",
-    "nih/Biowulf.md",
     "conflict-files-obsidian-git.md",
     "NIH Staff.md",
     "tmux.md",

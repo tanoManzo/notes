@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Godze.md",
+                "file": "nih/Biowulf.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dicd",
+                "query": "bio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Godze.md",
+                "file": "nih/Biowulf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Godze.md",
+                "file": "nih/Biowulf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Godze.md"
+                "file": "nih/Biowulf.md"
               }
             }
           }
@@ -195,6 +196,7 @@
   },
   "active": "52b4cb07f70d8810",
   "lastOpenFiles": [
+    "Godze.md",
     "nih/Biowulf.md",
     "nih/IDP.md",
     "nih/NIH Training.md",
@@ -229,7 +231,6 @@
     "DNA accessibility.md",
     "chromatin.md",
     "chromatin annotations.md",
-    "allele.md",
     "Pasted image 20240119100833 1.png",
     "NCBI/papers"
   ]

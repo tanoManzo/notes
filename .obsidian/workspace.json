@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nih/Biowulf.md",
+                "file": "NIH Staff.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bio",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,12 +90,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4952d483e2d90585",
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nih/Biowulf.md",
+                "file": "NIH Staff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nih/Biowulf.md",
+                "file": "NIH Staff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nih/Biowulf.md"
+                "file": "NIH Staff.md"
               }
             }
           }
@@ -194,27 +194,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52b4cb07f70d8810",
+  "active": "dded40e851e66755",
   "lastOpenFiles": [
+    "Predicting effects of noncoding variants with deep learning–based sequence model.md",
+    "Probing.md",
+    "haplotypic context.md",
+    "test.md",
+    "DNA accessibility.md",
+    "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
+    "DNABERT-2.md",
+    "Pasted image 20240116185239.png",
+    "BERT.md",
+    "General.md",
+    "ask virginia for nlm meeting.md",
+    "notes llm papers.md",
+    "Biowulf.md",
+    "tmux.md",
     "Godze.md",
+    "List of applications.md",
+    "vanishing gradient.md",
+    "Transfer Learning.md",
+    "transcription factor (TF) binding.md",
+    "Tasks.md",
+    "T5.md",
+    "Wei.md",
     "nih/Biowulf.md",
     "nih/IDP.md",
     "nih/NIH Training.md",
     "nih/Writing NIH.md",
     "conflict-files-obsidian-git.md",
-    "NIH Staff.md",
-    "tmux.md",
-    "knowledge/Attention.md",
-    "Biowulf.md",
-    "chromatin modifiers.md",
-    "histone marks of sequences.md",
-    "gene promoters.md",
-    "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
-    "splice sites.md",
-    "non-coding regions.md",
-    "haplotypic context.md",
-    "NCBI/Predicting effects of noncoding variants with deep learning–based sequence model.md",
-    "NCBI/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
     "Pasted image 20240119094620.png",
     "Pasted image 20240119094305.png",
     "Pasted image 20240119100833.png",
@@ -223,14 +231,6 @@
     "Pasted image 20240119100145.png",
     "Pasted image 20240119095016.png",
     "Pasted image 20240119100043.png",
-    "eukaryotic cells.md",
-    "Pasted image 20240116185239.png",
-    "DNABERT-2.md",
-    "Cis-regulatory elements (CREs).md",
-    "process of transcription.md",
-    "DNA accessibility.md",
-    "chromatin.md",
-    "chromatin annotations.md",
     "Pasted image 20240119100833 1.png",
     "NCBI/papers"
   ]

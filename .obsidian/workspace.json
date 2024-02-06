@@ -23,11 +23,9 @@
             "id": "52b4cb07f70d8810",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "NIH Staff.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.png"
               }
             }
           },
@@ -94,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4952d483e2d90585",
@@ -119,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NIH Staff.md",
+                "file": "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NIH Staff.md",
+                "file": "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NIH Staff.md"
+                "file": "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.png"
               }
             }
           }
@@ -194,8 +191,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dded40e851e66755",
+  "active": "52b4cb07f70d8810",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-15 21.54.31.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.png",
+    "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md",
+    "NIH Staff.md",
     "Predicting effects of noncoding variants with deep learning–based sequence model.md",
     "Probing.md",
     "haplotypic context.md",
@@ -218,11 +221,6 @@
     "Tasks.md",
     "T5.md",
     "Wei.md",
-    "nih/Biowulf.md",
-    "nih/IDP.md",
-    "nih/NIH Training.md",
-    "nih/Writing NIH.md",
-    "conflict-files-obsidian-git.md",
     "Pasted image 20240119094620.png",
     "Pasted image 20240119094305.png",
     "Pasted image 20240119100833.png",
@@ -231,7 +229,6 @@
     "Pasted image 20240119100145.png",
     "Pasted image 20240119095016.png",
     "Pasted image 20240119100043.png",
-    "Pasted image 20240119100833 1.png",
     "NCBI/papers"
   ]
 }

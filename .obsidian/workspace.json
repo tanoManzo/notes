@@ -23,9 +23,11 @@
             "id": "52b4cb07f70d8810",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.png"
+                "file": "DNABERT-2.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -92,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 845.5
   },
   "right": {
     "id": "4952d483e2d90585",
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.png",
+                "file": "DNABERT-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.png",
+                "file": "DNABERT-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.png"
+                "file": "DNABERT-2.md"
               }
             }
           }
@@ -193,8 +195,9 @@
   },
   "active": "52b4cb07f70d8810",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-15 21.54.31.excalidraw.md",
+    "images/Pasted image 20240119100833 1.png",
     "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.png",
+    "Excalidraw/Drawing 2024-01-15 21.54.31.excalidraw.md",
     "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.md",
     "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md",
     "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md",
@@ -220,15 +223,14 @@
     "transcription factor (TF) binding.md",
     "Tasks.md",
     "T5.md",
-    "Wei.md",
-    "Pasted image 20240119094620.png",
-    "Pasted image 20240119094305.png",
-    "Pasted image 20240119100833.png",
-    "Pasted image 20240119100303.png",
-    "Pasted image 20240119100604.png",
-    "Pasted image 20240119100145.png",
-    "Pasted image 20240119095016.png",
-    "Pasted image 20240119100043.png",
+    "images/Pasted image 20240119094620.png",
+    "images/Pasted image 20240119094305.png",
+    "images/Pasted image 20240119100833.png",
+    "images/Pasted image 20240119100303.png",
+    "images/Pasted image 20240119100604.png",
+    "images/Pasted image 20240119100145.png",
+    "images/Pasted image 20240119095016.png",
+    "images/Pasted image 20240119100043.png",
     "NCBI/papers"
   ]
 }

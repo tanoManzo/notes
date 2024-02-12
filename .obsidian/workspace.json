@@ -153,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dded40e851e66755",
+  "active": "d1834b4f253d7ca4",
   "lastOpenFiles": [
     "Pasted Image 20240206182751_982.png",
     "NLP/vanishing gradient.md",

@@ -1,1 +1,0 @@
-SNPs, pronounced "snips", are the most common type of genetic variation among individuals. They are variations at a single position in a DNA sequence where one nucleotide is replaced with another

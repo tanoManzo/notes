@@ -1,2 +1,0 @@
-  
-Transcription factor (TF) binding refers to the interaction between transcription factors—proteins that regulate gene expression—and specific DNA sequences in the genome. Transcription factors play a crucial role in the control of gene expression by binding to regulatory elements in the DNA and influencing the initiation or inhibition of transcription (the process of synthesizing RNA from DNA).

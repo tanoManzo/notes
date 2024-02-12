@@ -1,2 +1,0 @@
-  
-The TATA box is a DNA sequence motif that plays a crucial role in the regulation of transcription in eukaryotic cells. It is a specific DNA sequence that is typically found in the core promoter region of many genes, around 25 to 30 base pairs upstream of the transcription start site. The sequence of the TATA box is often TATAAA.

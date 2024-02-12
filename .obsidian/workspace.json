@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General.md",
+                "file": "notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General.md",
+                "file": "notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General.md",
+                "file": "notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General.md"
+                "file": "notes.md"
               }
             }
           }
@@ -170,8 +170,13 @@
   },
   "active": "d1834b4f253d7ca4",
   "lastOpenFiles": [
-    "splice sites.md",
+    "NLP/vanishing gradient.md",
+    "Probing.md",
+    "NLP/T5.md",
+    "knowledge/Health Literacy 2.md",
+    "AMIA 2023.md",
     "General.md",
+    "splice sites.md",
     "nih/NCBI/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome 1.md",
     "nih/NCBI/chromatin 1.md",
     "nih/NCBI/gene regulatory code 1.md",
@@ -179,7 +184,6 @@
     "nih/NCBI/process of transcription 1.md",
     "nih/NCBI/Cis-regulatory elements (CREs) 1.md",
     "nih/NCBI/single-nucleotide polymorphisms 1.md",
-    "AMIA 2023.md",
     "knowledge/Understand p-value.md",
     "Tasks.md",
     "notes.md",
@@ -190,12 +194,8 @@
     "nih/NCBI/DNA accessibility 1.md",
     "Godze.md",
     "NLP/Transfer Learning.md",
-    "T5.md",
     "NLP/BERT.md",
     "test.md",
-    "nih/NIH Staff.md",
-    "nih/Biowulf - tmux.md",
-    "nih/Biowulf.md",
     "images/Pasted image 20240116185239.png",
     "images/Pasted image 20240119100833 1.png",
     "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.png",

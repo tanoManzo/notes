@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NCBI/DNABERT-2.md",
+                "file": "General.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NCBI/DNABERT-2.md",
+                "file": "General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NCBI/DNABERT-2.md",
+                "file": "General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NCBI/DNABERT-2.md"
+                "file": "General.md"
               }
             }
           }
@@ -168,37 +168,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dded40e851e66755",
+  "active": "d1834b4f253d7ca4",
   "lastOpenFiles": [
+    "splice sites.md",
+    "General.md",
+    "nih/NCBI/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome 1.md",
+    "nih/NCBI/chromatin 1.md",
+    "nih/NCBI/gene regulatory code 1.md",
+    "chromatin modifiers.md",
+    "nih/NCBI/process of transcription 1.md",
+    "nih/NCBI/Cis-regulatory elements (CREs) 1.md",
+    "nih/NCBI/single-nucleotide polymorphisms 1.md",
+    "AMIA 2023.md",
+    "knowledge/Understand p-value.md",
+    "Tasks.md",
+    "notes.md",
+    "README.md",
+    "nih/NCBI/TFBS 1.md",
+    "nih/NCBI/non-coding regions 1.md",
+    "nih/NCBI/haplotypic context 1.md",
+    "nih/NCBI/DNA accessibility 1.md",
+    "Godze.md",
+    "NLP/Transfer Learning.md",
+    "T5.md",
+    "NLP/BERT.md",
+    "test.md",
+    "nih/NIH Staff.md",
+    "nih/Biowulf - tmux.md",
     "nih/Biowulf.md",
-    "NCBI/DNABERT-2.md",
+    "images/Pasted image 20240116185239.png",
     "images/Pasted image 20240119100833 1.png",
     "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.png",
-    "Excalidraw/Drawing 2024-01-15 21.54.31.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-10 05.38.07.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-20 09.26.44.excalidraw.md",
-    "NIH Staff.md",
-    "Predicting effects of noncoding variants with deep learning–based sequence model.md",
-    "Probing.md",
-    "haplotypic context.md",
-    "test.md",
-    "DNA accessibility.md",
-    "The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
-    "Pasted image 20240116185239.png",
-    "BERT.md",
-    "General.md",
-    "ask virginia for nlm meeting.md",
-    "notes llm papers.md",
-    "Biowulf.md",
-    "tmux.md",
-    "Godze.md",
-    "List of applications.md",
-    "vanishing gradient.md",
-    "Transfer Learning.md",
-    "transcription factor (TF) binding.md",
-    "Tasks.md",
-    "T5.md",
     "images/Pasted image 20240119094620.png",
     "images/Pasted image 20240119094305.png",
     "images/Pasted image 20240119100833.png",
@@ -206,6 +206,6 @@
     "images/Pasted image 20240119100604.png",
     "images/Pasted image 20240119100145.png",
     "images/Pasted image 20240119095016.png",
-    "NCBI/papers"
+    "nih/NCBI/papers"
   ]
 }

@@ -1,4 +1,4 @@
-Splice sites are specific DNA sequences in a gene that mark the boundaries between exons and introns, and they play a crucial role in the process of RNA splicing. RNA splicing is the removal of introns ([[non-coding regions]]) and the joining of exons (coding regions) to produce a mature messenger RNA (mRNA) transcript that can be translated into a protein. Splice sites are recognized by the cellular machinery responsible for splicing, including small nuclear ribonucleoproteins (snRNPs) and other splicing factors.
+Splice sites are specific DNA sequences in a gene that mark the boundaries between exons and introns, and they play a crucial role in the process of RNA splicing. RNA splicing is the removal of introns ([[non-coding regions 1]]) and the joining of exons (coding regions) to produce a mature messenger RNA (mRNA) transcript that can be translated into a protein. Splice sites are recognized by the cellular machinery responsible for splicing, including small nuclear ribonucleoproteins (snRNPs) and other splicing factors.
 
 There are two main types of splice sites:
 

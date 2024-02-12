@@ -5,7 +5,7 @@ Common types of cis-regulatory elements include:
 
 1. **Promoters:**
     
-    - Promoters are a type of cis-regulatory element located at the beginning of a gene. They contain specific DNA sequences that serve as binding sites for RNA polymerase and transcription factors, initiating the [[process of transcription]].
+    - Promoters are a type of cis-regulatory element located at the beginning of a gene. They contain specific DNA sequences that serve as binding sites for RNA polymerase and transcription factors, initiating the [[process of transcription 1]].
 2. **Enhancers:**
     
     - Enhancers are cis-regulatory elements that can be located at varying distances from the genes they regulate, either upstream, downstream, or within introns. Transcription factors bind to enhancers and interact with the transcriptional machinery to modulate the rate of transcription.

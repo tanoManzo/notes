@@ -2,7 +2,7 @@ Yanrong Ji et al.
 accepted on February 1, 2021, Bioinformatics
 
 **Motivation:**
-[[gene regulatory code]] is highly complex due to the existence of [[polysemy]] and distant semantic relationship, which previous informatics methods often fail to capture especially in data-scarce scenarios.
+[[gene regulatory code 1]] is highly complex due to the existence of [[polysemy 1]] and distant semantic relationship, which previous informatics methods often fail to capture especially in data-scarce scenarios.
 
 **Results:**
 DNABERT, to capture global and transferrable understanding of genomic DNA sequences based on up and downstream nucleotide contexts. We compared DNABERT to the most widely used programs for genome-wide regulatory elements prediction and demonstrate its ease of use, accuracy and efficiency. We show that the single pre-trained transformers model can simultaneously achieve state-of-the-art performance on prediction of promoters, splice sites and transcription factor binding sites, after easy fine-tuning using small task-specific labeled data.
@@ -12,7 +12,7 @@ DNABERT enables direct visualization of nucleotide-level importance and semantic
 
 
 ## Intro
-Deciphering the language of DNA for hidden instructions has been one of the major goals of biological research (Andersson and Sandelin, 2020). While the genetic code explaining how DNA is translated into proteins is universal, the regulatory code that determines when and how the genes are expressed varies across different cell-types and organisms (Nirenberg et al., 1965). Same [[Cis-regulatory elements (CREs)]] often have distinct functions and activities in different biological contexts, while widely spaced multiple CREs may cooperate, resulting in context-dependent use of alternative promoters with varied functional roles. Such observations suggest existence of [[polysemy]] and distant semantic relationship within sequence codes, which are key properties of natural language. 
+Deciphering the language of DNA for hidden instructions has been one of the major goals of biological research (Andersson and Sandelin, 2020). While the genetic code explaining how DNA is translated into proteins is universal, the regulatory code that determines when and how the genes are expressed varies across different cell-types and organisms (Nirenberg et al., 1965). Same [[Cis-regulatory elements (CREs) 1]] often have distinct functions and activities in different biological contexts, while widely spaced multiple CREs may cooperate, resulting in context-dependent use of alternative promoters with varied functional roles. Such observations suggest existence of [[polysemy 1]] and distant semantic relationship within sequence codes, which are key properties of natural language. 
 
 **Previous linguistics studies confirmed that the DNA, especially the non-coding region, indeed exhibits great similarity to human language, ranging from alphabets and [[lexicons]] to grammar and [[phonetics]] (Brendel and Busse, 1984; Head, 1987; Ji, 1999; Mantegna et al., 1994; Searls, 1992; 2002).  However, how the semantics (i.e. functions) of CREs vary across different contexts (up and downstream nucleotide sequences) remains largely unknown.** 
 
@@ -43,7 +43,7 @@ We used the same model architecture as the BERT base, which consists of 12 Tran
 
 ### DNABERT-Prom effectively predicts proximal and core promoter regions
 
-Predicting [[gene promoters]] is one of the most challenging bioinformatics' problems. We began by evaluating our pre-trained model on identifying proximal promoter regions. To fairly compare with existing tools with different sequence length settings, we fine-tuned two models, named DNABERT-Prom-300 and DNABERT-Prom-scan, using human [[TATA]] and non-TATA promoters of 10 000 bp length, from Eukaryotic Promoter Database (EPDnew) (Dreos et al., 2013).
+Predicting [[gene promoters]] is one of the most challenging bioinformatics' problems. We began by evaluating our pre-trained model on identifying proximal promoter regions. To fairly compare with existing tools with different sequence length settings, we fine-tuned two models, named DNABERT-Prom-300 and DNABERT-Prom-scan, using human [[TATA 1]] and non-TATA promoters of 10 000 bp length, from Eukaryotic Promoter Database (EPDnew) (Dreos et al., 2013).
 
 ![[Pasted image 20231126120407.png]]
 
@@ -53,7 +53,7 @@ We used 70 bp, centered around TSS, of the Prom300 data and compared with CNN, 
 ### DNABERT-TF accurately identifies transcription factor binding sites
 
 
-NextGen sequencing (NGS) technologies have facilitated genomewide identification of gene regulatory regions in an unprecedented way and unveiled the complexity of gene regulation. An important step in the analyses of in vivo genome-wide binding interaction data is prediction of [[TFBS]] in the target cis-regulatory regions and curation of the resulting TF binding profiles.
+NextGen sequencing (NGS) technologies have facilitated genomewide identification of gene regulatory regions in an unprecedented way and unveiled the complexity of gene regulation. An important step in the analyses of in vivo genome-wide binding interaction data is prediction of [[TFBS 1]] in the target cis-regulatory regions and curation of the resulting TF binding profiles.
 
 We thus fine-tuned DNABERT-TF model to predict TFBSs in the ChIP-seq enriched regions, using 690 TF ChIP-seq uniform peak profiles from ENCODE database (Dunham et al., 2012) and compared with wellknown and previous published TFBS prediction tools, including DeepBind(Alipanahi et al., 2015), DeepSEA(Zhou and Troyanskaya, 2015), Basset (Kelley et al., 2016), DeepSite(Zhang et al., 2020), DanQ(Quang and Xie, 2016) and DESSO (Khamis et al., 2018).
 

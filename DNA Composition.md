@@ -15,3 +15,5 @@ Levene and others had found that certain cellular structures — called **chr
 ![[Pasted image 20240213182527.png]]
 
 For nearly a century, biologists had observed that chromosomes are duplicated and lined up during cellular reproduction — with an equal amount going to each daughter cell — and that these structures are the carriers of hereditary information.
+
+Proteins were known to consist of twenty possible building blocks called **amino acids**, allowing each amino acid to encode log2(​20)=4.3 bits of information.

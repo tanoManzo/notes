@@ -14,6 +14,7 @@ Today, this key observation is known as **Chargaff's rule**.
 ![[Pasted image 20240213184502.png]]
 Chargaff visited **Watson and Crick** at Cambridge in 19521952 and discussed his findings. Only months later, Watson and Crick would publish the complete structure of DNA in _Nature_. They cited Chargaff's work as one of the most essential pieces of data that allowed their breakthrough, along with the XX-ray structures of Rosalind Franklin.
 
+![[Pasted image 20240213184737.png]]
 
 Levene and others had found that certain cellular structures — called **chromosomes**, for their deep coloring under a microscope — were rich in both proteins and DNA.
 

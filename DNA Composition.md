@@ -25,3 +25,5 @@ For nearly a century, biologists had observed that chromosomes are duplicated an
 Proteins were known to consist of twenty possible building blocks called **amino acids**, allowing each amino acid to encode log2(​20)=4.3 bits of information.
 
 
+![[Pasted image 20240214120042.png]]
+![[Pasted image 20240214120214.png]]

@@ -31,3 +31,5 @@ Proteins were known to consist of twenty possible building blocks called **amin
 ![[Pasted image 20240214121600.png]]
 ![[Pasted image 20240214121834.png]]
 ![[Pasted image 20240214123038.png]]
+
+We can now run a program on the very first genome to be sequenced fully (by Sanger in 1977), and later the first genome to be created synthetically (by Venter in 2003).

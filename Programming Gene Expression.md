@@ -1,0 +1,2 @@
+
+DNA​ -->RNA​Protein?​phenotype.

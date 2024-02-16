@@ -6,3 +6,9 @@ DNA and the shortlived RNA transcripts both speak the language of nucleotides, t
 The first step in this pipeline is the **transcription** of double-stranded DNA genome into a single-stranded, short-lived messenger molecule called **messenger RNA** (mRNA).
 
 ![[Pasted image 20240216105601.png]]
+
+Like DNA, RNA consists of four nucleotides, but whereas DNA uses �,A, �,T, �,G, and �,C, in RNA the �T (thymine) is replaced by �U (uracil). This difference is only a single carbon atom, and is likely a molecular fossil remnant of a time before DNA evolved. 
+
+DNA and RNA also share an incredibly important feature — they can only be assembled in one direction.
+
+Just as LEGO bricks can only be stacked in one way, the 5′5′ and 3′3′ ends of the nucleotide molecule can only fit together in one direction to form its backbone.

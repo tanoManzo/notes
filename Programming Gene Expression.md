@@ -34,3 +34,9 @@ There is obviously some redundancy in the coding scheme as there are just twenty
 The ribosome is responsible for translating RNA to proteins using an ensemble of helper tRNAs which come armed with a nucleotide codon on one end and an amino acid on the other.
 
 Together the tRNAs act like a molecular dictionary, bringing the correct amino acid to match with every codon the ribosome reads.
+
+The redundancy in the genetic code makes it impossible to “reverse-translate” from a protein sequence back into its original DNA sequence.
+
+All mRNA sequences have an initial AUG codon which normally codes for the amino acid M, but that also indicates the location where the ribosome should **start** its work.
+
+If another ���AUG appears later in the sequence, the ribosome will read through it just fine, attaching another methionine. Translation is **stopped** by the “stop” codons UAG, UAA, and UGA.

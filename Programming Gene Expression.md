@@ -23,4 +23,4 @@ DNA is almost always double-stranded, with both a **coding** strand and a comp
 
 Biology has solved this problem by using a **promoter** sequence, a canonical example of which is the “TATA box,” a short nucleotide sequence TATAAAA found on the coding strand just before the start of the gene.
 
-But while there are only 4 different nucleotides, there are 4<sup>2</sup>=16 different nucleotide doublets. By considering groups of nucleotides instead of single positions, we end up with nucleotide “words” which are called **codons**.
+But while there are only 4 different nucleotides, there are 4<sup>2</sup>=16 different nucleotide doublets. By considering groups of nucleotides instead of single positions, we end up with nucleotide “words” which are called **codons**. In 1961, a group of biologists led by Francis Crick — one of the scientists credited with the discovery of the DNA double-helix — made the same calculations and, along with much of the scientific community, surmised that each amino acid was likely encoded by a **nucleotide triplet**.

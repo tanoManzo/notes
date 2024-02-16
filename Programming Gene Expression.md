@@ -16,3 +16,6 @@ Just as LEGO bricks can only be stacked in one way, the 5′5′ and 3′3′
 This is the customary **sense** order chosen for writing nucleotide molecules as strings. When DNA and RNA sequences are written as a string of letters, we can always be sure that the molecule represented starts from a 5′ and ends with a 3′.
 
 ![[Pasted image 20240216123801.png]]
+
+![[Pasted image 20240216154144.png]]
+

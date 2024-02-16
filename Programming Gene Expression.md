@@ -12,3 +12,7 @@ Like DNA, RNA consists of four nucleotides, but whereas DNA uses �,A, �,T,
 DNA and RNA also share an incredibly important feature — they can only be assembled in one direction.
 
 Just as LEGO bricks can only be stacked in one way, the 5′5′ and 3′3′ ends of the nucleotide molecule can only fit together in one direction to form its backbone.
+
+This is the customary **sense** order chosen for writing nucleotide molecules as strings. When DNA and RNA sequences are written as a string of letters, we can always be sure that the molecule represented starts from a 5′ and ends with a 3′.
+
+![[Pasted image 20240216123801.png]]

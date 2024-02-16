@@ -31,3 +31,6 @@ There is obviously some redundancy in the coding scheme as there are just twenty
 
 ![[Pasted image 20240216162004.png]]
 
+The ribosome is responsible for translating RNA to proteins using an ensemble of helper tRNAs which come armed with a nucleotide codon on one end and an amino acid on the other.
+
+Together the tRNAs act like a molecular dictionary, bringing the correct amino acid to match with every codon the ribosome reads.

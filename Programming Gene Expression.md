@@ -22,3 +22,5 @@ This is the customary **sense** order chosen for writing nucleotide molecules 
 DNA is almost always double-stranded, with both a **coding** strand and a complementary **template** strand in the reverse direction. Usually only one of these strands encodes an mRNA, but there are two 5′ ends to start reading from, each of which would end up as a different RNA sequence. How can the RNA polymerase (or an enterprising biologist given a DNA molecule) know which strand to read and transcribe?
 
 Biology has solved this problem by using a **promoter** sequence, a canonical example of which is the “TATA box,” a short nucleotide sequence TATAAAA found on the coding strand just before the start of the gene.
+
+But while there are only 4 different nucleotides, there are 4<sup>2</sup>=16 different nucleotide doublets. By considering groups of nucleotides instead of single positions, we end up with nucleotide “words” which are called **codons**.

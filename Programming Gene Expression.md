@@ -40,3 +40,7 @@ The redundancy in the genetic code makes it impossible to “reverse-translate�
 All mRNA sequences have an initial AUG codon which normally codes for the amino acid M, but that also indicates the location where the ribosome should **start** its work.
 
 If another ���AUG appears later in the sequence, the ribosome will read through it just fine, attaching another methionine. Translation is **stopped** by the “stop” codons UAG, UAA, and UGA.
+
+We have defined a **promoter** as a short sequence like TATAAA that recruits RNA polymerase and indicates the start of an RNA transcript. But not all RNA is destined to form a protein, the most famous example of which is the ribosome itself, which is largely made up of folded RNA.
+
+![[Pasted image 20240216164354.png]]

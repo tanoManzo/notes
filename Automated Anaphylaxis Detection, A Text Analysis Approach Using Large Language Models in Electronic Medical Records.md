@@ -32,3 +32,24 @@ The decision to opt for a 5% rate of positive cases was made to mimic real-world
 ### LLM Selection and Configuration
 
 The LLMs selected for this study were OpenAi’s GPT 3.5, 4, and 4 Turbo, chosen due to their novelty, widespread use, and demonstrated ability to generate coherent and contextually relevant text.
+
+Prompts are textual inputs or queries users provide to guide the responses or outputs of an LLM. They act as the initial command based on which the LLM generates its response. The design of the prompt is crucial, as it sets the context and direction for the model’s output. Effective prompting involves clearly and specifically articulating what is being asked or required so the model can accurately interpret and respond to the request.
+
+This approach involves crafting precise, domain-specific instructions that guide the LLM in its task, ensuring that it remains focused on the relevant aspects of the medical text.
+
+In our study, that involves several steps: 
+• Initial Prompt Drafting: Preliminary prompts were formulated to encapsulate the criteria. These prompts were structured to guide the LLMs in analyzing medical texts and determining the presence or absence of indicators suggestive of anaphylaxis. 
+• Iterative Refinement: The initial prompts were tested on a subset of the medical texts. Based on the LLMs’ responses and feedback from the experts in anaphylaxis, the prompts underwent iterations of refinement to enhance clarity and specificity (aligned with the WAO criteria). 
+• Finalization: The finalized prompts were then employed to guide the LLMs in analyzing the entire dataset of medical texts.
+
+
+In the finalized prompt, we explicitly instructed the LLM to: 
+1. Suggest an anaphylaxis diagnosis (true or false); 
+2. Name a probable allergen; 
+3. Describe the reasons for their recommendation (citing passages from the medical texts); 
+4. Provide a probability that the case was anaphylaxis (as a measure of their confidence); 
+5. Explain their reasoning process step-by-step, indicating which criteria it used and why.
+
+One known drawback of LLMs is hallucinations. They refer to instances where the model generates incorrect, misleading, or nonsensical information presented as factual or logical [22]. Our experiments only consider whether or not the LLM recognizes an anaphylaxis case. If the LLM hallucinates and returns a wrong answer, it will be counted as a false positive or negative.
+
+Configuration??

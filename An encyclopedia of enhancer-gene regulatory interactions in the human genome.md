@@ -18,4 +18,8 @@ Noncoding DNA elements called enhancers have essential functions in controlling 
 The ENCODE Project has conducted thousands of experiments to identify candidate _cis_-regulatory elements and annotate their chromatin state and 3D physical interactions across hundreds of cell types and tissues[7](https://www.biorxiv.org/content/10.1101/2023.11.09.563812v1.full#ref-7)
 
 
-Previous predictive models have identified certain features important for prediction accuracy, including the [[strength of activating chromatin marks at an element (“enhancer activity”)]] and the [[frequency at which an element physically contacts a nearby promoter (“3D contact”)[9](https://www.biorxiv.org/content/10.1101/2023.11.09.563812v1.full#ref-9)
+Previous predictive models have identified certain features important for prediction accuracy, including the [[strength of activating chromatin marks at an element (“enhancer activity”)]] and the [[frequency at which an element physically contacts a nearby promoter (“3D contact”)]][9](https://www.biorxiv.org/content/10.1101/2023.11.09.563812v1.full#ref-9)
+
+Data collected in this final phase of the ENCODE Project include CRISPR perturbations of candidate enhancers[9](https://www.biorxiv.org/content/10.1101/2023.11.09.563812v1.full#ref-9),[18](https://www.biorxiv.org/content/10.1101/2023.11.09.563812v1.full#ref-18)–[20](https://www.biorxiv.org/content/10.1101/2023.11.09.563812v1.full#ref-20), high-resolution Hi-C data[21](https://www.biorxiv.org/content/10.1101/2023.11.09.563812v1.full#ref-21), and maps of DNase I hypersensitivity across new cell types[22](https://www.biorxiv.org/content/10.1101/2023.11.09.563812v1.full#ref-22) — providing an opportunity to build a common benchmarking framework, build improved predictive models, and apply these models to construct a map of enhancer-gene regulatory interactions in the human genome.
+
+

@@ -28,9 +28,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c8cf32211e09367b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-19 15.58.08.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "An encyclopedia of enhancer-gene regulatory interactions in the human genome.md",
+                "file": "Excalidraw/Drawing 2024-02-19 15.58.08.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "An encyclopedia of enhancer-gene regulatory interactions in the human genome.md",
+                "file": "Excalidraw/Drawing 2024-02-19 15.58.08.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "An encyclopedia of enhancer-gene regulatory interactions in the human genome.md"
+                "file": "Excalidraw/Drawing 2024-02-19 15.58.08.excalidraw.md"
               }
             }
           }
@@ -180,10 +190,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a69c950be3c67f1",
+  "active": "c8cf32211e09367b",
   "lastOpenFiles": [
-    "images/Pasted image 20240213181942.png",
+    "Pasted Image 20240219155823_989.png",
     "An encyclopedia of enhancer-gene regulatory interactions in the human genome.md",
+    "Excalidraw/Drawing 2024-02-19 15.58.08.excalidraw.md",
+    "images/Pasted image 20240213181942.png",
     "DNA Composition.md",
     "conflict-files-obsidian-git.md",
     "Flow State.md",
@@ -207,7 +219,6 @@
     "nih/NCBI/allele 1.md",
     "nih/NCBI/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome 1.md",
     "nih/NCBI/gene regulatory code 1.md",
-    "nih/NCBI/TFBS 1.md",
     "images/Pasted image 20240214123038.png",
     "images/Pasted image 20240214121834.png",
     "images/Pasted image 20240214121600.png",

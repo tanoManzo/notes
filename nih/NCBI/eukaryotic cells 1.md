@@ -1,0 +1,2 @@
+  
+Eukaryotic cells are a type of cell with a defined nucleus and membrane-bound organelles. They make up the organisms in the domain Eukaryota, which includes all multicellular organisms and many single-celled organisms. Eukaryotic cells are structurally and functionally more complex than prokaryotic cells, which lack a nucleus and membrane-bound organelles.

@@ -73,3 +73,17 @@ Configuration two uses the results from configuration one and confirms the posit
 
 Issue: 
 In addition to these values, Cohen’s Kappa was used to evaluate the agreement between the program’s predictions and medical diagnostic evaluations [24]
+
+
+## Results
+
+Issue: which configuration
+• For GPT 3.5 + 4 configuration, precision went from 81.0% to 84.2% and Kappa from 0.88
+
+
+. Most of these texts should be easier to classify as they do not discuss anything related to anaphylaxis and could introduce a bias (some did have allergy cases but not anaphylaxis ones). In the best configuration results, using GPT 4 Turbo, precision and sensibility remained the same. Specificity went from 99.5% to 90.2%, and accuracy from 99.5% to 95% — still outstanding results. Kappa went down from 0.95 to 0.90, which still is an almost perfect agreement. The SinClimBr texts had a small effect on the overall results.
+
+Issue: Missing analysis section
+
+
+Issue: Results for two program runs for four model configurations on different days. There were not many changes.

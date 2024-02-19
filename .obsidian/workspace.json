@@ -8,22 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8ed72476ce8d2a5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted image 20240213181942.png"
-              }
-            }
-          },
-          {
             "id": "c5f9eec998a6cbe1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Programming Gene Expression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "301531165098cd65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Automated Anaphylaxis Detection, A Text Analysis Approach Using Large Language Models in Electronic Medical Records.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 349.5,
+    "collapsed": true
   },
   "right": {
     "id": "78aa3775dfc9e91b",
@@ -104,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Gene Expression.md",
+                "file": "Automated Anaphylaxis Detection, A Text Analysis Approach Using Large Language Models in Electronic Medical Records.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Gene Expression.md",
+                "file": "Automated Anaphylaxis Detection, A Text Analysis Approach Using Large Language Models in Electronic Medical Records.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Gene Expression.md"
+                "file": "Automated Anaphylaxis Detection, A Text Analysis Approach Using Large Language Models in Electronic Medical Records.md"
               }
             }
           },
@@ -187,8 +190,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c5f9eec998a6cbe1",
+  "active": "301531165098cd65",
   "lastOpenFiles": [
+    "Programming Gene Expression.md",
+    "Automated Anaphylaxis Detection, A Text Analysis Approach Using Large Language Models in Electronic Medical Records.md",
+    "images/Pasted image 20240213181942.png",
     "Pasted image 20240216170132.png",
     "Pasted image 20240216170011.png",
     "Pasted image 20240216164354.png",
@@ -196,8 +202,6 @@
     "Pasted image 20240216154144.png",
     "Pasted image 20240216123801.png",
     "Pasted image 20240216105601.png",
-    "images/Pasted image 20240213181942.png",
-    "Programming Gene Expression.md",
     "images/Pasted image 20240214123038.png",
     "brilliant/DNA Composition.md",
     "brilliant",
@@ -227,7 +231,6 @@
     "nih/NCBI/gene promoters.md",
     "nih/NCBI",
     "images/Pasted image 20240213125736.png",
-    "images/Pasted image 20240213125500.png",
     "NCBI/papers",
     "NCBI",
     "nih/Journal Club",

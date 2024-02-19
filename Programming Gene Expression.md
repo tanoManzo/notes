@@ -44,3 +44,7 @@ If another ���AUG appears later in the sequence, the ribosome will read 
 We have defined a **promoter** as a short sequence like TATAAA that recruits RNA polymerase and indicates the start of an RNA transcript. But not all RNA is destined to form a protein, the most famous example of which is the ribosome itself, which is largely made up of folded RNA.
 
 ![[Pasted image 20240216164354.png]]
+
+![[Pasted image 20240216170011.png]]
+
+![[Pasted image 20240216170132.png]]

@@ -50,6 +50,26 @@ In the finalized prompt, we explicitly instructed the LLM to:
 4. Provide a probability that the case was anaphylaxis (as a measure of their confidence); 
 5. Explain their reasoning process step-by-step, indicating which criteria it used and why.
 
-One known drawback of LLMs is hallucinations. They refer to instances where the model generates incorrect, misleading, or nonsensical information presented as factual or logical [22]. Our experiments only consider whether or not the LLM recognizes an anaphylaxis case. If the LLM hallucinates and returns a wrong answer, it will be counted as a false positive or negative.
+Issue: example of prompt missing, same prompt different results. 
 
+One known drawback of LLMs is hallucinations. They refer to instances where the model generates incorrect, misleading, or nonsensical information presented as factual or logical [22]. Our experiments only consider whether or not the LLM recognizes an anaphylaxis case. 
+
+Issue: 
+If the LLM hallucinates and returns a wrong answer, it will be counted as a false positive or negative.
+Issue:
 Configuration??
+
+## Experiments Setup
+Besides allowing experiment automation, which is indispensable as we have almost 1000 texts, it also gives us much better control of the LLM parameters.
+
+
+Issue:
+In all experiments, we used the temperature equal to zero.
+
+
+Issue: 
+Configuration two uses the results from configuration one and confirms the positive cases using GPT 4. This choice was due to the high price of using GPT 4 in all texts.
+
+
+Issue: 
+In addition to these values, Cohen’s Kappa was used to evaluate the agreement between the program’s predictions and medical diagnostic evaluations [24]

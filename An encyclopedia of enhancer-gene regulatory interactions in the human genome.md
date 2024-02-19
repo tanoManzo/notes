@@ -10,3 +10,12 @@ We create and evaluate a resource of >13 million enhancer-gene regulatory intera
 **To Check:** CRISPR perturbation experiments, >30,000 fine-mapped eQTLs, and 569 fine-mapped GWAS variants linked to a likely causal gene.
 
 Create ENCODE-rE2G, we build an encyclopedia of enhancer-gene regulatory interactions in the human genome, which reveals global properties of enhancer networks, identifies differences in the functions of genes that have more or less complex regulatory landscapes, and improves analyses to link noncoding variants to target genes and cell types for common, complex diseases.
+
+
+## Introduction 
+Noncoding DNA elements called enhancers have essential functions in controlling cell-type specific gene regulation and cellular programs, and likely contain a majority of causal variants for common, complex diseases[4](https://www.biorxiv.org/content/10.1101/2023.11.09.563812v1.full#ref-4)–[6](https://www.biorxiv.org/content/10.1101/2023.11.09.563812v1.full#ref-6). It remains an open challenge to accurately identify which elements act as enhancers in a given cell type and link them to the nearby genes that they regulate (hereafter, “enhancer-gene regulatory interactions”.
+
+The ENCODE Project has conducted thousands of experiments to identify candidate _cis_-regulatory elements and annotate their chromatin state and 3D physical interactions across hundreds of cell types and tissues[7](https://www.biorxiv.org/content/10.1101/2023.11.09.563812v1.full#ref-7)
+
+
+Previous predictive models have identified certain features important for prediction accuracy, including the [[strength of activating chromatin marks at an element (“enhancer activity”)]] and the [[frequency at which an element physically contacts a nearby promoter (“3D contact”)[9](https://www.biorxiv.org/content/10.1101/2023.11.09.563812v1.full#ref-9)

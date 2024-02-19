@@ -11,15 +11,26 @@
             "id": "9c613f3355c67ca6",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20240213181942.png"
+              }
+            }
+          },
+          {
+            "id": "0a69c950be3c67f1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "DNA Composition.md",
+                "file": "An encyclopedia of enhancer-gene regulatory interactions in the human genome.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 845.5,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DNA Composition.md",
+                "file": "An encyclopedia of enhancer-gene regulatory interactions in the human genome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DNA Composition.md",
+                "file": "An encyclopedia of enhancer-gene regulatory interactions in the human genome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DNA Composition.md"
+                "file": "An encyclopedia of enhancer-gene regulatory interactions in the human genome.md"
               }
             }
           }
@@ -169,8 +180,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c613f3355c67ca6",
+  "active": "0a69c950be3c67f1",
   "lastOpenFiles": [
+    "images/Pasted image 20240213181942.png",
+    "An encyclopedia of enhancer-gene regulatory interactions in the human genome.md",
+    "DNA Composition.md",
     "conflict-files-obsidian-git.md",
     "Flow State.md",
     "chromatin modifiers.md",
@@ -194,19 +208,15 @@
     "nih/NCBI/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome 1.md",
     "nih/NCBI/gene regulatory code 1.md",
     "nih/NCBI/TFBS 1.md",
-    "nih/NCBI/TATA 1.md",
-    "nih/NCBI/polysemy 1.md",
-    "nih/NCBI/Predicting effects of noncoding variants with deep learning–based sequence model 1.md",
-    "Pasted image 20240214123038.png",
-    "Pasted image 20240214121834.png",
-    "Pasted image 20240214121600.png",
-    "Pasted image 20240214120214.png",
-    "Pasted image 20240214120042.png",
-    "Pasted image 20240213184737.png",
-    "Pasted image 20240213184502.png",
-    "Pasted image 20240213182527.png",
-    "Pasted image 20240213182218.png",
-    "Pasted image 20240213181942.png",
+    "images/Pasted image 20240214123038.png",
+    "images/Pasted image 20240214121834.png",
+    "images/Pasted image 20240214121600.png",
+    "images/Pasted image 20240214120214.png",
+    "images/Pasted image 20240214120042.png",
+    "images/Pasted image 20240213184737.png",
+    "images/Pasted image 20240213184502.png",
+    "images/Pasted image 20240213182527.png",
+    "images/Pasted image 20240213182218.png",
     "nih/NCBI/papers"
   ]
 }

@@ -15,3 +15,11 @@ We present a novel unified approach to interpreting model predictions.
 ## Additive Feature Attribution Methods
 
 For complex models, a simpler explanation model is define as any interpretable approximation of the original model.
+
+Definition 1 Additive feature attribution methods have an explanation model that is a linear function of binary variables.
+
+### LIME
+
+The LIME method interprets individual model predictions based on locally approximating the model around a given prediction. LIME is additive feature attribution method.
+
+LIME refers to simplified inputs x' as *interpretable inputs* (mapping of the original input simplied).

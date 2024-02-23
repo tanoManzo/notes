@@ -59,3 +59,8 @@ The second property is missingness. If the simplified inputs represent feature p
 The third property is consistency. Consistency states that if a model changes so that some simplified input’s contribution increases or stays the same regardless of the other inputs, that input’s attribution should not decrease.
 
 ![[Pasted image 20240223151544.png]]![[Pasted image 20240223151622.png]]
+
+Theorem 1 follows from combined cooperative game theory results, where the values phi<sub>i</sub> are known as Shapley values [6]. Young (1985) demonstrated that Shapley values are the only set of values that satisfy three axioms.
+
+The following section proposes a unified approach that improves previous methods, preventing them from unintentionally violating Properties 1 and 3.
+

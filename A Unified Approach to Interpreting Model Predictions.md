@@ -23,3 +23,11 @@ Definition 1 Additive feature attribution methods have an explanation model that
 The LIME method interprets individual model predictions based on locally approximating the model around a given prediction. LIME is additive feature attribution method.
 
 LIME refers to simplified inputs x' as *interpretable inputs* (mapping of the original input simplied).
+
+Faithfulness of the explanation model g(z0) to the original model f(hx(z0)) is enforced through the loss L over a set of samples in the simplified input space weighted by the local kernel.
+
+### DeepLIFT
+A recursive prediction explanation method for deep learning. It attributes to each input xi a value C that represents the effect of that input being set to a reference value as opposed to its original value.
+
+### Layer-Wise Relevance Propagation
+The layer-wise relevance propagation method interprets the predictions of deep networks. It is equivalent to DeepLIFT with the reference activations of all neurons fixed to zero.

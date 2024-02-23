@@ -49,4 +49,13 @@ over samples from the training dataset. it is also an additive feature attributi
 
 ## Simple Properties Uniquely Determine Additive Feature Attributions
 
-The first desirable property is local accuracy. When approximating the original model f for a specific input x, local accuracy requires the explanation model to at least match the output of f for the simplified input x0 (which corresponds to the original input x).
+The first desirable property is local accuracy. When approximating the original model f for a specific input x, local accuracy requires the explanation model to at least match the output of f for the simplified input x' (which corresponds to the original input x).
+
+![[Pasted image 20240223151341.png]]
+The second property is missingness. If the simplified inputs represent feature presence, then missingness requires features missing in the original input to have no impact.
+
+![[Pasted image 20240223151441.png]]
+
+The third property is consistency. Consistency states that if a model changes so that some simplified input’s contribution increases or stays the same regardless of the other inputs, that input’s attribution should not decrease.
+
+![[Pasted image 20240223151544.png]]![[Pasted image 20240223151622.png]]

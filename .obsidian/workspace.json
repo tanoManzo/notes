@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c5f9eec998a6cbe1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Gene Expression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "301531165098cd65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automated Anaphylaxis Detection, A Text Analysis Approach Using Large Language Models in Electronic Medical Records.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "337f52ef0cc0f3d1",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,8 +179,9 @@
   },
   "active": "337f52ef0cc0f3d1",
   "lastOpenFiles": [
-    "Automated Anaphylaxis Detection, A Text Analysis Approach Using Large Language Models in Electronic Medical Records.md",
+    "multicollinearity.md",
     "A Unified Approach to Interpreting Model Predictions.md",
+    "Automated Anaphylaxis Detection, A Text Analysis Approach Using Large Language Models in Electronic Medical Records.md",
     "test.md",
     "notes llm papers.md",
     "nih/NCBI/transcription factor (TF) binding 1.md",
@@ -236,7 +212,6 @@
     "images/Pasted image 20240216123801.png",
     "images/Pasted image 20240216105601.png",
     "chromatin modifiers.md",
-    "ask virginia for nlm meeting.md",
     "Pasted Image 20240219162610_920.png",
     "Pasted Image 20240219162403_362.png",
     "Pasted Image 20240219162128_350.png",

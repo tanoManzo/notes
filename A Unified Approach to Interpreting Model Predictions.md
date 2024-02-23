@@ -16,12 +16,11 @@ We present a novel unified approach to interpreting model predictions.
 
 For complex models, a simpler explanation model is define as any interpretable approximation of the original model.
 
-Let f be the original prediction model to be explained and g the explanation model. Here, we focus on [[local methods]] designed to explain a prediction f(x) based on a single input x, as in LIME. Explanation models often use simplified inputs x0 that map to the original inputs through a mapping function x = hx(x0). Local methods try to ensure g(z0) ~= f(hx(z0)) whenever z0  x0.
-(Note that hx(x0) = x even though x0 may contain less information than x because hx is specific to
-the current input x.)
+Let f be the original prediction model to be explained and g the explanation model. Here, we focus on [[local methods]] designed to explain a prediction f(x) based on a single input x, as in LIME. Explanation models often use simplified inputs x' that map to the original inputs through a mapping function x = hx(x'). Local methods try to ensure g(z') ~= f(hx(z')) whenever z' ~= x'.
+(Note that hx(x') = x even though x' may contain less information than x because hx is specific to the current input x.)
 
-Definition 1 Additive feature attribution methods have an explanation model that is a linear function of binary variables.
-
+**Definition 1**
+![[Pasted image 20240223150753.png]]
 ### LIME
 
 The LIME method interprets individual model predictions based on locally approximating the model around a given prediction. LIME is additive feature attribution method.
@@ -49,3 +48,5 @@ over samples from the training dataset. it is also an additive feature attributi
 
 
 ## Simple Properties Uniquely Determine Additive Feature Attributions
+
+The first desirable property is local accuracy. When approximating the original model f for a specific input x, local accuracy requires the explanation model to at least match the output of f for the simplified input x0 (which corresponds to the original input x).

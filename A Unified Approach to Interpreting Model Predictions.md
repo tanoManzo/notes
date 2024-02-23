@@ -16,6 +16,10 @@ We present a novel unified approach to interpreting model predictions.
 
 For complex models, a simpler explanation model is define as any interpretable approximation of the original model.
 
+Let f be the original prediction model to be explained and g the explanation model. Here, we focus on [[local methods]] designed to explain a prediction f(x) based on a single input x, as in LIME. Explanation models often use simplified inputs x0 that map to the original inputs through a mapping function x = hx(x0). Local methods try to ensure g(z0) ~= f(hx(z0)) whenever z0  x0.
+(Note that hx(x0) = x even though x0 may contain less information than x because hx is specific to
+the current input x.)
+
 Definition 1 Additive feature attribution methods have an explanation model that is a linear function of binary variables.
 
 ### LIME
@@ -41,5 +45,7 @@ Three previous methods use classic equations from cooperative game theory to com
 **Shapley sampling values** are meant to explain any model by: (1) applying sampling approximations, and (2) approximating the effect of removing a variable from the model by integrating
 over samples from the training dataset. it is also an additive feature attribution method.
 
+**Quantitative input influence** is a broader framework that addresses more than feature attributions.
 
 
+## Simple Properties Uniquely Determine Additive Feature Attributions

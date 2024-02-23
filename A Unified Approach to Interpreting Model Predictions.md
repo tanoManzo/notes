@@ -35,10 +35,11 @@ The layer-wise relevance propagation method interprets the predictions of deep n
 ### Classic Shapley Value Estimation
 Three previous methods use classic equations from cooperative game theory to compute explanations of model predictions: Shapley regression values [4], Shapley sampling values [9], and Quantitative Input Influence [3].
 
-Shapley regression values are feature importances for linear models in the presence of [[multicollinearity]]. This method requires retraining the model on all feature subsets. **It assigns an importance value to each feature that represents the effect on the model prediction of including that feature.** To compute this effect, a model is trained with that feature present, and another model is trained with the feature withheld. Then, predictions from the two models are compared on the current input. Since the effect of withholding a feature depends on other features in the model, the preceding differences are computed for all possible subsets. 
+**Shapley regression values** are feature importances for linear models in the presence of [[multicollinearity]]. This method requires retraining the model on all feature subsets. **It assigns an importance value to each feature that represents the effect on the model prediction of including that feature.** To compute this effect, a model is trained with that feature present, and another model is trained with the feature withheld. Then, predictions from the two models are compared on the current input. Since the effect of withholding a feature depends on other features in the model, the preceding differences are computed for all possible subsets. The Shapley values are then computed and used as feature attributions.
 
 
-
+**Shapley sampling values** are meant to explain any model by: (1) applying sampling approximations, and (2) approximating the effect of removing a variable from the model by integrating
+over samples from the training dataset. it is also an additive feature attribution method.
 
 
 

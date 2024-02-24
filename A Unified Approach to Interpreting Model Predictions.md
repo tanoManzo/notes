@@ -69,3 +69,8 @@ The following section proposes a unified approach that improves previous methods
 We propose SHAP values as a unified measure of feature importance. These are the Shapley values of a conditional expectation function of the original model.
 
 ![[Pasted image 20240224114147.png]]
+
+where fx(z') = f(hx(z')) = E[f(z) | zS], and S is the set of non-zero indexes in z'.
+Implicit in this definition of SHAP values is a simplified input mapping, hx(z') = zS, where zS has missing values for features not in the set S.
+
+

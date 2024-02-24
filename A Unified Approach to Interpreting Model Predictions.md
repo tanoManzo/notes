@@ -74,6 +74,10 @@ where fx(z') = f(hx(z')) = E[f(z) | zS], and S is the set of non-zero indexes in
 
 ![[Pasted image 20240224133043.png]]
 
-![[Pasted image 20240224115616.png]]
+Deep SHAP (DeepLIFT + Shapley values)
 
+DeepLIFT is an additive feature attribution method that satisfies local accuracy and missingness, we know that Shapley values represent the only attribution values that satisfy consistency. This motivates our adapting DeepLIFT to become a compositional approximation of SHAP values, leading to Deep SHAP.
 
+Deep SHAP combines SHAP values computed for smaller components of the network into SHAP values for the whole network. It does so by recursively passing DeepLIFT’s multipliers, now defined in terms of SHAP values, backwards through the network as in Figure 2B.
+
+![[Pasted image 20240224133534.png]]

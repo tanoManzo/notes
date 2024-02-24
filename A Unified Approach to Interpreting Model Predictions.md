@@ -64,3 +64,6 @@ Theorem 1 follows from combined cooperative game theory results, where the value
 
 The following section proposes a unified approach that improves previous methods, preventing them from unintentionally violating Properties 1 and 3.
 
+## SHAP (SHapley Additive exPlanation) Values
+
+We propose SHAP values as a unified measure of feature importance. These are the Shapley values of a conditional expectation function of the original model

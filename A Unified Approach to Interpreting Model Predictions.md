@@ -73,4 +73,6 @@ We propose SHAP values as a unified measure of feature importance. These are the
 where fx(z') = f(hx(z')) = E[f(z) | zS], and S is the set of non-zero indexes in z'.
 Implicit in this definition of SHAP values is a simplified input mapping, hx(z') = zS, where zS has missing values for features not in the set S.
 
+![[Pasted image 20240224115616.png]]
+
 

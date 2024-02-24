@@ -80,4 +80,6 @@ DeepLIFT is an additive feature attribution method that satisfies local accuracy
 
 Deep SHAP combines SHAP values computed for smaller components of the network into SHAP values for the whole network. It does so by recursively passing DeepLIFT’s multipliers, now defined in terms of SHAP values, backwards through the network as in Figure 2B.
 
-![[Pasted image 20240224133534.png]]
+![[Pasted image 20240224133534.png]]Deep SHAP avoids the need to heuristically choose ways to linearize components. Instead, it derives an effective linearization from the SHAP values computed for each component.
+
+![[Pasted image 20240224133924.png]]

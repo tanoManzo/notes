@@ -171,7 +171,7 @@
             }
           },
           {
-            "id": "edb6fbaf455fc78d",
+            "id": "4244b09c9321102c",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
@@ -183,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 842.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,7 +198,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "edb6fbaf455fc78d",
+  "active": "4244b09c9321102c",
   "lastOpenFiles": [
     "A Unified Approach to Interpreting Model Predictions.md",
     "Explaining a series of models by propagating Shapley values.md",

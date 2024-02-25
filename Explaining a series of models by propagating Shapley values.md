@@ -26,4 +26,4 @@ Contributions:
 - a generalized rescale rule to explain a complex series of models by propagating attributions while enforcing efficiency at each layer. This framework extends DeepSHAP to explain any series of models composed of linear, deep, and tree models.
 - a group rescale rule to propagate local feature attributions to groups of features
 
-Many feature attribution methods must define the absence of a feature, often by masking features according to a single baseline sample (single baseline attribution)13,17,18. In contrast, we show that under certain assumptions, the correct approach is to use many baseline samples instead
+Many feature attribution methods must define the absence of a feature, often by masking features according to a single baseline sample (single baseline attribution)13,17,18. In contrast, we show that under certain assumptions, the correct approach is to use many baseline samples instead. We show that using many baselines avoids bias that can be introduced by single baseline attributions (section Baseline distributions avoid bias)

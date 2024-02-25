@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "238b4cc553e5673b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Explaining a series of models by propagating Shapley values.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Unified Approach to Interpreting Model Predictions.md",
+                "file": "Explaining a series of models by propagating Shapley values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Unified Approach to Interpreting Model Predictions.md",
+                "file": "Explaining a series of models by propagating Shapley values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Unified Approach to Interpreting Model Predictions.md"
+                "file": "Explaining a series of models by propagating Shapley values.md"
               }
             }
           },
@@ -176,8 +189,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "337f52ef0cc0f3d1",
+  "active": "238b4cc553e5673b",
   "lastOpenFiles": [
+    "A Unified Approach to Interpreting Model Predictions.md",
+    "Explaining a series of models by propagating Shapley values.md",
     "Pasted image 20240224133924.png",
     "Pasted image 20240224133534.png",
     "Pasted image 20240224133043.png",
@@ -189,7 +204,6 @@
     "Pasted image 20240223151341.png",
     "Pasted image 20240223150753.png",
     "multicollinearity.md",
-    "A Unified Approach to Interpreting Model Predictions.md",
     "Automated Anaphylaxis Detection, A Text Analysis Approach Using Large Language Models in Electronic Medical Records.md",
     "test.md",
     "notes llm papers.md",
@@ -213,7 +227,6 @@
     "nih/NCBI/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome 1.md",
     "nih/NCBI/DNA accessibility 1.md",
     "nih/NCBI/Cis-regulatory elements (CREs) 1.md",
-    "images/Pasted image 20240216170132.png",
     "brilliant",
     "nih/NCBI/papers",
     "nih/NCBI",

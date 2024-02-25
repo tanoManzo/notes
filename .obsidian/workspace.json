@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ec1ce0b390e3b56d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "78aa3775dfc9e91b",
@@ -188,7 +176,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec1ce0b390e3b56d",
+  "active": "337f52ef0cc0f3d1",
   "lastOpenFiles": [
     "Pasted image 20240224133924.png",
     "Pasted image 20240224133534.png",

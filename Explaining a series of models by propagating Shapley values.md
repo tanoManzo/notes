@@ -23,3 +23,7 @@ G-DeepSHAP is based on connections to the Shapley value, a concept from game the
 Contributions: 
 - a theoretical framework that connects the rules introduced in DeepLIFT to the Shapley value with an interventional conditional expectation set function (ICE Shapley value).
 - ICE Shapley value decomposes into an average over single baseline attributions where a single baseline attribution explains the model for a single sample ([[explicand]]) by comparing it to a single sample (baseline).
+- a generalized rescale rule to explain a complex series of models by propagating attributions while enforcing efficiency at each layer. This framework extends DeepSHAP to explain any series of models composed of linear, deep, and tree models.
+- a group rescale rule to propagate local feature attributions to groups of features
+
+Many feature attribution methods must define the absence of a feature, often by masking features according to a single baseline sample (single baseline attribution)13,17,18. In contrast, we show that under certain assumptions, the correct approach is to use many baseline samples instead

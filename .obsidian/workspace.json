@@ -169,13 +169,21 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "edb6fbaf455fc78d",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,10 +194,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "238b4cc553e5673b",
+  "active": "edb6fbaf455fc78d",
   "lastOpenFiles": [
     "A Unified Approach to Interpreting Model Predictions.md",
     "Explaining a series of models by propagating Shapley values.md",

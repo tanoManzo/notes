@@ -34,4 +34,12 @@ G-DeepSHAP can use feature attributions to ask many important scientific questio
 
 We improve upon two previous approaches (DeepLIFT17, DeepSHAP16) that propagate attributions while maintaining efficiency with respect to a single baseline. We make two improvements: (1) we compare to a distribution of baselines, which decreases the reliance of the attributions on any single baseline (section Baseline distributions avoid bias) and (2) we generalize the rescale rule so that it applies to a series of mixed model types, rather than only layers in a deep model. More precisely, a closely related method named DeepSHAP was designed to explain deep models (f : Rm ! R)16, by performing DeepLIFT17 using the average as a baseline16 (Methods section Differences to previous approaches). Using a single average baseline is not the correct approach to explain nonlinear models based on connections to Shapley values with an interventional conditional expectation set function and a flat causal graph. we show that the correct way to obtain the interventional Shapley value local feature attributions is to average over single baseline feature attributions.
 
-G-DeepSHAP is an approximate method, meaning that it is biased for the true interventional Shapley values. 
+G-DeepSHAP is an approximate method, meaning that it is biased for the true interventional Shapley values. However, this bias allows G-DeepSHAP to be drastically faster than alternative approaches. 
+
+
+## Results 
+
+
+### Baseline distributions avoid bias 
+We aim to demonstrate that single baselines can lead to bias in explanations by comparing attributions using either a single baseline (an all-black image) as in DeepLIFT or a random set of 1000 baselines (random training images) as in G-DeepSHAP. 
+![[Pasted image 20240225183642.png]]

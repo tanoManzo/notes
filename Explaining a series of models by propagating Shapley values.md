@@ -108,3 +108,10 @@ We can quantitatively verify that negative blood lead affects model performance 
 
 ![[Pasted image 20240226115544.png]]
 We can visualize the impact on the model’s loss of ablating by output attributions compared to ablating by loss attributions (Fig. 5d). This ablation test (Methods section Ablation tests) asks “What features are important to the model’s performance (loss)?” Ablating the positive and negative attributions both increase the mean model loss by hiding features central to making predictions. However, ablating by the negative loss attribution directly increases the loss far more drastically than ablating by the output. More so, ablating positive loss attributions clearly decreases the mean loss, which is not achievable by output attribution ablation.
+
+### Explaining deep image feature extractors
+We compare G-DeepSHAP explanations to a number of model-agnostic explanations for a series of two models: a CNN feature extractor fed into a GBT model that classifies MNIST zeros. In this example, nonlinear transformations of the original feature space improve the performance of the downstream model (Supplementary Notes Section 2.6) but make model-specific attributions impossible. 
+
+Qualitatively, we can see that G-DeepSHAP and IME are similar, whereas KernelSHAP is similar for certain explicands but not others (Fig. 6a).
+![[Pasted image 20240226120521.png]]
+### Explaining distributed proprietary models

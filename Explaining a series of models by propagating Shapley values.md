@@ -97,3 +97,13 @@ We train our model on the first five release cycles of the NHANES data (1999–2
 
 ![[Pasted image 20240226114458.png]]
 
+we can identify that the falsely increased weight leads to many misclassified samples where the loss weight attribution exceeds the expected loss. Although such debugging is powerful, it is not perfect. Note that in the negatively labeled samples, we cannot clearly identify the covariate shift because higher weights are protective and lead to more confident negative mortality prediction.
+
+
+
+![[Pasted image 20240226115146.png]]
+We examine the natural generalization gap induced by covariate shift over time, which shows a dramatically different loss in the train and test sets (Fig. 5c).
+
+We can quantitatively verify that negative blood lead affects model performance more in the test set by ablating blood lead for the top 10 samples in the train and test sets according to their loss distributions. From this, we can see that blood lead constitutes a substantial covariate shift in the model’s loss and helps explain the observed generalization gap.
+
+![[Pasted image 20240226115544.png]]

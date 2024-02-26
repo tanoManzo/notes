@@ -41,5 +41,5 @@ G-DeepSHAP is an approximate method, meaning that it is biased for the true inte
 
 
 ### Baseline distributions avoid bias 
-We aim to demonstrate that single baselines can lead to bias in explanations by comparing attributions using either a single baseline (an all-black image) as in DeepLIFT or a random set of 1000 baselines (random training images) as in G-DeepSHAP. 
+We aim to demonstrate that single baselines can lead to bias in explanations by comparing attributions using either a single baseline (an all-black image) as in DeepLIFT or a random set of 1000 baselines (random training images) as in G-DeepSHAP. **Although the black pixels in the image are qualitatively important, using a single baseline leads to biased attributions with little attribution mass for black pixels.** In comparison, averaging over multiple baselines leads to qualitatively more sensible attributions. Quantitatively, we show that despite the prevalence of darker pixels (pixel distribution plots in Fig. 2), single baseline attributions are biased to give them low attribution, whereas averaging over many baselines more sensibly assigns a large amount of credit to dark pixels (attribution distribution plots in Fig. 2). 
 ![[Pasted image 20240225183642.png]]

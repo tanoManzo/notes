@@ -57,3 +57,4 @@ We propose k-means clustering to select a baseline distribution (detail in Metho
 In Fig. 3b, we show clusters according to age and gender. Then, we explain many older male explicands using either a general population or an older male population baseline distribution (Fig. 3c).
 
 ![[Pasted image 20240226092714.png]]
+When we compare to the older male baselines, the importance of age is centered around zero, gender is no longer important, and the importance orderings of remaining features change.

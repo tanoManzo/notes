@@ -48,5 +48,12 @@ We aim to demonstrate that single baselines can lead to bias in explanations by 
 ### Natural scientific questions with baseline distributions
 To demonstrate the importance of baseline distributions as a parameter, we explain an MLP for predicting 15- year mortality in the NHANES I data set. We use G-DeepSHAP to explain an explicand relative to a baseline distribution drawn uniformly from all samples (Fig. 3a (top)). 
 
-We can manually select a baseline distribution of older
+We can manually select a baseline distribution of older males to reveal novel insights, as in Fig. 3a (bottom). The impact of gender is gone because we compare only to males, and the impact of age is lower because we compare only to older individuals. This example illustrates that the baseline distribution is an important parameter for feature attributions.
 ![[Pasted image 20240226092117.png]]
+
+
+We propose k-means clustering to select a baseline distribution (detail in Methods section Selecting a baseline distribution). 
+
+In Fig. 3b, we show clusters according to age and gender. Then, we explain many older male explicands using either a general population or an older male population baseline distribution (Fig. 3c).
+
+![[Pasted image 20240226092714.png]]

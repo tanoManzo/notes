@@ -78,3 +78,5 @@ We explain two MLPs trained to predict Alzheimer’s disease status and breast c
 Gene expression data is often extremely high dimensional; as such, solutions such as [[gene set enrichment analysis (GSEA)]] are widely used.
 
 We aim to attribute importance to gene sets while maintaining efficiency by proposing a group rescale rule. This rule sums attributions for genes belonging to each group and then normalizes according to excess attribution mass due to multiple groups containing the same gene. It generalizes to arbitrary groups of features beyond gene sets, such as categories of epidemiological features (e.g., laboratory measurements, demographic measurements, etc.).
+
+In Fig. 4, we can validate several key genes identified by G-DeepSHAP. For Alzheimer’s disease, the overexpression of SERPINA3 has been closely tied to prion diseases. 

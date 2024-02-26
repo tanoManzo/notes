@@ -89,3 +89,11 @@ We obtain gene set attributions by grouping genes according to curated gene sets
 For Alzheimer’s disease, the glyoxylate and dicarboxylate metabolism pathway was independently identified based on metabolic biomarkers45; several studies have demonstrated aberrations in the TCA cycle in Alzheimer’s disease brain46; and alterations of purine-related metabolites are known to occur in early stages of Alzheimer’s disease. For breast cancer, many relevant proteins are involved in ubiquitinproteasome pathways48 and purine metabolism was identified as a major metabolic pathway differentiating a highly metastatic breast cancer cell line from a slightly metastatic one.
 
 ### Loss attributions provide insights to model behavior
+We examine an NHANES (1999–2014) mortality prediction GBT model to show how explaining the model’s loss (loss explanations) provides important insights different from insights revealed by explaining the model’s output (output explanations).
+
+We can explain a binary classification model in terms of its log-odds predictions, its probability predictions or its loss computed based on the prediction. We focus on local feature attributions that explain per-sample loss.
+
+We train our model on the first five release cycles of the NHANES data (1999–2008) and evaluate it on a test set of the last three release cycles (2009–2014) (Fig. 5a).
+
+![[Pasted image 20240226114458.png]]
+

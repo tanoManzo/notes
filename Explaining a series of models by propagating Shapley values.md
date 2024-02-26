@@ -46,4 +46,7 @@ We aim to demonstrate that single baselines can lead to bias in explanations by 
 
 
 ### Natural scientific questions with baseline distributions
-To demonstrate the importance of baseline distributions as a parameter, we explain an MLP for predicting 15- year mortality in the NHANES I data set.
+To demonstrate the importance of baseline distributions as a parameter, we explain an MLP for predicting 15- year mortality in the NHANES I data set. We use G-DeepSHAP to explain an explicand relative to a baseline distribution drawn uniformly from all samples (Fig. 3a (top)). 
+
+We can manually select a baseline distribution of older
+![[Pasted image 20240226092117.png]]

@@ -115,3 +115,8 @@ We compare G-DeepSHAP explanations to a number of model-agnostic explanations fo
 Qualitatively, we can see that G-DeepSHAP and IME are similar, whereas KernelSHAP is similar for certain explicands but not others (Fig. 6a).
 ![[Pasted image 20240226120521.png]]
 ### Explaining distributed proprietary models
+G-DeepSHAP explanations for a consumer scoring example that feeds a simulated GBT fraud score model and a simulated MLP credit score model into a GBT bank model. Consumer scores (e.g., credit scores, fraud scores, health risk scores, etc.) describe individual behavior with predictive models.
+
+Explaining the bank model in Fig. 7a will tell us that fraud and credit scores are important (in Fig. 7c), but these scores are inherently opaque to consumers. A better solution might be model-agnostic methods that explain the entire pipeline at once.
+
+![[Pasted image 20240226120847.png]]

@@ -63,3 +63,4 @@ The inquiry we make changes from “What features are important for older males 
 
 To quantitatively evaluate whether our attributions answer the second inquiry, we can ablate features in order of their positive/negative importance by masking with the mean of the older male baseline distribution (Fig. 3d, (Methods section Ablation tests)). In both plots, lower curves indicate attributions that better estimated positive and negative importance.
 
+![[Pasted image 20240226093910.png]]

@@ -72,4 +72,7 @@ Our recommendation is to choose baseline distributions by clustering according t
 The first advantage is that choosing baseline distributions in this way decreases variance in the features that determined the clusters and subsequently reduces their importance to the model. 
 
 
+### Group attributions identify meaningful gene sets
+We explain two MLPs trained to predict Alzheimer’s disease status and breast cancer tumor stage from gene expression.
 
+Gene expression data is often extremely high dimensional; as such, solutions such as [[gene set enrichment analysis (GSEA)]] are widely used.

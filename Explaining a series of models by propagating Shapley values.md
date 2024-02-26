@@ -79,4 +79,5 @@ Gene expression data is often extremely high dimensional; as such, solutions suc
 
 We aim to attribute importance to gene sets while maintaining efficiency by proposing a group rescale rule. This rule sums attributions for genes belonging to each group and then normalizes according to excess attribution mass due to multiple groups containing the same gene. It generalizes to arbitrary groups of features beyond gene sets, such as categories of epidemiological features (e.g., laboratory measurements, demographic measurements, etc.).
 
-In Fig. 4, we can validate several key genes identified by G-DeepSHAP. For Alzheimer’s disease, the overexpression of SERPINA3 has been closely tied to prion diseases. 
+In Fig. 4, we can validate several key genes identified by G-DeepSHAP. For Alzheimer’s disease, the overexpression of SERPINA3 has been closely tied to prion diseases. and UBTD2 has been connected to frontotemporal dementia—a neurodegenerative disorder43. For breast cancer tumor stage, UBE2C was positively correlated with tumor size and histological grade
+![[Pasted image 20240226101405.png]]

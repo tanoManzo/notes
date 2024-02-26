@@ -84,4 +84,6 @@ In Fig. 4, we can validate several key genes identified by G-DeepSHAP. For Alzhe
 
 In addition to understanding gene importance, understanding higher-level importance can be obtained using gene sets, i.e., groups of genes defined by biological pathways or co-expression.
 
-We obtain gene set attributions by grouping genes according to curated gene sets from the KEGG (Kyoto Encyclopedia of Genes and Genomes) pathway database (https://www.gsea-msigdb.org/gsea/msigdb/collections.jsp#C2)
+We obtain gene set attributions by grouping genes according to curated gene sets from the KEGG (Kyoto Encyclopedia of Genes and Genomes) pathway database (https://www.gsea-msigdb.org/gsea/msigdb/collections.jsp#C2).
+
+For Alzheimer’s disease, the glyoxylate and dicarboxylate metabolism pathway was independently identified based on metabolic biomarkers45; several studies have demonstrated aberrations in the TCA cycle in Alzheimer’s disease brain46; and alterations of purine-related metabolites are known to occur in early stages of Alzheimer’s disease. For breast cancer, many relevant proteins are involved in ubiquitinproteasome pathways48 and purine metabolism was identified as a major metabolic pathway differentiating a highly metastatic breast cancer cell line from a slightly metastatic one.

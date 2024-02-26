@@ -93,7 +93,7 @@ We examine an NHANES (1999–2014) mortality prediction GBT model to show how ex
 
 We can explain a binary classification model in terms of its log-odds predictions, its probability predictions or its loss computed based on the prediction. We focus on local feature attributions that explain per-sample loss.
 
-We train our model on the first five release cycles of the NHANES data (1999–2008) and evaluate it on a test set of the last three release cycles (2009–2014) (Fig. 5a).
+We train our model on the first five release cycles of the NHANES data (1999–2008) and evaluate it on a test set of the last three release cycles (2009–2014) (Fig. 5a). We simulate a covariate shift in the weight variable by re-coding it to be measured in pounds, rather than kilograms, in release cycles 7 and 8 (Fig. 5b). Then, we ask, “Can we identify the impact of the covariate shift with feature attributions?” Comparing the train and test output attributions, release cycles 7 and 8 are skewed, but they mimic the same general shape of the training set attributions. 
 
 ![[Pasted image 20240226114458.png]]
 

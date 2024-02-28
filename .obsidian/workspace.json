@@ -11,9 +11,11 @@
             "id": "9c613f3355c67ca6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20240213181942.png"
+                "file": "Wei.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20240213181942.png",
+                "file": "Wei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20240213181942.png",
+                "file": "Wei.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Pasted image 20240213181942.png"
+                "file": "Wei.md"
               }
             }
           }
@@ -168,6 +170,7 @@
   },
   "active": "9c613f3355c67ca6",
   "lastOpenFiles": [
+    "images/Pasted image 20240213181942.png",
     "Excalidraw/Drawing 2024-02-19 15.58.08.excalidraw.md",
     "DNase-seq.md",
     "Pasted Image 20240219162610_920.png",
@@ -204,7 +207,6 @@
     "nih/NCBI/process of transcription 1.md",
     "List of applications.md",
     "nih/NCBI/DNA accessibility 1.md",
-    "nih/NCBI/chromatin 1.md",
     "nih/NCBI/papers"
   ]
 }

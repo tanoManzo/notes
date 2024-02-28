@@ -11,9 +11,11 @@
             "id": "a6364159639e0bed",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-19 15.58.08.excalidraw.md"
+                "file": "Explaining a series of models by propagating Shapley values.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 200
   },
   "right": {
     "id": "4952d483e2d90585",
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-19 15.58.08.excalidraw.md",
+                "file": "Explaining a series of models by propagating Shapley values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-19 15.58.08.excalidraw.md",
+                "file": "Explaining a series of models by propagating Shapley values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-19 15.58.08.excalidraw.md"
+                "file": "Explaining a series of models by propagating Shapley values.md"
               }
             }
           }
@@ -168,13 +170,13 @@
   },
   "active": "a6364159639e0bed",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-02-19 15.58.08.excalidraw.md",
     "Excalidraw/Drawing 2024-02-28 09.36.29.excalidraw.md",
     "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md",
     "An encyclopedia of enhancer-gene regulatory interactions in the human genome.md",
     "Explaining a series of models by propagating Shapley values.md",
     "Wei.md",
     "images/Pasted image 20240213181942.png",
-    "Excalidraw/Drawing 2024-02-19 15.58.08.excalidraw.md",
     "DNase-seq.md",
     "Pasted Image 20240219162610_920.png",
     "Pasted Image 20240219162403_362.png",

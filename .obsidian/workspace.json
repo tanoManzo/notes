@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wei.md",
+                "file": "Explaining a series of models by propagating Shapley values.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4952d483e2d90585",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wei.md",
+                "file": "Explaining a series of models by propagating Shapley values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wei.md",
+                "file": "Explaining a series of models by propagating Shapley values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wei.md"
+                "file": "Explaining a series of models by propagating Shapley values.md"
               }
             }
           }
@@ -170,6 +171,7 @@
   },
   "active": "9c613f3355c67ca6",
   "lastOpenFiles": [
+    "Wei.md",
     "images/Pasted image 20240213181942.png",
     "Excalidraw/Drawing 2024-02-19 15.58.08.excalidraw.md",
     "DNase-seq.md",
@@ -187,7 +189,6 @@
     "images/Pasted image 20240216170011.png",
     "images/Pasted image 20240216164354.png",
     "images/Pasted image 20240216162004.png",
-    "images/Pasted image 20240216154144.png",
     "Automated Anaphylaxis Detection, A Text Analysis Approach Using Large Language Models in Electronic Medical Records.md",
     "DNA Composition.md",
     "conflict-files-obsidian-git.md",
@@ -201,7 +202,6 @@
     "nih/NCBI/haplotypic context 1.md",
     "notes llm papers.md",
     "nih/NCBI/eukaryotic cells 1.md",
-    "Wei.md",
     "Tasks.md",
     "nih/NCBI/Cis-regulatory elements (CREs) 1.md",
     "nih/NCBI/process of transcription 1.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nih/Biowulf.md",
+                "file": "nih/tmux.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "biowu",
+                "query": "tmux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nih/Biowulf.md",
+                "file": "nih/tmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nih/Biowulf.md",
+                "file": "nih/tmux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nih/Biowulf.md"
+                "file": "nih/tmux.md"
               }
             }
           }
@@ -171,6 +171,8 @@
   },
   "active": "a6364159639e0bed",
   "lastOpenFiles": [
+    "nih/Biowulf - tmux.md",
+    "nih/Biowulf.md",
     "An encyclopedia of enhancer-gene regulatory interactions in the human genome.md",
     "DNase-seq.md",
     "Excalidraw/Drawing 2024-02-19 15.58.08.excalidraw.md",
@@ -206,8 +208,6 @@
     "nih/NCBI/eukaryotic cells 1.md",
     "Tasks.md",
     "nih/NCBI/Cis-regulatory elements (CREs) 1.md",
-    "nih/NCBI/process of transcription 1.md",
-    "List of applications.md",
     "nih/NCBI/papers"
   ]
 }

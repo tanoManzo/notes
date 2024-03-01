@@ -162,10 +162,12 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fa52e1fc7dde477d",
+  "active": "a6364159639e0bed",
   "lastOpenFiles": [
     "Explaining a series of models by propagating Shapley values.md",
     "Excalidraw/Drawing 2024-02-19 15.58.08.excalidraw.md",

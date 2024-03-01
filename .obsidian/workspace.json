@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "An encyclopedia of enhancer-gene regulatory interactions in the human genome.md",
+                "file": "nih/Biowulf.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "biowu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "An encyclopedia of enhancer-gene regulatory interactions in the human genome.md",
+                "file": "nih/Biowulf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "An encyclopedia of enhancer-gene regulatory interactions in the human genome.md",
+                "file": "nih/Biowulf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "An encyclopedia of enhancer-gene regulatory interactions in the human genome.md"
+                "file": "nih/Biowulf.md"
               }
             }
           }
@@ -171,12 +171,12 @@
   },
   "active": "a6364159639e0bed",
   "lastOpenFiles": [
+    "An encyclopedia of enhancer-gene regulatory interactions in the human genome.md",
     "DNase-seq.md",
     "Excalidraw/Drawing 2024-02-19 15.58.08.excalidraw.md",
     "Explaining a series of models by propagating Shapley values.md",
     "Excalidraw/Drawing 2024-02-28 09.36.29.excalidraw.md",
     "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md",
-    "An encyclopedia of enhancer-gene regulatory interactions in the human genome.md",
     "Wei.md",
     "images/Pasted image 20240213181942.png",
     "Pasted Image 20240219162610_920.png",

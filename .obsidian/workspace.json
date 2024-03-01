@@ -11,9 +11,11 @@
             "id": "a6364159639e0bed",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-19 15.58.08.excalidraw.md"
+                "file": "An encyclopedia of enhancer-gene regulatory interactions in the human genome.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nucleotide trans",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-19 15.58.08.excalidraw.md",
+                "file": "An encyclopedia of enhancer-gene regulatory interactions in the human genome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-19 15.58.08.excalidraw.md",
+                "file": "An encyclopedia of enhancer-gene regulatory interactions in the human genome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-19 15.58.08.excalidraw.md"
+                "file": "An encyclopedia of enhancer-gene regulatory interactions in the human genome.md"
               }
             }
           }
@@ -169,14 +171,14 @@
   },
   "active": "a6364159639e0bed",
   "lastOpenFiles": [
-    "Explaining a series of models by propagating Shapley values.md",
+    "DNase-seq.md",
     "Excalidraw/Drawing 2024-02-19 15.58.08.excalidraw.md",
+    "Explaining a series of models by propagating Shapley values.md",
     "Excalidraw/Drawing 2024-02-28 09.36.29.excalidraw.md",
     "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md",
     "An encyclopedia of enhancer-gene regulatory interactions in the human genome.md",
     "Wei.md",
     "images/Pasted image 20240213181942.png",
-    "DNase-seq.md",
     "Pasted Image 20240219162610_920.png",
     "Pasted Image 20240219162403_362.png",
     "Pasted Image 20240219162128_350.png",

@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,7 +168,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6364159639e0bed",
+  "active": "dded40e851e66755",
   "lastOpenFiles": [
     "nih/Biowulf - tmux.md",
     "nih/Biowulf.md",

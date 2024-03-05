@@ -16,3 +16,7 @@ However, synonymous SNPs which occur in a single organism can sometimes become f
 This process is called **genetic drift**.
 
 ![[Pasted image 20240305144226.png]]
+
+In the last 2020 years, we have begun to map the set of SNPs in millions of people from populations around the world.
+
+Capturing one individual's set of SNPs compared to a reference genome is called **genotyping**.

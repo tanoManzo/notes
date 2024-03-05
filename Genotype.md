@@ -10,3 +10,9 @@ A SNP which increases the reproductive fitness of an organism is called **adapt
 A **deleterious** SNP decreases the reproductive fitness of an organism and usually leads to an evolutionary dead end which quickly disappears from the gene pool.
 
 A **synonymous** SNP is one that does not change a translated protein sequence and thus has no effect on reproductive fitness. The red mutations are likely deleterious or synonymous.
+
+However, synonymous SNPs which occur in a single organism can sometimes become fixed in a population with a very small probability 1/N, where N is the population (billions in the case of bacterial cultures).
+
+This process is called **genetic drift**.
+
+![[Pasted image 20240305144226.png]]

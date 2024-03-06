@@ -47,12 +47,8 @@
             "id": "0c335c0a1919e708",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "islet.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -130,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "islet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "islet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,17 +175,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "islet.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "cd391cfee3680289",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 492.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,13 +202,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "0c335c0a1919e708",
+  "active": "cd391cfee3680289",
   "lastOpenFiles": [
-    "Genotype.md",
     "islet.md",
+    "Genotype.md",
     "Pasted image 20240305144226.png",
     "Pasted image 20240305143716.png",
     "locus.md",

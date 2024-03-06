@@ -31,3 +31,4 @@ Proteins were known to consist of twenty possible building blocks called **amin
 ![[Pasted image 20240214121600.png]]
 ![[Pasted image 20240214121834.png]]
 ![[Pasted image 20240214123038.png]]
+#nih #ncbi #bio

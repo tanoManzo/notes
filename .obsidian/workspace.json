@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nih/islet.md",
+                "file": "NLP/lexicons 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0016a59e3ca6fb09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nih/DNA Composition.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nih/islet.md",
+                "file": "nih/DNA Composition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nih/islet.md",
+                "file": "nih/DNA Composition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nih/islet.md"
+                "file": "nih/DNA Composition.md"
               }
             }
           },
@@ -178,42 +191,43 @@
   },
   "active": "dded40e851e66755",
   "lastOpenFiles": [
+    "Flow State.md",
+    "Godze.md",
+    "chromatin modifiers.md",
+    "multicollinearity.md",
+    "nih/DNase-seq.md",
+    "nih/Programming Gene Expression.md",
+    "nih/Probing.md",
+    "nih/Explaining a series of models by propagating Shapley values.md",
+    "List of applications.md",
+    "NLP/Automated Anaphylaxis Detection, A Text Analysis Approach Using Large Language Models in Electronic Medical Records.md",
+    "General.md",
+    "nih/A Unified Approach to Interpreting Model Predictions.md",
+    "nih/AMIA 2023.md",
+    "nih/Super Silencers B Cells.md",
+    "README.md",
+    "ask virginia for nlm meeting.md",
+    "Wei.md",
+    "Tasks.md",
+    "NLP/phonetics.md",
+    "NLP/lexicons 1.md",
+    "notes.md",
+    "notes llm papers.md",
+    "nih/An encyclopedia of enhancer-gene regulatory interactions in the human genome.md",
+    "nih/Genotype.md",
+    "nih/islet.md",
     "images/Pasted Image 20240219155823_989.png",
     "splice sites 1.md",
-    "test.md",
-    "phonetics.md",
-    "locus 1.md",
-    "An encyclopedia of enhancer-gene regulatory interactions in the human genome.md",
     "images/Pasted image 20240305140842.png",
     "images/Pasted image 20240305144226.png",
-    "Genotype.md",
-    "nih/islet.md",
-    "nih/tmux.md",
     "images/Pasted image 20240305143716.png",
     "images/Pasted image 20240305141457.png",
-    "nih/Biowulf - tmux.md",
-    "nih/Biowulf.md",
-    "DNase-seq.md",
-    "Excalidraw/Drawing 2024-02-19 15.58.08.excalidraw.md",
-    "Explaining a series of models by propagating Shapley values.md",
-    "Excalidraw/Drawing 2024-02-28 09.36.29.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-23 17.48.47.excalidraw.md",
-    "Wei.md",
     "images/Pasted image 20240213181942.png",
     "images/Pasted Image 20240219162610_920.png",
     "images/Pasted Image 20240219162403_362.png",
     "images/Pasted Image 20240219162128_350.png",
     "images/Pasted image 20240216123801.png",
-    "brilliant/DNA Composition.md",
     "brilliant",
-    "Programming Gene Expression.md",
-    "Automated Anaphylaxis Detection, A Text Analysis Approach Using Large Language Models in Electronic Medical Records.md",
-    "DNA Composition.md",
-    "conflict-files-obsidian-git.md",
-    "Flow State.md",
-    "chromatin modifiers.md",
-    "ask virginia for nlm meeting.md",
-    "nih/NCBI/histone marks of sequences 1.md",
     "nih/NCBI/papers"
   ]
 }

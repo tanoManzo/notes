@@ -48,3 +48,5 @@ We have defined a **promoter** as a short sequence like TATAAA that recruits
 ![[Pasted image 20240216170011.png]]
 
 ![[Pasted image 20240216170132.png]]
+
+#nih #ncbi #bio

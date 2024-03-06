@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nih/tmux.md",
+                "file": "islet.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,17 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "522f60fb8907c305",
-            "type": "leaf",
-            "state": {
-              "type": "gemini-chat-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "locus.md",
+                "file": "islet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "locus.md",
+                "file": "islet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "locus.md"
+                "file": "islet.md"
               }
             }
           },
@@ -197,16 +188,16 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "522f60fb8907c305",
+  "active": "a6364159639e0bed",
   "lastOpenFiles": [
+    "nih/tmux.md",
+    "locus.md",
     "Genotype.md",
     "islet.md",
     "Pasted image 20240305144226.png",
     "Pasted image 20240305143716.png",
-    "locus.md",
     "Pasted image 20240305141457.png",
     "Pasted image 20240305140842.png",
-    "nih/tmux.md",
     "nih/Biowulf - tmux.md",
     "nih/Biowulf.md",
     "An encyclopedia of enhancer-gene regulatory interactions in the human genome.md",

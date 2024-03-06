@@ -1,5 +1,5 @@
 Stanford
- p
+ 
 ## Abstract 
 
 Identifying transcriptional enhancers and their target genes is essential for understanding gene regulation and the impact of human genetic variation on disease. 
@@ -34,4 +34,4 @@ A new set of predictive models, collectively termed “ENCODE-rE2G”**. We deve
 #### 3
 **An encyclopedia of enhancer-gene regulatory interactions in the human genome**. We applied the most general of the ENCODE-rE2G models across 352 ENCODE cell types, tissues, and contexts (collectively, “biosamples”), and identified 13,455,443 regulatory interactions between distal elements and target genes. This atlas includes an average of 23,846 unique regulatory elements and 62,509 element-gene regulatory interactions per biosample, and in total annotates 0.76% of the approximately 3 billion basepairs in the human genome. This resource enables looking up a gene to find predicted enhancers, looking up an element to find predicted target genes, and identifying predicted cell types and target genes for noncoding variants.
 
-### b 
+#nih #ncbi #bio #paper #good4pub 

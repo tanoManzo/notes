@@ -24,3 +24,5 @@ Capturing one individual's set of SNPs compared to a reference genome is called�
 Chips are patterned with millions of short DNA fragments containing a complementary sequence to either **reference** or **alternate** SNPs.
 
 After PCR amplification and fragmentation, a genome sample is added to the chip. Sample genomic DNA will only hybridize with the matching complementary sequence. After staining with a special DNA dye, a binary readout of the sample genotype can be read with a simple photograph.
+
+#nih #ncbi #bio

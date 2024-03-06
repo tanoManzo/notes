@@ -26,3 +26,5 @@ In addition to the core splice sites, there are also additional sequences that i
 The process of recognizing and accurately splicing these sites is carried out by the spliceosome, a complex cellular machinery composed of snRNPs and associated proteins. The spliceosome recognizes the consensus sequences at the splice sites and facilitates the precise removal of introns and joining of exons.
 
 Alternative splicing, where different combinations of exons are spliced together, is a mechanism that allows for increased diversity in the proteins generated from a single gene. The proper recognition of splice sites is essential for the accurate and regulated expression of genes.
+
+#nih #ncbi #bio

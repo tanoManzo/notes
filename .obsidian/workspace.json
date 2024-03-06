@@ -35,24 +35,12 @@
             "id": "522f60fb8907c305",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Genotype.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c335c0a1919e708",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "gemini-chat-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,19 +101,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a444dfa17606895",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "f0a655178c24a8ff",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "locus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "locus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,19 +157,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "locus.md"
+              }
             }
           },
           {
             "id": "cd391cfee3680289",
             "type": "leaf",
             "state": {
-              "type": "copilot-chat-view",
+              "type": "gemini-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "014073d2d20b41b8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -201,15 +193,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "copilot:Copilot Chat": false
+      "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "cd391cfee3680289",
+  "active": "522f60fb8907c305",
   "lastOpenFiles": [
-    "islet.md",
     "Genotype.md",
+    "islet.md",
     "Pasted image 20240305144226.png",
     "Pasted image 20240305143716.png",
     "locus.md",

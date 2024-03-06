@@ -1,8 +1,6 @@
 [
   "obsidian-git",
-  "obsidian-advanced-slides",
-  "obsidian-tracker",
   "obsidian-excalidraw-plugin",
-  "calendar",
-  "copilot"
+  "gemini-assistant",
+  "calendar"
 ]

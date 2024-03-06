@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c335c0a1919e708",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "islet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "locus",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genotype.md",
+                "file": "islet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genotype.md",
+                "file": "islet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Genotype.md"
+                "file": "islet.md"
               }
             }
           }
@@ -193,12 +205,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "522f60fb8907c305",
+  "active": "0c335c0a1919e708",
   "lastOpenFiles": [
+    "Genotype.md",
+    "islet.md",
     "Pasted image 20240305144226.png",
     "Pasted image 20240305143716.png",
     "locus.md",
-    "Genotype.md",
     "Pasted image 20240305141457.png",
     "Pasted image 20240305140842.png",
     "nih/tmux.md",
@@ -220,7 +233,6 @@
     "brilliant/DNA Composition.md",
     "brilliant",
     "Programming Gene Expression.md",
-    "images/Pasted image 20240216170132.png",
     "Automated Anaphylaxis Detection, A Text Analysis Approach Using Large Language Models in Electronic Medical Records.md",
     "DNA Composition.md",
     "conflict-files-obsidian-git.md",

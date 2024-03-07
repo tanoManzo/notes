@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "biowulf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,7 +190,7 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "0016a59e3ca6fb09",
+  "active": "fa52e1fc7dde477d",
   "lastOpenFiles": [
     "nih/DNA Composition.md",
     "Flow State.md",

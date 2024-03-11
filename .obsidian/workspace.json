@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nih/DNase-seq.md",
+                "file": "nih/NCBI/allele.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DNas",
+                "query": "allel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nih/DNase-seq.md",
+                "file": "nih/NCBI/allele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nih/DNase-seq.md",
+                "file": "nih/NCBI/allele.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nih/DNase-seq.md"
+                "file": "nih/NCBI/allele.md"
               }
             }
           },
@@ -192,13 +192,14 @@
   },
   "active": "0016a59e3ca6fb09",
   "lastOpenFiles": [
+    "Pasted image 20240311161447.png",
+    "nih/DNase-seq.md",
     "NLP/lexicons 1.md",
     "nih/DNA Composition.md",
     "Flow State.md",
     "Godze.md",
     "chromatin modifiers.md",
     "multicollinearity.md",
-    "nih/DNase-seq.md",
     "nih/Programming Gene Expression.md",
     "nih/Probing.md",
     "nih/Explaining a series of models by propagating Shapley values.md",
@@ -217,7 +218,6 @@
     "notes llm papers.md",
     "nih/An encyclopedia of enhancer-gene regulatory interactions in the human genome.md",
     "nih/Genotype.md",
-    "nih/islet.md",
     "images/Pasted Image 20240219155823_989.png",
     "images/Pasted image 20240305140842.png",
     "images/Pasted image 20240305144226.png",

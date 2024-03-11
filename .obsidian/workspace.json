@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nih/Biowulf.md",
+                "file": "nih/DNase-seq.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "biowulf",
+                "query": "DNas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP/lexicons 1.md",
+                "file": "nih/DNase-seq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP/lexicons 1.md",
+                "file": "nih/DNase-seq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NLP/lexicons 1.md"
+                "file": "nih/DNase-seq.md"
               }
             }
           },
@@ -190,8 +190,9 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "fa52e1fc7dde477d",
+  "active": "0016a59e3ca6fb09",
   "lastOpenFiles": [
+    "NLP/lexicons 1.md",
     "nih/DNA Composition.md",
     "Flow State.md",
     "Godze.md",
@@ -212,7 +213,6 @@
     "Wei.md",
     "Tasks.md",
     "NLP/phonetics.md",
-    "NLP/lexicons 1.md",
     "notes.md",
     "notes llm papers.md",
     "nih/An encyclopedia of enhancer-gene regulatory interactions in the human genome.md",

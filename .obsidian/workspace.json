@@ -4,28 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "a3090a9027ca3978",
+        "id": "ee30d8185cbabb35",
         "type": "tabs",
         "children": [
           {
-            "id": "e779e49aa2eb0257",
+            "id": "1fb8aeac343f2172",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "NLP/lexicons 1.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20240312100718.png"
               }
             }
           },
           {
-            "id": "0016a59e3ca6fb09",
+            "id": "8e5fadcf8aeb00e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nih/NCBI/allele.md",
+                "file": "THCS webinar.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nih/NCBI/allele.md",
+                "file": "THCS webinar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nih/NCBI/allele.md",
+                "file": "THCS webinar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nih/NCBI/allele.md"
+                "file": "THCS webinar.md"
               }
             }
           },
@@ -176,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 492.5
+    "width": 203.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,16 +188,20 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "0016a59e3ca6fb09",
+  "active": "8e5fadcf8aeb00e0",
   "lastOpenFiles": [
-    "Pasted image 20240311161447.png",
+    "Pasted image 20240312100830.png",
+    "multicollinearity.md",
+    "images/Pasted image 20240311161447.png",
+    "images/Pasted image 20240312100718.png",
+    "THCS webinar.md",
+    "nih/NCBI/allele.md",
     "nih/DNase-seq.md",
     "NLP/lexicons 1.md",
     "nih/DNA Composition.md",
     "Flow State.md",
     "Godze.md",
     "chromatin modifiers.md",
-    "multicollinearity.md",
     "nih/Programming Gene Expression.md",
     "nih/Probing.md",
     "nih/Explaining a series of models by propagating Shapley values.md",
@@ -216,8 +218,6 @@
     "NLP/phonetics.md",
     "notes.md",
     "notes llm papers.md",
-    "nih/An encyclopedia of enhancer-gene regulatory interactions in the human genome.md",
-    "nih/Genotype.md",
     "images/Pasted Image 20240219155823_989.png",
     "images/Pasted image 20240305140842.png",
     "images/Pasted image 20240305144226.png",
@@ -226,8 +226,6 @@
     "images/Pasted image 20240213181942.png",
     "images/Pasted Image 20240219162610_920.png",
     "images/Pasted Image 20240219162403_362.png",
-    "images/Pasted Image 20240219162128_350.png",
-    "images/Pasted image 20240216123801.png",
     "brilliant",
     "nih/NCBI/papers"
   ]

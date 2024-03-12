@@ -8,29 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1fb8aeac343f2172",
+            "id": "8e5fadcf8aeb00e0",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "images/Pasted image 20240312100718.png"
-              }
-            }
-          },
-          {
-            "id": "8e5fadcf8aeb00e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THCS webinar, March 12, 2024.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20240312105912.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4952d483e2d90585",
@@ -97,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THCS webinar, March 12, 2024.md",
+                "file": "images/Pasted image 20240312105912.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THCS webinar, March 12, 2024.md",
+                "file": "images/Pasted image 20240312105912.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THCS webinar, March 12, 2024.md"
+                "file": "images/Pasted image 20240312105912.png"
               }
             }
           },
@@ -189,21 +175,20 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "8e5fadcf8aeb00e0",
+  "active": "dded40e851e66755",
   "lastOpenFiles": [
-    "Pasted image 20240312105912.png",
-    "Pasted image 20240312104858.png",
-    "Pasted image 20240312104736.png",
-    "Pasted image 20240312104624.png",
-    "Pasted image 20240312104508.png",
-    "Pasted image 20240312104117.png",
-    "Pasted image 20240312103909.png",
-    "Pasted image 20240312103733.png",
-    "Pasted image 20240312103446.png",
-    "Pasted image 20240312103145.png",
-    "Pasted image 20240312103052.png",
-    "multicollinearity.md",
     "THCS webinar, March 12, 2024.md",
+    "images/Pasted image 20240312100718.png",
+    "images/Pasted image 20240312105912.png",
+    "images/Pasted image 20240312104858.png",
+    "images/Pasted image 20240312104736.png",
+    "images/Pasted image 20240312104624.png",
+    "images/Pasted image 20240312104508.png",
+    "images/Pasted image 20240312104117.png",
+    "images/Pasted image 20240312103909.png",
+    "images/Pasted image 20240312103733.png",
+    "images/Pasted image 20240312103446.png",
+    "multicollinearity.md",
     "nih/NCBI/allele.md",
     "nih/DNase-seq.md",
     "NLP/lexicons 1.md",

@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ee30d8185cbabb35",
+        "id": "8ca195701faaea01",
         "type": "tabs",
         "children": [
           {
-            "id": "8e5fadcf8aeb00e0",
+            "id": "6a42db0f0b9d4e99",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20240312105912.png"
+                "file": "THCS webinar, March 12, 2024.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20240312105912.png",
+                "file": "THCS webinar, March 12, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20240312105912.png",
+                "file": "THCS webinar, March 12, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Pasted image 20240312105912.png"
+                "file": "THCS webinar, March 12, 2024.md"
               }
             }
           },
@@ -175,11 +177,12 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "dded40e851e66755",
+  "active": "6a42db0f0b9d4e99",
   "lastOpenFiles": [
+    "THCS webinar, March 12, 2024.pdf",
+    "images/Pasted image 20240312105912.png",
     "THCS webinar, March 12, 2024.md",
     "images/Pasted image 20240312100718.png",
-    "images/Pasted image 20240312105912.png",
     "images/Pasted image 20240312104858.png",
     "images/Pasted image 20240312104736.png",
     "images/Pasted image 20240312104624.png",

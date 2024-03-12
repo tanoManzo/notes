@@ -10,6 +10,7 @@ Patient organisations and companies can be added as additional partners, either 
 - If you need a biomedical - Clinical partner totally elegible and agil from Spain (south), feel free to contact me: [aitor.rando@ibima.eu](mailto:aitor.rando@ibima.eu "mailto:aitor.rando@ibima.eu") .We work at the public health system of Malaga
 - ADEMED Romania - NGO active in youth and education, also in Health Horizon and Erasmus experience. Feel free to write: [florin.alexandru.ro@gmail.com](mailto:florin.alexandru.ro@gmail.com "mailto:florin.alexandru.ro@gmail.com")
 - Feel free to reach us out: [patientadvocacy@humanizedsolutions.com](mailto:patientadvocacy@humanizedsolutions.com "mailto:patientadvocacy@humanizedsolutions.com") , SME based in Portugal, specialized in patient and public involvement
+- Patient education French plateform [https://www.chu-poitiers.fr/specialites/vie-la-sante/](https://www.chu-poitiers.fr/specialites/vie-la-sante/ "https://www.chu-poitiers.fr/specialites/vie-la-sante/")
 - Faculty of Medicine, University of Coimbra - Portugal. We are available and interested in participating in this call. If you need a clinical/research partner contact: ines.costa@fmed.uc.pt
 - [10:49 AM] Dorina ARDELEANU If you are looking for a Swiss partner, specialized in digital health and participative approaches with end beneficiaries, including vulnerable groups, contact us at [dorina.ardeleanu@tdh.org](mailto:dorina.ardeleanu@tdh.org "mailto:dorina.ardeleanu@tdh.org")
 - [10:51 AM] KOROGOD Natalya If you work in pain in young children and newborns please contact natalya.korogod@hesav.ch, we are searching for one more country to participate
@@ -24,9 +25,8 @@ Patient organisations and companies can be added as additional partners, either 
 - Klaipeda University - We are available as partner in topics about lifestyle (physical activity) in adolescents or elderly. Please contact:  [rafaela.santo@ku.lt](mailto:rafaela.santo@ku.lt "mailto:rafaela.santo@ku.lt")
 - [10:59 AM] Godfrey MugurusiOur department of industry economics and technology management at Gjøvik (Norwegian University of Science and Technology, Norway) is interested to participate and contribute on the following themes in healthcare: i.e. innovation processes, human-technology interaction, procurement/purchasing, patient logistics and healthcare supply chains, circular business models and sustainability.  Please contact me if you are looking for a partner on these themes: [godfrey.mugurusi@ntnu.no](mailto:godfrey.mugurusi@ntnu.no "mailto:godfrey.mugurusi@ntnu.no")
 - If you are looking for a partner in topics of women's health, PCOS or other gynecological conditions, please contact me: leyla@ovulai.com
-- [11:00 AM] Roberta Ferrara
-
-SI4Life (Italy) - specialized in Welfare and social policies, Health and Active Aging, Research and Innovation, Accessible Tourism and technologies and specifically in Educational Curriculum [segreteria@si4life.it](mailto:segreteria@si4life.it "mailto:segreteria@si4life.it")
+- [11:00 AM] Roberta Ferrara SI4Life (Italy) - specialized in Welfare and social policies, Health and Active Aging, Research and Innovation, Accessible Tourism and technologies and specifically in Educational Curriculum [segreteria@si4life.it](mailto:segreteria@si4life.it "mailto:segreteria@si4life.it"
+- [11:02 AM] Dalhia AISSAT dear all,, if some of you would like to submit a project related to end-of-life care or palliative care, and are interested to have France as a partner, as a research Platform we could arrange a connection with French researchers. Do not hesitate to contact us : [plateforme.recherche.findevie@univ-fcomte.fr](mailto:plateforme.recherche.findevie@univ-fcomte.fr "mailto:plateforme.recherche.findevie@univ-fcomte.fr")
 
 
 

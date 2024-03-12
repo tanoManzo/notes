@@ -12,8 +12,13 @@ Patient organisations and companies can be added as additional partners, either 
 - Feel free to reach us out: [patientadvocacy@humanizedsolutions.com](mailto:patientadvocacy@humanizedsolutions.com "mailto:patientadvocacy@humanizedsolutions.com") , SME based in Portugal, specialized in patient and public involvement
 - Faculty of Medicine, University of Coimbra - Portugal. We are available and interested in participating in this call. If you need a clinical/research partner contact: ines.costa@fmed.uc.pt
 - [10:49 AM] Dorina ARDELEANU If you are looking for a Swiss partner, specialized in digital health and participative approaches with end beneficiaries, including vulnerable groups, contact us at [dorina.ardeleanu@tdh.org](mailto:dorina.ardeleanu@tdh.org "mailto:dorina.ardeleanu@tdh.org")
+- [10:51 AM] KOROGOD Natalya If you work in pain in young children and newborns please contact natalya.korogod@hesav.ch, we are searching for one more country to participate
+- Fondazione G.B Bietti  [lucia.tanga@fondazionebietti.it](mailto:lucia.tanga@fondazionebietti.it "mailto:lucia.tanga@fondazionebietti.it")
+- At Faculty of Sciences of University of Lison we are interested in projects related with breast cancer screening. Please contact us if you are looking for a partner on this topic nmatela@fc.ul.pt
+- ophthalmolgy research lucia.tanga@fondazionebietti.it
+- we're are interested in involving patients organization in a project focussed on cardiac rehabilitation. Please, if you're interested contact nmorici@dongnocchi.it
+- alessandra. [fierabracci@opbg.net](mailto:fierabracci@opbg.net "mailto:fierabracci@opbg.net") available as partner in autoimmunity
 
-like 1
 
 
 

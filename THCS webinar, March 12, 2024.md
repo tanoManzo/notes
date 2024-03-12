@@ -18,6 +18,15 @@ Patient organisations and companies can be added as additional partners, either 
 - ophthalmolgy research lucia.tanga@fondazionebietti.it
 - we're are interested in involving patients organization in a project focussed on cardiac rehabilitation. Please, if you're interested contact nmorici@dongnocchi.it
 - alessandra. [fierabracci@opbg.net](mailto:fierabracci@opbg.net "mailto:fierabracci@opbg.net") available as partner in autoimmunity
+- [10:55 AM] Bian Yang If you have any concern on security and privacy issues and solutions for health data and AI models, contact [bian.yang@ntnu.no](mailto:bian.yang@ntnu.no "mailto:bian.yang@ntnu.no") at [https://www.ntnu.edu/iik/ehws](https://www.ntnu.edu/iik/ehws "https://www.ntnu.edu/iik/ehws") from the Norwegian University of Science and Technology (NTNU). eHealth and Welfare Security - NTNU
+- Post Covid-19 Treatment via Tele-Reha: if interested get in touch with [martin.morandell@fhg-tirol.ac.at](mailto:martin.morandell@fhg-tirol.ac.at "mailto:martin.morandell@fhg-tirol.ac.at")
+- Dear all, if you are looking for a clinical partner to work on physical activity promotion and/or respiratory monitoring/pulmonary rehabilitation, please contact: [joana.cruz@ipleiria.pt](mailto:joana.cruz@ipleiria.pt "mailto:joana.cruz@ipleiria.pt") (Portugal). Thank you
+- Klaipeda University - We are available as partner in topics about lifestyle (physical activity) in adolescents or elderly. Please contact:  [rafaela.santo@ku.lt](mailto:rafaela.santo@ku.lt "mailto:rafaela.santo@ku.lt")
+- [10:59 AM] Godfrey MugurusiOur department of industry economics and technology management at Gjøvik (Norwegian University of Science and Technology, Norway) is interested to participate and contribute on the following themes in healthcare: i.e. innovation processes, human-technology interaction, procurement/purchasing, patient logistics and healthcare supply chains, circular business models and sustainability.  Please contact me if you are looking for a partner on these themes: [godfrey.mugurusi@ntnu.no](mailto:godfrey.mugurusi@ntnu.no "mailto:godfrey.mugurusi@ntnu.no")
+- If you are looking for a partner in topics of women's health, PCOS or other gynecological conditions, please contact me: leyla@ovulai.com
+- [11:00 AM] Roberta Ferrara
+
+SI4Life (Italy) - specialized in Welfare and social policies, Health and Active Aging, Research and Innovation, Accessible Tourism and technologies and specifically in Educational Curriculum [segreteria@si4life.it](mailto:segreteria@si4life.it "mailto:segreteria@si4life.it")
 
 
 
@@ -55,3 +64,4 @@ Pages 15 and 16 of the call, eligibility rules are stated.
 
 ## Timeline
 ![[Pasted image 20240312104858.png]]
+![[Pasted image 20240312105912.png]]

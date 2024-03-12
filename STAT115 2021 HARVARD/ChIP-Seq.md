@@ -5,7 +5,7 @@ human ref above*
 ![[Pasted image 20240312154443.png]]
 ![[Pasted image 20240312154826.png]]
 ![[Pasted image 20240312155001.png]]
-each rectangle is a DNA sequence called seq-element. The other are TF. 
+each rectangle is a DNA sequence called sis-element. The other are TF. 
 
 ![[Pasted image 20240312155216.png]]
 to break the DNA

@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "43f2495f81ab6e6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAT115 2021 HARVARD/ChIP-Seq.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "allel",
+                "query": "chip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4952d483e2d90585",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT115 2021 HARVARD/Transcription Regulation.md",
+                "file": "STAT115 2021 HARVARD/ChIP-Seq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT115 2021 HARVARD/Transcription Regulation.md",
+                "file": "STAT115 2021 HARVARD/ChIP-Seq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT115 2021 HARVARD/Transcription Regulation.md"
+                "file": "STAT115 2021 HARVARD/ChIP-Seq.md"
               }
             }
           },
@@ -202,8 +215,11 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "5f34dc955d391221",
+  "active": "43f2495f81ab6e6a",
   "lastOpenFiles": [
+    "Pasted image 20240312151621.png",
+    "STAT115 2021 HARVARD/Transcription Regulation.md",
+    "STAT115 2021 HARVARD/ChIP-Seq.md",
     "Pasted image 20240312150947.png",
     "Pasted image 20240312150636.png",
     "Pasted image 20240312145641.png",
@@ -215,8 +231,6 @@
     "Pasted image 20240312142153.png",
     "Pasted image 20240312142134.png",
     "STAT115 2021 HARVARD/Histone Modifications.md",
-    "STAT115 2021 HARVARD/Transcription Regulation.md",
-    "images/Pasted image 20240312141814.png",
     "STAT115 2021 HARVARD",
     "THCS webinar, March 12, 2024.md",
     "THCS webinar, March 12, 2024.pdf",
@@ -241,7 +255,6 @@
     "ask virginia for nlm meeting.md",
     "Wei.md",
     "Tasks.md",
-    "NLP/phonetics.md",
     "brilliant",
     "nih/NCBI/papers"
   ]

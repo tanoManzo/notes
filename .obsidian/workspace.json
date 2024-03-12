@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histone Modifications.md",
+                "file": "STAT115 2021 HARVARD/Histone Modifications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f34dc955d391221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAT115 2021 HARVARD/Transcription Regulation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Histone Modifications.md",
+                "file": "STAT115 2021 HARVARD/Transcription Regulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Histone Modifications.md",
+                "file": "STAT115 2021 HARVARD/Transcription Regulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Histone Modifications.md"
+                "file": "STAT115 2021 HARVARD/Transcription Regulation.md"
               }
             }
           },
@@ -190,22 +202,24 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "5ee9507687f1b045",
+  "active": "5f34dc955d391221",
   "lastOpenFiles": [
-    "Pasted image 20240312141754.png",
-    "Pasted image 20240312141739.png",
-    "Pasted image 20240312141720.png",
-    "Pasted image 20240312141707.png",
+    "Pasted image 20240312142257.png",
+    "Pasted image 20240312142153.png",
+    "Pasted image 20240312142134.png",
+    "STAT115 2021 HARVARD/Histone Modifications.md",
+    "STAT115 2021 HARVARD/Transcription Regulation.md",
+    "images/Pasted image 20240312141814.png",
+    "STAT115 2021 HARVARD",
+    "images/Pasted image 20240312141754.png",
+    "images/Pasted image 20240312141739.png",
+    "images/Pasted image 20240312141720.png",
+    "images/Pasted image 20240312141707.png",
     "THCS webinar, March 12, 2024.md",
-    "Histone Modifications.md",
     "THCS webinar, March 12, 2024.pdf",
     "images/Pasted image 20240312105912.png",
     "images/Pasted image 20240312100718.png",
     "images/Pasted image 20240312104858.png",
-    "images/Pasted image 20240312104736.png",
-    "images/Pasted image 20240312104624.png",
-    "images/Pasted image 20240312104508.png",
-    "images/Pasted image 20240312104117.png",
     "multicollinearity.md",
     "nih/NCBI/allele.md",
     "nih/DNase-seq.md",
@@ -228,7 +242,6 @@
     "Wei.md",
     "Tasks.md",
     "NLP/phonetics.md",
-    "notes.md",
     "brilliant",
     "nih/NCBI/papers"
   ]

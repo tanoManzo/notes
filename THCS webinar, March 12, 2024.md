@@ -9,6 +9,11 @@ Patient organisations and companies can be added as additional partners, either 
 - Hello , Should you look for a partner from Poland, feel free to contact  Indutry Contact Point  MedTech &Health  (icphealth@port.lukasiewicz.gov.pl) or monika.slezak@port.lukasiewicz.gov.pl)
 - If you need a biomedical - Clinical partner totally elegible and agil from Spain (south), feel free to contact me: [aitor.rando@ibima.eu](mailto:aitor.rando@ibima.eu "mailto:aitor.rando@ibima.eu") .We work at the public health system of Malaga
 - ADEMED Romania - NGO active in youth and education, also in Health Horizon and Erasmus experience. Feel free to write: [florin.alexandru.ro@gmail.com](mailto:florin.alexandru.ro@gmail.com "mailto:florin.alexandru.ro@gmail.com")
+- Feel free to reach us out: [patientadvocacy@humanizedsolutions.com](mailto:patientadvocacy@humanizedsolutions.com "mailto:patientadvocacy@humanizedsolutions.com") , SME based in Portugal, specialized in patient and public involvement
+- Faculty of Medicine, University of Coimbra - Portugal. We are available and interested in participating in this call. If you need a clinical/research partner contact: ines.costa@fmed.uc.pt
+- [10:49 AM] Dorina ARDELEANU If you are looking for a Swiss partner, specialized in digital health and participative approaches with end beneficiaries, including vulnerable groups, contact us at [dorina.ardeleanu@tdh.org](mailto:dorina.ardeleanu@tdh.org "mailto:dorina.ardeleanu@tdh.org")
+
+like 1
 
 
 
@@ -38,3 +43,10 @@ Pages 15 and 16 of the call, eligibility rules are stated.
 ![[Pasted image 20240312104117.png]]
 **Important**
 ![[Pasted image 20240312104508.png]]
+![[Pasted image 20240312104624.png]]
+
+## Practical 
+![[Pasted image 20240312104736.png]]
+
+## Timeline
+![[Pasted image 20240312104858.png]]

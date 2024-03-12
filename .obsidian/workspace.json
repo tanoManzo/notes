@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THCS webinar.md",
+                "file": "THCS webinar, March 12, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4952d483e2d90585",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THCS webinar.md",
+                "file": "THCS webinar, March 12, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THCS webinar.md",
+                "file": "THCS webinar, March 12, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THCS webinar.md"
+                "file": "THCS webinar, March 12, 2024.md"
               }
             }
           },
@@ -190,11 +191,13 @@
   },
   "active": "8e5fadcf8aeb00e0",
   "lastOpenFiles": [
+    "Pasted image 20240312101959.png",
+    "Pasted image 20240312101648.png",
     "Pasted image 20240312100830.png",
     "multicollinearity.md",
     "images/Pasted image 20240311161447.png",
     "images/Pasted image 20240312100718.png",
-    "THCS webinar.md",
+    "THCS webinar, March 12, 2024.md",
     "nih/NCBI/allele.md",
     "nih/DNase-seq.md",
     "NLP/lexicons 1.md",
@@ -224,8 +227,6 @@
     "images/Pasted image 20240305143716.png",
     "images/Pasted image 20240305141457.png",
     "images/Pasted image 20240213181942.png",
-    "images/Pasted Image 20240219162610_920.png",
-    "images/Pasted Image 20240219162403_362.png",
     "brilliant",
     "nih/NCBI/papers"
   ]

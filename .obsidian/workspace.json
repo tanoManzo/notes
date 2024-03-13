@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT115 2021 HARVARD/05-bioinfo vs comp bio.md",
+                "file": "STAT115 2021 HARVARD/09-three generations of sequencing.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT115 2021 HARVARD/05-bioinfo vs comp bio.md",
+                "file": "STAT115 2021 HARVARD/09-three generations of sequencing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT115 2021 HARVARD/05-bioinfo vs comp bio.md",
+                "file": "STAT115 2021 HARVARD/09-three generations of sequencing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT115 2021 HARVARD/05-bioinfo vs comp bio.md"
+                "file": "STAT115 2021 HARVARD/09-three generations of sequencing.md"
               }
             }
           },
@@ -216,10 +216,12 @@
   },
   "active": "43f2495f81ab6e6a",
   "lastOpenFiles": [
+    "Pasted image 20240313154635.png",
+    "STAT115 2021 HARVARD/05-bioinfo vs comp bio.md",
+    "STAT115 2021 HARVARD/09-three generations of sequencing.md",
     "Pasted image 20240313153844.png",
     "Pasted image 20240313153040.png",
     "STAT115 2021 HARVARD/01-protein wave.md",
-    "STAT115 2021 HARVARD/05-bioinfo vs comp bio.md",
     "STAT115 2021 HARVARD/03-sequencing wave.md",
     "Pasted image 20240313145927.png",
     "Pasted image 20240313145614.png",
@@ -230,7 +232,6 @@
     "Pasted image 20240313144800.png",
     "Pasted image 20240313144751.png",
     "Pasted image 20240313144422.png",
-    "Pasted image 20240313143837.png",
     "STAT115 2021 HARVARD/ChIP-Seq.md",
     "STAT115 2021 HARVARD/Transcription Regulation.md",
     "STAT115 2021 HARVARD/Histone Modifications.md",
@@ -253,7 +254,6 @@
     "General.md",
     "nih/A Unified Approach to Interpreting Model Predictions.md",
     "nih/AMIA 2023.md",
-    "nih/Super Silencers B Cells.md",
     "brilliant",
     "nih/NCBI/papers"
   ]

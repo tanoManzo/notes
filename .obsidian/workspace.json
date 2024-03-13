@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4952d483e2d90585",
@@ -216,6 +217,8 @@
   },
   "active": "43f2495f81ab6e6a",
   "lastOpenFiles": [
+    "Pasted image 20240313143837.png",
+    "Pasted image 20240313143506.png",
     "STAT115 2021 HARVARD/ChIP-Seq.md",
     "STAT115 2021 HARVARD/01-protein wave.md",
     "Pasted image 20240312160514.png",
@@ -227,7 +230,6 @@
     "Pasted image 20240312154443.png",
     "Pasted image 20240312154310.png",
     "Pasted image 20240312153907.png",
-    "Pasted image 20240312151621.png",
     "STAT115 2021 HARVARD/Transcription Regulation.md",
     "STAT115 2021 HARVARD/Histone Modifications.md",
     "STAT115 2021 HARVARD",
@@ -253,7 +255,6 @@
     "README.md",
     "ask virginia for nlm meeting.md",
     "Wei.md",
-    "Tasks.md",
     "brilliant",
     "nih/NCBI/papers"
   ]

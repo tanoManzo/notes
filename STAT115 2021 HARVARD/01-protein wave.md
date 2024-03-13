@@ -1,3 +1,7 @@
-Needleman-Wunsch algorithm: for sequence alignm
+Needleman-Wunsch algorithm: for sequence alignment 
 PDB: protein data base
-B
+BLAST: query search fast 
+CASP: contest for protein structure
+![[Pasted image 20240313143506.png]]
+DeepMind learns as 
+![[Pasted image 20240313143837.png]]

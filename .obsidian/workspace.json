@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT115 2021 HARVARD/12-Needleman-Wunsch.md",
+                "file": "STAT115 2021 HARVARD/09-three generations of sequencing.md",
                 "mode": "preview",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT115 2021 HARVARD/12-Needleman-Wunsch.md",
+                "file": "STAT115 2021 HARVARD/09-three generations of sequencing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT115 2021 HARVARD/12-Needleman-Wunsch.md",
+                "file": "STAT115 2021 HARVARD/09-three generations of sequencing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT115 2021 HARVARD/12-Needleman-Wunsch.md"
+                "file": "STAT115 2021 HARVARD/09-three generations of sequencing.md"
               }
             }
           },
@@ -216,8 +216,9 @@
   },
   "active": "43f2495f81ab6e6a",
   "lastOpenFiles": [
-    "STAT115 2021 HARVARD/09-three generations of sequencing.md",
+    "STAT115 2021 HARVARD/05-bioinfo vs comp bio.md",
     "STAT115 2021 HARVARD/12-Needleman-Wunsch.md",
+    "STAT115 2021 HARVARD/09-three generations of sequencing.md",
     "Pasted image 20240313161714.png",
     "Pasted image 20240313161540.png",
     "Pasted image 20240313161414.png",
@@ -227,7 +228,6 @@
     "Pasted image 20240313155311.png",
     "Pasted image 20240313155308.png",
     "Pasted image 20240313154635.png",
-    "STAT115 2021 HARVARD/05-bioinfo vs comp bio.md",
     "Pasted image 20240313153844.png",
     "STAT115 2021 HARVARD/01-protein wave.md",
     "STAT115 2021 HARVARD/03-sequencing wave.md",

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT115 2021 HARVARD/12-Needleman-Wunsch and Smith-Waterman.md",
+                "file": "STAT115 2021 HARVARD/14-BWT and LF Mapping.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4952d483e2d90585",
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT115 2021 HARVARD/12-Needleman-Wunsch and Smith-Waterman.md",
+                "file": "STAT115 2021 HARVARD/14-BWT and LF Mapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT115 2021 HARVARD/12-Needleman-Wunsch and Smith-Waterman.md",
+                "file": "STAT115 2021 HARVARD/14-BWT and LF Mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT115 2021 HARVARD/12-Needleman-Wunsch and Smith-Waterman.md"
+                "file": "STAT115 2021 HARVARD/14-BWT and LF Mapping.md"
               }
             }
           },
@@ -228,6 +229,10 @@
   },
   "active": "d79c193e05688515",
   "lastOpenFiles": [
+    "Pasted image 20240314110409.png",
+    "Pasted image 20240314110106.png",
+    "STAT115 2021 HARVARD/12-Needleman-Wunsch and Smith-Waterman.md",
+    "STAT115 2021 HARVARD/14-BWT and LF Mapping.md",
     "Pasted image 20240314102939.png",
     "Pasted image 20240314102922.png",
     "Pasted image 20240314102838.png",
@@ -236,13 +241,10 @@
     "Pasted image 20240314102458.png",
     "Test.md",
     "STAT115 2021 HARVARD/09-three generations of sequencing.md",
-    "STAT115 2021 HARVARD/12-Needleman-Wunsch and Smith-Waterman.md",
     "STAT115 2021 HARVARD/05-bioinfo vs comp bio.md",
     "Pasted image 20240313161714.png",
     "Pasted image 20240313161540.png",
     "Pasted image 20240313161414.png",
-    "Pasted image 20240313160014.png",
-    "Pasted image 20240313155653.png",
     "STAT115 2021 HARVARD/01-protein wave.md",
     "STAT115 2021 HARVARD/03-sequencing wave.md",
     "STAT115 2021 HARVARD/02-expression wave.md",
@@ -265,7 +267,6 @@
     "nih/Explaining a series of models by propagating Shapley values.md",
     "List of applications.md",
     "NLP/Automated Anaphylaxis Detection, A Text Analysis Approach Using Large Language Models in Electronic Medical Records.md",
-    "General.md",
     "brilliant",
     "nih/NCBI/papers"
   ]

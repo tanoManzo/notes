@@ -8,3 +8,7 @@
 
 ## SAM AND BAM files
 ![[Pasted image 20240314112832.png]]
+![[Pasted image 20240314113238.png]]
+
+## BED file
+![[Pasted image 20240314113354.png]]

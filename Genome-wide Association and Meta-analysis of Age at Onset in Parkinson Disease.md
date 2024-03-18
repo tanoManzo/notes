@@ -12,10 +12,10 @@ The _SNCA_ variant, rs983361, was the most strongly associated SNV, with the p
 List of rs:
 
 rs11724635
-rs34311866
-rs356203
+rs34311866  _TMEM175_ 
+rs356203 _SNCA_ variant
 rs3775458
 rs429358
 rs4694819
-rs4698412
-rs983361
+rs4698412 _BST1_ locus
+rs983361 _SNCA_ variant

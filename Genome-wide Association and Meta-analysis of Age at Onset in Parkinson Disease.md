@@ -8,3 +8,14 @@ Our study further refines the genetic architecture of Chr 4 underlying the AAO o
 We also considered Bonferroni-corrected _p_ < 0.025 for reporting replication signals originating from 2 single-nucleotide variations (SNVs [formerly SNPs]; rs356203 [_SNCA_] and rs34311866 [_TMEM175_]) that reached a genome-wide significance in the previous largest meta-analysis of the AAO of PD. We conducted linkage disequilibrium (LD) score regression with LDSC (using summary-level data) to estimate heritability explained by the PD AAO GWAS.[17](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9484604/#R17)
 
 The _SNCA_ variant, rs983361, was the most strongly associated SNV, with the presence of allele T (frequency = 0.204) leading to an average delay in AAO by 0.72 years (β(SE)COURAGE+IPDGC = 0.720(0.122), _p_COURAGE+IPDGC = 3.13 × 10−9).
+
+List of rs:
+
+rs11724635
+rs34311866
+rs356203
+rs3775458
+rs429358
+rs4694819
+rs4698412
+rs983361

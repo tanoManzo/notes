@@ -19,3 +19,6 @@ rs429358
 rs4694819
 rs4698412 _BST1_ locus
 rs983361 _SNCA_ variant
+
+
+rs11724635

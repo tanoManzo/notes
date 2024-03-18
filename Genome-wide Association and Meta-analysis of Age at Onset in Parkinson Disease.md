@@ -13,7 +13,7 @@ List of rs:
 
 rs11724635
 rs34311866  _TMEM175_ 
-rs356203 _SNCA_ variant
+rs356203 _SNCA_ locus
 rs3775458
 rs429358
 rs4694819

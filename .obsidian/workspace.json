@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT115 2021 HARVARD/14-BWT and LF Mapping.md",
+                "file": "nih/TFBS papers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "735dcd85334ad0ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Genome-wide Association and Meta-analysis of Age at Onset in Parkinson Disease.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT115 2021 HARVARD/14-BWT and LF Mapping.md",
+                "file": "Genome-wide Association and Meta-analysis of Age at Onset in Parkinson Disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT115 2021 HARVARD/14-BWT and LF Mapping.md",
+                "file": "Genome-wide Association and Meta-analysis of Age at Onset in Parkinson Disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT115 2021 HARVARD/14-BWT and LF Mapping.md"
+                "file": "Genome-wide Association and Meta-analysis of Age at Onset in Parkinson Disease.md"
               }
             }
           },
@@ -225,8 +237,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d79c193e05688515",
+  "active": "735dcd85334ad0ce",
   "lastOpenFiles": [
+    "nih/TFBS papers.md",
+    "Genome-wide Association and Meta-analysis of Age at Onset in Parkinson Disease.md",
+    "THCS webinar, March 12, 2024.md",
+    "nih/chromatin modifiers.md",
+    "multicollinearity.md",
+    "Flow State.md",
+    "Godze.md",
+    "STAT115 2021 HARVARD/14-BWT and LF Mapping.md",
     "nih/NCBI/The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
     "nih/NCBI/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome 1.md",
     "nih/NCBI/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
@@ -235,10 +255,8 @@
     "nih/NCBI/PD",
     "nih/Biowulf - tmux.md",
     "nih/Biowulf.md",
-    "TFBS papers.md",
     "images/Pasted image 20240314151233.png",
     "images/Pasted image 20240314151147.png",
-    "STAT115 2021 HARVARD/14-BWT and LF Mapping.md",
     "images/Pasted image 20240314113354.png",
     "images/Pasted image 20240314113238.png",
     "images/Pasted image 20240314112832.png",
@@ -257,15 +275,9 @@
     "STAT115 2021 HARVARD/Transcription Regulation.md",
     "STAT115 2021 HARVARD/Histone Modifications.md",
     "STAT115 2021 HARVARD",
-    "THCS webinar, March 12, 2024.md",
     "THCS webinar, March 12, 2024.pdf",
-    "multicollinearity.md",
     "nih/DNase-seq.md",
     "NLP/lexicons 1.md",
-    "nih/DNA Composition.md",
-    "Flow State.md",
-    "Godze.md",
-    "chromatin modifiers.md",
     "brilliant",
     "nih/NCBI/papers"
   ]

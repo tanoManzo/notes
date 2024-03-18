@@ -1,1 +1,0 @@
-Polysemy is a linguistic phenomenon in which a single word has multiple meanings that are related by extension. In other words, a polysemous word has different but related senses. These senses often share a core concept or have evolved from a common origin. Polysemy is a common feature of natural languages, and it adds depth and flexibility to vocabulary.

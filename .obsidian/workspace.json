@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nih/NCBI/PD/Genome-wide Association and Meta-analysis of Age at Onset in Parkinson Disease.md",
+                "file": "nih/NCBI/PD/Wei work.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5041847229004
+    "width": 389.5041847229004,
+    "collapsed": true
   },
   "right": {
     "id": "4952d483e2d90585",
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nih/NCBI/PD/Genome-wide Association and Meta-analysis of Age at Onset in Parkinson Disease.md",
+                "file": "nih/NCBI/PD/Wei work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nih/NCBI/PD/Genome-wide Association and Meta-analysis of Age at Onset in Parkinson Disease.md",
+                "file": "nih/NCBI/PD/Wei work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nih/NCBI/PD/Genome-wide Association and Meta-analysis of Age at Onset in Parkinson Disease.md"
+                "file": "nih/NCBI/PD/Wei work.md"
               }
             }
           },
@@ -240,8 +241,8 @@
   },
   "active": "6d5f9046bb37ac23",
   "lastOpenFiles": [
-    "nih/NCBI/PD/Wei work.md",
     "nih/NCBI/PD/Genome-wide Association and Meta-analysis of Age at Onset in Parkinson Disease.md",
+    "nih/NCBI/PD/Wei work.md",
     "Untitled.md",
     "nih/TFBS papers.md",
     "nih/NCBI/transcription factor (TF) binding 1.md",

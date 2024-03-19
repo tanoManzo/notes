@@ -4,35 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7301f5fa634b195e",
+        "id": "84a6d92885a0f709",
         "type": "tabs",
-        "dimension": 46.96817420435511,
         "children": [
           {
-            "id": "bc8d0e73db17d51f",
+            "id": "c4ab8d223e4951bd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Why Should I Trust You?.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0c3044e679d07247",
-        "type": "tabs",
-        "dimension": 53.03182579564489,
-        "children": [
-          {
-            "id": "048132203c88acfd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LIME, why should I trust you.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5041847229004,
-    "collapsed": true
+    "width": 389.5041847229004
   },
   "right": {
     "id": "4952d483e2d90585",
@@ -102,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIME, why should I trust you.pdf",
+                "file": "Why Should I Trust You?.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIME, why should I trust you.pdf",
+                "file": "Why Should I Trust You?.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIME, why should I trust you.pdf"
+                "file": "Why Should I Trust You?.pdf"
               }
             }
           },
@@ -190,17 +169,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "gemini-assistant:New Gemini chat": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "048132203c88acfd",
+  "active": "dded40e851e66755",
   "lastOpenFiles": [
-    "Why Should I Trust You?.pdf",
     "LIME, why should I trust you.pdf",
-    "Why Should I Trust You? copy.pdf",
     "images/Pasted image 20240319155958 1.png",
     "images/Pasted image 20240319155800 1.png",
+    "Why Should I Trust You?.pdf",
     "Untitled.md",
     "Pasted image 20240319155958.png",
     "Pasted image 20240319155800.png",

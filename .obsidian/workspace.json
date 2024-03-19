@@ -21,24 +21,14 @@
             "id": "fe6a149ef2bb6a2c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "images/Pasted image 20240319155800 1.png"
-              }
-            }
-          },
-          {
-            "id": "65ba6d86805d67c3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted image 20240319155958 1.png"
+                "file": "Why Should I Trust You?.pdf"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20240319155958 1.png",
+                "file": "Why Should I Trust You?.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20240319155958 1.png",
+                "file": "Why Should I Trust You?.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Pasted image 20240319155958 1.png"
+                "file": "Why Should I Trust You?.pdf"
               }
             }
           },
@@ -196,9 +186,10 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "dded40e851e66755",
+  "active": "fe6a149ef2bb6a2c",
   "lastOpenFiles": [
     "images/Pasted image 20240319155800 1.png",
+    "Untitled.md",
     "images/Pasted image 20240319155958 1.png",
     "Why Should I Trust You?.pdf",
     "images/Pasted image 20240319155958 1.png",

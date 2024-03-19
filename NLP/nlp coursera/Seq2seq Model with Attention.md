@@ -15,3 +15,68 @@ Context vector and weights
 
 ![[Pasted image 20240319114150.png]]
 
+
+### get alignment score: similarity between the decoder hidden state and each of the encoder hidden state 
+```
+hidden_size = 16
+attention_size = 10
+input_length = 5
+
+np.random.seed(42)
+
+# Synthetic vectors used to test
+encoder_states = np.random.randn(input_length, hidden_size)
+decoder_state = np.random.randn(1, hidden_size)
+
+# Weights for the neural network, these are typically learned through training
+# Use these in the alignment function below as the layer weights
+layer_1 = np.random.randn(2 * hidden_size, attention_size)
+layer_2 = np.random.randn(attention_size, 1)
+
+# Implement this function. Replace None with your code. Solution at the bottom of the notebook
+def alignment(encoder_states,decoder_state):
+    # First, concatenate the encoder states and the decoder state
+    inputs = np.concatenate((encoder_states, decoder_state.repeat(input_length, axis=0)), axis=1)
+    assert inputs.shape == (input_length, 2 * hidden_size)
+    
+    # Matrix multiplication of the concatenated inputs and layer_1, with tanh activation
+    activations = np.tanh(np.matmul(inputs, layer_1))
+    assert activations.shape == (input_length, attention_size)
+    
+    # Matrix multiplication of the activations with layer_2. Remember that you don't need tanh here
+    scores = np.matmul(activations, layer_2)
+    assert scores.shape == (input_length, 1)
+    
+    return scores
+```
+
+### get context vector:  weight of the encoder output vectors and sum
+
+![[Pasted image 20240319121704.png]]
+
+```
+# Implement this function. Replace None with your code.
+def attention(encoder_states, decoder_state):
+    """ Example function that calculates attention, returns the context vector 
+    
+        Arguments:
+        encoder_vectors: NxM numpy array, where N is the number of vectors and M is the vector length
+        decoder_vector: 1xM numpy array, M is the vector length, much be the same M as encoder_vectors
+    """ 
+    
+    # First, calculate the alignment scores
+    scores = alignment(encoder_states, decoder_state)
+    
+    # Then take the softmax of the alignment scores to get a weight distribution
+    weights = softmax(scores)
+    
+    # Multiply each encoder state by its respective weight
+    weighted_scores = encoder_states*weights
+    
+    # Sum up weighted alignment vectors to get the context vector and return it
+    context = sum(weighted_scores)
+    return context
+
+context_vector = attention(encoder_states, decoder_state)
+print(context_vector)
+```

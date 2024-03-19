@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ee9dcb82e2263c96",
+        "id": "0c3044e679d07247",
         "type": "tabs",
         "children": [
           {
-            "id": "4ba7e5f329d16fca",
+            "id": "048132203c88acfd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5041847229004,
-    "collapsed": true
+    "width": 389.5041847229004
   },
   "right": {
     "id": "4952d483e2d90585",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NIH/NCBI/PD/TAG SNPs Identification Papers.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,49 +165,52 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "4ba7e5f329d16fca",
+  "active": "048132203c88acfd",
   "lastOpenFiles": [
+    "images/Pasted image 20240319155958 1.png",
+    "images/Pasted image 20240319155800 1.png",
+    "Why Should I Trust You?.pdf",
+    "Untitled.md",
+    "Pasted image 20240319155958.png",
+    "Pasted image 20240319155800.png",
+    "Pasted image 20240315152143.png",
     "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
     "NIH/TFBS papers.md",
     "STAT115 2021 HARVARD/09-three generations of sequencing.md",
     "STAT115 2021 HARVARD/Transcription Regulation.md",
     "STAT115 2021 HARVARD/Histone Modifications.md",
     "THCS webinar, March 12, 2024.md",
-    "nih/Biowulf.md",
-    "TFBS papers.md",
-    "Pasted image 20240314153243.png",
-    "Pasted image 20240314151233.png",
-    "Pasted image 20240314151147.png",
-    "STAT115 2021 HARVARD/14-BWT and LF Mapping.md",
-    "Pasted image 20240314113354.png",
-    "Pasted image 20240314113238.png",
-    "Pasted image 20240314112832.png",
-    "Pasted image 20240314112340.png",
-    "Pasted image 20240314111511.png",
-    "Pasted image 20240314111020.png",
-    "Pasted image 20240314110608.png",
-    "STAT115 2021 HARVARD/12-Needleman-Wunsch and Smith-Waterman.md",
-    "Test.md",
-    "STAT115 2021 HARVARD/05-bioinfo vs comp bio.md",
-    "STAT115 2021 HARVARD/01-protein wave.md",
-    "STAT115 2021 HARVARD/03-sequencing wave.md",
-    "STAT115 2021 HARVARD/02-expression wave.md",
-    "STAT115 2021 HARVARD/ChIP-Seq.md",
+    "NIH/NCBI/PD/Genome-wide Association and Meta-analysis of Age at Onset in Parkinson Disease.md",
+    "images/Pasted image 20240319121704.png",
+    "NLP/nlp coursera/Seq2seq Model with Attention.md",
+    "images/Pasted image 20240319114150.png",
+    "images/Pasted image 20240319113606.png",
+    "images/Pasted image 20240319113407.png",
+    "images/Pasted image 20240319113259.png",
+    "NLP/nlp coursera/Seq2Seq.md",
+    "NLP/nlp coursera",
+    "NIH/NCBI/PD/Wei work.md",
+    "nih/NCBI/transcription factor (TF) binding 1.md",
+    "nih/NCBI/single-nucleotide polymorphisms 1.md",
+    "nih/NCBI/process of transcription 1.md",
+    "nih/NCBI/polysemy 1.md",
+    "nih/NCBI/non-coding regions 1.md",
+    "nih/NCBI/histone marks of sequences 1.md",
+    "nih/NCBI/haplotypic context 1.md",
+    "nih/NCBI/gene regulatory code 1.md",
+    "nih/NCBI/gene promoters 1.md",
+    "nih/NCBI/eukaryotic cells 1.md",
+    "nih/NCBI/chromatin annotations 1.md",
+    "nih/NCBI/chromatin 1.md",
+    "nih/NCBI/allele 1.md",
+    "nih/NCBI/The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
+    "NIH/NCBI/PD",
     "STAT115 2021 HARVARD",
     "THCS webinar, March 12, 2024.pdf",
-    "multicollinearity.md",
-    "nih/NCBI/allele.md",
-    "nih/DNase-seq.md",
-    "NLP/lexicons 1.md",
-    "nih/DNA Composition.md",
-    "Flow State.md",
-    "Godze.md",
-    "chromatin modifiers.md",
-    "nih/Programming Gene Expression.md",
-    "nih/Probing.md",
     "brilliant",
     "NIH/NCBI/papers"
   ]

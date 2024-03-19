@@ -4,71 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ca195701faaea01",
+        "id": "ee9dcb82e2263c96",
         "type": "tabs",
         "children": [
           {
-            "id": "6a42db0f0b9d4e99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THCS webinar, March 12, 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ee9507687f1b045",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STAT115 2021 HARVARD/Histone Modifications.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f34dc955d391221",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STAT115 2021 HARVARD/Transcription Regulation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43f2495f81ab6e6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STAT115 2021 HARVARD/09-three generations of sequencing.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d79c193e05688515",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NIH/TFBS papers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d5f9046bb37ac23",
+            "id": "4ba7e5f329d16fca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nih/Biowulf - tmux.md",
+                "file": "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nih/Biowulf - tmux.md",
+                "file": "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nih/Biowulf - tmux.md"
+                "file": "NIH/NCBI/PD/TAG SNPs Identification Papers.md"
               }
             }
           },
@@ -234,12 +174,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "gemini-assistant:New Gemini chat": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b90451d94d91ee3",
+  "active": "4ba7e5f329d16fca",
   "lastOpenFiles": [
+    "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
+    "NIH/TFBS papers.md",
+    "STAT115 2021 HARVARD/09-three generations of sequencing.md",
+    "STAT115 2021 HARVARD/Transcription Regulation.md",
+    "STAT115 2021 HARVARD/Histone Modifications.md",
+    "THCS webinar, March 12, 2024.md",
     "nih/Biowulf.md",
     "TFBS papers.md",
     "Pasted image 20240314153243.png",
@@ -255,14 +200,11 @@
     "Pasted image 20240314110608.png",
     "STAT115 2021 HARVARD/12-Needleman-Wunsch and Smith-Waterman.md",
     "Test.md",
-    "STAT115 2021 HARVARD/09-three generations of sequencing.md",
     "STAT115 2021 HARVARD/05-bioinfo vs comp bio.md",
     "STAT115 2021 HARVARD/01-protein wave.md",
     "STAT115 2021 HARVARD/03-sequencing wave.md",
     "STAT115 2021 HARVARD/02-expression wave.md",
     "STAT115 2021 HARVARD/ChIP-Seq.md",
-    "STAT115 2021 HARVARD/Transcription Regulation.md",
-    "STAT115 2021 HARVARD/Histone Modifications.md",
     "STAT115 2021 HARVARD",
     "THCS webinar, March 12, 2024.pdf",
     "multicollinearity.md",
@@ -275,8 +217,6 @@
     "chromatin modifiers.md",
     "nih/Programming Gene Expression.md",
     "nih/Probing.md",
-    "nih/Explaining a series of models by propagating Shapley values.md",
-    "List of applications.md",
     "brilliant",
     "NIH/NCBI/papers"
   ]

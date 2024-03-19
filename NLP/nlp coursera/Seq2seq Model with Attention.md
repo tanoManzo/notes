@@ -14,3 +14,4 @@ Context vector and weights
 ## exercise
 
 ![[Pasted image 20240319114150.png]]
+

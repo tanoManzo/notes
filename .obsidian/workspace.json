@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nih/TFBS papers.md",
+                "file": "NIH/TFBS papers.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,9 +71,11 @@
             "id": "6d5f9046bb37ac23",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20240319121704.png"
+                "file": "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -128,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5041847229004
+    "width": 389.5041847229004,
+    "collapsed": true
   },
   "right": {
     "id": "4952d483e2d90585",
@@ -144,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20240319121704.png",
+                "file": "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20240319121704.png",
+                "file": "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Pasted image 20240319121704.png"
+                "file": "NIH/NCBI/PD/TAG SNPs Identification Papers.md"
               }
             }
           },
@@ -236,10 +239,12 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "dded40e851e66755",
+  "active": "6d5f9046bb37ac23",
   "lastOpenFiles": [
-    "NLP/nlp coursera/Seq2seq Model with Attention.md",
+    "NIH/NCBI/PD/Genome-wide Association and Meta-analysis of Age at Onset in Parkinson Disease.md",
+    "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
     "images/Pasted image 20240319121704.png",
+    "NLP/nlp coursera/Seq2seq Model with Attention.md",
     "images/Pasted image 20240319114150.png",
     "images/Pasted image 20240319113606.png",
     "images/Pasted image 20240319113407.png",
@@ -251,10 +256,9 @@
     "NLP/nlp coursera",
     "images/Pasted image 20240319095816.png",
     "images/Pasted image 20240319095807.png",
-    "nih/NCBI/PD/Genome-wide Association and Meta-analysis of Age at Onset in Parkinson Disease.md",
-    "nih/NCBI/PD/Wei work.md",
+    "NIH/NCBI/PD/Wei work.md",
     "Untitled.md",
-    "nih/TFBS papers.md",
+    "NIH/TFBS papers.md",
     "nih/NCBI/transcription factor (TF) binding 1.md",
     "nih/NCBI/single-nucleotide polymorphisms 1.md",
     "nih/NCBI/process of transcription 1.md",
@@ -273,11 +277,10 @@
     "nih/NCBI/TATA 1.md",
     "nih/NCBI/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome 1.md",
     "nih/NCBI/DNA accessibility 1.md",
-    "nih/NCBI/Cis-regulatory elements (CREs) 1.md",
-    "nih/NCBI/PD",
+    "NIH/NCBI/PD",
     "STAT115 2021 HARVARD",
     "THCS webinar, March 12, 2024.pdf",
     "brilliant",
-    "nih/NCBI/papers"
+    "NIH/NCBI/papers"
   ]
 }

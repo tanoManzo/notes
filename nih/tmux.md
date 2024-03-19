@@ -1,4 +1,4 @@
-[[nih/Biowulf|Biowulf]] 
+[[Biowulf|Biowulf]] 
 
 ## new session 
 tmux new -s <name of the session>

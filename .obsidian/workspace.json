@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP/Seq2Seq.md",
+                "file": "NLP/nlp coursera/Seq2Seq.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP/Seq2Seq.md",
+                "file": "NLP/nlp coursera/Seq2Seq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP/Seq2Seq.md",
+                "file": "NLP/nlp coursera/Seq2Seq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NLP/Seq2Seq.md"
+                "file": "NLP/nlp coursera/Seq2Seq.md"
               }
             }
           },
@@ -238,13 +238,20 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "6d5f9046bb37ac23",
+  "active": "dded40e851e66755",
   "lastOpenFiles": [
+    "NLP/nlp coursera",
+    "Pasted image 20240319095816.png",
+    "Pasted image 20240319095807.png",
+    "Pasted image 20240319095751.png",
+    "Pasted image 20240319095723.png",
+    "Pasted image 20240319095654.png",
+    "Pasted image 20240319095524.png",
     "Pasted image 20240319095355.png",
     "Pasted image 20240319095301.png",
     "Pasted image 20240319095225.png",
     "nih/NCBI/PD/Genome-wide Association and Meta-analysis of Age at Onset in Parkinson Disease.md",
-    "NLP/Seq2Seq.md",
+    "NLP/nlp coursera/Seq2Seq.md",
     "nih/NCBI/PD/Wei work.md",
     "Untitled.md",
     "nih/TFBS papers.md",
@@ -269,13 +276,6 @@
     "nih/NCBI/Cis-regulatory elements (CREs) 1.md",
     "multicollinearity.md",
     "Pasted image 20240314153243.png",
-    "Pasted image 20240314151233.png",
-    "Pasted image 20240314151147.png",
-    "Pasted image 20240314113354.png",
-    "Pasted image 20240314113238.png",
-    "Pasted image 20240314112832.png",
-    "Pasted image 20240314112340.png",
-    "Pasted image 20240314111511.png",
     "nih/NCBI/PD",
     "STAT115 2021 HARVARD",
     "THCS webinar, March 12, 2024.pdf",

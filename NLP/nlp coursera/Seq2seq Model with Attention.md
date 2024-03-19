@@ -11,3 +11,6 @@
 Context vector and weights
 
 ![[Pasted image 20240319113606.png]]
+## exercise
+
+![[Pasted image 20240319114150.png]]

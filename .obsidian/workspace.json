@@ -11,13 +11,34 @@
             "id": "048132203c88acfd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "Why Should I Trust You?.pdf"
+                "file": "images/Pasted image 20240319155958 1.png"
+              }
+            }
+          },
+          {
+            "id": "fe6a149ef2bb6a2c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20240319155800 1.png"
+              }
+            }
+          },
+          {
+            "id": "65ba6d86805d67c3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20240319155958 1.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why Should I Trust You?.pdf",
+                "file": "images/Pasted image 20240319155958 1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Why Should I Trust You?.pdf",
+                "file": "images/Pasted image 20240319155958 1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why Should I Trust You?.pdf"
+                "file": "images/Pasted image 20240319155958 1.png"
               }
             }
           },
@@ -175,8 +196,10 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "048132203c88acfd",
+  "active": "dded40e851e66755",
   "lastOpenFiles": [
+    "images/Pasted image 20240319155800 1.png",
+    "images/Pasted image 20240319155958 1.png",
     "Why Should I Trust You?.pdf",
     "images/Pasted image 20240319155958 1.png",
     "images/Pasted image 20240319155800 1.png",

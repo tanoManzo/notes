@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nih/NCBI/PD/Wei work.md",
+                "file": "NLP/Seq2Seq.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5041847229004,
-    "collapsed": true
+    "width": 389.5041847229004
   },
   "right": {
     "id": "4952d483e2d90585",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nih/NCBI/PD/Wei work.md",
+                "file": "NLP/Seq2Seq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nih/NCBI/PD/Wei work.md",
+                "file": "NLP/Seq2Seq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nih/NCBI/PD/Wei work.md"
+                "file": "NLP/Seq2Seq.md"
               }
             }
           },
@@ -241,7 +240,11 @@
   },
   "active": "6d5f9046bb37ac23",
   "lastOpenFiles": [
+    "Pasted image 20240319095355.png",
+    "Pasted image 20240319095301.png",
+    "Pasted image 20240319095225.png",
     "nih/NCBI/PD/Genome-wide Association and Meta-analysis of Age at Onset in Parkinson Disease.md",
+    "NLP/Seq2Seq.md",
     "nih/NCBI/PD/Wei work.md",
     "Untitled.md",
     "nih/TFBS papers.md",
@@ -265,8 +268,6 @@
     "nih/NCBI/DNA accessibility 1.md",
     "nih/NCBI/Cis-regulatory elements (CREs) 1.md",
     "multicollinearity.md",
-    "chromatin modifiers.md",
-    "TFBS papers.md",
     "Pasted image 20240314153243.png",
     "Pasted image 20240314151233.png",
     "Pasted image 20240314151147.png",
@@ -275,8 +276,6 @@
     "Pasted image 20240314112832.png",
     "Pasted image 20240314112340.png",
     "Pasted image 20240314111511.png",
-    "Pasted image 20240314111020.png",
-    "Pasted image 20240314110608.png",
     "nih/NCBI/PD",
     "STAT115 2021 HARVARD",
     "THCS webinar, March 12, 2024.pdf",

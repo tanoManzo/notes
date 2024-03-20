@@ -4,8 +4,26 @@
     "type": "split",
     "children": [
       {
+        "id": "7301f5fa634b195e",
+        "type": "tabs",
+        "dimension": 46.96817420435511,
+        "children": [
+          {
+            "id": "bc8d0e73db17d51f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Why Should I Trust You?.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "0c3044e679d07247",
         "type": "tabs",
+        "dimension": 53.03182579564489,
         "children": [
           {
             "id": "048132203c88acfd",
@@ -13,7 +31,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Why Should I Trust You?.pdf"
+                "file": "LIME, why should I trust you.pdf"
               }
             }
           }
@@ -67,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5041847229004
+    "width": 389.5041847229004,
+    "collapsed": true
   },
   "right": {
     "id": "4952d483e2d90585",
@@ -83,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why Should I Trust You?.pdf",
+                "file": "LIME, why should I trust you.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Why Should I Trust You?.pdf",
+                "file": "LIME, why should I trust you.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why Should I Trust You?.pdf"
+                "file": "LIME, why should I trust you.pdf"
               }
             }
           },
@@ -178,7 +197,7 @@
   "active": "048132203c88acfd",
   "lastOpenFiles": [
     "Why Should I Trust You?.pdf",
-    "Why Should I Trust You?.pdf",
+    "LIME, why should I trust you.pdf",
     "Why Should I Trust You? copy.pdf",
     "images/Pasted image 20240319155958 1.png",
     "images/Pasted image 20240319155800 1.png",

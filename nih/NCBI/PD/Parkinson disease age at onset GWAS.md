@@ -7,7 +7,7 @@ We found two genome-wide significant association signals, one at SNCA and the ot
 
 ### SNCA locus
 
-- rs6532192 (end of 3' of SNCA gene)
-- correlation between rs6532192 and 
+- rs356203 (end of 3' of SNCA gene)
+- correlation between rs356203 and rs6532192 (secondary signal at 5' end of the SNCA gene)
 
 ![[Pasted image 20240320142520.png]]

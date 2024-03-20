@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5041847229004,
-    "collapsed": true
+    "width": 389.5041847229004
   },
   "right": {
     "id": "4952d483e2d90585",
@@ -176,7 +175,7 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "dded40e851e66755",
+  "active": "048132203c88acfd",
   "lastOpenFiles": [
     "Why Should I Trust You?.pdf",
     "Why Should I Trust You?.pdf",

@@ -49,3 +49,8 @@ LD information
 | **rs1372518**    | 4:89836143-89836143 | -4650                      | 5_prime_UTR_variant                | 0.913332  | 0.999999  | Blood protein levels;Parkinson disease MTAG                                                                                                                                                                                                                                                                                                                                                                           |
 | **rs2245801**    | 4:89836689-89836689 | -4104                      | non_coding_transcript_exon_variant | 0.857590  | 1.000000  | Alpha-synuclein levels SNCA.8458.111.3;Serum levels of protein SNCA                                                                                                                                                                                                                                                                                                                                                   |
 |                  |                     |                            |                                    |           |           |                                                                                                                                                                                                                                                                                                                                                                                                                       |
+
+
+## PDID: [30957308](https://pubmed.ncbi.nlm.nih.gov/30957308)
+
+

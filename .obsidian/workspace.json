@@ -6,13 +6,33 @@
       {
         "id": "84a6d92885a0f709",
         "type": "tabs",
+        "dimension": 29.495912806539508,
         "children": [
           {
             "id": "c4ab8d223e4951bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Why Should I Trust You?.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ea75938e2d513925",
+        "type": "tabs",
+        "dimension": 70.50408719346049,
+        "children": [
+          {
+            "id": "18e2e1b257f70a51",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "LIME, why should I trust you.pdf"
+              }
             }
           }
         ]
@@ -65,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5041847229004
+    "width": 389.5041847229004,
+    "collapsed": true
   },
   "right": {
     "id": "4952d483e2d90585",
@@ -81,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why Should I Trust You?.pdf",
+                "file": "LIME, why should I trust you.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Why Should I Trust You?.pdf",
+                "file": "LIME, why should I trust you.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why Should I Trust You?.pdf"
+                "file": "LIME, why should I trust you.pdf"
               }
             }
           },
@@ -172,12 +193,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dded40e851e66755",
+  "active": "18e2e1b257f70a51",
   "lastOpenFiles": [
+    "Why Should I Trust You?.pdf",
     "LIME, why should I trust you.pdf",
     "images/Pasted image 20240319155958 1.png",
     "images/Pasted image 20240319155800 1.png",
-    "Why Should I Trust You?.pdf",
     "Untitled.md",
     "Pasted image 20240319155958.png",
     "Pasted image 20240319155800.png",

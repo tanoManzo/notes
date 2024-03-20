@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b488f79c7286de04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,13 +190,14 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "fde66e4366d86cbb",
+  "active": "b488f79c7286de04",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
     "Pasted image 20240320142520.png",
     "Pasted image 20240320142313.png",
     "NIH/NCBI/PD/Genome-wide Association and Meta-analysis of Age at Onset in Parkinson Disease.md",
     "NIH/NCBI/PD/Parkinson disease age at onset GWAS.md",
-    "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
     "NIH/NCBI/PD/Wei work.md",
     "NIH/NCBI/PD/Identification of genetic modifiers of age-at-onset for familial Parkinson’s disease.md",
     "LIME, why should I trust you.pdf",

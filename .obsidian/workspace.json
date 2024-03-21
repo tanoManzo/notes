@@ -4,34 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "87c8f758d7c18555",
+        "id": "8dbac30d3f00dd40",
         "type": "tabs",
-        "dimension": 10.660980810234541,
         "children": [
           {
-            "id": "a7104e9e30941e39",
+            "id": "e3e9e56829a4e390",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LIME, why should I trust you.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "41c3b8a458043ffe",
-        "type": "tabs",
-        "dimension": 89.33901918976545,
-        "children": [
-          {
-            "id": "7e75ec07029821b1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Why Should I Trust You?.pdf"
+                "file": "NIH/Biowulf - tmux.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -102,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why Should I Trust You?.pdf",
+                "file": "NIH/Biowulf - tmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Why Should I Trust You?.pdf",
+                "file": "NIH/Biowulf - tmux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why Should I Trust You?.pdf"
+                "file": "NIH/Biowulf - tmux.md"
               }
             }
           },
@@ -193,7 +177,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e75ec07029821b1",
+  "active": "e3e9e56829a4e390",
   "lastOpenFiles": [
     "LIME, why should I trust you.pdf",
     "Why Should I Trust You?.pdf",

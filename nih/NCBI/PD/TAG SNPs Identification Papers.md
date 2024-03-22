@@ -36,10 +36,13 @@ hg19 LD R-squared
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 LD information 
 ![[Pasted image 20240319155800 1.png]]
 >>>>>>> 0f31a3b (vault backup: 2024-03-22 16:35:52)
 
+=======
+>>>>>>> b65f9b8 (vault backup: 2024-03-22 16:40:54)
 hg19 LD R-squared
 
      4     90753180                            rs2737002      4     90761944                             **rs983361**     0.817636 
@@ -79,6 +82,7 @@ hg19 LD R-squared
 ### From the paper 
 We found two genome-wide significant association signals, one at SNCA and the other a protein-coding variant in TMEM175, both of which are known PD risk loci and a Bonferroni corrected significant effect at other known PD risk loci, GBA, INPP5F/BAG3, FAM47E/SCARB2, and MCCC1. Notably, SNCA, TMEM175.
 
+<<<<<<< HEAD
 |                  |            |                 |                                    |                                |               |
 | ---------------- | ---------- | --------------- | ---------------------------------- | ------------------------------ | ------------- |
 | **riskAllele**   | **pValue** | **mappedGenes** | **traitName**                      | **efoTraits**                  | **locations** |
@@ -94,6 +98,9 @@ We found two genome-wide significant association signals, one at SNCA and the ot
      4     90759556                            rs3806789      4     90764131                            **rs6532192**     0.988154 
 
      4     90763360                            rs7680557      4     90764131                            **rs6532192**     0.992393
+=======
+
+>>>>>>> b65f9b8 (vault backup: 2024-03-22 16:40:54)
 
 ### rs356203
      4     90637601                             rs356219      4     90666041                             **rs356203**     0.962572 
@@ -112,10 +119,13 @@ We found two genome-wide significant association signals, one at SNCA and the ot
 
      4     90666041                             **rs356203**      4     90666041                             **rs356203**            1
 
+<<<<<<< HEAD
 
 ### rs34311866
      4       951947                           **rs34311866**      4       951947                           **rs34311866**            1
      
+=======
+>>>>>>> b65f9b8 (vault backup: 2024-03-22 16:40:54)
 ### rs6532192
   
      4     90743331                           rs10005233      4     90764131                            **rs6532192**     0.803553 

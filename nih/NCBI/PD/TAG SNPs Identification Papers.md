@@ -65,7 +65,6 @@ hg19 LD R-squared
 
      4     90761944                             **rs983361**      4     90779823                            rs2737026     0.838894
 ## PDID: [30957308](https://pubmed.ncbi.nlm.nih.gov/30957308)
-<<<<<<< HEAD
 ### From the paper 
 We found two genome-wide significant association signals, one at SNCA and the other a protein-coding variant in TMEM175, both of which are known PD risk loci and a Bonferroni corrected significant effect at other known PD risk loci, GBA, INPP5F/BAG3, FAM47E/SCARB2, and MCCC1. Notably, SNCA, TMEM175.
 
@@ -74,28 +73,6 @@ We found two genome-wide significant association signals, one at SNCA and the ot
 | **riskAllele**   | **pValue** | **mappedGenes** | **traitName**                      | **efoTraits**                  | **locations** |
 | **rs356203-?**   | 2E-12      | SNCA            | Parkinson's disease (age of onset) | age at onset,Parkinson disease | 4:89744890    |
 | **rs34311866-C** | 1E-08      | TMEM175         | Parkinson's disease (age of onset) | age at onset,Parkinson disease | 4:958159      |
-=======
-     ### rs356203
-     4     90637601                             rs356219      4     90666041                             **rs356203**     0.962572 
-
-     4     90641340                             rs356220      4     90666041                             **rs356203**     0.985644 
-
-     4     90666041                             **rs356203**      4     90635606                             rs356209     0.845618 
-
-     4     90666041                             **rs356203**      4     90636561                             rs356215     0.844504 
-
-     4     90666041                             **rs356203**      4     90637601                             rs356219     0.962572 
-
-     4     90666041                             **rs356203**      4     90641340                             rs356220     0.985644 
-
-     4     90666041                             **rs356203**      4     90646886                             rs356165     0.994704 
-
-     4     90666041                             **rs356203**      4     90666041                             **rs356203**            1
-
-	### rs6532192
-  
-     4     90743331                           rs10005233      4     90764131                            **rs6532192**     0.803553 
->>>>>>> b8e7b89 (vault backup: 2024-03-20 15:16:54)
 
      4     90750025                            rs6828271      4     90764131                            **rs6532192**     0.807909 
 

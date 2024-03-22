@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "84a6d92885a0f709",
+        "id": "e32fa25e1c9dfb82",
         "type": "tabs",
         "children": [
           {
-            "id": "c4ab8d223e4951bd",
+            "id": "fde66e4366d86cbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why Should I Trust You?.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ea75938e2d513925",
-        "type": "tabs",
-        "dimension": 70.50408719346049,
-        "children": [
-          {
-            "id": "18e2e1b257f70a51",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LIME, why should I trust you.pdf"
+                "file": "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIME, why should I trust you.pdf",
+                "file": "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIME, why should I trust you.pdf",
+                "file": "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIME, why should I trust you.pdf"
+                "file": "NIH/NCBI/PD/TAG SNPs Identification Papers.md"
               }
             }
           },
@@ -192,13 +177,18 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "18e2e1b257f70a51",
+  "active": "fde66e4366d86cbb",
   "lastOpenFiles": [
-    "NIH/NCBI/PD/Parkinson disease age at onset GWAS.md",
-    "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
-    "NIH/NCBI/PD/Genome-wide Association and Meta-analysis of Age at Onset in Parkinson Disease.md",
     "NIH/NCBI/PD/Wei work.md",
+    "NIH/NCBI/PD/Genome-wide Association and Meta-analysis of Age at Onset in Parkinson Disease.md",
+    "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
+    "NIH/NCBI/PD/Parkinson disease age at onset GWAS.md",
+    "NIH/NCBI/PD/Identification of genetic modifiers of age-at-onset for familial Parkinson’s disease.md",
+    "Pasted image 20240320142520.png",
+    "Pasted image 20240320142313.png",
     "LIME, why should I trust you.pdf",
+    "Why Should I Trust You?.pdf",
+    "Why Should I Trust You? copy.pdf",
     "images/Pasted image 20240319155958 1.png",
     "images/Pasted image 20240319155800 1.png",
     "Untitled.md",
@@ -214,8 +204,6 @@
     "NLP/nlp coursera/Seq2seq Model with Attention.md",
     "images/Pasted image 20240319114150.png",
     "images/Pasted image 20240319113606.png",
-    "images/Pasted image 20240319113407.png",
-    "images/Pasted image 20240319113259.png",
     "NLP/nlp coursera/Seq2Seq.md",
     "NLP/nlp coursera",
     "nih/NCBI/transcription factor (TF) binding 1.md",
@@ -231,7 +219,6 @@
     "nih/NCBI/chromatin annotations 1.md",
     "nih/NCBI/chromatin 1.md",
     "nih/NCBI/allele 1.md",
-    "nih/NCBI/The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics.md",
     "NIH/NCBI/PD",
     "STAT115 2021 HARVARD",
     "THCS webinar, March 12, 2024.pdf",

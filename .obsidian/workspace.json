@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NIH/Biowulf - tmux.md",
+                "file": "NIH/NCBI/PD/Wei work.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5041847229004,
-    "collapsed": true
+    "width": 389.5041847229004
   },
   "right": {
     "id": "4952d483e2d90585",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NIH/Biowulf - tmux.md",
+                "file": "NIH/NCBI/PD/Wei work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NIH/Biowulf - tmux.md",
+                "file": "NIH/NCBI/PD/Wei work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NIH/Biowulf - tmux.md"
+                "file": "NIH/NCBI/PD/Wei work.md"
               }
             }
           },
@@ -179,6 +178,8 @@
   },
   "active": "e3e9e56829a4e390",
   "lastOpenFiles": [
+    "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
+    "NIH/Biowulf - tmux.md",
     "LIME, why should I trust you.pdf",
     "Why Should I Trust You?.pdf",
     "images/Pasted image 20240319155958 1.png",
@@ -187,7 +188,6 @@
     "Pasted image 20240319155958.png",
     "Pasted image 20240319155800.png",
     "Pasted image 20240315152143.png",
-    "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
     "NIH/TFBS papers.md",
     "STAT115 2021 HARVARD/09-three generations of sequencing.md",
     "STAT115 2021 HARVARD/Transcription Regulation.md",

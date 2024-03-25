@@ -164,8 +164,17 @@ None
 
 
 ## PMID: [33884653](https://pubmed.ncbi.nlm.nih.gov/33884653/)
+### From the paper 
+ One novel significant intergenic locus rs9783733 (NDN; PWRN4) was identified (P = 3.14E-09, beta = 2.30, SE = 0.39).
+ 
+|                 |            |                   |                   |             |                 |                                    |                                |                 |               |
+| --------------- | ---------- | ----------------- | ----------------- | ----------- | --------------- | ---------------------------------- | ------------------------------ | --------------- | ------------- |
+| **riskAllele**  | **pValue** | **riskFrequency** | **beta**          | **ci**      | **mappedGenes** | **traitName**                      | **efoTraits**                  | **accessionId** | **locations** |
+| **rs9783733-?** | 3E-09      | NR                | 2.3 unit increase | [1.54-3.06] | PWRN4           | Parkinson's disease (age of onset) | age at onset,Parkinson disease | GCST011677      | 15:23923803   |
 
-|   |   |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|---|
-|**riskAllele**|**pValue**|**riskFrequency**|**beta**|**ci**|**mappedGenes**|**traitName**|**efoTraits**|**accessionId**|**locations**|
-|**rs9783733-?**|3E-09|NR|2.3 unit increase|[1.54-3.06]|PWRN4|Parkinson's disease (age of onset)|age at onset,Parkinson disease|GCST011677|15:23923803|
+### rs9783733 
+
+    15     24168950                            **rs9783733**     15     24168950                            **rs9783733**            1 
+
+    15     24168950                            **rs9783733**     15     24177901                           rs28671452     0.947717
+

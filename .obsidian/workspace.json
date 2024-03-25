@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
+                "file": "NIH/NCBI/PD/Genetic modifiers of risk and age at onset in GBA associated Parkinson’s disease and Lewy body dementia.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
+                "file": "NIH/NCBI/PD/Genetic modifiers of risk and age at onset in GBA associated Parkinson’s disease and Lewy body dementia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
+                "file": "NIH/NCBI/PD/Genetic modifiers of risk and age at onset in GBA associated Parkinson’s disease and Lewy body dementia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NIH/NCBI/PD/TAG SNPs Identification Papers.md"
+                "file": "NIH/NCBI/PD/Genetic modifiers of risk and age at onset in GBA associated Parkinson’s disease and Lewy body dementia.md"
               }
             }
           },
@@ -194,6 +194,7 @@
   "lastOpenFiles": [
     "NIH/NCBI/PD/Genetic Modifiers of Age at Onset for Parkinson's Disease in Asians, A Genome Wide Association Study.md",
     "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
+    "NIH/NCBI/PD/Genetic modifiers of risk and age at onset in GBA associated Parkinson’s disease and Lewy body dementia.md",
     "NIH/NCBI/PD/Parkinson disease age at onset GWAS.md",
     "NIH/NCBI/PD/Identification of genetic modifiers of age-at-onset for familial Parkinson’s disease.md",
     "NIH/NCBI/PD/TAG SNPs Identification Papers 1.md",
@@ -231,7 +232,6 @@
     "nih/NCBI/histone marks of sequences 1.md",
     "nih/NCBI/haplotypic context 1.md",
     "nih/NCBI/gene regulatory code 1.md",
-    "nih/NCBI/gene promoters 1.md",
     "NIH/NCBI/PD",
     "STAT115 2021 HARVARD",
     "THCS webinar, March 12, 2024.pdf",

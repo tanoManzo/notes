@@ -25,7 +25,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "NIH/NCBI/projects/models/Results_nt_dna2_tred.pdf"
+                "file": "2024.02.27.582234v2.full.pdf"
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NIH/NCBI/projects/models/Results_nt_dna2_tred.pdf",
+                "file": "2024.02.27.582234v2.full.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NIH/NCBI/projects/models/Results_nt_dna2_tred.pdf",
+                "file": "2024.02.27.582234v2.full.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NIH/NCBI/projects/models/Results_nt_dna2_tred.pdf"
+                "file": "2024.02.27.582234v2.full.pdf"
               }
             }
           },
@@ -190,50 +190,53 @@
   },
   "active": "dfc5bc0b80f42c6a",
   "lastOpenFiles": [
-    "NIH/NCBI/papers/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome 1.md",
-    "2024.02.27.582234v2.full.pdf",
+    "HESSO/Godze.md",
+    "papers/LIME, why should I trust you.pdf",
     "NIH/NCBI/projects/models/Results_nt_dna2_tred.pdf",
-    "NIH/NCBI/papers/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
-    "NIH/NCBI/papers/The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics 1.md",
-    "NIH/NCBI/single-nucleotide polymorphisms.md",
-    "NIH/NCBI/transcription factor (TF) binding.md",
-    "NIH/NCBI/process of transcription.md",
-    "NIH/NCBI/papers/allele.md",
-    "NIH/NCBI/projects/models",
-    "NIH/NCBI/projects/PD/TAG SNPs Identification Papers.md",
-    "NIH/NCBI/projects",
-    "NIH/NCBI/untitled folder",
-    "TAG SNPs Identification Papers.pdf",
-    "NIH/NCBI/projects/PD/Genomewide association study for onset age in Parkinson disease.md",
-    "NIH/NCBI/projects/PD/Genetic modifiers of risk and age at onset in GBA associated Parkinson’s disease and Lewy body dementia.md",
-    "NIH/NCBI/projects/PD/Genetic Modifiers of Age at Onset for Parkinson's Disease in Asians, A Genome Wide Association Study.md",
-    "NIH/NCBI/projects/PD/Parkinson disease age at onset GWAS.md",
-    "NIH/NCBI/projects/PD/Identification of genetic modifiers of age-at-onset for familial Parkinson’s disease.md",
-    "NIH/NCBI/projects/PD/TAG SNPs Identification Papers 1.md",
-    "conflict-files-obsidian-git.md",
-    "NIH/NCBI/projects/PD/Wei work.md",
-    "NIH/NCBI/PD/TAG SNPs Identification Papers 1 1.md",
+    "NIH/oldProjects/SDoH/knowledge/papers/What is the meaning of health literacy. A systematic review and qualitative synthesis.md",
+    "NIH/oldProjects/SDoH/knowledge/papers/Revealing the impact of social circumstances on the selection of cancer therapy through natural language  processing of social work notes.md",
+    "NIH/oldProjects/SDoH/knowledge/papers/Patient health literacy and participation in the health‐care process.md",
+    "NIH/oldProjects/SDoH/knowledge/papers/Extracting SDoH from EHR using NLP.md",
+    "NIH/oldProjects/SDoH/knowledge/papers/Evaluating the Impact of Social Determinants on Health Prediction.md",
+    "NIH/oldProjects/SDoH/meetings/Meetings with Leo July 05.md",
+    "NIH/oldProjects/SDoH/knowledge/papers",
+    "NIH/oldProjects/SDoH/knowledge/SDoH.md",
+    "NIH/oldProjects/SDoH/knowledge/SDoH Goals.md",
+    "NIH/oldProjects/SDoH/knowledge/Health Literacy.md",
+    "NIH/oldProjects/SDoH/meetings",
+    "NIH/oldProjects/SDoH/knowledge",
+    "NIH/oldProjects/SDoH/Sample health literacy.md",
+    "NIH/oldProjects/SDoH/MIMIC health literacy.md",
+    "NIH/oldProjects/SDoH/Health Literacy Sentences.md",
+    "NIH/oldProjects/EmoMap/sample of citation.md",
+    "NIH/oldProjects/EmoMap/sample citation 2.md",
+    "NIH/oldProjects/EmoMap/EmoMap.md",
+    "NIH/oldProjects/EmoMap/EmoMap.canvas",
+    "NIH/oldProjects/CLARIN/Trajectory Colab.md",
+    "NIH/oldProjects/CLARIN/Text-Based Detection of the Risk of Depression.md",
+    "NIH/oldProjects/CLARIN/Sentiment Measured in Hospital Discharge Notes Is Associated with Readmission and Mortality Risk.md",
+    "NIH/oldProjects/CLARIN/BurnoutEnsemble.md",
+    "NIH/oldProjects/CLARIN/Answer Review AMIA.md",
+    "NIH/oldProjects/CLARIN/AMIA review.md",
+    "NIH/oldProjects/SDoH",
+    "NIH/oldProjects/EmoMap",
+    "NIH/oldProjects/CLARIN",
+    "NIH/oldProjects",
+    "oldProjects/SDoH/knowledge/papers/What is the meaning of health literacy. A systematic review and qualitative synthesis.md",
+    "oldProjects/SDoH/knowledge/papers/Revealing the impact of social circumstances on the selection of cancer therapy through natural language  processing of social work notes.md",
+    "oldProjects/SDoH/knowledge/papers/Patient health literacy and participation in the health‐care process.md",
+    "oldProjects/SDoH/knowledge/papers/Extracting SDoH from EHR using NLP.md",
+    "oldProjects/SDoH/knowledge/papers",
+    "oldProjects/EmoMap/EmoMap.canvas",
+    "images/Pasted image 20240320142520.png",
+    "images/Pasted image 20240320142313.png",
+    "images/Pasted image 20240315152143.png",
     "Pasted image 20240320142520.png",
     "Pasted image 20240320142313.png",
-    "NIH/NCBI/projects/PD/Genome-wide Association and Meta-analysis of Age at Onset in Parkinson Disease.md",
-    "LIME, why should I trust you.pdf",
-    "Why Should I Trust You?.pdf",
-    "Why Should I Trust You? copy.pdf",
     "images/Pasted image 20240319155958 1.png",
     "images/Pasted image 20240319155800 1.png",
-    "Untitled.md",
     "Pasted image 20240319155958.png",
     "Pasted image 20240319155800.png",
-    "Pasted image 20240315152143.png",
-    "NIH/TFBS papers.md",
-    "STAT115 2021 HARVARD/09-three generations of sequencing.md",
-    "STAT115 2021 HARVARD/Transcription Regulation.md",
-    "STAT115 2021 HARVARD/Histone Modifications.md",
-    "THCS webinar, March 12, 2024.md",
-    "images/Pasted image 20240319121704.png",
-    "NLP/nlp coursera/Seq2seq Model with Attention.md",
-    "images/Pasted image 20240319114150.png",
-    "images/Pasted image 20240319113606.png",
-    "NLP/nlp coursera"
+    "Pasted image 20240315152143.png"
   ]
 }

@@ -4,11 +4,12 @@
 The subsequent meta-analysis of COURAGE-PD and IPDGC datasets (Ntotal = 25,950) led to the identification of 2 genome-wide significant association signals on Chr 4, including the previously reported _SNCA_ locus (rs983361) and a novel _BST1_ locus (rs4698412). 
 
 
-|   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|
-|**riskAllele**|**pValue**|**riskFrequency**|**mappedGenes**|**traitName**|**efoTraits**|**locations**|
-|**rs983361-T**|3E-09|0.204|SNCA-AS1|Age of onset of parkinson disease|age of onset of Parkinson disease|4:89840793|
-|**rs4698412-A**|4E-08|0.562|BST1|Age of onset of parkinson disease|age of onset of Parkinson disease|4:15735725|
+|                 |            |                   |                 |                                   |                                   |               |
+| --------------- | ---------- | ----------------- | --------------- | --------------------------------- | --------------------------------- | ------------- |
+| **riskAllele**  | **pValue** | **riskFrequency** | **mappedGenes** | **traitName**                     | **efoTraits**                     | **locations** |
+| **rs983361-T**  | 3E-09      | 0.204             | SNCA-AS1        | Age of onset of parkinson disease | age of onset of Parkinson disease | 4:89840793    |
+| **rs4698412-A** | 4E-08      | 0.562             | BST1            | Age of onset of parkinson disease | age of onset of Parkinson disease | 4:15735725    |
+|                 |            |                   |                 |                                   |                                   |               |
 
 ### ref: rs4698412
 
@@ -178,3 +179,24 @@ None
 
     15     24168950                            **rs9783733**     15     24177901                           rs28671452     0.947717
 
+
+
+
+## PMID: [19772629](https://pubmed.ncbi.nlm.nih.gov/19772629)
+### From the paper
+
+|                 |            |                 |                                    |                                |               |
+| --------------- | ---------- | --------------- | ---------------------------------- | ------------------------------ | ------------- |
+| **riskAllele**  | **pValue** | **mappedGenes** | **traitName**                      | **efoTraits**                  | **locations** |
+| **rs7577851-T** | 9E-06      | AAK1            | Parkinson's disease (age of onset) | age at onset,Parkinson disease | 2:69496578    |
+
+### rs7577851
+     2     69723710                            **rs7577851**      2     69723494                           rs71840259     0.996326 
+
+     2     69723710                            **rs7577851**      2     69723710                            **rs7577851**            1 
+
+     2     69723710                            **rs7577851**      2     69724366                          rs202069720     0.997797 
+
+     2     69723710                            **rs7577851**      2     69724371                          rs201872917     0.997797 
+
+     2     69723710                            **rs7577851**      2     69724649                          rs111258456     0.997798

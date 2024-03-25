@@ -23,11 +23,9 @@
             "id": "dfc5bc0b80f42c6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "NIH/NCBI/papers/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome 1.md",
-                "mode": "source",
-                "source": false
+                "file": "NIH/NCBI/projects/models/Results_nt_dna2_tred.pdf"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NIH/NCBI/papers/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome 1.md",
+                "file": "NIH/NCBI/projects/models/Results_nt_dna2_tred.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NIH/NCBI/papers/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome 1.md",
+                "file": "NIH/NCBI/projects/models/Results_nt_dna2_tred.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NIH/NCBI/papers/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome 1.md"
+                "file": "NIH/NCBI/projects/models/Results_nt_dna2_tred.pdf"
               }
             }
           },
@@ -192,9 +190,11 @@
   },
   "active": "dfc5bc0b80f42c6a",
   "lastOpenFiles": [
+    "NIH/NCBI/papers/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome 1.md",
+    "2024.02.27.582234v2.full.pdf",
+    "NIH/NCBI/projects/models/Results_nt_dna2_tred.pdf",
     "NIH/NCBI/papers/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
     "NIH/NCBI/papers/The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics 1.md",
-    "NIH/NCBI/papers/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome 1.md",
     "NIH/NCBI/single-nucleotide polymorphisms.md",
     "NIH/NCBI/transcription factor (TF) binding.md",
     "NIH/NCBI/process of transcription.md",
@@ -234,9 +234,6 @@
     "NLP/nlp coursera/Seq2seq Model with Attention.md",
     "images/Pasted image 20240319114150.png",
     "images/Pasted image 20240319113606.png",
-    "NLP/nlp coursera/Seq2Seq.md",
-    "NLP/nlp coursera",
-    "NIH/NCBI/projects/PD",
-    "STAT115 2021 HARVARD"
+    "NLP/nlp coursera"
   ]
 }

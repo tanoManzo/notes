@@ -160,3 +160,12 @@ None
     15     63346376                          rs117267308     15     63364309                          **rs142383316**     0.929039
 ### rs117484764
     15     63346376                          rs117267308     15     63365502                          **rs117484764**     0.929039
+
+
+
+## PMID: [33884653](https://pubmed.ncbi.nlm.nih.gov/33884653/)
+
+|   |   |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|---|
+|**riskAllele**|**pValue**|**riskFrequency**|**beta**|**ci**|**mappedGenes**|**traitName**|**efoTraits**|**accessionId**|**locations**|
+|**rs9783733-?**|3E-09|NR|2.3 unit increase|[1.54-3.06]|PWRN4|Parkinson's disease (age of onset)|age at onset,Parkinson disease|GCST011677|15:23923803|

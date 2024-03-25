@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NIH/NCBI/PD/Wei work.md",
+                "file": "NIH/NCBI/projects/PD/Wei work.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
+                "file": "NIH/NCBI/papers/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5041847229004,
-    "collapsed": true
+    "width": 740.5041847229004
   },
   "right": {
     "id": "4952d483e2d90585",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
+                "file": "NIH/NCBI/papers/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
+                "file": "NIH/NCBI/papers/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NIH/NCBI/PD/TAG SNPs Identification Papers.md"
+                "file": "NIH/NCBI/papers/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome 1.md"
               }
             }
           },
@@ -193,20 +192,29 @@
   },
   "active": "dfc5bc0b80f42c6a",
   "lastOpenFiles": [
+    "NIH/NCBI/single-nucleotide polymorphisms.md",
+    "NIH/NCBI/transcription factor (TF) binding.md",
+    "NIH/NCBI/process of transcription.md",
+    "NIH/NCBI/papers/allele.md",
+    "NIH/NCBI/papers/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome 1.md",
+    "NIH/NCBI/The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics 1.md",
+    "NIH/NCBI/projects/models",
+    "NIH/NCBI/projects/PD/TAG SNPs Identification Papers.md",
+    "NIH/NCBI/projects",
+    "NIH/NCBI/untitled folder",
     "TAG SNPs Identification Papers.pdf",
-    "NIH/NCBI/PD/Genomewide association study for onset age in Parkinson disease.md",
-    "NIH/NCBI/PD/TAG SNPs Identification Papers.md",
-    "NIH/NCBI/PD/Genetic modifiers of risk and age at onset in GBA associated Parkinson’s disease and Lewy body dementia.md",
-    "NIH/NCBI/PD/Genetic Modifiers of Age at Onset for Parkinson's Disease in Asians, A Genome Wide Association Study.md",
-    "NIH/NCBI/PD/Parkinson disease age at onset GWAS.md",
-    "NIH/NCBI/PD/Identification of genetic modifiers of age-at-onset for familial Parkinson’s disease.md",
-    "NIH/NCBI/PD/TAG SNPs Identification Papers 1.md",
+    "NIH/NCBI/projects/PD/Genomewide association study for onset age in Parkinson disease.md",
+    "NIH/NCBI/projects/PD/Genetic modifiers of risk and age at onset in GBA associated Parkinson’s disease and Lewy body dementia.md",
+    "NIH/NCBI/projects/PD/Genetic Modifiers of Age at Onset for Parkinson's Disease in Asians, A Genome Wide Association Study.md",
+    "NIH/NCBI/projects/PD/Parkinson disease age at onset GWAS.md",
+    "NIH/NCBI/projects/PD/Identification of genetic modifiers of age-at-onset for familial Parkinson’s disease.md",
+    "NIH/NCBI/projects/PD/TAG SNPs Identification Papers 1.md",
     "conflict-files-obsidian-git.md",
-    "NIH/NCBI/PD/Wei work.md",
+    "NIH/NCBI/projects/PD/Wei work.md",
     "NIH/NCBI/PD/TAG SNPs Identification Papers 1 1.md",
     "Pasted image 20240320142520.png",
     "Pasted image 20240320142313.png",
-    "NIH/NCBI/PD/Genome-wide Association and Meta-analysis of Age at Onset in Parkinson Disease.md",
+    "NIH/NCBI/projects/PD/Genome-wide Association and Meta-analysis of Age at Onset in Parkinson Disease.md",
     "LIME, why should I trust you.pdf",
     "Why Should I Trust You?.pdf",
     "Why Should I Trust You? copy.pdf",
@@ -228,15 +236,7 @@
     "NLP/nlp coursera/Seq2Seq.md",
     "NLP/nlp coursera",
     "nih/NCBI/transcription factor (TF) binding 1.md",
-    "nih/NCBI/single-nucleotide polymorphisms 1.md",
-    "nih/NCBI/process of transcription 1.md",
-    "nih/NCBI/polysemy 1.md",
-    "nih/NCBI/non-coding regions 1.md",
-    "nih/NCBI/histone marks of sequences 1.md",
-    "NIH/NCBI/PD",
-    "STAT115 2021 HARVARD",
-    "THCS webinar, March 12, 2024.pdf",
-    "brilliant",
-    "NIH/NCBI/papers"
+    "NIH/NCBI/projects/PD",
+    "STAT115 2021 HARVARD"
   ]
 }

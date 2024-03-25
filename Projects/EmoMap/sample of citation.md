@@ -1,2 +1,0 @@
-
-La pêche étant une activité par définition démocratique, toutes les professions, populations, économique et sociale du Valais sont présentes. Ça va de docteur en droit, aux professeurs d'université, en passant par l'ouvrier d'usine, l'agriculteur, le viticulteur, l'employé de bureau. La pêche, vraiment, regroupe toutes ces professions. Il n'y a pas de classe sociale particulière à mentionner. C'est quelque chose qui est réparti sur l'ensemble de la population active, ou non active, puisque les retraités pêchent aussi.

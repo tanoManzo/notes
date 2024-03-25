@@ -1,0 +1,3 @@
+PMID: [33884653](https://pubmed.ncbi.nlm.nih.gov/33884653/)
+
+The total heritability of AAO of PD was around 0.10 ~ 0.14, similar to that (~0.11) estimated in populations of European ancestry. One novel significant intergenic locus rs9783733 (NDN; PWRN4) was identified (P = 3.14E-09, beta = 2.30, SE = 0.39). Remarkably, this variant could delay AAO of PD by ~2.43 years, with a more considerable effect on males (~3.18 years) than females (~1.45 years). The variant was suggestively significant in the cross-ethnic meta-analysis and suggested a positive selection in the East Asian population. Additionally, cross-ethnic meta-analysis identified a significant locus rs356203 in SNCA (P = 2.35E-11, beta = -0.71, SE = 0.01

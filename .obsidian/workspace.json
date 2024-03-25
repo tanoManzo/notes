@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 740.5041847229004
+    "width": 502.5041847229004
   },
   "right": {
     "id": "4952d483e2d90585",
@@ -192,12 +192,13 @@
   },
   "active": "dfc5bc0b80f42c6a",
   "lastOpenFiles": [
+    "NIH/NCBI/papers/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.md",
+    "NIH/NCBI/papers/The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics 1.md",
+    "NIH/NCBI/papers/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome 1.md",
     "NIH/NCBI/single-nucleotide polymorphisms.md",
     "NIH/NCBI/transcription factor (TF) binding.md",
     "NIH/NCBI/process of transcription.md",
     "NIH/NCBI/papers/allele.md",
-    "NIH/NCBI/papers/DNABERT pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome 1.md",
-    "NIH/NCBI/The Nucleotide Transformer - Building and Evaluating Robust Foundation Models for Human Genomics 1.md",
     "NIH/NCBI/projects/models",
     "NIH/NCBI/projects/PD/TAG SNPs Identification Papers.md",
     "NIH/NCBI/projects",
@@ -235,7 +236,6 @@
     "images/Pasted image 20240319113606.png",
     "NLP/nlp coursera/Seq2Seq.md",
     "NLP/nlp coursera",
-    "nih/NCBI/transcription factor (TF) binding 1.md",
     "NIH/NCBI/projects/PD",
     "STAT115 2021 HARVARD"
   ]

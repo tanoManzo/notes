@@ -22,3 +22,5 @@
 
 
 ![[Pasted image 20240319095816.png]]
+
+#nlp #attention 

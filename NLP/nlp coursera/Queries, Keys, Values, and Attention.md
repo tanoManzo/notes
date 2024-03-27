@@ -6,3 +6,4 @@ Similarity between words is called alignment
 ![[Pasted image 20240327161903.png]]
 ![[Pasted image 20240327161915.png]]
 ![[Pasted image 20240327161923.png]]
+![[Pasted image 20240327162143.png]]

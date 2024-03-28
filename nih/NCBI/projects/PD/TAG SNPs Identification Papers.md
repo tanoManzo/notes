@@ -115,7 +115,7 @@ We found two genome-wide significant association signals, one at SNCA and the ot
 
 
 ## PMID: [27402877](https://pubmed.ncbi.nlm.nih.gov/27402877)
-### From the paper  SOME ('rs10035651|rs344657|rs192855008|rs141049631')
+### From the paper  SOME ('rs10035651|rs344657|rs192855008|rs141049631|rs394521|rs10035651'')
 
 | CHR                                 | Gene          | SNP                                        | MAF    | Discovery (NGRC)<br><br>--- |                                |        |                                            |        | Replication<br><br>--- |                                |       |                                            |        | Discovery + Replication<br><br>--- |       |        |               |      |
 | ----------------------------------- | ------------- | ------------------------------------------ | ------ | --------------------------- | ------------------------------ | ------ | ------------------------------------------ | ------ | ---------------------- | ------------------------------ | ----- | ------------------------------------------ | ------ | ---------------------------------- | ----- | ------ | ------------- | ---- |
@@ -145,7 +145,7 @@ We found two genome-wide significant association signals, one at SNCA and the ot
 
      5     77860608                             **rs344650**      5     77871164                             rs394521     0.901537
 
-'rs394521|rs10035651'
+
 ### rs344657
 None
 ### rs74335301

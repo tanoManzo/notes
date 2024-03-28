@@ -65,7 +65,7 @@ hg19 LD R-squared
      4     90761944                             **rs983361**      4     90779758                            rs2583961     0.838894 
 
      4     90761944                             **rs983361**      4     90779823                            rs2737026     0.838894
-## PDID: [30957308](https://pubmed.ncbi.nlm.nih.gov/30957308)
+## PDID: [30957308](https://pubmed.ncbi.nlm.nih.gov/30957308) None
 ### From the paper 
 We found two genome-wide significant association signals, one at SNCA and the other a protein-coding variant in TMEM175, both of which are known PD risk loci and a Bonferroni corrected significant effect at other known PD risk loci, GBA, INPP5F/BAG3, FAM47E/SCARB2, and MCCC1. Notably, SNCA, TMEM175.
 
@@ -76,7 +76,7 @@ We found two genome-wide significant association signals, one at SNCA and the ot
 | **rs34311866-C** | 1E-08      | TMEM175         | Parkinson's disease (age of onset) | age at onset,Parkinson disease | 4:958159      |
 
 
-### rs356203
+### rs356203 None
      4     90637601                             rs356219      4     90666041                             **rs356203**     0.962572 
 
      4     90641340                             rs356220      4     90666041                             **rs356203**     0.985644 
@@ -94,9 +94,11 @@ We found two genome-wide significant association signals, one at SNCA and the ot
      4     90666041                             **rs356203**      4     90666041                             **rs356203**            1
 
 
-### rs34311866
+'rs356165|rs356220|rs356219|rs356215|rs356209'
+### rs34311866 None
      4       951947                           **rs34311866**      4       951947                           **rs34311866**            1
-     
+
+	 rs34311866|
 ### rs6532192
   
      4     90743331                           rs10005233      4     90764131                            **rs6532192**     0.803553 
@@ -111,6 +113,7 @@ We found two genome-wide significant association signals, one at SNCA and the ot
 
      4     90763360                            rs7680557      4     90764131                            **rs6532192**     0.992393
 
+rs6532192|rs10005233
 ## PMID: [27402877](https://pubmed.ncbi.nlm.nih.gov/27402877)
 ### From the paper 
 

@@ -114,8 +114,8 @@ We found two genome-wide significant association signals, one at SNCA and the ot
      4     90763360                            rs7680557      4     90764131                            **rs6532192**     0.992393
 
 
-## PMID: [27402877](https://pubmed.ncbi.nlm.nih.gov/27402877)
-### From the paper  SOME ('rs10035651|rs344657|rs192855008|rs141049631|rs394521|rs10035651'')
+## PMID: [27402877](https://pubmed.ncbi.nlm.nih.gov/27402877) SOME ('rs10035651|rs344657|rs192855008|rs141049631|rs394521|rs10035651'')
+### From the paper  
 
 | CHR                                 | Gene          | SNP                                        | MAF    | Discovery (NGRC)<br><br>--- |                                |        |                                            |        | Replication<br><br>--- |                                |       |                                            |        | Discovery + Replication<br><br>--- |       |        |               |      |
 | ----------------------------------- | ------------- | ------------------------------------------ | ------ | --------------------------- | ------------------------------ | ------ | ------------------------------------------ | ------ | ---------------------- | ------------------------------ | ----- | ------------------------------------------ | ------ | ---------------------------------- | ----- | ------ | ------------- | ---- |
@@ -170,7 +170,7 @@ None
 
 
 
-## PMID: [33884653](https://pubmed.ncbi.nlm.nih.gov/33884653/)
+## PMID: [33884653](https://pubmed.ncbi.nlm.nih.gov/33884653/) None
 ### From the paper 
  One novel significant intergenic locus rs9783733 (NDN; PWRN4) was identified (P = 3.14E-09, beta = 2.30, SE = 0.39).
  
@@ -178,7 +178,7 @@ None
 | --------------- | ---------- | ----------------- | ----------------- | ----------- | --------------- | ---------------------------------- | ------------------------------ | --------------- | ------------- |
 | **riskAllele**  | **pValue** | **riskFrequency** | **beta**          | **ci**      | **mappedGenes** | **traitName**                      | **efoTraits**                  | **accessionId** | **locations** |
 | **rs9783733-?** | 3E-09      | NR                | 2.3 unit increase | [1.54-3.06] | PWRN4           | Parkinson's disease (age of onset) | age at onset,Parkinson disease | GCST011677      | 15:23923803   |
-
+'rs9783733|rs28671452'
 ### rs9783733 
 
     15     24168950                            **rs9783733**     15     24168950                            **rs9783733**            1 
@@ -188,13 +188,14 @@ None
 
 
 
-## PMID: [19772629](https://pubmed.ncbi.nlm.nih.gov/19772629)
+## PMID: [19772629](https://pubmed.ncbi.nlm.nih.gov/19772629) Some ('rs71840259')
 ### From the paper
 
 |                 |            |                 |                                    |                                |               |
 | --------------- | ---------- | --------------- | ---------------------------------- | ------------------------------ | ------------- |
 | **riskAllele**  | **pValue** | **mappedGenes** | **traitName**                      | **efoTraits**                  | **locations** |
 | **rs7577851-T** | 9E-06      | AAK1            | Parkinson's disease (age of onset) | age at onset,Parkinson disease | 2:69496578    |
+
 
 ### rs7577851
      2     69723710                            **rs7577851**      2     69723494                           rs71840259     0.996326 

@@ -113,7 +113,7 @@ We found two genome-wide significant association signals, one at SNCA and the ot
 
      4     90763360                            rs7680557      4     90764131                            **rs6532192**     0.992393
 
-rs6532192|rs10005233
+'rs10005233|rs6828271|rs3756059|rs3756063'
 ## PMID: [27402877](https://pubmed.ncbi.nlm.nih.gov/27402877)
 ### From the paper 
 

@@ -4,11 +4,11 @@
 The subsequent meta-analysis of COURAGE-PD and IPDGC datasets (Ntotal = 25,950) led to the identification of 2 genome-wide significant association signals on Chr 4, including the previously reported _SNCA_ locus (rs983361) and a novel _BST1_ locus (rs4698412). 
 
 
-|   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|
-|**riskAllele**|**pValue**|**riskFrequency**|**mappedGenes**|**traitName**|**efoTraits**|**locations**|
-|**rs983361-T**|3E-09|0.204|SNCA-AS1|Age of onset of parkinson disease|age of onset of Parkinson disease|4:89840793|
-|**rs4698412-A**|4E-08|0.562|BST1|Age of onset of parkinson disease|age of onset of Parkinson disease|4:15735725|
+|                 |            |                   |                 |                                   |                                   |               |
+| --------------- | ---------- | ----------------- | --------------- | --------------------------------- | --------------------------------- | ------------- |
+| **riskAllele**  | **pValue** | **riskFrequency** | **mappedGenes** | **traitName**                     | **efoTraits**                     | **locations** |
+| **rs983361-T**  | 3E-09      | 0.204             | SNCA-AS1        | Age of onset of parkinson disease | age of onset of Parkinson disease | 4:89840793    |
+| **rs4698412-A** | 4E-08      | 0.562             | BST1            | Age of onset of parkinson disease | age of onset of Parkinson disease | 4:15735725    |
 
 ### ref: rs4698412
 

@@ -94,12 +94,12 @@ We found two genome-wide significant association signals, one at SNCA and the ot
      4     90666041                             **rs356203**      4     90666041                             **rs356203**            1
 
 
-'rs356165|rs356220|rs356219|rs356215|rs356209'
+
 ### rs34311866 None
      4       951947                           **rs34311866**      4       951947                           **rs34311866**            1
 
 	 rs34311866|
-### rs6532192
+### rs6532192 Some ('rs10005233|rs6828271|rs3756059|rs3756063')
   
      4     90743331                           rs10005233      4     90764131                            **rs6532192**     0.803553 
 
@@ -113,7 +113,7 @@ We found two genome-wide significant association signals, one at SNCA and the ot
 
      4     90763360                            rs7680557      4     90764131                            **rs6532192**     0.992393
 
-'rs10005233|rs6828271|rs3756059|rs3756063'
+
 ## PMID: [27402877](https://pubmed.ncbi.nlm.nih.gov/27402877)
 ### From the paper 
 
@@ -134,7 +134,7 @@ We found two genome-wide significant association signals, one at SNCA and the ot
 | 15                                  | _TPM1_        | rs201411148                                | 0.012  | 6.47                        | 2E-8                           | ‐15.30 | ‐22.49; -8.10                              | 3E-5   | –                      | –                              | –     | –                                          | –      | –                                  | –     | –      | –             | –    |
 | 15                                  | _TPM1_        | rs142383316                                | 0.012  | 6.47                        | 2E-8                           | ‐15.30 | ‐22.49; -8.10                              | 3E-5   | –                      | –                              | –     | –                                          | –      | –                                  | –     | –      | –             | –    |
 | 15                                  | _TPM1_        | rs117484764                                | 0.012  | 6.46                        | 2E-8                           | ‐15.29 | ‐22.49; -8.10                              | 3E-5   | –                      | –                              | –     | –                                          | –      | –                                  | –     | –      | –             | –    |
-
+''
 ### rs10035651
     5     77860608                             rs344650      5     77837737                           **rs10035651**     0.926268
 ### rs344650

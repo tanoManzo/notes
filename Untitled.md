@@ -2,3 +2,6 @@
 
 ![[Pasted image 20240410160449.png]]
 ![[Pasted image 20240410160801.png]]
+![[Pasted image 20240410160913.png]]
+![[Pasted image 20240410161048.png]]![[Pasted image 20240410161114.png]]
+![[Pasted image 20240410161216.png]]

@@ -5,30 +5,17 @@
 
 source /data/manzog2/conda/etc/profile.d/conda.sh && source /data/manzog2/conda/etc/profile.d/mamba.sh
 
-
+## Conda
 conda create -n envname --clone oldenv
-
 mamba activate mimic_race_eth
 
-
-
-ListerHill$202309
-
-
-
-hepg2.ref.mean-hepg2.alt.mean
-
-
-
+## GPU
 sinteractive --gres=lscratch:20 gpu:v100:1 --mem=32g --cpus-per-task=4
 
+## Jobs
 
-1. truncate from both 
-2. all capital, lower == N, or == lower
-3. NT with the same data
-4. next wed 31
-#######################
-**
+
+
 
 # Tmux
 

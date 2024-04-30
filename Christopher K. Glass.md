@@ -19,3 +19,6 @@
 ![[Pasted image 20240430102128.png]]
 ![[Pasted image 20240430102204.png]]
 ![[Pasted image 20240430102409.png]]
+![[Pasted image 20240430102541.png]]
+![[Pasted image 20240430102758.png]]
+![[Pasted image 20240430102851.png]]

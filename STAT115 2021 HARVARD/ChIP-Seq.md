@@ -12,3 +12,5 @@ to break the DNA
 ![[Pasted image 20240312155237.png]]
 ![[Pasted image 20240312160357.png]]
 ![[Pasted image 20240312160514.png]]
+![[Pasted image 20240506161256.png]]
+![[Pasted image 20240506161431.png]]

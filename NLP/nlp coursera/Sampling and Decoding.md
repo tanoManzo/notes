@@ -7,5 +7,5 @@
 
 ![[Pasted image 20240506131732.png]]
 
-
+![[Pasted image 20240506131817.png]]
 #nlp #attention 

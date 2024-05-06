@@ -7,3 +7,5 @@ more recall oriented than BLUE
 ![[Pasted image 20240506131208.png]]
 
 Does not consider the semantic 
+
+#nlp 

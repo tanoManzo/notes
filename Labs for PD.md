@@ -19,7 +19,7 @@
     
     The managing director of Aligning Science Across Parkinson's, a research initiative that found a gene variant that can nearly quadruple the risk of Parkinson's disease for people of African ancestry
 
-
+![[Pasted image 20240506093049.png]]
 
 ![[Pasted image 20240430115129.png]]
 ![[Pasted image 20240430121114.png]]

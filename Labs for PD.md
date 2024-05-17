@@ -25,4 +25,5 @@
 ![[Pasted image 20240430121114.png]]
 ![[Pasted image 20240430120402.png]]
 ![[Pasted image 20240430120920.png]]
-![[Pasted image 20240430120939.png]]Yulan Xiong (Assistant Professor, Assistant Director, Neuro)
+![[Pasted image 20240430120939.png]]Yulan Xiong (Assistant Professor, Assistant Director, Neuroscience Graduate Program, University of Connecticut School of Medicine).
+

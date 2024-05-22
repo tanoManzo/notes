@@ -30,3 +30,9 @@ According to GWAS catalog: 346 associations.
 
 ### is there early-stage of ALS?
 
+Most cases of ALS begin between the ages of 40 and 70, with an average age of onset around 55 years old​. Though less common, ALS can also occur in younger individuals. Cases have been reported in people as young as in their 20s and 30s​.
+
+### Recent gene/mutations studies
+KIF5A has been on the radar for a while. It popped up as an ALS candidate gene in several previous analyses, but never reached genome-wide significance ([Kenna et al., 2016](https://www.alzforum.org/papers/nek1-variants-confer-susceptibility-amyotrophic-lateral-sclerosis)). That changed when first authors Aude Nicolas, Alan Renton, Faraz Fagrhi, and Ruth Chia at NIH genotyped single nucleotide polymorphisms (SNPs) among 20,806 people with ALS and 59,084 controls. They uncovered five SNPs spanning several hundred kilobases on chromosome 12 that achieved genome-wide significance. Four occurred in noncoding DNA, with the fifth landing in the coding region for KIF5A, changing a proline at position 986 to a leucine. The leucine variant increased the risk of ALS a modest 1.38-fold. The association held up in an independent replication set and in a meta-analysis of combined genotyping data from 103,549 people. The GWAS also confirmed five previously identified ALS risk genes: TNP1, C9ORF72, TBK1, UNC13A, and C21ORF2.
+
+

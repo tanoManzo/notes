@@ -18,9 +18,15 @@ An estimated 29,824 cases were identified, for an adjusted prevalence of 9.1 per
 
 ### What is the total number of GWAS studies targeting ALS? 
 
-According to GWAS catalog, there are 41 studies related to ALS mainly in Europe. 
+According to GWAS catalog, there are 41 studies related to ALS mainly in Europe. Approximately 15 risk loci have been identified that are associated with ALS susceptibility. [PMID: **35042540**]
 
 
 ### What is the total number of ALS GWAS SNPs? 
 
+According to GWAS catalog: 346 associations. 
+
 ![[Pasted image 20240522094719.png]]
+
+
+### is there early-stage of ALS?
+

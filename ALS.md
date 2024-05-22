@@ -18,3 +18,4 @@ An estimated 29,824 cases were identified, for an adjusted prevalence of 9.1 per
 
 ### What is the total number of GWAS studies targeting ALS? 
 
+According to GWAS catalog, there are 41 studies related to ALS mainly in Europe

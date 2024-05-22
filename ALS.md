@@ -17,3 +17,4 @@ ALS (Amyotrophic Lateral Sclerosis), also known as Lou Gehrig's disease. It's a 
 An estimated 29,824 cases were identified, for an adjusted prevalence of 9.1 per 100,000 U.S. population. The demographics of cases of ALS did not change from previous year’s reports. ALS continues to impact Whites, males, and persons over 50 years of age more so than other comparison groups. [PMID: **37602649**]
 
 ### What is the total number of GWAS studies targeting ALS? 
+

@@ -13,7 +13,7 @@ ALS (Amyotrophic Lateral Sclerosis), also known as Lou Gehrig's disease. It's a 
 | **Prognosis**    | The prognosis varies; however, the average life expectancy after diagnosis is 2-5 years, though some people live much longer.                                                                |
 | **Famous Cases** | Lou Gehrig, the famous baseball player, and Stephen Hawking, the renowned physicist, are among the most well-known individuals diagnosed with ALS.                                           |
 
-### What is the % of population suffering ALS? 
+### What is the % of population suffering ALS?   
+An estimated 29,824 cases were identified, for an adjusted prevalence of 9.1 per 100,000 U.S. population. The demographics of cases of ALS did not change from previous year’s reports. ALS continues to impact Whites, males, and persons over 50 years of age more so than other comparison groups. [PMID: **37602649**]
 
-  
-The prevalence of ALS (Amyotrophic Lateral Sclerosis) is estimated to be about 2 to 4 cases per 100,000 people​ ([The ALS Association](https://www.als.org/navigating-als/resources/fyi-epidemiology-als-and-suspected-clusters))​​ ([MA Tracking](https://matracking.ehs.state.ma.us/Health-Data/ALS.html))​​ ([Mass.gov](https://www.mass.gov/info-details/als-lou-gehrigs-disease))​.  
+### What is the total number of GWAS studies targeting ALS? 

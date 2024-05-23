@@ -15,3 +15,4 @@ Transformers don't use RNNs
 ![[Pasted image 20240523110408.png]]
 ![[Pasted image 20240523110454.png]]
 ![[Pasted image 20240523110535.png]]
+![[Pasted image 20240523110611.png]]

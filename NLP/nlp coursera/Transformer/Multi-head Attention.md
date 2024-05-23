@@ -3,6 +3,9 @@ for parallel computing of the attention model based on different transformation 
 ![[Pasted image 20240523112632.png]]
 
 ![[Pasted image 20240523112753.png]]
+The math behind
+![[Pasted image 20240523113210.png]]
 
-![[Pasted image 20240523113028.png]]
-![[Pasted image 20240523113039.png]]
+![[Pasted image 20240523113246.png]]![[Pasted image 20240523113403.png]]
+
+![[Pasted image 20240523113545.png]]

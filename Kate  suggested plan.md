@@ -2,7 +2,7 @@
 
 - **Day 1-2: Orientation and Overview**
     - Lab orientation: Introduce her to the team and the lab's research focus.
-    - Overview of deep learning: Basic concepts, history, and key applications.
+    - Overview of projects of the lab.
 - **Day 3-5: Foundational Knowledge**
     - Introduction to Python and its libraries (NumPy, Pandas).
     - Basic statistics and probability relevant to computational biology.

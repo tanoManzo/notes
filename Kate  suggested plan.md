@@ -1,6 +1,5 @@
 ### Week 1: Introduction and Basics
-- Lab orientation
-- Overview of projects of the lab.
+- Lab orientation, overview of the projects, etc.
 - Introduction to tools: BioWulf, code, etc.
 - Basic statistics and probability relevant to computational biology.
 - Introduction to genomics and the regulatory elements of the human genome.
@@ -11,10 +10,10 @@
 - Practical session: Training a neural network on a simple dataset.
 
 ### Week 3: Genomics and DNA Sequence Data
-    - Basics of DNA, genes, and mutations.
-    - Tools for DNA sequence analysis (e.g., Biopython).
-    - One-hot encoding for DNA sequences.
-    - Case study: Predicting regulatory elements using deep learning.
+- Basics of DNA, genes, and mutations.
+- Tools for DNA sequence analysis (e.g., Biopython).
+- One-hot encoding for DNA sequences.
+- Case study: Predicting regulatory elements using deep learning.
 
 ### Week 4: Convolutional Neural Networks (CNNs) for Genomic Data
 
@@ -72,5 +71,3 @@
 - **Tools and Libraries:**
     - TensorFlow/Keras, PyTorch.
     - Biopython, Scikit-learn.
-
-This plan provides a balance between theoretical knowledge and practical skills, ensuring that she gets hands-on experience with the tools and techniques used in computational biology and deep learning. Adjust the plan based on her pace of learning and specific interests.

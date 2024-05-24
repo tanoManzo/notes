@@ -15,50 +15,27 @@
 - One-hot encoding for DNA sequences.
 - Case study: Predicting regulatory elements using deep learning.
 
-### Week 4: Convolutional Neural Networks (CNNs) for Genomic Data
+### Week 4: Transformer based model to predict regulatory regions in the genome
 
-- **Day 1-3: CNNs Overview**
-    - Introduction to CNNs and their applications in image and sequence data.
-    - Building CNNs for DNA sequence analysis.
-- **Day 4-5: Practical Applications**
-    - Implementing a CNN to predict regulatory regions in the genome.
-    - Evaluation metrics for model performance.
+   - Introduction to CNNs and their applications in image and sequence data.
+   - Building CNNs for DNA sequence analysis.
+   - Implementing a CNN to predict regulatory regions in the genome.
+   - Evaluation metrics for model performance.
 
-### Week 5: Recurrent Neural Networks (RNNs) and Advanced Architectures
+### Week 5-6: Transformer based model for mutation prediction.
+- Introduction to RNNs and LSTM networks.
+- Applications of RNNs in sequential data analysis.
+ - Introduction to advanced architectures like Transformers.
+ - Practical session: Implementing s for mutation prediction.
+ - Reviewing and replicating recent research papers on deep learning applications in genomics.
+ 
 
-- **Day 1-3: RNNs and LSTMs**
-    - Introduction to RNNs and LSTM networks.
-    - Applications of RNNs in sequential data analysis.
-- **Day 4-5: Advanced Architectures**
-    - Introduction to advanced architectures like Transformers.
-    - Practical session: Implementing RNNs for mutation prediction.
-
-### Week 6: Case Studies and Literature Review
-
-- **Day 1-3: Case Studies**
-    - Reviewing and replicating recent research papers on deep learning applications in genomics.
-    - Discussion on methodology and results.
-- **Day 4-5: Literature Review and Presentation**
-    - Conducting a literature review on a specific topic of interest.
-    - Preparing a presentation on findings and potential research questions.
-
-### Week 7: Model Interpretation and Validation
-
-- **Day 1-2: Model Interpretation Techniques**
-    - Techniques for interpreting deep learning models (e.g., SHAP, LIME).
-    - Case study: Interpreting a model predicting regulatory elements.
-- **Day 3-5: Model Validation**
-    - Cross-validation, bias-variance trade-off.
-    - Practical session: Validating and fine-tuning a deep learning model.
-
-### Week 8: Project Work and Wrap-Up
-
-- **Day 1-4: Project Development**
-    - Applying learned techniques to a small research project.
-    - Regular meetings for feedback and guidance.
-- **Day 5: Final Presentation and Feedback**
-    - Presentation of the project results.
-    - Feedback session and discussion of future directions.
+### Week 7-8: Model Interpretation, Validation, and Wrap-Up
+ - Case study: Interpreting a model predicting regulatory elements.
+ - Discussion on methodology and results.
+ - Conducting a literature review on a specific topic of interest.
+ - Preparing a presentation on findings and potential research questions.
+- Feedback session and discussion of future directions.
 
 ### Resources
 

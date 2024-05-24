@@ -1,28 +1,18 @@
 ### Week 1: Introduction and Basics
-
-- **Day 1-2: Orientation and Overview**
-    - Lab orientation: Introduce her to the team and the lab's research focus.
-    - Overview of projects of the lab.
-- **Day 3-5: Foundational Knowledge**
-    - Introduction to Python and its libraries (NumPy, Pandas).
-    - Basic statistics and probability relevant to computational biology.
-    - Introduction to genomics and the regulatory elements of the human genome.
+- Lab orientation
+- Overview of projects of the lab.
+- Introduction to tools: BioWulf, code, etc.
+- Basic statistics and probability relevant to computational biology.
+- Introduction to genomics and the regulatory elements of the human genome.
 
 ### Week 2: Deep Learning Fundamentals
-
-- **Day 1-3: Neural Networks Basics**
-    - Introduction to neural networks: Perceptron, activation functions, and layers.
-    - Building simple neural networks using TensorFlow/Keras.
-- **Day 4-5: Advanced Neural Network Concepts**
-    - Deep neural networks, overfitting, and regularization.
-    - Practical session: Training a neural network on a simple dataset.
+- Introduction to neural networks, PyTorch library, models, etc.
+- Deep neural networks, overfitting, and regularization.
+- Practical session: Training a neural network on a simple dataset.
 
 ### Week 3: Genomics and DNA Sequence Data
-
-- **Day 1-2: Understanding Genomic Data**
     - Basics of DNA, genes, and mutations.
     - Tools for DNA sequence analysis (e.g., Biopython).
-- **Day 3-5: Deep Learning with DNA Sequences**
     - One-hot encoding for DNA sequences.
     - Case study: Predicting regulatory elements using deep learning.
 

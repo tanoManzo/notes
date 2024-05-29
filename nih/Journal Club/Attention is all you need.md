@@ -1,1 +1,0 @@
-1. why do we need an encoder and a decoder ? 

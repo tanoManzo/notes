@@ -16,7 +16,6 @@ sinteractive --gres=gpu:a100:2 --cpus-per-task=4 --mem=100g --time=36:00:00
 
 
 
-
 # Tmux
 
 Avoid interactive jobs getting killed when you lose connection!

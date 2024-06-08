@@ -1,4 +1,4 @@
-- PMID: **21944779**
+
 ## Main points
 
 ALS (Amyotrophic Lateral Sclerosis), also known as Lou Gehrig's disease. It's a progressive neurodegenerative disorder that affects nerve cells in the brain and the spinal cord.

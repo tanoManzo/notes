@@ -20,3 +20,10 @@ same for ATAC-seq bulk (assay that allows us to look at regions of open chromati
 ## Why single cell?
 
 ![[Pasted image 20240612105441.png]]
+
+![[Pasted image 20240612113117.png]]
+
+limitation, no direct profiling gene expression and chromatin accessibility from exact the same cell. 
+
+Each dot is a cell and the color is the pattern of gene expression. Circle is the leukemia cells. 
+![[Pasted image 20240612113354.png]]

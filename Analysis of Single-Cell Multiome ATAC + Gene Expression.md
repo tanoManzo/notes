@@ -74,3 +74,7 @@ get only the genes that have high variability.
 
 ![[Pasted image 20240612143417.png]]
 
+![[Pasted image 20240612143504.png]]
+
+![[Pasted image 20240612143852.png]]
+![[Pasted image 20240612143908.png]]

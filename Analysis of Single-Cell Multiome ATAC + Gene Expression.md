@@ -55,3 +55,9 @@ Group of cells with similar gene expression and chromatin accessibility
 
 ![[Pasted image 20240612141837.png]]
 
+get only the genes that have high variability. 
+
+![[Pasted image 20240612142112.png]]
+
+
+![[Pasted image 20240612142230.png]]

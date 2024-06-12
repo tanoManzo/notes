@@ -27,3 +27,8 @@ limitation, no direct profiling gene expression and chromatin accessibility from
 
 Each dot is a cell and the color is the pattern of gene expression. Circle is the leukemia cells. 
 ![[Pasted image 20240612113354.png]]
+Look at the peaks in the open chromatin and check if there is an enrichment of the motifs above (CEBPB and GATA1)
+
+![[Pasted image 20240612113656.png]]
+
+## Limitation: because we are not using the both data at the same time/cell, we cannot say that a given chromatin access profile mat

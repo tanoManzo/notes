@@ -42,3 +42,5 @@ Using multiple assays to probe different features in a biological space.
 ![[Pasted image 20240612115538.png]]
 
 ![[Pasted image 20240612115917.png]]
+### Quality control 
+![[Pasted image 20240612120457.png]]

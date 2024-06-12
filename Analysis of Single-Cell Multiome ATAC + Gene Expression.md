@@ -35,6 +35,8 @@ Look at the peaks in the open chromatin and check if there is an enrichment of t
 
 ## Multiome solve this issue. 
 Using multiple assays to probe different features in a biological space. 
+![[Pasted image 20240612114302.png]] 
+![[Pasted image 20240612115144.png]]
 
-
-![[Pasted image 20240612114302.png]]
+### Wet Lab protocol
+![[Pasted image 20240612115538.png]]

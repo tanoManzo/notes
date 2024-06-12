@@ -61,3 +61,10 @@ get only the genes that have high variability.
 
 
 ![[Pasted image 20240612142230.png]]
+
+![[Pasted image 20240612142515.png]]
+
+![[Pasted image 20240612142738.png]]
+
+
+## Get chromatin and TF accessibility at the gene

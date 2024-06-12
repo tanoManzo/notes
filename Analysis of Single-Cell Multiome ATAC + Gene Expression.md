@@ -44,4 +44,14 @@ Using multiple assays to probe different features in a biological space.
 ![[Pasted image 20240612115917.png]]
 ### Quality control 
 ![[Pasted image 20240612120457.png]]
-(1) get only good reads, (2) Enrichment at Transcript Starting Site, promoter needs to be accessible for the related gene to be expressed. High quality of cells have enriched chromatic accessibility reads at TSS. (3) remove low quality cells
+(1) get only good reads, (2) Enrichment at Transcript Starting Site, promoter needs to be accessible for the related gene to be expressed. High quality of cells have enriched chromatic accessibility reads at TSS. (3) remove low quality cells.
+
+## Clustering
+
+![[Pasted image 20240612141519.png]]
+
+Group of cells with similar gene expression and chromatin accessibility 
+![[Pasted image 20240612141715.png]]
+
+![[Pasted image 20240612141837.png]]
+

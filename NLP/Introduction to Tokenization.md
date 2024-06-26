@@ -20,6 +20,7 @@ The cost to be in the class is $35 per person, and for spectators it is free. In
 ```
 show_vocab(vocab)
 
+Output:
 ▁ B e g i n n e r s: 1
 ▁ B B Q: 3
 ▁ C l a s s: 2
@@ -43,5 +44,21 @@ show_vocab(vocab)
 ▁ t h e: 31
 
 ```
+It takes in the current vocab word-frequency dictionary and the fraction, frac_merges, of the total vocab_size to merge characters in the words of the dictionary, num_merges times. Then for each merge operation it get_stats on how many of each pair of character sequences there are. It gets the most frequent pair of symbols as the best pair. Then it merges that pair of symbols (removes the space between them) in each word in the vocab that contains this best (= pair). Consequently, merge_vocab creates a new vocab, v_out. This process is repeated num_merges times and the result is the set of SentencePieces (keys of the final sp_vocab).
 
+```
+# encode: text => id
+print(sp.encode_as_pieces(s0))
+print(sp.encode_as_ids(s0))
 
+# decode: id => text
+print(sp.decode_pieces(sp.encode_as_pieces(s0)))
+print(sp.decode_ids([12847, 277]))
+
+Output:
+['▁Beginn', 'ers', '▁BBQ', '▁Class', '▁', 'Taking', '▁Place', '▁in', '▁Miss', 'oul', 'a', '!']
+[12847, 277, 15068, 4501, 3, 12297, 3399, 16, 5964, 7115, 9, 55]
+Beginners BBQ Class Taking Place in Missoula!
+Beginners
+
+```

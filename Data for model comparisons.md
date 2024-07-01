@@ -1,4 +1,4 @@
-## MPRAs
+## MPRAs 
 We performed saturation mutagenesis in conjunction with massively parallel reporter assays (MPRAs) on 21 regulatory elements, including 20 commonly studied, disease-relevant promoter and enhancer sequences from the literature, and one ultraconserved enhancer (UC88). For the former, we focused primarily on regulatory sequences in which specific mutations are known to cause disease, both for their clinical relevance and to provide for positive control variants. Selected elements were limited up to 600 base pairs (bp) for technical reasons related to the mapping of variants to barcodes by subassembly. In addition, we selected only sequences where cell line-based reporter assays were previously established.
 
 ### Format description
@@ -22,3 +22,6 @@ Variant files for each element are available for genome releases GRCh37 and GRCh
 We are making our data available prior to publication in line with [Fort Lauderdale principle](https://www.genome.gov/pages/research/wellcomereport0303.pdf), allowing others to use the data but allowing the data producers to make the first presentations and to publish the first paper with global analyses of the data. In addition, we also reserve the right to publish the first analysis of the differences seen in the TERT knock-down experiments and alternative cell-type experiments. Studies that do not overlap with these intentions may be submitted for publication at any time, but must appropriately cite the data source. After publication of the data, the first publication of the data producers should be cited for any use of these data.
 
 #### File name:
+(HepG2) GRCh38_SORT1.tsv
+
+## 

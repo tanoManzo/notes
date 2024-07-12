@@ -43,5 +43,8 @@ From the Transformer paper
 In case of 3 dimension per embedding: 
 ![[Pasted image 20240712110409.png]]
 
-Positional Encoding to preserve the word order (because everything append in parallel). So by adding the positional encoding to the token embeddings you preserve the information and don't lose  
+Positional Encoding to preserve the word order (because everything append in parallel). So by adding the positional encoding to the token embeddings you preserve the information and don't lose the relevance of the position of the words in the sentence. 
+
 ![[Pasted image 20240712110511.png]]
+
+The pass the result vector to the Self-attention layer. Here the model analyze the relations 

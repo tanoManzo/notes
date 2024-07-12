@@ -1,0 +1,1 @@
+Generative AI is a subset of traditional ML. ML models underneed 

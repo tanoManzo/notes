@@ -54,4 +54,13 @@ The number of attention heads included in the attention layer varies from model 
 
 ![[Pasted image 20240712112141.png]]
 
-The output is processed through a fully connected feed-forwad network. The output of this layer is a vector of logits proportional to the probability score to each and every tokem 
+The output is processed through a fully connected feed-forwad network. The output of this layer is a vector of logits proportional to the probability score to each and every token in the tokenizer dictionary.
+
+![[Pasted image 20240712112417.png]]
+
+
+Those logits are pass to a softmax layer, where they are normalized into a probability score for each word. 
+
+![[Pasted image 20240712112508.png]]
+
+The output is a probability for every single word in the vocabolary. So there is likely to be thousands of scores. One single token will have the score higher than the rest. **This is the most likely predicted token.** 

@@ -12,4 +12,12 @@ The output of the model is called a **completion**. The act of using the model t
 
 ![[Pasted image 20240712104924.png]]
 
-Generative algorithms are not new, Recurrent Neural Networks   
+Generative algorithms are not new, Recurrent Neural Networks.
+![[Pasted image 20240712105236.png]]
+
+![[Pasted image 20240712105248.png]]
+
+![[Pasted image 20240712105409.png]]
+![[Pasted image 20240712105443.png]]
+![[Pasted image 20240712105548.png]]
+![[Pasted image 20240712105638.png]]

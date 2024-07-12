@@ -47,4 +47,11 @@ Positional Encoding to preserve the word order (because everything append in par
 
 ![[Pasted image 20240712110511.png]]
 
-The pass the result vector to the Self-attention layer. Here the model analyze the relations 
+The model analyzes the relationships between the tokens in your input sequence. As you saw earlier, this allows the model to attend to different parts of the input sequence to better capture the contextual dependencies between the words. The self-attention weights that are learned during training and stored in these layers reflect the importance of each word in that input sequence to all other words in the sequence. But this does not happen just once, the transformer architecture actually has multi-headed self-attention. This means that multiple sets of self-attention weights or heads are learned in parallel independently of each other. 
+
+![[Pasted image 20240712112028.png]]
+The number of attention heads included in the attention layer varies from model to model, but numbers in the range of 12-100 are common. The intuition here is that each self-attention head will learn a different aspect of language. For example, one head may see the relationship between the people entities in our sentence. Whilst another head may focus on the activity of the sentence. Whilst yet another head may focus on some other properties such as if the words rhyme. It's important to note that you don't dictate ahead of time what aspects of language the attention heads will learn. The weights of each head are randomly initialized and given sufficient training data and time, each will learn different aspects of language.
+
+![[Pasted image 20240712112141.png]]
+
+The output is processed through a fully connected feed-forwad network. The output of this layer is a vector of logits proportional to the probability score to each and every tokem 

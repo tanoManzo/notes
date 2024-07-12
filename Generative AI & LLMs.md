@@ -8,4 +8,8 @@ more parameters = more memory
 
 ![[Pasted image 20240712104321.png]]
 
-The output of the model is called a **completion**. The act of using the model to generate text is known as inference.  
+The output of the model is called a **completion**. The act of using the model to generate text is known as inference. 
+
+![[Pasted image 20240712104924.png]]
+
+Generative algorithms are not new, Recurrent Neural Networks   

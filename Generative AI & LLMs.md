@@ -79,5 +79,8 @@ The output is a probability for every single word in the vocabolary. So there is
 3) The output of the multi-head attention is injected into the feed-forward NN to the output of the encoder.
 4) At this point, the data that leaves the encoder is a deep representation of the structure and the meaning of the input sequence. This is inserted into the middle of the Decoder (i.e., self-attention of the decoder):![[Pasted image 20240716113318.png]]
 5) Decode, a start of sequence token is added to the input of the decoder trigging the decoder to predict the next token. It does this besed on the contextual understanding (output of the encoder to the decoder).![[Pasted image 20240716113747.png]]
-6) The output of the decoder pas
-	
+6) The output of the decoder passes throw the decoder feed-forward NN and a final softmax output layer. ![[Pasted image 20240716113914.png]]
+7) Here we have the first token, we can continue by using it as input to the decoder for the prediction of the next token.  ![[Pasted image 20240716114113.png]]
+8) The final sequence of token can be de-tokenized into words![[Pasted image 20240716114211.png]]
+In summary: 
+	![[Pasted image 20240716114258.png]]

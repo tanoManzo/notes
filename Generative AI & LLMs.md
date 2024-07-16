@@ -63,4 +63,13 @@ Those logits are pass to a softmax layer, where they are normalized into a proba
 
 ![[Pasted image 20240712112508.png]]
 
-The output is a probability for every single word in the vocabolary. So there is likely to be thousands of scores. One single token will have the score higher than the rest. **This is the most likely predicted token.** 
+The output is a probability for every single word in the vocabolary. So there is likely to be thousands of scores. One single token will have the score higher than the rest. **This is the most likely predicted token.**
+
+## Example End-2-End Translation
+![[Pasted image 20240716112531.png]]
+
+1) Tokenizer
+
+![[Pasted image 20240716112719.png]]
+
+2) Embedding Layer + 

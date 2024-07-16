@@ -115,3 +115,11 @@ When the user provides the example inside the context window.
 
 ![[Pasted image 20240716145213.png]]
 ![[Pasted image 20240716145259.png]]
+be careful with repetitions. Instead random sampling is more creative:
+![[Pasted image 20240716145349.png]]
+Top-K based on the probability, then random.
+![[Pasted image 20240716145451.png]]
+Top-p based on the probability threshold, then random. 
+![[Pasted image 20240716145543.png]]
+Temperature controls randomness
+![[Pasted image 20240716145654.png]]

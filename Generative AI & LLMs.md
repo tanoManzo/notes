@@ -107,4 +107,11 @@ When the user provides the example inside the context window.
 ![[Pasted image 20240716144613.png]]
 
 ![[Pasted image 20240716144720.png]]
+![[Pasted image 20240716144825.png]]
+![[Pasted image 20240716144839.png]]
 
+### Parameters 
+![[Pasted image 20240716145119.png]]
+
+![[Pasted image 20240716145213.png]]
+![[Pasted image 20240716145259.png]]

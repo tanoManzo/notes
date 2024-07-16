@@ -123,3 +123,4 @@ Top-p based on the probability threshold, then random.
 ![[Pasted image 20240716145543.png]]
 Temperature controls randomness
 ![[Pasted image 20240716145654.png]]
+![[Pasted image 20240716145953.png]]

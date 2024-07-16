@@ -72,4 +72,10 @@ The output is a probability for every single word in the vocabolary. So there is
 
 ![[Pasted image 20240716112719.png]]
 
-2) Embedding Layer + 
+2) Embedding Layer + Encoder Layer (Multi-head attention layers)
+
+![[Pasted image 20240716113036.png]]
+
+3) The output of the multi-head attention is injected into the feed-forward NN to the output of the encoder.
+4) At this point, the data that leaves the encoder is a deep representation of the structure and the meaning of the input sequence. This is inserted into the middle of the Decoder:
+	![[Pasted image 20240716113318.png]]

@@ -99,4 +99,12 @@ The multi-head self-attention mechanism allows the model to attend to different 
 
 ## Prompting and prompt engineering
 
-The input is called prompt, the 
+The input is called prompt, the act of generating text is know as inference, the output of the model is called completion.
+The context window is where you type the prompt and it appears as output at the begging. 
+
+#### in-context learning (ICL)
+When the user provides the example inside the context window. 
+![[Pasted image 20240716144613.png]]
+
+![[Pasted image 20240716144720.png]]
+

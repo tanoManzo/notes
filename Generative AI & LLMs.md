@@ -19,6 +19,7 @@ Generative algorithms are not new, Recurrent Neural Networks.
 
 ![[Pasted image 20240712105409.png]]
 ![[Pasted image 20240712105443.png]]
+## Transformer Architecture
 ![[Pasted image 20240712105548.png]]
 ![[Pasted image 20240712105638.png]]
 ![[Pasted image 20240712105659.png]]
@@ -82,11 +83,14 @@ The output is a probability for every single word in the vocabolary. So there is
 6) The output of the decoder passes throw the decoder feed-forward NN and a final softmax output layer. ![[Pasted image 20240716113914.png]]
 7) Here we have the first token, we can continue by using it as input to the decoder for the prediction of the next token.  ![[Pasted image 20240716114113.png]]
 8) The final sequence of token can be de-tokenized into words![[Pasted image 20240716114211.png]]
-In summary: 
+### In summary: 
 	![[Pasted image 20240716114258.png]]
-	#### Encoder (input and output same length): ![[Pasted image 20240716114436.png]]
+#### Encoder (input and output same length): ![[Pasted image 20240716114436.png]]
 	You can try encoder-only model to perform classification task such as sentiment analysis. BERT is an example of an encoder-only model. 
-	#### Encoder-Decoder Model 
+	
+#### Encoder-Decoder Model 
 	![[Pasted image 20240716114619.png]]
 	Sequence to Sequence tasks such as translation where the input sequence and the output sequence can be different lengths. You can scale this model to do generation tasks. BART and T5 are example of this architecture. 
-	##### Decoder-only model, most common use
+	
+##### Decoder-only model, most common used. 
+		GPT, BLOOM, Llama and more. 

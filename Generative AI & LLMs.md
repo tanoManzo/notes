@@ -94,3 +94,9 @@ The output is a probability for every single word in the vocabolary. So there is
 	
 ##### Decoder-only model, most common used. 
 		GPT, BLOOM, Llama and more. 
+		
+The multi-head self-attention mechanism allows the model to attend to different parts of the input sequence, while the feed-forward network applies a point-wise fully connected layer to each position separately and identically. The Transformer model also uses residual connections and layer normalization to facilitate training and prevent overfitting. In addition, the authors introduce a positional encoding scheme that encodes the position of each token in the input sequence, enabling the model to capture the order of the sequence without the need for recurrent or convolutional operations.
+
+## Prompting and prompt engineering
+
+The input is called prompt, the 

@@ -124,3 +124,7 @@ Top-p based on the probability threshold, then random.
 Temperature controls randomness
 ![[Pasted image 20240716145654.png]]
 ![[Pasted image 20240716145953.png]]
+
+## Generative AI Project Lifecycle
+![[Pasted image 20240717143614.png]]
+- score

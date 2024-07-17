@@ -127,4 +127,7 @@ Temperature controls randomness
 
 ## Generative AI Project Lifecycle
 ![[Pasted image 20240717143614.png]]
-- score
+- Scope: as narrow as possible. For instance: ![[Pasted image 20240717143741.png]]
+- Select: work with existing model or train from scratch
+- Adapt and align mode: assess the performance of the chosen model on the assigned task(s)
+- 

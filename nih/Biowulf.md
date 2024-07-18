@@ -12,6 +12,8 @@ mamba activate mimic_race_eth
 ## GPU
 sinteractive --gres=lscratch:20 gpu:v100:1 --mem=32g --cpus-per-task=4
 sinteractive --gres=gpu:a100:2 --cpus-per-task=4 --mem=100g --time=36:00:00
+
+ **freen | grep -E 'Partition|----|gpu'**
 ## Jobs
 
 

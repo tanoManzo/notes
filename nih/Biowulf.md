@@ -4,7 +4,7 @@
 4) connect to enviroment: 
 
 source /data/manzog2/conda/etc/profile.d/conda.sh && source /data/manzog2/conda/etc/profile.d/mamba.sh
-
+source ./etc/profile.d/conda.sh && source ./conda/etc/profile.d/mamba.sh
 ## Conda
 conda create -n envname --clone oldenv
 mamba activate mimic_race_eth

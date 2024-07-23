@@ -158,3 +158,12 @@ LLMs capture a deep statistical representation of language.
 ![[Pasted image 20240723134516.png]]
 ![[Pasted image 20240723134528.png]]
 ![[Pasted image 20240723134620.png]]
+![[Pasted image 20240723134736.png]]
+
+## Computational Challenges
+
+#### Out of Memory 
+![[Pasted image 20240723134853.png]]
+Compute Unified Device Architecture
+
+![[Pasted image 20240723135224.png]]

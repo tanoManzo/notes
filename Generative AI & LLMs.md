@@ -141,3 +141,20 @@ LLMs capture a deep statistical representation of language.
 
 ![[Pasted image 20240723134142.png]]
 ![[Pasted image 20240723134157.png]]
+
+![[Pasted image 20240723134236.png]]
+
+![[Pasted image 20240723134252.png]]
+
+![[Pasted image 20240723134306.png]]
+
+![[Pasted image 20240723134345.png]]
+![[Pasted image 20240723134354.png]]
+![[Pasted image 20240723134401.png]]
+![[Pasted image 20240723134427.png]]
+![[Pasted image 20240723134439.png]]
+![[Pasted image 20240723134456.png]]
+![[Pasted image 20240723134506.png]]
+![[Pasted image 20240723134516.png]]
+![[Pasted image 20240723134528.png]]
+![[Pasted image 20240723134620.png]]

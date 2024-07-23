@@ -131,3 +131,13 @@ Temperature controls randomness
 - Select: work with existing model or train from scratch
 - Adapt and align mode: assess the performance of the chosen model on the assigned task(s) ![[Pasted image 20240717144240.png]]
 - Application Integration: Optimize and deploy, additional infrastructure. 
+
+## Model Hubs
+![[Pasted image 20240723133859.png]]
+
+### Pre-training 
+LLMs capture a deep statistical representation of language. 
+![[Pasted image 20240723134126.png]]
+
+![[Pasted image 20240723134142.png]]
+![[Pasted image 20240723134157.png]]

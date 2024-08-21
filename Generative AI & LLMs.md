@@ -214,3 +214,16 @@ With ZERO
 ![[Pasted image 20240821170516.png]] 
 ![[Pasted image 20240821170606.png]]
 ![[Pasted image 20240821170657.png]]
+![[Pasted image 20240821170820.png]]
+
+![[Pasted image 20240821170954.png]]
+
+![[Pasted image 20240821171006.png]]
+
+![[Pasted image 20240821171027.png]]
+
+![[Pasted image 20240821171129.png]]
+
+![[Pasted image 20240821171150.png]]
+
+![[Pasted image 20240821171217.png]]

@@ -211,3 +211,6 @@ With ZERO
 ![[Pasted image 20240821170040.png]]
 
 ### Scaling Laws
+![[Pasted image 20240821170516.png]] 
+![[Pasted image 20240821170606.png]]
+![[Pasted image 20240821170657.png]]

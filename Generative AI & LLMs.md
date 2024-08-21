@@ -206,3 +206,8 @@ Full share of parameters
 With ZERO
 ![[Pasted image 20240821165705.png]]
 ![[Pasted image 20240821165735.png]]
+![[Pasted image 20240821165915.png]]
+![[Pasted image 20240821170023.png]]
+![[Pasted image 20240821170040.png]]
+
+### Scaling Laws

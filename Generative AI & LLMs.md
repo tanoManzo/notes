@@ -196,5 +196,13 @@ Compute Unified Device Architecture
 
 Share data among several gpus with no overlaps. 
 ![[Pasted image 20240821165027.png]]
-Without Zero, the model and all the parameters would be copied on each gpu (Baseline, plot below). With ZeRO, just the parameter concerning the data
+Without Zero, the model and all the parameters would be copied on each gpu (Baseline, plot below). With ZeRO, just the parameter concerning the data of the specific gpu (Pos, plot below). Zero 1 parallelizes only the optimizer parameters, Zero 3 parallelizes everything 
+
 ![[Pasted image 20240821165137.png]]
+
+Full share of parameters  
+![[Pasted image 20240821165535.png]]
+
+With ZERO
+![[Pasted image 20240821165705.png]]
+![[Pasted image 20240821165735.png]]

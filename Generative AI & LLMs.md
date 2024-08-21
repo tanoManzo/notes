@@ -186,3 +186,8 @@ Compute Unified Device Architecture
 ![[Pasted image 20240723140109.png]]
 ![[Pasted image 20240723140126.png]]
 ![[Pasted image 20240723140215.png]]
+### Multiple GPUs
+
+
+ ![[Pasted image 20240821164720.png]]
+ ![[Pasted image 20240821164736.png]]

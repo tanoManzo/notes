@@ -188,6 +188,13 @@ Compute Unified Device Architecture
 ![[Pasted image 20240723140215.png]]
 ### Multiple GPUs
 
-
+#### When the model and all the parameters fit into a single gpu and you want to parallelize it
  ![[Pasted image 20240821164720.png]]
  ![[Pasted image 20240821164736.png]]
+#### When your model and all the parameters do not fit into a single gpu
+![[Pasted image 20240821164902.png]] 
+
+Share data among several gpus with no overlaps. 
+![[Pasted image 20240821165027.png]]
+Without Zero, the model and all the parameters would be copied on each gpu (Baseline, plot below). With ZeRO, just the parameter concerning the data
+![[Pasted image 20240821165137.png]]

@@ -7,3 +7,8 @@ Once the initial model is trained, it is deployed to make inferences on the unla
 2) generate pseudo labels
 3) Class-wise typo
 4) How from raw-pseudo data, we have high-quality data labels. Why not to use an LLM from the begging. .
+
+The paper focuses on extracting PICO elements clinical trial papers, which is important for finding and understanding clinical evidence. Current methods only identify these elements in a broad way, but this study introduces a new model, **FinePICO**, to capture more specific details. The model is trained using a mix of labeled and unlabeled data through a semi-supervised approach. It is tested on 2,511 abstracts and compared to a simpler baseline model. Results show that FinePICO performs better and works well on different datasets and frameworks, making it a useful tool for clinical research.
+
+
+The paper presents FinePICO a semi-supervised model to extract PICO elements form clinical trial papers. 

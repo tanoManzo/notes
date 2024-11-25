@@ -7,3 +7,6 @@ These models not only prioritize candidate causal variants but also reveal the m
 
 
 By integrating statistical fine-mapping with deep learning predictions, researchers have identified variants that likely contribute to complex traits and diseases, underscoring the utility of these approaches in understanding the genetic basis of human phenotypes
+
+
+Selecting the most suitable model for detecting the regulatory effects of genetic variants remains a significant challenge, despite several surveys offering detailed overviews of the deep learning ecosystem in this domain. These surveys have highlighted the unique strengths and limitations of various models. However, they lack a unified framework for assessment. Specifically, existing reviews often fail to benchmark models on a standardized dataset, train or fine-tune them under consistent conditions, and evaluate their performance using uniform criteria. This inconsistency hinders objective evaluation and comparability across different approaches. Addressing this gap through systematic benchmarking is crucial to providing fair performance assessments and guiding the selection of models for diverse applications. 

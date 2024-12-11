@@ -87,3 +87,6 @@ Conclusion
 ![[Pasted image 20241211120309.png]]
 ![[Pasted image 20241211120437.png]]
 ![[Pasted image 20241211120443.png]]
+![[Pasted image 20241211120555.png]]
+![[Pasted image 20241211120603.png]]
+![[Pasted image 20241211120628.png]]

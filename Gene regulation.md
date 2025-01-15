@@ -14,3 +14,6 @@ NF-kB, Transcription System Dynamics and Biology Unit
 
 Presentation 3 
 GATA motif check 
+
+condesantion multivalent interaction
+

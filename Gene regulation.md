@@ -17,3 +17,5 @@ GATA motif check
 
 condesantion multivalent interaction
 
+![[Pasted image 20250117103146.png]]
+

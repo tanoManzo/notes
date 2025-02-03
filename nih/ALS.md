@@ -38,4 +38,37 @@ KIF5A has been on the radar for a while. It popped up as an ALS candidate gene i
 
 ### C9orf72-ALS
 
+The C9ORF72 gene encodes a protein involved in several essential cellular processes:
+
+- **Autophagy and Endosomal Trafficking:** It regulates lysosomal degradation pathways and is crucial for clearing misfolded proteins and damaged organelles.
+- **Immune System Regulation:** It modulates immune responses and inflammatory signaling.
+- **RNA Processing and Nuclear Transport:** It interacts with RNA-binding proteins and is implicated in nuclear-cytoplasmic transport.
+- **Synaptic Function:** Some studies suggest a role in maintaining neuronal health and synaptic plasticity.
+
+The most common pathogenic mutation in **C9ORF72** is an abnormal expansion of a **G4C2 hexanucleotide repeat** located in the gene's first intron.
+
+- **Normal Range:** 2–30 repeats.
+- **Pathogenic Range:** Hundreds to thousands of repeats.
+- **Effect:** The expansion can cause disease through **three main mechanisms**:
+    1. **Loss of Function (Haploinsufficiency)**
+        - The expansion leads to reduced C9ORF72 protein levels, disrupting normal cellular processes.
+    2. **Toxic Gain of Function (RNA Foci Accumulation)**
+        - Expanded repeat sequences form abnormal RNA structures (**RNA foci**) that sequester RNA-binding proteins, disrupting RNA metabolism.
+    3. **Toxic Dipeptide Repeat Proteins (DPRs)**
+        - Repeat-associated non-AUG (RAN) translation produces neurotoxic dipeptide repeat proteins (DPRs), which aggregate in neurons and contribute to neurodegeneration.
+
 Although more patients with genetic ALS carry _C9orf72_ mutations than any other type globally, frequencies vary greatly by ethnicity and geographic region. For example, the highest frequencies of _C9orf72_ expansion mutations are found in Scandinavian countries, while _SOD1_ mutations are much more common in Asia.
+
+- **C9ORF72 and Neurodegenerative Diseases:** Mutations in the C9ORF72 gene, particularly hexanucleotide repeat expansions, are linked to both frontotemporal dementia (FTD) and amyotrophic lateral sclerosis (ALS). These mutations are significant contributors to the genetic overlap observed between these two conditions.
+    
+    [frontiersin.org](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2021.661447/full?utm_source=chatgpt.com)
+    
+- **Protein Function and Haploinsufficiency:** The C9ORF72 protein plays a crucial role in cellular processes, including autophagy and endosomal trafficking. The repeat expansions can lead to reduced levels of functional C9ORF72 protein (haploinsufficiency), which may contribute to disease pathogenesis.
+    
+    [frontiersin.org](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2021.661447/full?utm_source=chatgpt.com)
+    
+- **Pathogenic Mechanisms:** The article discusses how the combination of loss-of-function effects due to haploinsufficiency and gain-of-function toxicities from abnormal RNA transcripts and dipeptide repeat proteins is essential for developing the pathological features of FTD/ALS.
+    
+    [frontiersin.org](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2021.661447/full?utm_source=chatgpt.com)
+    
+- **Therapeutic Implications:** Understanding the dual pathogenic mechanisms suggests that future therapeutic strategies should aim to compensate for the decrease in C9ORF72 protein levels or prevent further reduction, alongside addressing the toxic gain-of-function effects.

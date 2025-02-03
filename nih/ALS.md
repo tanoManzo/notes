@@ -73,3 +73,17 @@ Although more patients with genetic ALS carry _C9orf72_ mutations than any oth
     [frontiersin.org](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2021.661447/full?utm_source=chatgpt.com)
     
 - **Therapeutic Implications:** Understanding the dual pathogenic mechanisms suggests that future therapeutic strategies should aim to compensate for the decrease in C9ORF72 protein levels or prevent further reduction, alongside addressing the toxic gain-of-function effects.
+
+The G4C2 hexanucleotide repeat expansion in the C9ORF72 gene is known to form G-quadruplex structures, which can sequester various RNA-binding proteins (RBPs) through specific motifs. One such protein is **Nucleolin**, which preferentially binds to G4C2-associated G-quadruplexes in vitro and may co-localize with G4C2-RNA foci in C9orf72-derived tissues.
+
+[pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC6980727/?utm_source=chatgpt.com)
+
+Additionally, the protein **MATR3** has been shown to bind directly to G4C2 repeats and associate with other RBPs that interact with these repeats.
+
+[actaneurocomms.biomedcentral.com](https://actaneurocomms.biomedcentral.com/articles/10.1186/s40478-020-01060-y?utm_source=chatgpt.com)
+
+Furthermore, the protein **Pur-alpha** and its binding partner **fragile X mental retardation protein 1 (FMRP)** have been observed to co-localize with G4C2 repeats, suggesting their involvement in binding to these structures.
+
+[pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/25788698/?utm_source=chatgpt.com)
+
+These interactions highlight the complex network of RBPs that recognize and bind to G4C2 repeat expansions, contributing to the pathogenesis of diseases associated with C9ORF72 mutations.

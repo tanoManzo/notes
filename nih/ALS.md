@@ -37,7 +37,8 @@ KIF5A has been on the radar for a while. It popped up as an ALS candidate gene i
 
 
 ### C9orf72-ALS
-
+![[Pasted image 20250203094418.png]]
+![[Pasted image 20250203094316.png]]
 The C9ORF72 gene encodes a protein involved in several essential cellular processes:
 
 - **Autophagy and Endosomal Trafficking:** It regulates lysosomal degradation pathways and is crucial for clearing misfolded proteins and damaged organelles.

@@ -36,3 +36,54 @@ Most cases of ALS begin between the ages of 40 and 70, with an average age of on
 KIF5A has been on the radar for a while. It popped up as an ALS candidate gene in several previous analyses, but never reached genome-wide significance ([Kenna et al., 2016](https://www.alzforum.org/papers/nek1-variants-confer-susceptibility-amyotrophic-lateral-sclerosis)). That changed when first authors Aude Nicolas, Alan Renton, Faraz Fagrhi, and Ruth Chia at NIH genotyped single nucleotide polymorphisms (SNPs) among 20,806 people with ALS and 59,084 controls. They uncovered five SNPs spanning several hundred kilobases on chromosome 12 that achieved genome-wide significance. Four occurred in noncoding DNA, with the fifth landing in the coding region for KIF5A, changing a proline at position 986 to a leucine. The leucine variant increased the risk of ALS a modest 1.38-fold. The association held up in an independent replication set and in a meta-analysis of combined genotyping data from 103,549 people. The GWAS also confirmed five previously identified ALS risk genes: TNP1, C9ORF72, TBK1, UNC13A, and C21ORF2.
 
 
+### C9orf72-ALS
+![[Pasted image 20250203094418.png]]
+![[Pasted image 20250203094316.png]]
+The C9ORF72 gene encodes a protein involved in several essential cellular processes:
+
+- **Autophagy and Endosomal Trafficking:** It regulates lysosomal degradation pathways and is crucial for clearing misfolded proteins and damaged organelles.
+- **Immune System Regulation:** It modulates immune responses and inflammatory signaling.
+- **RNA Processing and Nuclear Transport:** It interacts with RNA-binding proteins and is implicated in nuclear-cytoplasmic transport.
+- **Synaptic Function:** Some studies suggest a role in maintaining neuronal health and synaptic plasticity.
+
+The most common pathogenic mutation in **C9ORF72** is an abnormal expansion of a **G4C2 hexanucleotide repeat** located in the gene's first intron.
+
+- **Normal Range:** 2–30 repeats.
+- **Pathogenic Range:** Hundreds to thousands of repeats.
+- **Effect:** The expansion can cause disease through **three main mechanisms**:
+    1. **Loss of Function (Haploinsufficiency)**
+        - The expansion leads to reduced C9ORF72 protein levels, disrupting normal cellular processes.
+    2. **Toxic Gain of Function (RNA Foci Accumulation)**
+        - Expanded repeat sequences form abnormal RNA structures (**RNA foci**) that sequester RNA-binding proteins, disrupting RNA metabolism.
+    3. **Toxic Dipeptide Repeat Proteins (DPRs)**
+        - Repeat-associated non-AUG (RAN) translation produces neurotoxic dipeptide repeat proteins (DPRs), which aggregate in neurons and contribute to neurodegeneration.
+
+Although more patients with genetic ALS carry _C9orf72_ mutations than any other type globally, frequencies vary greatly by ethnicity and geographic region. For example, the highest frequencies of _C9orf72_ expansion mutations are found in Scandinavian countries, while _SOD1_ mutations are much more common in Asia.
+
+- **C9ORF72 and Neurodegenerative Diseases:** Mutations in the C9ORF72 gene, particularly hexanucleotide repeat expansions, are linked to both frontotemporal dementia (FTD) and amyotrophic lateral sclerosis (ALS). These mutations are significant contributors to the genetic overlap observed between these two conditions.
+    
+    [frontiersin.org](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2021.661447/full?utm_source=chatgpt.com)
+    
+- **Protein Function and Haploinsufficiency:** The C9ORF72 protein plays a crucial role in cellular processes, including autophagy and endosomal trafficking. The repeat expansions can lead to reduced levels of functional C9ORF72 protein (haploinsufficiency), which may contribute to disease pathogenesis.
+    
+    [frontiersin.org](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2021.661447/full?utm_source=chatgpt.com)
+    
+- **Pathogenic Mechanisms:** The article discusses how the combination of loss-of-function effects due to haploinsufficiency and gain-of-function toxicities from abnormal RNA transcripts and dipeptide repeat proteins is essential for developing the pathological features of FTD/ALS.
+    
+    [frontiersin.org](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2021.661447/full?utm_source=chatgpt.com)
+    
+- **Therapeutic Implications:** Understanding the dual pathogenic mechanisms suggests that future therapeutic strategies should aim to compensate for the decrease in C9ORF72 protein levels or prevent further reduction, alongside addressing the toxic gain-of-function effects.
+
+The G4C2 hexanucleotide repeat expansion in the C9ORF72 gene is known to form G-quadruplex structures, which can sequester various RNA-binding proteins (RBPs) through specific motifs. One such protein is **Nucleolin**, which preferentially binds to G4C2-associated G-quadruplexes in vitro and may co-localize with G4C2-RNA foci in C9orf72-derived tissues.
+
+[pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC6980727/?utm_source=chatgpt.com)
+
+Additionally, the protein **MATR3** has been shown to bind directly to G4C2 repeats and associate with other RBPs that interact with these repeats.
+
+[actaneurocomms.biomedcentral.com](https://actaneurocomms.biomedcentral.com/articles/10.1186/s40478-020-01060-y?utm_source=chatgpt.com)
+
+Furthermore, the protein **Pur-alpha** and its binding partner **fragile X mental retardation protein 1 (FMRP)** have been observed to co-localize with G4C2 repeats, suggesting their involvement in binding to these structures.
+
+[pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/25788698/?utm_source=chatgpt.com)
+
+These interactions highlight the complex network of RBPs that recognize and bind to G4C2 repeat expansions, contributing to the pathogenesis of diseases associated with C9ORF72 mutations.

@@ -87,3 +87,11 @@ Furthermore, the protein **Pur-alpha** and its binding partner **fragile X menta
 [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/25788698/?utm_source=chatgpt.com)
 
 These interactions highlight the complex network of RBPs that recognize and bind to G4C2 repeat expansions, contributing to the pathogenesis of diseases associated with C9ORF72 mutations.
+
+### NIH PIs ALS
+
+- **Dr. Michael E. Ward, M.D., Ph.D.**: Leading a research team focusing on the cellular and molecular mechanisms of frontotemporal dementia (FTD) and ALS, Dr. Ward employs cell biology, proteomics, and functional genomics approaches using induced pluripotent stem cell (iPSC) neuron models to understand how familial mutations contribute to neurodegeneration.
+    
+    [irp.nih.gov](https://irp.nih.gov/pi/michael-e-ward?utm_source=chatgpt.com)
+    
+- **Dr. Bryan J. Traynor, M.B., B.Ch., B.A.O., Ph.D.**: As Chief of the Neuromuscular Diseases Research Section at the National Institute on Aging (NIA), Dr. Traynor's work centers on identifying genetic causes of ALS and related disorders. He led the international consortium that discovered the pathogenic repeat expansions in the C9orf72 gene, a common cause of ALS and frontotemporal dementia

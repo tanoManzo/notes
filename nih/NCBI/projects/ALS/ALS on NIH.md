@@ -1,0 +1,1 @@
+![Pasted image 20240506093049.png](app://cd8d816a31ca68b17d7c6e7771b4fba6e87f/Users/manzog2/Documents/projects/notes/images/Pasted%20image%2020240506093049.png?1715002249360)

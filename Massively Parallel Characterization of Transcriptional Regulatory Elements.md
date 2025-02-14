@@ -96,6 +96,7 @@ The study benchmarks **sequence-based deep learning models** against **biochemic
 
 ### **3️⃣ Cross-Cell-Type Generalization**
 
+
 - **MPRALegNet was trained on only 3 cell types but generalizes well**.
 - **Supports the use of cell-type-agnostic models for variant effect predictions.**
 - **Enformer and SeiMPRA outperform on fine-mapping tasks**, but **MPRALegNet is more efficient**.

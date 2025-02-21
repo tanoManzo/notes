@@ -95,3 +95,5 @@ These interactions highlight the complex network of RBPs that recognize and bind
     [irp.nih.gov](https://irp.nih.gov/pi/michael-e-ward?utm_source=chatgpt.com)
     
 - **Dr. Bryan J. Traynor, M.B., B.Ch., B.A.O., Ph.D.**: As Chief of the Neuromuscular Diseases Research Section at the National Institute on Aging (NIA), Dr. Traynor's work centers on identifying genetic causes of ALS and related disorders. He led the international consortium that discovered the pathogenic repeat expansions in the C9orf72 gene, a common cause of ALS and frontotemporal dementia
+
+###

@@ -92,13 +92,13 @@ This script will:
 
 - `list_control_in_enhancer.bed` (control sets)
 - `list_motif_in_enhancer.bed` (positive sets)
-
+*in the same folder. 
 #### Step 1.2.2: Extract Features for Each Nucleotide
 
 Run:
 
 ```
-submit_step1_genebasepair_bychrom.sh
+sh submit_step1_genebasepair_bychrom.sh
 ```
 
 This generates **220 features** per nucleotide in the **positive and control sets** (separately for peak/dip regions).

@@ -65,28 +65,27 @@ FIMO-predicted motif positions serve as **true TF binding sites** and are stored
 - The file `total_final_chip2fimo_HepG2.pvaluee_04.merged` contains motif locations scanned by FIMO across all **HepG2 TF ChIP-seq peaks**.
 - For example, **HNF4A motif positions** are identified within **HNF4A ChIP-seq peaks**.
 - These motif locations will be used as **positive training sets** for the PAR/NAR model.
-
+**ToDo**: Make sure you have the file `.merged` in the given folder. Therefore, add a new file for a different cell-line. 
 ---
-
 ### 1.2 Generate Input Positive and Control Sets
 
-**Directory:**
+**Go to the directory:**
 
 ```
 /data/Dcode/gaetano/CenTRED/CenTRED_for_PARNARs/PARNNAR_model/step1_input_PARNNAR
 ```
 
-#### Step 1: Create Positive and Control Sets
+#### 1.2.1: Create Positive and Control Sets
 
 Run:
 
 ```
-submit_step0_inputfile.sh
+sh submit_step0_inputfile.sh
 ```
 
 This script will:
 
-- Overlap **HepG2 enhancers** with **motif locations** from Step 1.1 to create **positive sets**.
+- Overlap **HepG2 enhancers** with **motif locations** from Step 1.1 to create **positive sets** (FIMO across all **HepG2 TF ChIP-seq peaks**).
 - Generate **control sets** from **HepG2 enhancer regions** that exclude motif locations.
 
 **Output Files:**
@@ -94,7 +93,7 @@ This script will:
 - `list_control_in_enhancer.bed` (control sets)
 - `list_motif_in_enhancer.bed` (positive sets)
 
-#### Step 2: Extract Features for Each Nucleotide
+#### Step 1.2.2: Extract Features for Each Nucleotide
 
 Run:
 
@@ -116,7 +115,7 @@ This generates **220 features** per nucleotide in the **positive and control set
 - `list_motif_in_enhancer.bed.withenh.dip.feature.chr1`
 - `list_motif_in_enhancer.bed.withenh.peak.feature.chr1`
 
-#### Step 3: Split Data into Training and Testing Sets
+#### Step 1.2.3: Split Data into Training and Testing Sets
 
 Run:
 

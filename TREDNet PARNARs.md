@@ -7,7 +7,7 @@ This readme file is for how to train PAR/NAR model from Chip-seq peaks and use t
 
 2. **Submit the Training Job:**
    Run the script to start the training:  
-   `submit_local_jobs.sh`  
+   `submit_local_jobs.sh H1`  
    This will train the model using data from H1 enhancers.
 
 3. **Input Files:**

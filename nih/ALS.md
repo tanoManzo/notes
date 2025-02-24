@@ -17,12 +17,10 @@ ALS (Amyotrophic Lateral Sclerosis), also known as Lou Gehrig's disease. It's a 
 An estimated 29,824 cases were identified, for an adjusted prevalence of 9.1 per 100,000 U.S. population. The demographics of cases of ALS did not change from previous year’s reports. ALS continues to impact Whites, males, and persons over 50 years of age more so than other comparison groups. [PMID: **37602649**]
 
 ### What is the total number of GWAS studies targeting ALS? 
-
 According to GWAS catalog, there are 41 studies related to ALS mainly in Europe. Approximately 15 risk loci have been identified that are associated with ALS susceptibility. [PMID: **35042540**]
 
 
 ### What is the total number of ALS GWAS SNPs? 
-
 According to GWAS catalog: 346 associations. 
 
 ![[Pasted image 20240522094719.png]]

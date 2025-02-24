@@ -7,17 +7,17 @@ This readme file is for how to train PAR/NAR model from Chip-seq peaks and use t
 
 2. **Submit the Training Job:**
    Run the script to start the training:  
-   `submit_local_jobs.sh H1`  
+   `sh submit_local_jobs.sh H1`  
    This will train the model using data from H1 enhancers. You can replace H1 with any bio samples in the input files directory.
 
-3. **Input Files:**
+**Input Files:**
    The input data is located at:  
    `/data/Dcode/gaetano/CenTRED/CenTRED_for_PARNARs/input_training_trednet`  
    The complete input file is located in: 
-   `/data/Dcode/common/CenTRED/hg38/green_celllines/CenTRED_models/`
+   `/data/Dcode/common/CenTRED/hg38/green_celllines/CenTRED_training_files`
    For simplicity, the pre-processed dataset for HepG2 is available in HDF5 format at:  
    `/data/Dcode/common/CenTRED/hg38/green_celllines/CenTRED_models/BioS11/phase_two_dataset.hdf5`
 
-4. **Output:**
+**Output:**
    The trained model will be saved in the following directory:  
    `/data/Dcode/gaetano/CenTRED/CenTRED_for_PARNARs/CenTRED_models/part1`

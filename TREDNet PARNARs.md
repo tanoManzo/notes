@@ -1,6 +1,6 @@
 This readme file is for how to train PAR/NAR model from Chip-seq peaks and use trained model to scan enhancer sequences for PAR/NAR
 ### Step 0: Train the TREDNet Model with Enhancer Coordinates
-
+**To Do:**
 1. **Navigate to the Training Directory:**
    Go to the path:  
    `/data/Dcode/gaetano/CenTRED/CenTRED_for_PARNARs/TREDNet`
@@ -23,11 +23,16 @@ This readme file is for how to train PAR/NAR model from Chip-seq peaks and use t
    `/data/Dcode/gaetano/CenTRED/CenTRED_for_PARNARs/CenTRED_models/part1`
 
 ## Step 1:train PAR/NAR model: /data/Dcode/common/CenTRED_for_Mehari_94biosamples/PARNNAR_model
-/data/Dcode/gaetano/CenTRED/CenTRED_for_PARNARs/PARNNAR_model
-	1.1. FIMO predicted motif positions as "true TF binding sites" in the directory: 
-	/data/Dcode/common/CenTRED_for_Mehari_94biosamples/PARNNAR_model/FIMO_identified_Chipseq_TFBS
-	file total_final_chip2fimo_HepG2.pvaluee_04.merged is from FIMO scanned motif location in 
-	all HepG2 TF Chip-seq peaks and combined together, 
-	eg, HNF4A motif position located in HNF4A Chip-seq peaks. 
-	These motif locations will be the positive sets for PAR/NAR model training
+
+
+**The model is located in**:
+`/data/Dcode/gaetano/CenTRED/CenTRED_for_PARNARs/PARNNAR_model`
+
+1.2. Input: FIMO-Predicted Motif Positions
+FIMO-identified ChIP-seq TF binding sites are stored in:
+/data/Dcode/common/CenTRED_for_Mehari_94biosamples/PARNNAR_model/FIMO_identified_Chipseq_TFBS
+
+The file total_final_chip2fimo_HepG2.pvaluee_04.merged contains motif locations scanned by FIMO across all HepG2 TF ChIP-seq peaks. For example, HNF4A motif positions are located within HNF4A ChIP-seq peaks.
+
+These motif locations serve as positive training sets for the PAR/NAR model.
  

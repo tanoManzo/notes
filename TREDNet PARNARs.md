@@ -147,6 +147,9 @@ This script will:
 
 Using the training and testing sets from Step 1.2, train the **PAR/NAR model**.
 
+- `input_peak.train`, `input_peak.test`
+- `input_dip.train`, `input_dip.test`
+
 **Output File:**
 
 ```

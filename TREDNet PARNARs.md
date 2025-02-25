@@ -6,7 +6,7 @@ This document outlines the process of training the PAR/NAR model using ChIP-seq 
 
 ### 0.1 Navigate to the Training Directory
 
-Go to the path:
+**Go to the path**:
 
 ```
 /data/Dcode/gaetano/CenTRED/CenTRED_for_PARNARs/TREDNet
@@ -14,7 +14,7 @@ Go to the path:
 
 ### 0.2 Submit the Training Job
 
-Run the following script to start the training:
+**Run the following script to start the training**:
 
 ```
 sh submit_local_jobs.sh H1
@@ -93,7 +93,7 @@ This script will:
 - `list_control_in_enhancer.bed` (control sets)
 - `list_motif_in_enhancer.bed` (positive sets)
 *in the same folder. 
-#### Step 1.2.2: Extract Features for Each Nucleotide
+#### 1.2.2: Extract Features for Each Nucleotide
 
 Run:
 
@@ -115,7 +115,7 @@ This generates **220 features** per nucleotide in the **positive and control set
 - `list_motif_in_enhancer.bed.withenh.dip.feature.chr1`
 - `list_motif_in_enhancer.bed.withenh.peak.feature.chr1`
 
-#### Step 1.2.3: Split Data into Training and Testing Sets
+#### 1.2.3: Split Data into Training and Testing Sets
 
 Run:
 

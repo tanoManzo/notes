@@ -120,7 +120,7 @@ This generates **220 features** per nucleotide in the **positive and control set
 Run:
 
 ```
-submit_step2_split.sh
+sh submit_step2_split.sh
 ```
 
 This script will:

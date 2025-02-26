@@ -155,3 +155,34 @@ Using the training and testing sets from Step 1.2, train the **PAR/NAR model**.
 ```
 BioS11_HepG2hg38_peak
 ```
+
+## Step 3: Using a Pre-trained PAR/NAR Model to Scan DNA Sequences (e.g., HepG2 or Other Tissue Enhancers)
+
+#### **2.1. Generate In-Silico Mutagenesis for Enhancers**
+
+- **Directory:** =`/data/Dcode/gaetano/CenTRED/CenTRED_for_PARNARs/gene_mutagenesis/step1_gene_mutagenesis/`
+- This step is also required for **PAR/NAR model training** (see Section 1.2).
+- For **PAR/NAR model training**, only consider **enhancers with FPR > 0.05**.
+
+#### **Steps to Process Enhancers Using the Pre-trained Model**
+
+1. **Extract Fasta Sequences for Enhancers**
+    - **Script:** `submit_step1_fasta_allenh.sh`
+    - Retrieves the **fasta sequences** for enhancers.
+    
+2. **Generate Raw Delta Score Using TREDNet**
+    - **Script:** `submit_step2_run_trednet.sh`
+    - Uses a **pre-trained TREDNet enhancer model** (e.g., HepG2, trained in Section 0.2).
+    - **Model Path:** `/data/Dcode/common/CenTRED_for_Mehari_94biosamples/CenTRED_models/part1/BioS11.phase_two.hg38`.
+
+3. **Normalize Delta Scores**
+    
+    - **Script:** `submit_step3_calculate_deltascore.sh`
+    - Computes the **normalized delta scores**.
+
+### **Improvements:**
+
+✅ Clear structure with headings.  
+✅ Step-by-step breakdown for readability.  
+✅ Removed redundant explanations.  
+✅ File paths and scripts are clearly referenced.

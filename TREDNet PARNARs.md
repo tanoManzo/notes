@@ -185,7 +185,7 @@ BioS11_HepG2hg38_peak
 ####  2.2. again generate 220 features for each nucleotide in the enhancers or the DNA sequence you want
 
 The script `submit_step1_220feature.sh` (located at:  
-📂 `/data/Dcode/common/CenTRED_for_Mehari_94biosamples/gene_mutagenesis/step2_gene_220feature/`)  
+📂 `/data/Dcode/gaetano/CenTRED/CenTRED_for_PARNARs/gene_mutagenesis/step2_gene_220feature/`)  
 automates the generation of 220 features for enhancers in different tissues.
 
 #### **How It Works:**

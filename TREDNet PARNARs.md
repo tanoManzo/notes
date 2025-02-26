@@ -174,7 +174,7 @@ BioS11_HepG2hg38_peak
 2. **Generate Raw Delta Score Using TREDNet**
     - **Script:** `submit_step2_run_trednet.sh`
     - Uses a **pre-trained TREDNet enhancer model** (e.g., HepG2, trained in Section 0.2).
-    - **Model Path:** `/data/Dcode/common/CenTRED_for_Mehari_94biosamples/CenTRED_models/part1/BioS11.phase_two.hg38`.
+    - **Model Path:** `/data/Dcode/gaetano/CenTRED/CenTRED_for_PARNARs/CenTRED_models/part1/BioS11.phase_two.hg38`.
 
 3. **Normalize Delta Scores**
     

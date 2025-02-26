@@ -156,7 +156,7 @@ Using the training and testing sets from Step 1.2, train the **PAR/NAR model**.
 BioS11_HepG2hg38_peak
 ```
 
-## Step 3: Using a Pre-trained PAR/NAR Model to Scan DNA Sequences (e.g., HepG2 or Other Tissue Enhancers)
+## Step 2: Using a Pre-trained PAR/NAR Model to Scan DNA Sequences (e.g., HepG2 or Other Tissue Enhancers)
 
 #### **2.1. Generate In-Silico Mutagenesis for Enhancers**
 
@@ -181,3 +181,26 @@ BioS11_HepG2hg38_peak
     - **Script:** `submit_step3_calculate_deltascore.sh`
     - Computes the **normalized delta scores**.
 
+
+####  2.2. again generate 220 features for each nucleotide in the enhancers or the DNA sequence you want
+
+The script `submit_step1_220feature.sh` (located at:  
+📂 `/data/Dcode/common/CenTRED_for_Mehari_94biosamples/gene_mutagenesis/step2_gene_220feature/`)  
+automates the generation of 220 features for enhancers in different tissues.
+
+#### **How It Works:**
+
+- It **copies** the contents of `./original_code` to create a **separate directory** for each tissue.
+- It then **generates 220 features** **only** for enhancers in that tissue.
+
+#### **Example Output Directory:**
+
+📂 `/data/Dcode/common/CenTRED_for_Mehari_94biosamples/gene_mutagenesis/step2_gene_220feature/feature220_BioS94_1kbp/`
+
+📄 Example feature file:  
+`list_allenh_in_enhancer.bed.withenh.feature.1`
+
+#### ⚠ **Important Note:**
+
+- This step generates **a large amount of data**.
+- **Make sure to delete** unnecessary files after predicting PAR/NAR to free up storage.

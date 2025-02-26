@@ -169,6 +169,7 @@ BioS11_HepG2hg38_peak
 1. **Extract Fasta Sequences for Enhancers**
     - **Script:** `submit_step1_fasta_allenh.sh`
     - Retrieves the **fasta sequences** for enhancers.
+    - Output in folder: `${EID}_${length}`
     
 2. **Generate Raw Delta Score Using TREDNet**
     - **Script:** `submit_step2_run_trednet.sh`
@@ -180,9 +181,3 @@ BioS11_HepG2hg38_peak
     - **Script:** `submit_step3_calculate_deltascore.sh`
     - Computes the **normalized delta scores**.
 
-### **Improvements:**
-
-✅ Clear structure with headings.  
-✅ Step-by-step breakdown for readability.  
-✅ Removed redundant explanations.  
-✅ File paths and scripts are clearly referenced.

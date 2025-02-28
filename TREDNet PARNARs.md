@@ -1,4 +1,8 @@
-This document outlines the process of training the PAR/NAR model using ChIP-seq peaks and utilizing the trained model to scan enhancer sequences.
+# Training and Utilizing the PAR/NAR Model with ChIP-seq Peaks
+
+## Overview
+
+This document outlines the process of training the PAR/NAR model using ChIP-seq peaks and applying the trained model to scan enhancer sequences.
 
 ---
 
@@ -6,7 +10,7 @@ This document outlines the process of training the PAR/NAR model using ChIP-seq 
 
 ### 0.1 Navigate to the Training Directory
 
-**Go to the path**:
+**Go to the path:**
 
 ```
 /data/Dcode/gaetano/CenTRED/CenTRED_for_PARNARs/TREDNet
@@ -14,29 +18,30 @@ This document outlines the process of training the PAR/NAR model using ChIP-seq 
 
 ### 0.2 Submit the Training Job
 
-**Run the following script to start the training**:
+**Run the following script to start the training:**
 
 ```
 sh submit_local_jobs.sh H1
 ```
 
-This trains the model using data from **H1 enhancers**. Replace `H1` with any available biosample from the input files directory.
+- Trains the model using data from **H1 enhancers**.
+- Replace `H1` with any available biosample from the input files directory.
 
 ### 0.3 Input Files
 
-The input data is located at:
+**Input data location:**
 
 ```
 /data/Dcode/gaetano/CenTRED/CenTRED_for_PARNARs/input_training_trednet
 ```
 
-The complete input file can be found at:
+**Complete input file:**
 
 ```
 /data/Dcode/common/CenTRED/hg38/green_celllines/CenTRED_training_files
 ```
 
-For simplicity, a pre-processed dataset for **HepG2** is available in HDF5 format:
+**Pre-processed dataset for HepG2 (HDF5 format):**
 
 ```
 /data/Dcode/common/CenTRED/hg38/green_celllines/CenTRED_models/BioS11/phase_two_dataset.hdf5
@@ -56,26 +61,24 @@ The trained model will be saved in:
 
 ### 1.1 Define Positive TF Binding Sites
 
-FIMO-predicted motif positions serve as **true TF binding sites** and are stored in:
+FIMO-predicted motif positions serve as **true TF binding sites**:
 
 ```
 /data/Dcode/gaetano/CenTRED/CenTRED_for_PARNARs/PARNNAR_model/FIMO_identified_Chipseq_TFBS
 ```
 
-- The file `total_final_chip2fimo_HepG2.pvaluee_04.merged` contains motif locations scanned by FIMO across all **HepG2 TF ChIP-seq peaks**.
-- For example, **HNF4A motif positions** are identified within **HNF4A ChIP-seq peaks**.
-- These motif locations will be used as **positive training sets** for the PAR/NAR model.
-**ToDo**: Make sure you have the file `.merged` in the given folder. Therefore, add a new file for a different cell-line. 
----
+- Example: `total_final_chip2fimo_HepG2.pvaluee_04.merged`
+- **ToDo:** Ensure `.merged` file exists for each cell line.
+
 ### 1.2 Generate Input Positive and Control Sets
 
-**Go to the directory:**
+Navigate to:
 
 ```
 /data/Dcode/gaetano/CenTRED/CenTRED_for_PARNARs/PARNNAR_model/step1_input_PARNNAR
 ```
 
-#### 1.2.1: Create Positive and Control Sets
+#### 1.2.1 Create Positive and Control Sets
 
 Run:
 
@@ -83,17 +86,10 @@ Run:
 sh submit_step0_inputfile.sh
 ```
 
-This script will:
+- Generates **positive sets** (FIMO motif locations in HepG2 enhancers).
+- Generates **control sets** (HepG2 enhancers excluding motif locations).
 
-- Overlap **HepG2 enhancers** with **motif locations** from Step 1.1 to create **positive sets** (FIMO across all **HepG2 TF ChIP-seq peaks**).
-- Generate **control sets** from **HepG2 enhancer regions** that exclude motif locations.
-
-**Output Files:**
-
-- `list_control_in_enhancer.bed` (control sets)
-- `list_motif_in_enhancer.bed` (positive sets)
-*in the same folder. 
-#### 1.2.2: Extract Features for Each Nucleotide
+#### 1.2.2 Extract Features per Nucleotide
 
 Run:
 
@@ -101,21 +97,9 @@ Run:
 sh submit_step1_genebasepair_bychrom.sh
 ```
 
-This generates **220 features** per nucleotide in the **positive and control sets** (separately for peak/dip regions).
+- Computes **220 features** per nucleotide.
 
-**Required Input:** Precomputed **normalized delta scores** per nucleotide.
-
-```
-/data/Dcode/common/CenTRED_for_Mehari_94biosamples/gene_mutagenesis/output_deltascore/BioS11_1kb/output.txt.total.BioS11.fpr5.normscore.newformat
-```
-
-**Output Files (for chromosome 1 as an example):**
-
-- `list_control_in_enhancer.bed.withenh.feature.chr1`
-- `list_motif_in_enhancer.bed.withenh.dip.feature.chr1`
-- `list_motif_in_enhancer.bed.withenh.peak.feature.chr1`
-
-#### 1.2.3: Split Data into Training and Testing Sets
+#### 1.2.3 Split Data into Training and Testing Sets
 
 Run:
 
@@ -123,32 +107,16 @@ Run:
 sh submit_step2_split.sh
 ```
 
-This script will:
-
-- **Merge feature files** containing 220 features.
-- **Split data** into training and testing sets:
-    - **Training set:** Excludes chromosomes **8 and 9**
-    - **Testing set:** Includes chromosomes **8 and 9**
-
-**Output Files:**
-
-- `input_peak.train`, `input_peak.test`
-- `input_dip.train`, `input_dip.test`
-
----
+- **Training set:** Excludes chromosomes **8 and 9**.
+- **Testing set:** Includes chromosomes **8 and 9**.
 
 ### 1.3 Train the PAR/NAR Model
 
-**Directory:**
+Navigate to:
 
 ```
 /data/Dcode/common/CenTRED_for_Mehari_94biosamples/PARNNAR_model/step2_train_PARNNAR
 ```
-
-Using the training and testing sets from Step 1.2, train the **PAR/NAR model**.
-
-- `input_peak.train`, `input_peak.test`
-- `input_dip.train`, `input_dip.test`
 
 **Output File:**
 
@@ -156,62 +124,97 @@ Using the training and testing sets from Step 1.2, train the **PAR/NAR model**.
 BioS11_HepG2hg38_peak
 ```
 
-## Step 2: Using a Pre-trained PAR/NAR Model to Scan DNA Sequences (e.g., HepG2 or Other Tissue Enhancers)
+---
 
-#### **2.1. Generate In-Silico Mutagenesis for Enhancers**
+## Step 2: Scanning DNA Sequences Using a Pre-trained PAR/NAR Model
 
-- **Directory:** =`/data/Dcode/gaetano/CenTRED/CenTRED_for_PARNARs/gene_mutagenesis/step1_gene_mutagenesis/`
-- This step is also required for **PAR/NAR model training** (see Section 1.2).
-- For **PAR/NAR model training**, only consider **enhancers with FPR > 0.05**.
+### 2.1 Generate In-Silico Mutagenesis for Enhancers
 
-#### **Steps to Process Enhancers Using the Pre-trained Model**
+Navigate to:
 
-1. **Extract Fasta Sequences for Enhancers**
-    - **Script:** `submit_step1_fasta_allenh.sh`
-    - Retrieves the **fasta sequences** for enhancers.
-    - Output in folder: `${EID}_${length}`
-    
-2. **Generate Raw Delta Score Using TREDNet**
-    - **Script:** `submit_step2_run_trednet.sh`
-    - Uses a **pre-trained TREDNet enhancer model** (e.g., HepG2, trained in Section 0.2).
-    - **Model Path:** `/data/Dcode/gaetano/CenTRED/CenTRED_for_PARNARs/CenTRED_models/part1/BioS11.phase_two.hg38`.
+```
+/data/Dcode/gaetano/CenTRED/CenTRED_for_PARNARs/gene_mutagenesis/step1_gene_mutagenesis/
+```
 
-3. **Normalize Delta Scores**
-    
-    - **Script:** `submit_step3_calculate_deltascore.sh`
-    - Computes the **normalized delta scores**.
+- **Extract fasta sequences** using:
 
+```
+sh submit_step1_fasta_allenh.sh
+```
 
-####  2.2. again generate 220 features for each nucleotide in the enhancers or the DNA sequence you want
+- **Generate raw delta scores** using TREDNet:
 
-The script `submit_step1_220feature.sh` (located at:  
-📂 `/data/Dcode/gaetano/CenTRED/CenTRED_for_PARNARs/gene_mutagenesis/step2_gene_220feature/`)  
-automates the generation of 220 features for enhancers in different tissues.
+```
+sh submit_step2_run_trednet.sh
+```
 
-#### **How It Works:**
+- **Normalize delta scores:**
 
-- It **copies** the contents of `./original_code` to create a **separate directory** for each tissue.
-- It then **generates 220 features** **only** for enhancers in that tissue.
+```
+sh submit_step3_calculate_deltascore.sh
+```
 
-#### **Example Output Directory:**
+### 2.2 Generate 220 Features for Each Nucleotide
 
-📂 `/data/Dcode/common/CenTRED_for_Mehari_94biosamples/gene_mutagenesis/step2_gene_220feature/feature220_BioS94_1kbp/`
+Navigate to:
 
-📄 Example feature file:  
-`list_allenh_in_enhancer.bed.withenh.feature.1`
+```
+/data/Dcode/gaetano/CenTRED/CenTRED_for_PARNARs/gene_mutagenesis/step2_gene_220feature/
+```
 
-#### ⚠ **Important Note:**
+Run:
 
-- This step generates **a large amount of data**.
-- **Make sure to delete** unnecessary files after predicting PAR/NAR to free up storage.
+```
+sh submit_step1_220feature.sh
+```
 
-#### 2.3. generate PAR/NAR by scanning the 220 features from section 2.2, 
-in /data/Dcode/common/CenTRED_for_Mehari_94biosamples/gene_mutagenesis/step3_gene_peakNdip
-	in submit_step1_scan_peakNdip.sh, using model from /data/Dcode/common/CenTRED_for_Mehari_94biosamples/PARNNAR_model/step2_train_PARNNAR/BioS11_HepG2hg38_peak (previous section in 1.3) to predict peak/dip status for each nucleotide, the output file is located in: /data/Dcode/common/CenTRED_for_Mehari_94biosamples/gene_mutagenesis/output_peakNdip/peak/feature220_BioS11_1kbp/output.BioS11.1 
-	in submit_step2_filter_fpr.sh, filter these peak/dip prediction by fpr 0.01 or fpr 0.05 based on PAR/NAR model, the output file is /data/Dcode/common/CenTRED_for_Mehari_94biosamples/gene_mutagenesis/output_peakNdip/peak/feature220_BioS11_1kbp/output.BioS11.total.peak.fpr1.dis_ease.sorted
-	in submit_step3_gene_PASNDAS.sh, merge the filtered peak/dip nucleotides to form PAR/NAR regions.
+### 2.3 Scan DNA Sequences Using the Pre-trained Model
 
-## step 3 instead of using top/bottom 5% deltascore to define PAR/NAR directly
-you can also build an extra layer of PAR/NAR model based on top/bottom 5% deltascore is in /data/Dcode/common/CenTRED/hg38_PASNDAS/step5_DLPARNAR_ontop5percent
+Navigate to:
 
+```
+/data/Dcode/gaetano/CenTRED/CenTRED_for_PARNARs/gene_mutagenesis/step3_gene_peakNdip
+```
 
+Run:
+
+- **Predict peak/dip status:**
+
+```
+sh submit_step1_scan_peakNdip.sh
+```
+
+- **Filter predictions by FPR (0.01 or 0.05):**
+
+```
+sh submit_step2_filter_fpr.sh
+```
+
+- **Merge filtered peak/dip nucleotides into PAR/NAR regions:**
+
+```
+sh submit_step3_gene_PASNDAS.sh
+```
+
+---
+
+## Step 3: Alternative Approach - Using Delta Scores for PAR/NAR Modeling
+
+Instead of defining PAR/NAR directly using top/bottom 5% delta scores, an additional modeling step can be performed. Navigate to:
+
+```
+/data/Dcode/common/CenTRED/hg38_PASNDAS/step5_DLPARNAR_ontop5percent
+```
+
+This approach builds an extra layer of the PAR/NAR model based on delta scores.
+
+---
+
+## Summary
+
+- **Step 0:** Train TREDNet with enhancer coordinates.
+- **Step 1:** Train PAR/NAR using motif locations from ChIP-seq peaks.
+- **Step 2:** Scan sequences using the trained model and generate predictions.
+- **Step 3:** Alternative approach using delta scores.
+
+Ensure **proper storage management** to handle large data files efficiently.

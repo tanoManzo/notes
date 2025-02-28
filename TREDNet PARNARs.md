@@ -204,3 +204,14 @@ automates the generation of 220 features for enhancers in different tissues.
 
 - This step generates **a large amount of data**.
 - **Make sure to delete** unnecessary files after predicting PAR/NAR to free up storage.
+
+#### 2.3. generate PAR/NAR by scanning the 220 features from section 2.2, 
+in /data/Dcode/common/CenTRED_for_Mehari_94biosamples/gene_mutagenesis/step3_gene_peakNdip
+	in submit_step1_scan_peakNdip.sh, using model from /data/Dcode/common/CenTRED_for_Mehari_94biosamples/PARNNAR_model/step2_train_PARNNAR/BioS11_HepG2hg38_peak (previous section in 1.3) to predict peak/dip status for each nucleotide, the output file is located in: /data/Dcode/common/CenTRED_for_Mehari_94biosamples/gene_mutagenesis/output_peakNdip/peak/feature220_BioS11_1kbp/output.BioS11.1 
+	in submit_step2_filter_fpr.sh, filter these peak/dip prediction by fpr 0.01 or fpr 0.05 based on PAR/NAR model, the output file is /data/Dcode/common/CenTRED_for_Mehari_94biosamples/gene_mutagenesis/output_peakNdip/peak/feature220_BioS11_1kbp/output.BioS11.total.peak.fpr1.dis_ease.sorted
+	in submit_step3_gene_PASNDAS.sh, merge the filtered peak/dip nucleotides to form PAR/NAR regions.
+
+## step 3 instead of using top/bottom 5% deltascore to define PAR/NAR directly
+you can also build an extra layer of PAR/NAR model based on top/bottom 5% deltascore is in /data/Dcode/common/CenTRED/hg38_PASNDAS/step5_DLPARNAR_ontop5percent
+
+

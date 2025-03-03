@@ -21,3 +21,7 @@ To the sentence at page 5: "This trend also was observed in blood cells ( SL lo
 The sentence: "The exception cluster (the “pink” in Figure 4A) contains the genes upregulated across multiple cell types in the AD DLPFC, with an example of _MAPT_ which is upregulated in AD excitatory and inhibitory neurons, microglia and oligodendrocytes."
 
 can be improved: "The exception cluster (the “pink” in Figure 4A) comprises genes that are upregulated across multiple cell types in the AD DLPFC. Notably, _MAPT_ serves as an example, showing increased expression in AD excitatory and inhibitory neurons, microglia, and oligodendrocytes."
+
+### section: **Deep learning identifies AD causal variants through accurately quantifying their regulatory impacts.**
+
+I would change the word "through" with the word "by" in the title of the section.

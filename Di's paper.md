@@ -1,1 +1,1 @@
-Can you indicate which type of correlation (e.g., )
+Can you indicate which type of correlation (e.g., pearson) in the abstract: "..average correlation of 0.54.."

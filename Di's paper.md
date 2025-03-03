@@ -32,4 +32,8 @@ I would change the word "through" with the word "by" in the title of the section
 
 In the section you say: " we adapted TREDNet" but in the discussion you say "we developed a deep learning framework, TREDNet"
 
-When you say: "Candidate silencers were the DNase-seq peaks overlapping H3K27me3 peaks but not H3K27ac peaks in the central 400bp, together with the H3K27me3 peaks not overlapping H3K27ac peaks." It seems that you are taking H3k27me3 peaks not overlapping H3K27ac as candidate silencers. So the overlaping of DNase-seq and H3K27me3 seems unnecessary. Maybe I got wrong this sentence.
+When you say: "Candidate silencers were the DNase-seq peaks overlapping H3K27me3 peaks but not H3K27ac peaks in the central 400bp, together with the H3K27me3 peaks not overlapping H3K27ac peaks." 
+It seems that you are taking H3k27me3 peaks not overlapping H3K27ac as candidate silencers. So the overlaping of DNase-seq and H3K27me3 seems unnecessary. Maybe I got wrong this sentence.
+
+This sentence is unclear: "To predict enhancers and silencers for 9 cellular contexts, TREDNet model consist of 19 output nodes with the activation function of “softmax”, corresponding to silencers and enhancers for nine cellular contexts, as well as controls." 
+Please clarify why 19 and not 18 (probable 9 enh, 9 sil, 1 control). Please if you add the description of a layer in the node "softmax layer" consider adding also other layers' description, (e.g., linear layer + softmax). Please consider motivating the choice of softmax as activation function over the others. 

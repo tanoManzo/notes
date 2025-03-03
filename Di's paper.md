@@ -25,3 +25,9 @@ can be improved: "The exception cluster (the “pink” in Figure 4A) comprises 
 ### section: **Deep learning identifies AD causal variants through accurately quantifying their regulatory impacts.**
 
 I would change the word "through" with the word "by" in the title of the section.
+
+## Methods
+
+### section: predicting silencer and enhancer..
+
+In the section you say: " we adapted TREDNet" but in the discussion you say "we developed a deep learning framework, TREDNet"

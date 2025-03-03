@@ -41,4 +41,10 @@ Please clarify why 19 and not 18 (probable 9 enh, 9 sil, 1 control). Please if y
 Please clarify the threshold Csi, so the sentence: "In a cellular context c_s_i, was the prediction score corresponding to a false positive rate (FPR) of 0.05 among test samples wherein 90% were controls" 
 It is unclear if it is a threshold or a prediction score. 
 
-### section: DeltaA
+### section: DeltaActivity of regulatory variants
+Several studies use the log ratio. Can you motivate the choice of the difference (e.g., mut-wild) instead of ration (e.g., mut/wild)?
+
+
+### section: Predicting gene expression in AD ..
+
+please motivate the choice of a linear lasso. Sentence: "We applied the Lasso linear model (from scikit-learning library, with the setting of alpha =0.0001, precompute=True, max_iter=1000 and selection=‘random’) to predict AD subtype gene expression using three input types: (1) gene expression profiles, (2) regulatory impact profiles, and (3) a combination of both."

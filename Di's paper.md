@@ -11,3 +11,7 @@ I would add a comma after "Here, to assess.....", and I would use dash as you di
 ## In Results 
 ### section: Deep Learning profiles ... 
 do you have an explanation to the drop in performance from enhancer to silencer for the sentence: "(AUPRC) of 0.885 for enhancers and 0.637 for silencers on average"
+
+### section: AD-associated ..
+
+To the sentence at page 5: "This trend also was observed in blood cells ( SL loci vs all other loci) 40, key modulars of immune systems." I will change it in "This trend was ALSO observed in blood cells ( SL loci vs all other loci) 40, key MODULATOR of immune systems."

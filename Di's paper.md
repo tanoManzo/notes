@@ -31,3 +31,5 @@ I would change the word "through" with the word "by" in the title of the section
 ### section: predicting silencer and enhancer..
 
 In the section you say: " we adapted TREDNet" but in the discussion you say "we developed a deep learning framework, TREDNet"
+
+When you say: "Candidate silencers were the DNase-seq peaks overlapping H3K27me3 peaks but not H3K27ac peaks in the central 400bp, together with the H3K27me3 peaks not overlapping H3K27ac peaks." It seems that you are taking H3k27me3 peaks not overlapping H3K27ac as candidate silencers. So the overlaping of DNase-seq and H3K27me3 seems unnecessary. Maybe I got wrong this sentence.

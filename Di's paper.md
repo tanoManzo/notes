@@ -14,4 +14,5 @@ do you have an explanation to the drop in performance from enhancer to silencer 
 
 ### section: AD-associated ..
 
-To the sentence at page 5: "This trend also was observed in blood cells ( SL loci vs all other loci) 40, key modulars of immune systems." I will change it in "This trend was ALSO observed in blood cells ( SL loci vs all other loci) 40, key MODULATOR of immune systems."
+To the sentence at page 5: "This trend also was observed in blood cells ( SL loci vs all other loci) 40, key modulars of immune systems." I will change it in "This trend was **ALSO** observed in blood cells ( SL loci vs all other loci) 40, key **MODULATORS** of immune systems."
+

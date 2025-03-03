@@ -16,3 +16,8 @@ do you have an explanation to the drop in performance from enhancer to silencer 
 
 To the sentence at page 5: "This trend also was observed in blood cells ( SL loci vs all other loci) 40, key modulars of immune systems." I will change it in "This trend was **ALSO** observed in blood cells ( SL loci vs all other loci) 40, key **MODULATORS** of immune systems."
 
+### section: SL-locuc radSVN
+
+The sentence: "The exception cluster (the “pink” in Figure 4A) contains the genes upregulated across multiple cell types in the AD DLPFC, with an example of _MAPT_ which is upregulated in AD excitatory and inhibitory neurons, microglia and oligodendrocytes."
+
+can be improved: "The exception cluster (the “pink” in Figure 4A) comprises genes that are upregulated across multiple cell types in the AD DLPFC. Notably, _MAPT_ serves as an example, showing increased expression in AD excitatory and inhibitory neurons, microglia, and oligodendrocytes."

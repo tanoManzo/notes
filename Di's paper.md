@@ -37,3 +37,8 @@ It seems that you are taking H3k27me3 peaks not overlapping H3K27ac as candidate
 
 This sentence is unclear: "To predict enhancers and silencers for 9 cellular contexts, TREDNet model consist of 19 output nodes with the activation function of “softmax”, corresponding to silencers and enhancers for nine cellular contexts, as well as controls." 
 Please clarify why 19 and not 18 (probable 9 enh, 9 sil, 1 control). Please if you add the description of a layer in the node "softmax layer" consider adding also other layers' description, (e.g., linear layer + softmax). Please consider motivating the choice of softmax as activation function over the others. 
+
+Please clarify the threshold Csi, so the sentence: "In a cellular context c_s_i, was the prediction score corresponding to a false positive rate (FPR) of 0.05 among test samples wherein 90% were controls" 
+It is unclear if it is a threshold or a prediction score. 
+
+### section: DeltaA

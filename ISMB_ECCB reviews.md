@@ -1,3 +1,4 @@
+## Reviewer 1
 
 This paper presents a comprehensive evaluation of deep learning models for predicting the effects of genetic variants on enhancer activity. Its key contributions include a benchmarking framework that covers nine datasets derived from three experimental methods, a systematic evaluation of several DNA foundation models—such as Gena-LM, DNABERT2, HyenaDNA, and the Nucleotide Transformer series—and four supervised models, including SEI, TREDNet, Enformer, and Borzoi. However, there exist some main limitations in their evaluations, analysis, and writing, as detailed below.  
   
@@ -22,3 +23,6 @@ References
 Schiff, Yair, et al. "Caduceus: Bi-directional equivariant long-range dna sequence modeling." arXiv preprint arXiv:2403.03234 (2024).  
   
 Sanabria, Melissa, et al. "DNA language model GROVER learns sequence context in the human genome." Nature Machine Intelligence 6.8 (2024): 911-923.
+
+## Reviewer 2
+

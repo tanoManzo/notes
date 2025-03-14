@@ -46,3 +46,29 @@ Furthermore, it might be a good idea to already include there a measure that agg
   
 - Sometimes the wording does not quite match the numbers shown in the plots. While it is true CNN-based methods outperform transformers by and large, the absolute performance of all methods is low. Pearson correlation of 0.25 and binary classification accuracy of 0.6 does not justify statements such as “CNN-based models, …, excel in predicting variant effects.”.  
 Also, it seems that TREDNet is quite good in the regression, but not very competitive for enhancer detection and variant classification task (cf. Fig. 5, 6), but this becomes apparent only from inspecting the plots in detail. Any speculation why that is?
+
+
+## Review 5
+The authors consider the accuracy of different deep learning approaches to assess the effect of SNPs given 1000bp DNA fragments as input data. Results suggest that CNNs typically perform better than more general, longer context transformer models on this task, although there are some tasks where other architectures do well, e.g. causal SNP identification and enhancer region detection.  
+  
+I think it is potentially interesting to point out this kind of result. However, I think it is also important to acknowledge that the context here is very short for some of these models and also that some of these models are simply not designed for this task. In the conclusion the authors themselves say that “This further suggests that hybrid models should not be compared to CNN models based purely on the predictive power of regulatory variants, but evaluated fully in the context of the specific biological tasks”. Yet that is exactly what is done in the current paper?  
+  
+I think it is also important to make it clear that these models are trained on completely different kinds of data – so you are not only comparing architectures, you are comparing model + dataset. That makes things pretty complex in terms of benchmarking performance.  
+  
+Specific technical comments:  
+  
+1000bp fragments are a very short context for many of the transformer models. For example, Nucleotide Transformer uses non-overlapping 6-mers so 1000bp is only 167 tokens for the 1000 token context length it actually uses. GENA_LM uses Byte-Pair encoding meaning that the 1000bp probably only takes 150ish of the 512 token context length. Both of these models, because of their tokenization methods, are probably not suited for accurate individual nucleotide predictions. It would be interesting to see whether a longer context improves performance.  
+  
+Can you say something about why Borzoi is working well for the causal SNP problem?  
+  
+I’m not sure how the GeneFormer is used for these tasks. In the methods section it would be good to explain how the methods are used and fine-tuned specifically for this study rather than giving the long general descriptions of the methods.  
+  
+For the CNN models it would be good to explain in the methods section how they incorporate cell-type information for people not familiar. I'm not sure exactly how you have applied them in the tasks presented.  
+  
+Specific style comments:  
+  
+The methods section has a long summary of all the models. That is more like a background section than a methods section. You can just refer to the original papers which describe the methods. The methods section should describe what was done in this study specifically, what is needed to understand the results and datasets. A concise text description with citations, or a table, would be more suitable. Explaining the terminology used in the model description in the figures and tables would be useful (e.g. explaining the difference between all the different variants of each method).  
+  
+The discussion and results are quite repetitive with the same general points about CNNs and transformers is made multiple times.  
+  
+There is a lot of variation in the presentation styles used for the same types of data. A more uniform presentation style would make the results easier to digest for the reader.

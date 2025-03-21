@@ -17,13 +17,11 @@ ALS (Amyotrophic Lateral Sclerosis), also known as Lou Gehrig's disease. It's a 
 An estimated 29,824 cases were identified, for an adjusted prevalence of 9.1 per 100,000 U.S. population. The demographics of cases of ALS did not change from previous year’s reports. ALS continues to impact Whites, males, and persons over 50 years of age more so than other comparison groups. [PMID: **37602649**]
 
 ### What is the total number of GWAS studies targeting ALS? 
-
-According to GWAS catalog, there are 41 studies related to ALS mainly in Europe. Approximately 15 risk loci have been identified that are associated with ALS susceptibility. [PMID: **35042540**]
+According to GWAS catalog, there are 44 studies related to ALS mainly in Europe. Approximately 15 risk loci have been identified that are associated with ALS susceptibility. [PMID: **35042540**]
 
 
 ### What is the total number of ALS GWAS SNPs? 
-
-According to GWAS catalog: 346 associations. 
+According to GWAS catalog: 353 associations. 
 
 ![[Pasted image 20240522094719.png]]
 
@@ -97,3 +95,5 @@ These interactions highlight the complex network of RBPs that recognize and bind
 - **Dr. Bryan J. Traynor, M.B., B.Ch., B.A.O., Ph.D.**: As Chief of the Neuromuscular Diseases Research Section at the National Institute on Aging (NIA), Dr. Traynor's work centers on identifying genetic causes of ALS and related disorders. He led the international consortium that discovered the pathogenic repeat expansions in the C9orf72 gene, a common cause of ALS and frontotemporal dementia
 
 ###
+
+When comparing mutation rates of known ALS genes, _C9orf72_ repeat expansions occurred one to two times more frequently than _SOD1_ mutations, together explaining 18%–50% of familial ALS patients ([Smith et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C114); [Stewart et al. 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C117)). Nevertheless, especially in ALS, in which family history is observed in only 10% of patients, sporadic ALS patients who carry an expanded repeat outnumber familial ALS patients. It is important to note that the frequency of _C9orf72_ G4C2 hexanucleotide repeat expansions greatly depends on ethnicity and geographical region. Globally, frequencies are the highest in the Caucasian populations of Europe and North America, ranging from 7% to 28% in ALS, 3.5% to 18% in FTLD, and 15% to more than 50% in ALS-FTD ([Cruts et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C28)). In European populations, frequencies were markedly elevated in ALS patients from Scandinavian countries ([Majounie et al. 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C79); [Lindquist et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C74); [Smith et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C114); [van der Zee et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C130)). In strong contrast, pathological repeat expansions were rarely observed in Asian populations, with frequencies of 0.4%–4.8% in ALS cases ([Majounie et al. 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C79); [Tsai et al. 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C123); [Jang et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C60); [Konno et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C66); [Zou et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C146)).

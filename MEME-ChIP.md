@@ -19,3 +19,4 @@ The **MEME-ChIP** web service is a tool designed for **motif discovery and enric
     - **MAST**: Maps discovered motifs to the **full-length** input sequences.
         
     - **Comparison to JASPAR CORE**: Identifies **transcription factors (TFs)** that may bind to the discovered motifs.
+![[Pasted image 20250331102249.png]]

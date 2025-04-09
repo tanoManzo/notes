@@ -3,3 +3,6 @@
 - background denucleotide shuffle, DHS control, flanks control
 - 1kbp sequences vs 500bp (to check)
 - graphs from SHAP
+
+Sanjar
+- atac seq

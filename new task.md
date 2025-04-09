@@ -8,4 +8,5 @@ Sanjar
 - atac seq
 - elongation in open regulatory element
 - transient binds 
-- 
+- cohesin 
+- rna 

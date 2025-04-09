@@ -20,3 +20,4 @@ Sanjar
 - check other histone modification
 - Starr-seq
 - Super Enhancer
+- HOT

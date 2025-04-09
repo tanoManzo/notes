@@ -9,4 +9,8 @@ Sanjar
 - elongation in open regulatory element
 - transient binds 
 - cohesin 
-- rna 
+- rna pol complex
+- pioneer TF 
+- Cofactors
+- chromatin remodelrs
+- rna binding proteins

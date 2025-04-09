@@ -18,4 +18,5 @@ Sanjar
 - fos
 - jun
 - check other histone modification
-- 
+- Starr-seq
+- Super Enhancer

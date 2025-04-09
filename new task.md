@@ -1,0 +1,5 @@
+- compare trednet phase 3, tf motif disco, deepshap, deeplift
+- hnf4a chip-seq, enhancer hepg2
+- background denucleotide shuffle, DHS control, flanks control
+- 1kbp sequences vs 500bp (to check)
+- 

@@ -17,3 +17,5 @@ Sanjar
 - AP1
 - fos
 - jun
+- check other histone modification
+- 

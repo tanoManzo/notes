@@ -21,3 +21,4 @@ Sanjar
 - Starr-seq
 - Super Enhancer
 - HOT
+- Indels

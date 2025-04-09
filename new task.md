@@ -15,3 +15,5 @@ Sanjar
 - chromatin remodelrs
 - rna binding proteins
 - AP1
+- fos
+- jun

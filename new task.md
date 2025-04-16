@@ -14,7 +14,7 @@ other dhs from different cell line
 - TF-motidisco
 - output phase II use to deepSHAP
 - optmize deepSHAP,
-- individual variance
+- individual variance SNP
 
 
 

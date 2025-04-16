@@ -10,6 +10,8 @@
 other dhs from different cell line
 - different length 
 - shuffling 
+- profile for others
+- TF-motidisco
 
 
 

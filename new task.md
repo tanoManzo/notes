@@ -12,6 +12,9 @@ other dhs from different cell line
 - shuffling 
 - profile for others
 - TF-motidisco
+- output phase II use to deepSHAP
+- optmize deepSHAP,
+- individual variance
 
 
 

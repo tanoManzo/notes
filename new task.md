@@ -4,6 +4,21 @@
 - 1kbp sequences vs 500bp (to check)
 - graphs from SHAP
 
+## feedback
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Sanjar
 - atac seq
 - elongation in open regulatory element

@@ -1,0 +1,2 @@
+- all technical,
+- hypothetical scores for both experiments, 

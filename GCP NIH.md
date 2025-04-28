@@ -14,3 +14,4 @@ Definitely to checkout those!
 2) Admin form: CAN, etc. (DCC)
 ![[Pasted image 20250428134252.png]]
 
+Notes: set threshold for money spending. 

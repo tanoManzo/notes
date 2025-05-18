@@ -147,12 +147,136 @@ The GWAS also confirmed five previously identified ALS risk genes:
 - Genetics: [PMID: 35042540][2], [PMID: 22647138][9]  
 - Clinical Impact: [Nature (2017)][6], [Neurology (2020)][5]
 
+## Regulatory Elements of C9orf72
+
+The expression and regulation of the **C9orf72** gene are influenced by several key genomic and epigenetic elements. Disruption of these elements, especially by hexanucleotide repeat expansions, is central to ALS and FTD pathogenesis.
+
+---
+
+### 1. Promoter Region and G4C2 Repeat
+
+- **Location:** 5' untranslated region (5' UTR) of *C9orf72*.
+- **Key Feature:** Contains a GGGGCC (G4C2) hexanucleotide repeat.
+- **Normal Function:** 
+  - Regulates transcription of *C9orf72*.
+  - Normal alleles have 6–24 repeats.
+- **Pathogenic Expansion:** 
+  - >30 repeats leads to:
+    - Epigenetic silencing (hypermethylation).
+    - Reduced *C9orf72* mRNA and protein (haploinsufficiency).
+    - Production of toxic RNA foci and dipeptide repeats (via RAN translation).
+
+---
+
+### 2. CpG Islands and Epigenetic Modifications
+
+- **CpG Islands:** Rich in cytosine and guanine nucleotides, flanking the repeat region.
+- **Epigenetic Changes:**
+  - **Hypermethylation** of CpG islands in carriers of the repeat expansion.
+  - **Histone modifications** (e.g., H3K9me3, H3K27me3) that compact chromatin and silence gene expression.
+- **Functional Impact:** 
+  - Silencing reduces *C9orf72* expression, contributing to neurodegeneration.
+- **Therapeutic Angle:** 
+  - Demethylating agents (e.g., 5-aza-2'-deoxycytidine) can partially restore gene expression in cellular models.
+
+---
+
+### 3. Conserved Non-Coding Sequences
+
+- **Location:** Upstream and downstream of the G4C2 repeat.
+- **Function:** 
+  - Bind transcription factors such as SP1 and CTCF.
+  - Modulate basal transcriptional activity.
+- **Genetic Variation:** 
+  - Structural variants in these regions may influence repeat stability and disease risk.
+
+---
+
+### 4. Antisense Transcripts and Bidirectional Promoters
+
+- **Bidirectional Promoter:** Drives both sense and antisense transcription at the *C9orf72* locus.
+- **Antisense Transcripts:** 
+  - Produce C4G2 repeat RNAs, which can form toxic RNA foci.
+  - Contribute to the pathology via RNA toxicity and abnormal protein products (RAN translation).
+
+---
+
+### **Summary Table: C9orf72 Regulatory Elements**
+
+| **Element**                | **Location/Feature**         | **Role/Impact**                                      |
+|----------------------------|-----------------------------|------------------------------------------------------|
+| Promoter & G4C2 repeat     | 5' UTR                      | Transcription regulation, site of pathogenic repeat   |
+| CpG islands                | Flanking repeat region       | Epigenetic silencing via methylation                 |
+| Conserved non-coding seqs  | Upstream/downstream          | Transcription factor binding, repeat stability        |
+| Bidirectional promoter     | Overlaps sense/antisense     | Drives both sense and antisense transcripts           |
+
+---
+
+**References:**  
+- DeJesus-Hernandez et al., Neuron, 2011  
+- Gijselinck et al., Human Molecular Genetics, 2016  
+- Zhang et al., Nature Communications, 2019  
+- [PMID: 22658599](https://pubmed.ncbi.nlm.nih.gov/22658599/)  
+
+## Enhancers and Regulatory Elements in C9orf72-ALS/FTD
+
+Recent studies highlight the critical role of **enhancers** and other regulatory elements in modulating *C9orf72* expression and mitigating toxicity in ALS/FTD. Below is a synthesis of key findings:
+
+---
+
+### **1. Super-Enhancers Protect Against PolyPR Toxicity**
+- **Mechanism**:  
+  Super-enhancers upregulate **KPNA2** and **KPNB1**, nuclear import proteins that sequester toxic **poly(proline-arginine) (PR20)** in the cytoplasm[2].
+  - PR20 is a dipeptide repeat protein generated from *C9orf72* G4C2 repeat expansions.  
+  - Cytoplasmic retention of PR20 prevents nuclear entry and cell death[2].
+- **Disruption**:  
+  Inhibiting super-enhancers with **JQ-1** or **Ivermectin** reduces KPNA2/KPNB1 levels, allowing PR20 nuclear translocation and triggering apoptosis[2].
+- **Therapeutic Insight**:  
+  Enhancing KPNA2/KPNB1 expression could counteract PR20 toxicity[2].
+
+---
+
+### **2. Enhancer-Promoter Interactions**
+- **General Function**:  
+  Enhancers are cis-regulatory elements that loop to promoters, recruiting transcription factors (e.g., CTCF) to modulate *C9orf72* expression[1][5].
+- **Dysregulation in ALS/FTD**:  
+  Pathogenic G4C2 expansions disrupt chromatin architecture, impairing enhancer-promoter communication and reducing *C9orf72* transcription[3][5].
+
+---
+
+### **3. Transposable Elements (TEs) and Chromatin Organization**
+- **Role of TEs**:  
+  Retrotransposons and transposons may alter enhancer activity or create new regulatory elements near *C9orf72*, influencing disease risk[5].
+- **Topologically Associating Domains (TADs)**:  
+  TAD boundaries, marked by CTCF/cohesin, insulate *C9orf72* from aberrant heterochromatin spreading. Repeat expansions may destabilize these boundaries[5].
+
+---
+
+### **Key Regulatory Elements Summary**
+| **Element**          | **Role in C9orf72-ALS/FTD**                          | **Impact**                                      |
+|-----------------------|----------------------------------------------------|------------------------------------------------|
+| Super-enhancers       | Upregulate KPNA2/KPNB1 to sequester PR20            | Protects against cytoplasmic-to-nuclear PR20   |
+| Enhancers             | Modulate *C9orf72* expression via chromatin looping | Dysregulated in repeat carriers                |
+| TAD boundaries        | Maintain chromatin compartmentalization             | Repeat expansions may disrupt insulation       |
+| Transposable elements | Potential source of novel regulatory sequences      | May contribute to pathogenic rewiring          |
+
+---
+
+**Implications for Therapy**:  
+Targeting enhancer activity (e.g., boosting KPNA2/KPNB1) or stabilizing TAD boundaries could mitigate *C9orf72*-linked toxicity[2][5].
+
+**References**:  
+[1] Functional genomic approaches to elucidate enhancer roles[1]  
+[2] Super-enhancer-mediated protection from PR20 toxicity[2]  
+[5] Regulatory elements and chromatin organization[5]  
+[3] Cis-regulatory elements in C9orf72 models[3]
+
 
 
 ![[Pasted image 20250203094418.png]]
 ![[Pasted image 20250203094316.png]]
 
-### NIH PIs ALS
+## NIH PIs ALS
 
 - **Dr. Michael E. Ward, M.D., Ph.D.**: Leading a research team focusing on the cellular and molecular mechanisms of frontotemporal dementia (FTD) and ALS, Dr. Ward employs cell biology, proteomics, and functional genomics approaches using induced pluripotent stem cell (iPSC) neuron models to understand how familial mutations contribute to neurodegeneration.
     

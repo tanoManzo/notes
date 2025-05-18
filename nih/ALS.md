@@ -271,6 +271,19 @@ Targeting enhancer activity (e.g., boosting KPNA2/KPNB1) or stabilizing TAD boun
 [5] Regulatory elements and chromatin organization[5]  
 [3] Cis-regulatory elements in C9orf72 models[3]
 
+### **Summary Table: Key Cell Lines and Models**
+
+| **Cell Line/Model**       | **Source**                  | **Key Features/Uses**                                    |
+|---------------------------|-----------------------------|----------------------------------------------------------|
+| iPSC-derived neurons      | Human, patient/control      | Disease modeling, drug screening, mechanistic studies    |
+| Knock-in iPSC lines       | Engineered (e.g., KOLF2.1J) | Controlled genetic background, standardization           |
+| NSC34 (G4C2)102           | Mouse, engineered           | Motor neuron-like, RNA foci, DPRs, rapid assays          |
+| Lymphoblastoid cell lines | Human, patient/control      | Mitochondrial studies, protein aggregation, signatures   |
+| Fibroblasts               | Human, patient/control      | Reprogramming, molecular studies                         |
+| Primary mouse neurons     | Mouse embryos               | Axon growth, actin dynamics, mitochondrial function      |
+
+---
+
 
 
 ![[Pasted image 20250203094418.png]]

@@ -50,13 +50,27 @@ ALS (Amyotrophic Lateral Sclerosis), also known as Lou Gehrig's disease, is a pr
 
 ![[Pasted image 20240522094719.png]]
 
+### Early-Stage ALS Symptoms
 
-### is there early-stage of ALS?
+- **Muscle twitching and cramps:** Often in the hands, arms, or legs (fasciculations).
+- **Weakness:** Asymmetric limb weakness (e.g., difficulty gripping objects, stumbling).
+- **Bulbar symptoms:** Slurred speech or swallowing difficulties (less common in early stages).
+- **Fatigue and stiffness:** Increased muscle tone and reduced coordination.
 
-Most cases of ALS begin between the ages of 40 and 70, with an average age of onset around 55 years old​. Though less common, ALS can also occur in younger individuals. Cases have been reported in people as young as in their 20s and 30s​.
+**Age of Onset:**
+- **Typical:** 40–70 years (average ~55 years).
+- **Early-onset:** ~5% of cases before age 40; rare cases in 20s/30s.
+- **Familial ALS:** Often diagnosed in late 40s/early 50s.
+- **Sporadic ALS:** Typically diagnosed in late 50s/early 60s.
 
-### Recent gene/mutations studies
-KIF5A has been on the radar for a while. It popped up as an ALS candidate gene in several previous analyses, but never reached genome-wide significance ([Kenna et al., 2016](https://www.alzforum.org/papers/nek1-variants-confer-susceptibility-amyotrophic-lateral-sclerosis)). That changed when first authors Aude Nicolas, Alan Renton, Faraz Fagrhi, and Ruth Chia at NIH genotyped single nucleotide polymorphisms (SNPs) among 20,806 people with ALS and 59,084 controls. They uncovered five SNPs spanning several hundred kilobases on chromosome 12 that achieved genome-wide significance. Four occurred in noncoding DNA, with the fifth landing in the coding region for KIF5A, changing a proline at position 986 to a leucine. The leucine variant increased the risk of ALS a modest 1.38-fold. The association held up in an independent replication set and in a meta-analysis of combined genotyping data from 103,549 people. The GWAS also confirmed five previously identified ALS risk genes: TNP1, C9ORF72, TBK1, UNC13A, and C21ORF2.
+---
+
+The GWAS also confirmed five previously identified ALS risk genes:
+- **TNP1**
+- **C9ORF72**
+- **TBK1**
+- **UNC13A**
+- **C21ORF2**
 
 
 ### C9orf72-ALS

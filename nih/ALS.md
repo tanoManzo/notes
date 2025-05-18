@@ -73,57 +73,13 @@ The GWAS also confirmed five previously identified ALS risk genes:
 - **C21ORF2**
 
 
-### C9orf72-ALS
+## C9orf72-ALS
+
+When comparing mutation rates of known ALS genes, _C9orf72_ repeat expansions occurred one to two times more frequently than _SOD1_ mutations, together explaining 18%–50% of familial ALS patients ([Smith et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C114); [Stewart et al. 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C117)). Nevertheless, especially in ALS, in which family history is observed in only 10% of patients, sporadic ALS patients who carry an expanded repeat outnumber familial ALS patients. It is important to note that the frequency of _C9orf72_ G4C2 hexanucleotide repeat expansions greatly depends on ethnicity and geographical region. Globally, frequencies are the highest in the Caucasian populations of Europe and North America, ranging from 7% to 28% in ALS, 3.5% to 18% in FTLD, and 15% to more than 50% in ALS-FTD ([Cruts et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C28)). In European populations, frequencies were markedly elevated in ALS patients from Scandinavian countries ([Majounie et al. 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C79); [Lindquist et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C74); [Smith et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C114); [van der Zee et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C130)). In strong contrast, pathological repeat expansions were rarely observed in Asian populations, with frequencies of 0.4%–4.8% in ALS cases ([Majounie et al. 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C79); [Tsai et al. 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C123); [Jang et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C60); [Konno et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C66); [Zou et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C146)).
+
+
 ![[Pasted image 20250203094418.png]]
 ![[Pasted image 20250203094316.png]]
-The C9ORF72 gene encodes a protein involved in several essential cellular processes:
-
-- **Autophagy and Endosomal Trafficking:** It regulates lysosomal degradation pathways and is crucial for clearing misfolded proteins and damaged organelles.
-- **Immune System Regulation:** It modulates immune responses and inflammatory signaling.
-- **RNA Processing and Nuclear Transport:** It interacts with RNA-binding proteins and is implicated in nuclear-cytoplasmic transport.
-- **Synaptic Function:** Some studies suggest a role in maintaining neuronal health and synaptic plasticity.
-
-The most common pathogenic mutation in **C9ORF72** is an abnormal expansion of a **G4C2 hexanucleotide repeat** located in the gene's first intron.
-
-- **Normal Range:** 2–30 repeats.
-- **Pathogenic Range:** Hundreds to thousands of repeats.
-- **Effect:** The expansion can cause disease through **three main mechanisms**:
-    1. **Loss of Function (Haploinsufficiency)**
-        - The expansion leads to reduced C9ORF72 protein levels, disrupting normal cellular processes.
-    2. **Toxic Gain of Function (RNA Foci Accumulation)**
-        - Expanded repeat sequences form abnormal RNA structures (**RNA foci**) that sequester RNA-binding proteins, disrupting RNA metabolism.
-    3. **Toxic Dipeptide Repeat Proteins (DPRs)**
-        - Repeat-associated non-AUG (RAN) translation produces neurotoxic dipeptide repeat proteins (DPRs), which aggregate in neurons and contribute to neurodegeneration.
-
-Although more patients with genetic ALS carry _C9orf72_ mutations than any other type globally, frequencies vary greatly by ethnicity and geographic region. For example, the highest frequencies of _C9orf72_ expansion mutations are found in Scandinavian countries, while _SOD1_ mutations are much more common in Asia.
-
-- **C9ORF72 and Neurodegenerative Diseases:** Mutations in the C9ORF72 gene, particularly hexanucleotide repeat expansions, are linked to both frontotemporal dementia (FTD) and amyotrophic lateral sclerosis (ALS). These mutations are significant contributors to the genetic overlap observed between these two conditions.
-    
-    [frontiersin.org](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2021.661447/full?utm_source=chatgpt.com)
-    
-- **Protein Function and Haploinsufficiency:** The C9ORF72 protein plays a crucial role in cellular processes, including autophagy and endosomal trafficking. The repeat expansions can lead to reduced levels of functional C9ORF72 protein (haploinsufficiency), which may contribute to disease pathogenesis.
-    
-    [frontiersin.org](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2021.661447/full?utm_source=chatgpt.com)
-    
-- **Pathogenic Mechanisms:** The article discusses how the combination of loss-of-function effects due to haploinsufficiency and gain-of-function toxicities from abnormal RNA transcripts and dipeptide repeat proteins is essential for developing the pathological features of FTD/ALS.
-    
-    [frontiersin.org](https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2021.661447/full?utm_source=chatgpt.com)
-    
-- **Therapeutic Implications:** Understanding the dual pathogenic mechanisms suggests that future therapeutic strategies should aim to compensate for the decrease in C9ORF72 protein levels or prevent further reduction, alongside addressing the toxic gain-of-function effects.
-
-The G4C2 hexanucleotide repeat expansion in the C9ORF72 gene is known to form G-quadruplex structures, which can sequester various RNA-binding proteins (RBPs) through specific motifs. One such protein is **Nucleolin**, which preferentially binds to G4C2-associated G-quadruplexes in vitro and may co-localize with G4C2-RNA foci in C9orf72-derived tissues.
-
-[pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC6980727/?utm_source=chatgpt.com)
-
-Additionally, the protein **MATR3** has been shown to bind directly to G4C2 repeats and associate with other RBPs that interact with these repeats.
-
-[actaneurocomms.biomedcentral.com](https://actaneurocomms.biomedcentral.com/articles/10.1186/s40478-020-01060-y?utm_source=chatgpt.com)
-
-Furthermore, the protein **Pur-alpha** and its binding partner **fragile X mental retardation protein 1 (FMRP)** have been observed to co-localize with G4C2 repeats, suggesting their involvement in binding to these structures.
-
-[pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/25788698/?utm_source=chatgpt.com)
-
-These interactions highlight the complex network of RBPs that recognize and bind to G4C2 repeat expansions, contributing to the pathogenesis of diseases associated with C9ORF72 mutations.
 
 ### NIH PIs ALS
 
@@ -135,4 +91,3 @@ These interactions highlight the complex network of RBPs that recognize and bind
 
 ###
 
-When comparing mutation rates of known ALS genes, _C9orf72_ repeat expansions occurred one to two times more frequently than _SOD1_ mutations, together explaining 18%–50% of familial ALS patients ([Smith et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C114); [Stewart et al. 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C117)). Nevertheless, especially in ALS, in which family history is observed in only 10% of patients, sporadic ALS patients who carry an expanded repeat outnumber familial ALS patients. It is important to note that the frequency of _C9orf72_ G4C2 hexanucleotide repeat expansions greatly depends on ethnicity and geographical region. Globally, frequencies are the highest in the Caucasian populations of Europe and North America, ranging from 7% to 28% in ALS, 3.5% to 18% in FTLD, and 15% to more than 50% in ALS-FTD ([Cruts et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C28)). In European populations, frequencies were markedly elevated in ALS patients from Scandinavian countries ([Majounie et al. 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C79); [Lindquist et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C74); [Smith et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C114); [van der Zee et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C130)). In strong contrast, pathological repeat expansions were rarely observed in Asian populations, with frequencies of 0.4%–4.8% in ALS cases ([Majounie et al. 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C79); [Tsai et al. 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C123); [Jang et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C60); [Konno et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C66); [Zou et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C146)).

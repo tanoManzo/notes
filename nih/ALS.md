@@ -73,9 +73,80 @@ The GWAS also confirmed five previously identified ALS risk genes:
 - **C21ORF2**
 
 
-## C9orf72-ALS
+## C9orf72-ALS: Genetic, Epidemiological, and Clinical Insights
 
-When comparing mutation rates of known ALS genes, _C9orf72_ repeat expansions occurred one to two times more frequently than _SOD1_ mutations, together explaining 18%–50% of familial ALS patients ([Smith et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C114); [Stewart et al. 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C117)). Nevertheless, especially in ALS, in which family history is observed in only 10% of patients, sporadic ALS patients who carry an expanded repeat outnumber familial ALS patients. It is important to note that the frequency of _C9orf72_ G4C2 hexanucleotide repeat expansions greatly depends on ethnicity and geographical region. Globally, frequencies are the highest in the Caucasian populations of Europe and North America, ranging from 7% to 28% in ALS, 3.5% to 18% in FTLD, and 15% to more than 50% in ALS-FTD ([Cruts et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C28)). In European populations, frequencies were markedly elevated in ALS patients from Scandinavian countries ([Majounie et al. 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C79); [Lindquist et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C74); [Smith et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C114); [van der Zee et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C130)). In strong contrast, pathological repeat expansions were rarely observed in Asian populations, with frequencies of 0.4%–4.8% in ALS cases ([Majounie et al. 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C79); [Tsai et al. 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C123); [Jang et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C60); [Konno et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C66); [Zou et al. 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC5880162/#A026757C146)).
+### **Genetic Overview**
+- **Mutation Type:** Hexanucleotide repeat expansion (HRE) in the *C9orf72* gene, typically involving hundreds to thousands of GGGGCC repeats.
+- **Inheritance:** Autosomal dominant with incomplete penetrance. Penetrance increases with age, rarely manifesting before 35 years[2][9].
+- **Founder Effect:** Originated from a single haplotype ~1,500–6,300 years ago, explaining its high prevalence in European populations[2][9].
+
+---
+
+### **Global Prevalence and Ethnic Variation**
+| **Population**       | **Familial ALS** | **Sporadic ALS** | **Sporadic FTD** |
+|-----------------------|------------------|------------------|------------------|
+| **Europe/N. America** | 20%–86%[9]       | 6%–8%[1][3][7]  | 3%–6%[1][9]     |
+| **Hispanic (USA)**    | -                | 8.3%[1]         | -                |
+| **African (USA)**     | -                | 4.1%[1]         | -                |
+| **Asian**             | 0%–4.8%[4][9]   | 0.4%–5%[4][9]   | Rare[4]         |
+
+- **Regional Highlights:**
+  - **Scandinavia:** Highest familial ALS rates (72%–86%)[9].
+  - **Japan:** 0.4% of sporadic ALS cases carry *C9orf72* mutations[4].
+  - **India/Pacific Islands:** No reported cases in sporadic ALS[1][4].
+
+---
+
+### **Clinical Features**
+- **Phenotypes:** 
+  - Amyotrophic lateral sclerosis (ALS)
+  - Frontotemporal dementia (FTD)
+  - ALS-FTD overlap (30%–50% of carriers)[5][8].
+- **Survival:** Similar to typical ALS (2–5 years post-diagnosis), though some reports suggest prolonged survival in subsets[9].
+- **Non-Motor Symptoms:** Psychiatric/cognitive changes (e.g., disinhibition, apathy) often precede motor symptoms[5].
+
+---
+
+### **Genetic Architecture and Mechanisms**
+- **Pathogenesis:** 
+  - **Toxic gain-of-function:** RNA foci and dipeptide repeats disrupt cellular processes[8].
+  - **Haploinsufficiency:** Reduced *C9orf72* expression may contribute to neurodegeneration[8].
+- **Haplotype Instability:** The ancestral risk haplotype predisposes to repeat expansion due to inherent genomic instability[9].
+
+---
+
+### **Epidemiology in Key Populations**
+- **U.S. Estimates (2020):** 
+  - **Prevalent Cases:** 4,545 (26% familial, 74% sporadic)[3].
+  - **Incident Cases:** 1,706 annually[3].
+- **Europe:** Accounts for 46% of familial ALS and 8% of sporadic ALS cases[9].
+
+---
+
+### **Implications for Diagnosis and Research**
+- **Testing Recommendations:** 
+  - Prioritize *C9orf72* testing in all ALS/FTD patients, regardless of family history[6][7].
+  - **Clinical Trials:** Target *C9orf72* due to its high contribution (up to 75% of pathogenic variants in U.S. cohorts)[5].
+- **Challenges:** 
+  - Family history underestimates genetic burden (74% of *C9orf72*-ALS cases are sporadic)[3][6].
+  - Non-penetrance complicates genetic counseling[4][9].
+
+---
+
+### **Comparison with Other ALS Genes**
+| **Gene**   | **Familial ALS** | **Sporadic ALS** |
+|------------|------------------|------------------|
+| *C9orf72*  | 20%–86%[9]       | 6%–8%[1][7]     |
+| *SOD1*     | 24%–36%[4][9]   | 1.3%–2.3%[4]   |
+| *FUS*      | 4%–7.1%[4][9]   | 1.9%[4]         |
+
+---
+
+**Key Citations:**  
+- Prevalence: [PMID: 37602649][1], [PMID: 34247168][3]  
+- Genetics: [PMID: 35042540][2], [PMID: 22647138][9]  
+- Clinical Impact: [Nature (2017)][6], [Neurology (2020)][5]
+
 
 
 ![[Pasted image 20250203094418.png]]

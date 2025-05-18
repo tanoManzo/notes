@@ -1,26 +1,52 @@
 
-## Main points
+ALS (Amyotrophic Lateral Sclerosis), also known as Lou Gehrig's disease, is a progressive neurodegenerative disorder that affects nerve cells in the brain and spinal cord.
 
-ALS (Amyotrophic Lateral Sclerosis), also known as Lou Gehrig's disease. It's a progressive neurodegenerative disorder that affects nerve cells in the brain and the spinal cord.
+| **Aspect**       | **Details**                                                                                                                                                                                    |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Symptoms**     | ALS leads to muscle weakness, atrophy, and eventual paralysis. Early symptoms often include muscle twitching, cramping, stiffness, or weakness, particularly in the arms and legs.             |
+| **Cause**        | The exact cause is unknown in most cases. About 10% of cases are familial, linked to mutations in specific genes; the rest are sporadic, with complex genetic and environmental contributions. |
+| **Diagnosis**    | Diagnosis is primarily clinical, based on symptoms and disease progression, supported by electromyography (EMG) and nerve conduction studies (NCS).                                            |
+| **Treatment**    | There is no cure. Approved treatments like Riluzole and Edaravone can modestly slow disease progression, but supportive care remains central.                                                  |
+| **Prevalence**   | ALS is rare. In the U.S., prevalence is 9.1 per 100,000 population (2018 data), with an estimated 32,893 cases in 2022 and projections of over 36,000 by 2030.                                 |
+| **Prognosis**    | Average life expectancy after diagnosis is 2–5 years, though some individuals, such as Stephen Hawking, live much longer.                                                                      |
+| **Famous Cases** | Lou Gehrig (baseball player) and Stephen Hawking (physicist) are among the most well-known individuals with ALS.                                                                               |
 
-| **Aspect**       | **Details**                                                                                                                                                                                  |
-| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Symptoms**     | The disease leads to muscle weakness, atrophy, and eventually paralysis. Early symptoms often include muscle twitching, cramping, stiffness, or weakness, particularly in the arms and legs. |
-| **Cause**        | The exact cause of ALS is unknown in most cases, though a small percentage of cases are inherited through mutations in certain genes (familial ALS).                                         |
-| **Diagnosis**    | Diagnosis is primarily clinical, based on symptoms and the progression of the disease, often supported by electromyography (EMG) and nerve conduction studies (NCS).                         |
-| **Treatment**    | There is no cure for ALS, but treatments such as Riluzole and Edaravone can slow the progression of symptoms.                                                                                |
-| **Prevalence**   | ALS is relatively rare, with an incidence of about 2 per 100,000 people annually.                                                                                                            |
-| **Prognosis**    | The prognosis varies; however, the average life expectancy after diagnosis is 2-5 years, though some people live much longer.                                                                |
-| **Famous Cases** | Lou Gehrig, the famous baseball player, and Stephen Hawking, the renowned physicist, are among the most well-known individuals diagnosed with ALS.                                           |
+---
 
-### What is the % of population suffering ALS?   
-An estimated 29,824 cases were identified, for an adjusted prevalence of 9.1 per 100,000 U.S. population. The demographics of cases of ALS did not change from previous year’s reports. ALS continues to impact Whites, males, and persons over 50 years of age more so than other comparison groups. [PMID: **37602649**]
+## Epidemiology and Prevalence
 
-### What is the total number of GWAS studies targeting ALS? 
-According to GWAS catalog, there are 44 studies related to ALS mainly in Europe. Approximately 15 risk loci have been identified that are associated with ALS susceptibility. [PMID: **35042540**]
+- **U.S. Prevalence:** 9.1 per 100,000 people (2018), with approximately 33,000 cases in 2022 and projections exceeding 36,000 by 2030.
+- **Demographics:** ALS disproportionately affects Whites, males, and those over age 50.
 
-### What is the total number of ALS GWAS SNPs? 
-According to GWAS catalog: 353 associations. 
+---
+
+## Genetics and GWAS Findings
+
+- **GWAS Studies:** As of 2025, the GWAS Catalog lists 44 genome-wide association studies (GWAS) on ALS, primarily in European populations.
+- **Risk Loci:** The largest GWAS to date identified 15 risk loci associated with ALS susceptibility.
+- **GWAS SNPs:** There are 353 genome-wide significant SNP associations for ALS reported in the GWAS Catalog.
+- **Genetic Architecture:** Both common and rare variants contribute to ALS risk. About 10% of cases are familial, often with identifiable mutations (e.g., C9orf72, SOD1, KIF5A), while sporadic cases show complex heritability (estimated at 40–50%).
+
+### ALS GWAS Data Summary
+
+| Metric                         | Value   |
+| ------------------------------ | ------- |
+| Number of GWAS studies         | 44      |
+| Number of significant SNPs     | 353     |
+| Number of risk loci identified | 15      |
+
+---
+## Additional Notes
+
+- **Lifetime Risk:** ALS has a lifetime risk of about 1 in 350 people.
+- **Incidence:** In the U.S., the annual incidence is about 1.6–2 per 100,000 people.
+- **Prognosis:** Most patients die within 3–5 years due to respiratory failure, but survival varies.
+
+---
+
+**References:**
+- Prevalence: [PMID: 37602649](https://pubmed.ncbi.nlm.nih.gov/37602649/)
+- GWAS: [PMID: 35042540](https://pubmed.ncbi.nlm.nih.gov/35042540/)
 
 ![[Pasted image 20240522094719.png]]
 

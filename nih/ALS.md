@@ -297,5 +297,7 @@ Targeting enhancer activity (e.g., boosting KPNA2/KPNB1) or stabilizing TAD boun
     
 - **Dr. Bryan J. Traynor, M.B., B.Ch., B.A.O., Ph.D.**: As Chief of the Neuromuscular Diseases Research Section at the National Institute on Aging (NIA), Dr. Traynor's work centers on identifying genetic causes of ALS and related disorders. He led the international consortium that discovered the pathogenic repeat expansions in the C9orf72 gene, a common cause of ALS and frontotemporal dementia
 
-###
+### Enhancer in motor cell line
+![[Pasted image 20250519101244.png]]
+
 

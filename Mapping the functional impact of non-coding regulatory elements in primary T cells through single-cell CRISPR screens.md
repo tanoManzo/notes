@@ -73,68 +73,6 @@
     
     - Understand the broader impact and future directions.
 
-## **Figure 1: Establishing Efficient CRISPRi in Primary T Cells**
-
-- **Panel A:**  
-    Schematic diagram showing the workflow for CRISPR interference (CRISPRi) in primary CD4+ T cells. T cells are activated, transduced with dCas9-repressor constructs, selected, and then transduced with guide RNAs (gRNAs) targeting specific genes or regulatory elements. This sets up the system for targeted gene repression.
-    
-- **Panel B:**  
-    Flow cytometry scatterplot demonstrating that targeting the transcription start site (TSS) of the CD4 gene with CRISPRi leads to a ~75% reduction in CD4 protein expression 10 days after gRNA transduction, confirming effective knockdown.
-    
-- **Panel C/D/E:**  
-    Comparison of different dCas9-repressor constructs and multiple gRNAs targeting various cell surface genes (CD4, CD81, BST2, ATP1B3). Flow cytometry histograms show reduced surface protein levels for each target, validating the efficiency and versatility of the method.
-    
-- **Panel F:**  
-    Single-cell RNA-seq data (10X Genomics) showing that the reduction in gene expression at the RNA level mirrors the reduction seen at the protein level for the same targets, confirming that CRISPRi effects can be robustly detected by scRNA-seq.
-    
-
-**Takeaway:**  
-Figure 1 demonstrates the successful implementation and validation of efficient CRISPRi-mediated gene silencing in primary human CD4+ T cells, both at the protein and RNA level[1](https://www.biorxiv.org/content/10.1101/2023.05.14.540711v1.full.pdf).
-
-## **Figure 2: Design and Implementation of the crisprQTL Screen**
-
-- **Panel A:**  
-    Schematic summarizing the types of genomic loci targeted in the screen:
-    
-    - CD2 locus control region (LCR) elements,
-        
-    - Enhancers previously linked to genes in K562 cells (“Gasperini enhancers”),
-        
-    - Candidate cis-regulatory elements (cCREs) from ENCODE (both intronic and intergenic),
-        
-    - Transcription start sites (TSSs) for technical controls.
-        
-- **Panel B:**  
-    Schematic of the experimental workflow for the primary T cell crisprQTL screen:  
-    T cells expressing ZIM3-dCas9 are transduced with a pooled gRNA library, then analyzed by single-cell RNA-seq to link perturbations to transcriptomic changes.
-    
-- **Panel C:**  
-    Pie chart or bar plot showing the proportion of single cells that received one gRNA, multiple gRNAs, or none. This confirms that most cells receive only one perturbation, which is important for clean interpretation of results.
-    
-- **Panel D:**  
-    Distribution plot of the number of cells recovered per gRNA, indicating good representation of each perturbation in the dataset.
-    
-
-**Takeaway:**  
-Figure 2 describes the design of the pooled CRISPRi screen and confirms that the experimental system allows robust, single-perturbation analysis in thousands of primary T cells[1](https://www.biorxiv.org/content/10.1101/2023.05.14.540711v1.full.pdf).
-
-## **Figure 3: Sensitivity and Specificity of crisprQTL for Element-to-Gene Mapping**
-
-- **Panel A:**  
-    Bar graph showing that for the majority of significant element-to-gene (E2G) links, the effect is supported by at least two different gRNAs, demonstrating reproducibility.
-    
-- **Panel B:**  
-    Scatterplot or violin plot illustrating that the magnitude of gene expression change upon perturbation depends on both the strength of the regulatory element and the baseline expression level of the target gene.
-    
-- **Panel C:**  
-    Comparison of the number of significant E2G links detected for TSS perturbations versus non-coding element perturbations, showing higher sensitivity for TSSs (which have stronger effects).
-    
-- **Panel D:**  
-    Plot showing that genes with higher baseline expression are more likely to yield statistically significant effects when their regulatory elements are perturbed.
-    
-
-**Takeaway:**  
-Figure 3 demonstrates that the crisprQTL platform can reliably detect regulatory element-to-gene connections, especially for genes with higher expression and for perturbations with strong effects, and that results are reproducible across multiple gRNAs[1](https://www.biorxiv.org/content/10.1101/2023.05.14.540711v1.full.pdf).
 
 ## **Summary Table**
 
@@ -144,5 +82,3 @@ Figure 3 demonstrates that the crisprQTL platform can reliably detect regulatory
 |2|Screen design and single-cell assignment|Pooled, single-perturbation screen in primary T cells is feasible|
 |3|Sensitivity and reproducibility of mapping|Reliable E2G mapping, especially for strong elements/high-expression genes|
 
-**In summary:**  
-Each figure builds on the last: Figure 1 validates the CRISPRi system in primary T cells; Figure 2 shows the design and execution of the pooled screen; Figure 3 demonstrates the platform’s power and limitations for mapping non-coding regulatory elements to their gene targets at single-cell resolution[1](https://www.biorxiv.org/content/10.1101/2023.05.14.540711v1.full.pdf)[2](https://pubmed.ncbi.nlm.nih.gov/38308274/).

@@ -1,0 +1,8 @@
+| Time            | Monday                                | Tuesday                           | Wednesday                             | Thursday                        | Friday                         |
+| --------------- | ------------------------------------- | --------------------------------- | ------------------------------------- | ------------------------------- | ------------------------------ |
+| **08:00–09:00** | Plan week + goals                     | Deep writing (e.g., results)      | Data/experiment work                  | Paper reading                   | Final writing push             |
+| **09:00–11:00** | Deep work (data or writing)           | Deep writing (methods/discussion) | Deep editing or writing stuck section | Writing (intro or related work) | Final edits + polish           |
+| **11:00–12:00** | Literature scan (2 recent papers)     | Peer feedback (give/get)          | Collaborator check-ins                | Submission planning             | Weekly review (what improved?) |
+| **12:00–13:00** | 🥗 Lunch break                        | 🥗 Lunch break                    | 🥗 Lunch break                        | 🥗 Lunch break                  | 🥗 Lunch break                 |
+| **13:00–15:00** | Meetings/admin                        | Figures / data vis                | Continue experiments                  | Lit deep dive or annotations    | Organize files / data backup   |
+| **15:00–17:00** | Low-stakes writing (email, outlining) | Second writing push               | Notes + reflection                    | Writing / polishing             | Light reading / wind down      |

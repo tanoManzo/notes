@@ -1,0 +1,14 @@
+**General Feedback**  
+This section gives a clear overview of Deliverable 3.4 and explains how it fits into the larger ICAREWOUNDS project. It shows how the care model was shaped by feedback from stakeholders and how it connects to both earlier and future parts of the project. The text shows a good understanding of how different work packages work together. However, it could be more clearly organized, and the writing could be shortened in some places to make it easier to follow.
+
+**Strengths**  
+A strong point is how well the purpose of Deliverable 3.4 is explained. It’s clear how it builds on earlier work and helps prepare the next steps in the project. The focus on working together with stakeholders is also very good and shows that the team understands how important it is to include different points of view in building a care model. The explanation of why CWs (chronic wounds) are a real problem in healthcare also helps show why the project matters. The section makes a strong case for a model that brings together medical, emotional, and organizational needs.
+
+**Points to Improve**  
+Even though the section is informative, some ideas are repeated too often—especially the importance of stakeholder input and how the work packages are connected. These could be combined or said more simply. The writing is also a bit long and packed with information, which can make it hard to read. Shorter paragraphs and simpler language would help. In some places, the writing uses passive or formal phrases that could be more direct. Also, the acronym “CW” should be explained the first time it’s used to make sure all readers understand it.
+
+**Information That Could Be More Detailed or Better Explained**  
+There are a few parts where more explanation would be useful. For example, while stakeholder feedback is mentioned a lot, it’s not clear who the stakeholders are—do they include doctors, nurses, patients, or others? Also, it’s not clear how their feedback was collected—were there workshops, interviews, or surveys? When describing the CW management platform in WP4, it would help to mention a few key features the platform will have. And although the text says the model will be validated later, it doesn’t explain how. A short description of how the team plans to test the model would be helpful.
+
+**Other Information That Would Be Interesting to Include**  
+This section could be stronger if it included a few words about the expected benefits of the care model. For example, will it help patients heal faster, reduce costs, or make care more organized? It would also be good to mention any possible problems with using the model in real life, such as technical issues or resistance from care providers. Lastly, comparing this new model to existing care approaches would help readers see what makes it new or better.

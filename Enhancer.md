@@ -8,6 +8,12 @@
 ![[Pasted image 20250611104841.png]]
 ![[Pasted image 20250611104904.png]]
 ![[Pasted image 20250611105001.png]]
-![[Pasted image 20250611105132.png
-![[Pasted image 20250611105206.png
-![[Pasted image 20250611105237.png]]
+![[Pasted image 20250611105132.png]]
+obsidian://open?vault=notes&file=Pasted%20image%2020250611105206.png
+![[Pasted image 20250611105314.png]]![[Pasted image 20250611105321.png]]
+![[Pasted image 20250611105434.png]]
+![[Pasted image 20250611105514.png]]
+![[Pasted image 20250611105552.png]]
+![[Pasted image 20250611105603.png]]
+![[Pasted image 20250611105627.png]]
+![[Pasted image 20250611105711.png]]

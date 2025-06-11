@@ -64,3 +64,4 @@ obsidian://open?vault=notes&file=Pasted%20image%2020250611105206.png
 ![[Pasted image 20250611114907.png]]
 ![[Pasted image 20250611115042.png]]
 ![[Pasted image 20250611120212.png]]
+![[Pasted image 20250611120350.png]]

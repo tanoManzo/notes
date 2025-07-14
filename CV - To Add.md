@@ -1,5 +1,5 @@
 TA-Swiss (Done)
-EDIDACT
+EDIDACT (Done)
 HARRISON (Done)
 
 Paper Arnoud

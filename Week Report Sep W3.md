@@ -17,16 +17,12 @@
 
 • Initiated a comparative analysis on the impact of different background selections for enrichment analyses: DHS all-genome, DHS cell-line, and flanking regions.
 
-• Early observations suggest substantial differences depending on background choice, especially:
-
-• For cell-line specific TFs (e.g., HNF4A in HepG2), results vary significantly.
-
-• For more ubiquitous TFs (e.g., CTCF in HepG2), the output is less sensitive to background selection.
+• Early observations suggest differences depending on background choice. For cell-line specific TFs (e.g., HNF4A in HepG2) and for more ubiquitous TFs (e.g., CTCF in HepG2)
 
 • Analysis on this aspect is ongoing and will continue next week.
 
 
-
+![[Pasted image 20250919134819.png]]
 
 **Next Steps**
 

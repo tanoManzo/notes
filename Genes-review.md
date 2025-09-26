@@ -14,9 +14,9 @@ reports, include an explanation in your appeal.
 
 1.       **Introduction**
 
-•          The biological relevance of this work is clear from the beginning of the description, and the authors seem to focus on a specific biological problem (SNPs detection in DNA sequences). However, after this announcement of the relevance of the work, they rapidly get into the description and details of methods and architectures. A quite fast point of description and differences concerning the methods and/or architectures might help to a “bio-informatician” (more bio than informatician) to smoothly get into it.
+• The biological relevance of this work is clear from the beginning of the description, and the authors seem to focus on a specific biological problem (SNPs detection in DNA sequences). However, after this announcement of the relevance of the work, they rapidly get into the description and details of methods and architectures. A quite fast point of description and differences concerning the methods and/or architectures might help to a “bio-informatician” (more bio than informatician) to smoothly get into it.
 
-•          At the end of the introduction the authors take three paragraphs to describe their work, personally I think is really useful to give a little info of the main goal and findings, but personally the paragraphs are somehow ensuring that the lector will probably not move forward with the paper because they already have all the details.
+- At the end of the introduction the authors take three paragraphs to describe their work, personally I think is really useful to give a little info of the main goal and findings, but personally the paragraphs are somehow ensuring that the lector will probably not move forward with the paper because they already have all the details.
 
 2.       **Results**
 

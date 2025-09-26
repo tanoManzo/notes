@@ -4,3 +4,4 @@ This week, I focused on capturing motifs in enhancers across different cell line
 Enhancer sequences in general contain several motifs, as shown in figures b and e, and their detection depends on the chosen q-value threshold (figure d). Some motifs appear more frequently than others, indicating stronger contributions to enhancer function, and their position within the enhancer is not always centralized (figure c).
 
 ![[Pasted image 20250926165643.png]]
+The next steps are to continue working on this experiment, writing, and addressing the _Genes_ review.

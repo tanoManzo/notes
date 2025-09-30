@@ -39,7 +39,9 @@ reports, include an explanation in your appeal.
 done
 
 2.       what they need is already available or data sets for controls and training might be need to be obtain before working with real samples?
+done
 
 3.       **Final comment,**
 
 •          I fully agree with the authors that this kind of work, where the state-of-the-art of methods and architectures are tested and compared is need. But, real test, using other kind of data, might be also useful to better get into the real problems while using “not controlled” data.
+-done

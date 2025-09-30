@@ -18,7 +18,7 @@ reports, include an explanation in your appeal.
 - Done 
 
 - At the end of the introduction the authors take three paragraphs to describe their work, personally I think is really useful to give a little info of the main goal and findings, but personally the paragraphs are somehow ensuring that the lector will probably not move forward with the paper because they already have all the details.
-- Do
+- Done
 
 2.       **Results**
 

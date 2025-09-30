@@ -31,6 +31,7 @@ reports, include an explanation in your appeal.
 - Because, while using cell lines “most” of variables and quality is under control, by what about real cases?
 
 - How do this metholodogy and test should be applied for “real life” cases, samples collected from patients of different diseases or treatments?
+- done
 
 - As mentioned before, the work here is really interesting, but:
 

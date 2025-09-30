@@ -27,7 +27,7 @@ reports, include an explanation in your appeal.
 - Depending of the goal of my biological question, should I select a specific method?
 
 	- If yes, experimentally, how what I should take into account concerning data quality?
-
+	Done
 - Because, while using cell lines “most” of variables and quality is under control, by what about real cases?
 
 - How do this metholodogy and test should be applied for “real life” cases, samples collected from patients of different diseases or treatments?

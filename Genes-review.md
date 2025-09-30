@@ -36,6 +36,7 @@ reports, include an explanation in your appeal.
 - As mentioned before, the work here is really interesting, but:
 
 1.       how much time a data might be needed to fine-tune models?
+done
 
 2.       what they need is already available or data sets for controls and training might be need to be obtain before working with real samples?
 

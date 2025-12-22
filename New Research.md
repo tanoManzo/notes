@@ -1,2 +1,12 @@
 - examining non-overlapping yet closely positioned motifs
-- 
+- by explicitly checking for almost-complete overlaps
+- Interacting TFs do not have to bind overlapping motifs; rather, they may simply reside within the same enhancer/silencer
+- it would be reasonable to use a 500 bp window centered on an individual TF motif to search for interacting motifs
+	- we can ask whether there is (a) a preferred distance between the two motifs
+	- a preferred relative orientation
+	- a greater-than-expected frequency of pairing for these specific TFs
+- It would be useful to compare and contrast these results with more distantly positioned motif pairs, as closely positioned motifs may argue for a subset of TFs forming TF–TF complexes prior to DNA binding.
+- In cases of complete (or almost-complete) motif overlap, we may be dealing with an incorrect assignment of a TF family member (for exmple, FOXA1 vs FOXA2). However, this seems difficult to reconcile with the fact that both FOXA1 and FOXA2 have ChIP-seq peaks covering the same motif, indicating experimentally observed binding by both factors. Alternatively, this could suggest functional redundancy, in which either FOXA1 or FOXA2 can bind the same motif and perform equivalent regulatory roles. (The duplicity in function has been recorded for many gene families in the human genome and is a cornerstone of evolutionary stability.)
+- Finally, when different TFs bind the same motif, the concept of competitive binding becomes relevant. This competition may be DNA sequence-dependent or sequence-agnostic. In the former case, overlapping motifs imply direct competition for a cognate binding site. In the latter case, the binding may reflect a transcriptional condensate or a HOT region (discuss this with Sanjar; [https://elifesciences.org/articles/95170](https://elifesciences.org/articles/95170)). A hallmark of transcriptional condensates would be a substantially larger number of overlapping ChIP-seq peaks from different TFs at a given locus than expected by chance, which should be straightforward to quantify.
+- If the goal is to publish this work in a good journal, the manuscript should be drafted from a biological perspective, emphasizing mechanisms of transcriptional regulation supported by the data. This would contrast with the current draft, which primarily lists numerical observations and only partially interprets them from a biological viewpoint. You may want to discuss this with Di, who is currently working on a similar effort—rewriting a manuscript to foreground biological mechanisms and use computed data as support.
+

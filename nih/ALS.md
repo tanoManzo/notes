@@ -99,9 +99,6 @@ This mutation is **not a SNP**, which is crucial for interpreting GWAS results.
 - Standard GWAS arrays **do not directly genotype repeat expansions**
     
 - C9orf72 risk appears in GWAS **indirectly**, via **tagging SNPs** in linkage disequilibrium (LD) with the expansion
-    
-
-  
 
 Therefore:
 

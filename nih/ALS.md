@@ -45,18 +45,15 @@ ALS (Amyotrophic Lateral Sclerosis), also known as Lou Gehrig's disease, is a pr
 
 - **GWAS SNPs:** The most cited benchmark study (van Rheenen et al., _Nature Genetics_, 2021) reported **≈20–25 lead SNPs**. Subsequent studies added a small number of additional independent SNPs.
     
-
----
-		
 - **Genetic Architecture:** Both common and rare variants contribute to ALS risk. About 10% of cases are familial, often with identifiable mutations (e.g., C9orf72, SOD1, KIF5A), while sporadic cases show complex heritability (estimated at 40–50%).
 
 ### ALS GWAS Data Summary
 
-| Metric                         | Value   |
-| ------------------------------ | ------- |
-| Number of GWAS studies         | 44      |
-| Number of significant SNPs     | 353     |
-| Number of risk loci identified | 15      |
+| Metric                         | Value               |
+| ------------------------------ | ------------------- |
+| Number of GWAS studies         | 44                  |
+| Number of significant SNPs     | 353 (20-25 leading) |
+| Number of risk loci identified | 15                  |
 
 ---
 ## Additional Notes

@@ -85,16 +85,29 @@ ALS (Amyotrophic Lateral Sclerosis), also known as Lou Gehrig's disease, is a pr
 
 ---
 
-The GWAS also confirmed five previously identified ALS risk genes:
-- **TNP1**
-- **C9ORF72**
-- **TBK1**
-- **UNC13A**
-- **C21ORF2**
-
 
 ## C9orf72-ALS: Genetic, Epidemiological, and Clinical Insights
 
+**C9orf72** (chromosome 9p21.2) contains a **GGGGCC (G₄C₂) hexanucleotide repeat** in a non-coding region.
+
+- **Normal alleles:** ~2–23 repeats
+- **Pathogenic expansion:** typically **>30 repeats**, often hundreds to thousands
+- The expansion is the **single most common genetic cause of ALS** and ALS–FTD
+
+This mutation is **not a SNP**, which is crucial for interpreting GWAS results.
+
+- Standard GWAS arrays **do not directly genotype repeat expansions**
+    
+- C9orf72 risk appears in GWAS **indirectly**, via **tagging SNPs** in linkage disequilibrium (LD) with the expansion
+    
+
+  
+
+Therefore:
+
+- GWAS detects **C9orf72 locus association**
+    
+- But the **causal variant is the repeat expansion**, not the SNP itself
 ### **Genetic Overview**
 - **Mutation Type:** Hexanucleotide repeat expansion (HRE) in the *C9orf72* gene, typically involving hundreds to thousands of GGGGCC repeats.
 - **Inheritance:** Autosomal dominant with incomplete penetrance. Penetrance increases with age, rarely manifesting before 35 years[2][9].

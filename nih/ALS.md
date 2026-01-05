@@ -23,7 +23,34 @@ ALS (Amyotrophic Lateral Sclerosis), also known as Lou Gehrig's disease, is a pr
 ## Genetics and GWAS Findings
 
 - **GWAS Studies:** As of 2025, the GWAS Catalog lists 44 genome-wide association studies (GWAS) on ALS, primarily in European populations.
+	1.	Early GWAS with small European ancestry cohort — (~958 cases/932 controls) catalog entry.  ￼
+	2.	GWAS with European ancestry 4243 cases/5112 controls (International Consortium meta-analysis) — distinct dataset.  ￼
+	3.	ALS 2016 GWAS (European ancestry; van Rheenen et al.) — identified multiple novel risk variants.  ￼
+	4.	ALS GWAS 2017 trans-ancestry (Benyamin et al.; GPX3-TNIP1 locus) — distinct mixed-ancestry meta-analysis.  ￼
+	5.	ALS GWAS 2018 European ancestry (Nicolas et al.) — identified KIF5A gene associations.  ￼
+	6.	ALS GWAS 2020 trans-ancestry (Iacoangeli et al.; ACSL5-ZDHHC6 locus) — meta-analysis across ancestries.  ￼
+	7.	ALS 2021 GWAS (van Rheenen et al.; “15 risk loci” meta-analysis) — large cross-ancestry GWAS.  ￼
+
 - **Risk Loci:** The largest GWAS to date identified 15 risk loci associated with ALS susceptibility.
+	1.	C9orf72
+	•	Strongest common genetic risk factor
+	•	Hexanucleotide repeat expansion (structural variant; tagged indirectly in GWAS)
+	2.	UNC13A
+	•	Robustly replicated
+	•	Also modifies survival and TDP-43 pathology
+	3.	SOD1
+	•	Rare variants drive familial ALS; common SNP signal detected in GWAS
+	4.	TARDBP
+	•	Central to ALS biology (TDP-43 pathology)
+	5.	FUS
+	6.	TBK1
+	7.	KIF5A
+	•	Identified in large 2018–2021 GWAS
+	•	Both rare and common variant contribution
+	8.	NEK1
+	9.	MOBP
+	10.	SCFD1
+
 - **GWAS SNPs:** There are 353 genome-wide significant SNP associations for ALS reported in the GWAS Catalog.
 - **Genetic Architecture:** Both common and rare variants contribute to ALS risk. About 10% of cases are familial, often with identifiable mutations (e.g., C9orf72, SOD1, KIF5A), while sporadic cases show complex heritability (estimated at 40–50%).
 

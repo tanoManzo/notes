@@ -1,6 +1,6 @@
-- examining non-overlapping yet closely positioned motifs
-- by explicitly checking for almost-complete overlaps
-- Interacting TFs do not have to bind overlapping motifs; rather, they may simply reside within the same enhancer/silencer
+- examining non-overlapping yet closely positioned motifs (done)
+- by explicitly checking for almost-complete overlaps (done)
+- Interacting TFs do not have to bind overlapping motifs; rather, they may simply reside within the same enhancer/silencer (done)
 - it would be reasonable to use a 500 bp window centered on an individual TF motif to search for interacting motifs
 	- we can ask whether there is (a) a preferred distance between the two motifs
 	- a preferred relative orientation

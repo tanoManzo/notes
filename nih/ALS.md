@@ -32,21 +32,13 @@ ALS (Amyotrophic Lateral Sclerosis), also known as Lou Gehrig's disease, is a pr
 	7.	ALS 2021 GWAS (van Rheenen et al.; “15 risk loci” meta-analysis) — large cross-ancestry GWAS.  ￼
 
 - **Risk Loci:** The largest GWAS to date identified 15 risk loci associated with ALS susceptibility.
-	1.	C9orf72
-	•	Strongest common genetic risk factor
-	•	Hexanucleotide repeat expansion (structural variant; tagged indirectly in GWAS)
-	2.	UNC13A
-	•	Robustly replicated
-	•	Also modifies survival and TDP-43 pathology
-	3.	SOD1
-	•	Rare variants drive familial ALS; common SNP signal detected in GWAS
-	4.	TARDBP
-	•	Central to ALS biology (TDP-43 pathology)
+	1.	C9orf72 (Strongest common genetic risk factor, Hexanucleotide repeat expansion structural variant; tagged indirectly in GWAS)
+	2.	UNC13A (Robustly replicated, Also modifies survival and TDP-43 pathology)
+	3.	SOD1 (Rare variants drive familial ALS; common SNP signal detected in GWAS)
+	4.	TARDBP (Central to ALS biology TDP-43 pathology)
 	5.	FUS
 	6.	TBK1
-	7.	KIF5A
-	•	Identified in large 2018–2021 GWAS
-	•	Both rare and common variant contribution
+	7.	KIF5A (Identified in large 2018–2021 GWAS, Both rare and common variant contributions)
 	8.	NEK1
 	9.	MOBP
 	10.	SCFD1

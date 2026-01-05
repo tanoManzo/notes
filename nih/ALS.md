@@ -105,10 +105,41 @@ Therefore:
 - GWAS detects **C9orf72 locus association**
     
 - But the **causal variant is the repeat expansion**, not the SNP itself
-### **Genetic Overview**
-- **Mutation Type:** Hexanucleotide repeat expansion (HRE) in the *C9orf72* gene, typically involving hundreds to thousands of GGGGCC repeats.
-- **Inheritance:** Autosomal dominant with incomplete penetrance. Penetrance increases with age, rarely manifesting before 35 years[2][9].
-- **Founder Effect:** Originated from a single haplotype ~1,500–6,300 years ago, explaining its high prevalence in European populations[2][9].
+
+Across major ALS GWAS and meta-analyses:
+
+- **~5–10 genome-wide significant SNPs**
+    
+    - These SNPs cluster in the **9p21 haplotype**
+        
+    - Most represent the **same underlying signal** 
+
+After LD pruning:
+
+- **1 primary independent GWAS signal**
+    
+- Occasionally **1 secondary conditional signal** reported
+
+Commonly cited tagging SNPs include (examples, study-dependent):
+
+- rs3849942
+- rs10122902
+- rs2814707
+  
+The expansion causes disease via **multiple mechanisms**:
+
+1. **Loss of function**
+    
+    Reduced C9orf72 expression (haploinsufficiency)
+    
+2. **RNA toxicity**
+    
+    Sense/antisense repeat RNA forms nuclear foci
+    
+3. **DPR toxicity**
+    
+    Repeat-associated non-ATG (RAN) translation → toxic dipeptide repeat proteins
+
 
 ---
 

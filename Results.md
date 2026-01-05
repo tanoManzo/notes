@@ -182,3 +182,56 @@ Most top pairs maintain 20-35bp spacing between their binding sites.
 9. **Cumulative distribution** - 50% of pairs within 43bp separation
 
 **Key Insight:** Non-overlapping TF pairs are extremely common (36.6M instances vs 7.4M overlapping), with most maintaining relatively close spacing (20-60bp). This indicates that TFs frequently bind in spatial proximity within enhancers but at distinct sites, suggesting a model of combinatorial regulation through neighboring rather than co-localized binding. The top TF families (ARID, PAXIP1, SOX6, MAX, HNF4A, FOXA2, SALL1) show particularly strong patterns of non-overlapping co-occurrence.
+
+## Results Summary: Spatial Distribution of Non-Overlapping TF Pairs
+
+**Dataset:**
+
+- **995,032 TF peak positions** analyzed for non-overlapping TFs
+- **422 different TFs** that participate in non-overlapping relationships
+- **20,226 enhancers** (97% of total)
+
+**Overall Position Statistics:**
+
+- **Mean position**: 5.0bp from center (slightly right of center)
+- **Median position**: 3.0bp from center (very centered)
+- **Standard deviation**: 87.9bp (wide distribution)
+- **Absolute position**: Mean 205.0bp, Median 203.0bp (within 0-400bp range)
+
+**Distribution by Position Bins:**  
+The distribution is **strongly centered** around the enhancer midpoint:
+
+- **Central 100bp** (±50bp): 49.8% of peaks
+    - -50 to 0bp: 249,535 peaks (25.1%)
+    - 0 to 50bp: 246,045 peaks (24.7%)
+- **Inner region** (±100bp): 73.2% of all peaks
+- **Peripheral regions** (100-200bp from center): 26.8%
+
+**Quartile Analysis:**
+
+- **Q1 (25%)**: -46.0bp (left of center)
+- **Q2 (50%, median)**: 3.0bp (at center)
+- **Q3 (75%)**: 55.0bp (right of center)
+- **IQR**: 101.0bp
+
+**Key Visualizations Show:**
+
+1. **Main histogram** - Strong central peak with symmetric distribution around enhancer center
+2. **Density plot** - Gaussian-like distribution centered at 0bp
+3. **Binned distribution** - Clear peak in the ±50bp central bins
+4. **Cumulative distribution** - 50% within ±50bp, 75% within ±100bp
+5. **Top 10 TFs individually** - All show central bias with PAXIP1, ARID5B, SOX6, ARID3A, MAX, HNF4A, FOXA2, SALL1, FOXP4, TFAP4 having similar centered distributions
+6. **Enhancer scatter plot** - Shows TF positions across top 30 enhancers, demonstrating spread but central clustering
+
+**Key Insights:**
+
+1. **Central enrichment**: Non-overlapping TFs strongly prefer the central ±100bp region (73%) of enhancers, suggesting the functional core of enhancers is in the middle
+    
+2. **Symmetric distribution**: Nearly perfect symmetry around center (mean = 5bp ≈ 0), indicating no directional bias
+    
+3. **Consistent across TFs**: Top 10 most frequent non-overlapping TFs all show similar central distributions, suggesting a general organizational principle
+    
+4. **Spatial organization**: While TFs don't overlap, they cluster centrally, maintaining 20-60bp spacing (from previous analysis) within the central 200bp region
+    
+
+This pattern suggests that non-overlapping TFs achieve combinatorial regulation by binding at distinct but closely spaced sites within the functional core of enhancers, rather than being randomly distributed across the full 400bp region.

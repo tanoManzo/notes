@@ -43,7 +43,11 @@ ALS (Amyotrophic Lateral Sclerosis), also known as Lou Gehrig's disease, is a pr
 	9.	MOBP
 	10.	SCFD1
 
-- **GWAS SNPs:** There are 353 genome-wide significant SNP associations for ALS reported in the GWAS Catalog.
+- **GWAS SNPs:** The most cited benchmark study (van Rheenen et al., _Nature Genetics_, 2021) reported **≈20–25 lead SNPs**. Subsequent studies added a small number of additional independent SNPs.
+    
+
+---
+		
 - **Genetic Architecture:** Both common and rare variants contribute to ALS risk. About 10% of cases are familial, often with identifiable mutations (e.g., C9orf72, SOD1, KIF5A), while sporadic cases show complex heritability (estimated at 40–50%).
 
 ### ALS GWAS Data Summary

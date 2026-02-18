@@ -1,1 +1,0 @@
-We did not receive the referral for the claim. Please send the referral for Claim ID EPPDSBVFP00 to mclaims@aetna.com. Once received we will reprocess the claim

@@ -1,17 +1,9 @@
 ## Projects Description
 
 ### Project 1: Decoding Transcription Factor Binding in Enhancers with Deep Learning
-Enhancers are non-coding regions of the genome that regulate gene expression by
-recruiting transcription factors (TFs) to specific DNA sequences. This project centers on
-understanding how TFs are configured within enhancers, using DeepFootprinting, a pipeline
-We developed that combines Convolutional Neural Networks (CNNs) with DeepSHAP to
-pinpoint TF binding sites at base-pair resolution. The analysis draws on multi-modal genomic
-data such as TF ChIP-seq, histone marks like H3K27ac, and DNase Hypersensitivity Sites
-(DHS), to build a picture of enhancer activity.
-A major focus of the work is understanding variant effects: how genetic variants can disrupt
-TF binding motifs and, in turn, alter enhancer function. The intern will get hands-on
-experience with real multi-omics datasets and state-of-the-art interpretability methods, sitting
-at the crossroads of regulatory biology and deep learning.
+Enhancers are non-coding regions of the genome that regulate gene expression by recruiting transcription factors (TFs) to specific DNA sequences. This project centers on understanding how TFs are configured within enhancers, using DeepFootprinting, a pipeline We developed that combines Convolutional Neural Networks (CNNs) with DeepSHAP to pinpoint TF binding sites at base-pair resolution. The analysis draws on multi-modal genomic data such as TF ChIP-seq, histone marks like H3K27ac, and DNase Hypersensitivity Sites (DHS), to build a picture of enhancer activity.
+A major focus of the work is understanding variant effects: how genetic variants can disrupt TF binding motifs and, in turn, alter enhancer function. The intern will get hands-on
+experience with real multi-omics datasets and state-of-the-art interpretability methods, sitting at the crossroads of regulatory biology and deep learning.
 
 Skills gained: CNNs, DeepSHAP, ChIP-seq/DHS data analysis, variant effect prediction,
 Python, and genomics pipelines.
@@ -19,18 +11,10 @@ Python, and genomics pipelines.
 Essential Literature:
 - Avsec, Ž., Weilert, M., Shrikumar, A., et al. (2021). Base-resolution models of transcription-factor binding reveal soft motif syntax. Nature Genetics, 53, 354-366. https://doi.org/10.1038/s41588-021-00782-6
 - Jindal GA, Farley EK. Enhancer grammar in development, evolution, and disease: dependencies and interplay. Dev Cell. 2021 Mar 8;56(5):575-587. doi: 10.1016/j.devcel.2021.02.016. PMID: 33689769; PMCID: PMC8462829.
-### Project 2: Unraveling the Regulatory Landscape of C9orf72 in ALS
-The most common genetic cause of ALS is a hexanucleotide (G4C2) repeat expansion in
-the first intron of the C9orf72 gene, found in roughly 40% of familial ALS cases. This
-expansion is thought to drive disease through a mix of haploinsufficiency and toxic
-gain-of-function effects from repeat RNA and dipeptide repeat proteins. This project uses
-AlphaGenome, a hybrid Transformer/CNN model, to integrate RNA-seq, histone
-modification, and open chromatin data in order to characterize the regulatory architecture of
-the C9orf72 locus.
-The intern will work with publicly available data from ENCODE alongside experimental data
-coming from an ongoing NIH collaboration, with real potential to connect computational
-findings to wet lab validation. The overarching goal is to map the regulatory elements at this
-locus and figure out whether the repeat expansion interferes with any of them — a question
+### Project 2: Unraveling the Regulatory Landscape of C9orf72 in ALS 
+The most common genetic cause of ALS is a hexanucleotide (G4C2) repeat expansion in the first intron of the C9orf72 gene, found in roughly 40% of familial ALS cases. This expansion is thought to drive disease through a mix of haploinsufficiency and toxic gain-of-function effects from repeat RNA and dipeptide repeat proteins. This project uses AlphaGenome, a hybrid Transformer/CNN model, to integrate RNA-seq, histone modification, and open chromatin data in order to characterize the regulatory architecture of the C9orf72 locus.
+The intern will work with publicly available data from ENCODE alongside experimental data coming from an ongoing NIH collaboration, with real potential to connect computational
+findings to wet lab validation. The overarching goal is to map the regulatory elements at this locus and figure out whether the repeat expansion interferes with any of them — a question
 with direct relevance to therapeutic strategies.
 
 Skills gained: Transformer/CNN genomic models, RNA-seq and epigenomic data integration,

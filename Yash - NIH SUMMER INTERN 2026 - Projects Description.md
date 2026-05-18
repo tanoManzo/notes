@@ -1,5 +1,3 @@
-## Projects Description
-
 ### Project 1: Decoding Transcription Factor Binding in Enhancers with Deep Learning
 Enhancers are non-coding regions of the genome that regulate gene expression by recruiting transcription factors (TFs) to specific DNA sequences. This project centers on understanding how TFs are configured within enhancers, using DeepFootprinting, a pipeline We developed that combines Convolutional Neural Networks (CNNs) with DeepSHAP to pinpoint TF binding sites at base-pair resolution. The analysis draws on multi-modal genomic data such as TF ChIP-seq, histone marks like H3K27ac, and DNase Hypersensitivity Sites (DHS), to build a picture of enhancer activity.
 A major focus of the work is understanding variant effects: how genetic variants can disrupt TF binding motifs and, in turn, alter enhancer function. The intern will get hands-on
@@ -35,3 +33,5 @@ Nucleotide Transformer and genomic language models, Python/HuggingFace, genomic
 benchmark evaluation.
 
 Essential Literature:
+- Davarmanesh, P., et al. (2024). Motif-aware Tokenization of the Genome: Towards Interpretable Modeling of Gene Regulation. NeurIPS Workshop on Multi-modal Foundation Models for Life Sciences. 
+- Zhou, Z., et al. (2023). DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genomes.

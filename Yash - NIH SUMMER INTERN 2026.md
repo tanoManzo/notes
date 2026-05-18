@@ -7,7 +7,7 @@ understanding how TFs are configured within enhancers, using DeepFootprinting, a
 We developed that combines Convolutional Neural Networks (CNNs) with DeepSHAP to
 pinpoint TF binding sites at base-pair resolution. The analysis draws on multi-modal genomic
 data such as TF ChIP-seq, histone marks like H3K27ac, and DNase Hypersensitivity Sites
-(DHS), to build a detailed picture of enhancer activity.
+(DHS), to build a picture of enhancer activity.
 A major focus of the work is understanding variant effects: how genetic variants can disrupt
 TF binding motifs and, in turn, alter enhancer function. The intern will get hands-on
 experience with real multi-omics datasets and state-of-the-art interpretability methods, sitting
@@ -35,6 +35,10 @@ with direct relevance to therapeutic strategies.
 
 Skills gained: Transformer/CNN genomic models, RNA-seq and epigenomic data integration,
 ENCODE data retrieval, regulatory element annotation, NIH collaboration exposure.
+
+Essential Literature:
+- Liu Y, Huang Z, Liu H, Ji Z, Arora A, Cai D, Wang H, Liu M, Simko EAJ, Zhang Y, Periz G, Liu Z, Wang J. DNA-initiated epigenetic cascades driven by C9orf72 hexanucleotide repeat. Neuron. 2023 Apr 19;111(8):1205-1221.e9. doi: 10.1016/j.neuron.2023.01.022. Epub 2023 Feb 22. Erratum in: Neuron. 2023 Apr 19;111(8):1345. doi: 10.1016/j.neuron.2023.03.035. PMID: 36822200; PMCID: PMC10121948.
+- 
 
 ### Project 3: Biology-Aware DNA Tokenization for Genomic Language Models
 Most DNA tokenizers (k-mer, BPE, and similar approaches) are built around statistical

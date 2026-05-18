@@ -18,7 +18,7 @@ Python, and genomics pipelines.
 
 Essential Literature:
 - Avsec, Ž., Weilert, M., Shrikumar, A., et al. (2021). Base-resolution models of transcription-factor binding reveal soft motif syntax. Nature Genetics, 53, 354-366. https://doi.org/10.1038/s41588-021-00782-6
-- 
+- Jindal GA, Farley EK. Enhancer grammar in development, evolution, and disease: dependencies and interplay. Dev Cell. 2021 Mar 8;56(5):575-587. doi: 10.1016/j.devcel.2021.02.016. PMID: 33689769; PMCID: PMC8462829.
 ### Project 2: Unraveling the Regulatory Landscape of C9orf72 in ALS
 The most common genetic cause of ALS is a hexanucleotide (G4C2) repeat expansion in
 the first intron of the C9orf72 gene, found in roughly 40% of familial ALS cases. This

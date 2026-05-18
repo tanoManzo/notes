@@ -16,6 +16,9 @@ at the crossroads of regulatory biology and deep learning.
 Skills gained: CNNs, DeepSHAP, ChIP-seq/DHS data analysis, variant effect prediction,
 Python, and genomics pipelines.
 
+Essential Literature:
+- Avsec, Ž., Weilert, M., Shrikumar, A., et al. (2021). Base-resolution models of transcription-factor binding reveal soft motif syntax. Nature Genetics, 53, 354-366. https://doi.org/10.1038/s41588-021-00782-6
+- 
 ### Project 2: Unraveling the Regulatory Landscape of C9orf72 in ALS
 The most common genetic cause of ALS is a hexanucleotide (G4C2) repeat expansion in
 the first intron of the C9orf72 gene, found in roughly 40% of familial ALS cases. This
